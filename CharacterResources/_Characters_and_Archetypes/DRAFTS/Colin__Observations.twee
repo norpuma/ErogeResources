@@ -1,0 +1,60 @@
+::Colin - Observations - Initialization
+<<nobr>>
+<<set $colin_possible_observations = ["Colin - Observations - 19 and Still in School", "Colin - Observations - Still in School Reason",
+        "Colin - Observations - Likes Videogames A LOT", "Colin - Observations - Quick Reader and Learner", "Colin - Observations - Horny Teenager",
+        "Colin - Observations - Wallflower", "Colin - Observations - Timid and Non-Social", "Colin - Observations - Never had a Girlfriend", "Colin - Observations - Dreams of Being a Successful Player",
+        "Colin - Observations - Dreams of Cheerleader Boobs", "Colin - Observations - Dreams of a Date with a Nice Girl"]>>
+<</nobr>>\
+
+::Colin - Observations - Empty
+Nothing new to observe.
+
+::Colin - Observations - 19 and Still in School
+<<set $colin.discoveryDates.still_in_school_at_19 = "Day " + $dayCount + ", " + $dayPart>>\
+@@.knowledge;$colin.name is 19, but he still goes to school.@@
+
+::Colin - Observations - Still in School Reason
+@@.knowledge;$colin.name was impacted by his father's death - as were everyone else in the family. With the moving around and the legal battles on top of that trauma, he was unable to finish high school last year and was given the chance to attend a local school to finish his senior year again.@@
+
+::Colin - Observations - Likes Videogames A LOT
+@@.knowledge;$colin.name likes videogames - a LOT. He plays every day. For hours at a time.@@
+
+::Colin - Observations - Quick Reader and Learner
+@@.knowledge;$colin.name also likes to read. He is a quick reader and a quick learner, often finding new interests, learning the basics quickly and, then, moving on to another topic.@@
+
+::Colin - Observations - Horny Teenager
+@@.knowledge;$colin.name is an average horny teenager. He watches porn every few days and masturbates to a quick climax.
+
+<<include "Colin - Non-Superficial Understanding">>@@\
+
+::Colin - Observations - Wallflower
+@@.knowledge;<<include "Colin - Observations at School">>\
+
+$colin.name is an observer - a wallflower. He can be easily overlooked in most social circles and often takes a stand back approach, watching instead of actively participating.@@
+
+::Colin - Observations - Timid and Non-Social
+@@.knowledge;$colin.name is not much of a social person. With people he is intimate with, like his sister and his mom, he opens up somewhat, but outside his most intimate circles, he barely talks. Part of it is because he is timid. But part of it seems to be... plain disinterest. He is not really interested in what other people think or have to say.
+
+<<include "Colin - Unconscious Understanding">>@@\
+
+::Colin - Observations - Never had a Girlfriend
+@@.knowledge;$colin.name never had a girlfriend. He kissed a girl a few times in band camp, but that was a couple of years ago and they didn't know what they were doing. It was mostly out of a dare.
+
+::Colin - Observations - Dreams of Being a Successful Player
+@@.knowledge;You observe him while he slumbers and you find that $colin.name dreams about being a renowned videogame player.@@
+
+::Colin - Observations - Dreams of Cheerleader Boobs
+@@.knowledge;You observe him while he slumbers and you find that $colin.name dreams of seeing the boobs of a gorgeous cheerleader.@@
+
+::Colin - Observations - Dreams of a Date with a Nice Girl
+@@.knowledge;You observe him while he slumbers and you find that $colin.name dreams of going on a date with a very pretty, next-door-neighbor-type girl.@@
+
+::Colin - Non-Superficial Understanding
+Your observations are going well. You understand $colin.name well enough that you can now observe him beyond the house.
+
+::Colin - Observations at School
+You are finally able to find $colin.name beyond the house. You reach across the void and find him at school.
+
+::Colin - Unconscious Understanding
+By observing more and more of $colin.name you have created a strong enough connection to him that you can, now, peek into his dreams.
+

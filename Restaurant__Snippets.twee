@@ -1,0 +1,33 @@
+::Restaurant - First Date with Kelly
+You arrive at the restaurant and find that $kelly.name is already there.
+
+She looks just as hot as you remember her... and still dresses just as conservatively.
+
+Out of curiosity, you pull out your phone and attune the Devil's app to her. You can now always check her status on the app.
+
+She stands up when you get to the table and smiles at you. It is time to decide how you want to handle your relationship with her from now on.
+
+<<linkreplace "Back to a serious relationship.">>\
+You smile back at $kelly.name. You look deep into her eyes as you take her by the hand and pull her to you. She is a little surprised, but do not resist.
+
+You kiss her then. A long, passionate kiss. She is tense at first, but quickly melts into your arms, surrendering to the kiss.
+
+A full minute later, you pull back and leave her still looking dizzy. It takes her a couple of seconds to recover. Then, she stiffens and her mask is back on. She is always so stiff in public!
+
+@@.kelly_talk;"That was... that was really something,"@@ she says, with a sigh. @@.kelly_talk;"But you know I'm uncomfortable with displays like that, $protagonist.name. Let's not do it again, shall we?"@@ She says as she sits back down, primly.
+
+Trying to lighten the mood, she smiles at you again and takes your hand across the table.
+
+<</linkreplace>>\
+
+<<link "Keep it casual.">>\
+You smile back at $kelly.name and take her by the hand, pulling her to you. You give her a brief, although intense kiss, plastering your body against hers. When you pull back, you check her out with a grin.
+
+@@.protagonist_talk;"Hello, gorgeous!"@@
+
+Still a little bewildered, $kelly.name fixes her hair and looks at you with a confused expression.
+
+@@.kelly_talk;"Hello... $protagonist.name,"@@ you realize she was considering how to call you. When the two of you were together, she used to call you 'love', so you guess that you got it across that the two of you aren't in a relationship, but that you still want to have sex with her.
+<</linkreplace>>\
+
+<<link "Keep it friendly.">><</linkreplace>>

@@ -1,0 +1,881 @@
+# Sexual Experience Achievements
+- Masturbate.
+- Watch porn.
+- Masturbate to porn.
+## Attracted to Females
+- Kiss female mouth.
+- Kiss female mouth 10 times.
+- Kiss 10 different female mouths.
+- Watch female masturbate.
+- Watch female masturbate 10 times.
+- Watch 10 different females masturbate.
+- Watch female climax.
+- Pleasured by female hand (get a handjob or fingering).
+- Climax on female hand (during a handjob or fingering).
+- Climax on female hand 10 times.
+- Climax on 10 different female hands.
+- Female mouth on sex (get a kiss, lick or suck on penis or vulva).
+- Female mouth on sex 10 times.
+- 10 different female mouths on sex.
+- Climax on female mouth (during fellatio or cunnillingus).
+- Female throat on cock (get deepthroat during fellatio) (male perspective owner only).
+- Climax on female face (during handjob or masturbation).
+- Climax down female throat (male perspective owner only).
+- Watch female swallow perspective owner's semen (male perspective owner only).
+- Climax on or around female mouth 10 times.
+- Climax on or around 10 different female mouths.
+- See hinted shape of breasts.
+- See partially exposed breasts (deep cleavage or bikini).
+- See fully exposed breasts (includes aureoles and nipples).
+- See fully exposed breasts 10 times.
+- See fully exposed 10 different set of breasts.
+- Touch covered breasts (using face (motorboating), mouth or hand).
+- Touch exposed breasts (using face (motorboating), mouth or hand).
+- Mouth on breasts (lick or suck).
+- Grope breasts (grab, massage, squeeze).
+- Grope breasts 10 times.
+- Grope 10 different sets of breasts.
+- Hurt breasts (pinch, slap, bite).
+- Climax on breasts (during a handjob or masturbation) (male perspective owner only).
+- See hinted shape of female buttocks.
+- See partially exposed female buttocks (yoga pants, daisy dukes, thong bikini bottoms).
+- See fully exposed female buttocks.
+- Touch covered female buttocks.
+- Touch exposed female buttocks.
+- Grope female buttocks (grab, massage, squeeze).
+- Hurt female buttocks (pinch, slap, bite).
+- Climax on buttocks (during a handjob or masturbation) (male perspective owner only).
+- See hinted shape of pussy (cameltoe or bikini).
+- See partially exposed pussy (lingerie or vulva seen from a front angle instead of under angle).
+- See fully exposed pussy (well-lit, between legs, possibly with labia pulled apart).
+- See fully exposed pussy 10 times.
+- See fully exposed 10 different pussies.
+- Touch covered pussy.
+- Touch exposed pussy.
+- Grope pussy (rub, massage or rub with cock).
+- Hurt pussy (slap vulva or pinch clitoris).
+- Mouth on pussy (lick, suck or penetrate with tongue).
+- Induce oral-vaginal orgasm (believein female climaxing while mouth is on vagina).
+- Induce oral-vaginal orgasm 10 times.
+- Induce oral-vaginal orgams on 10 different females.
+- Finger in pussy (penetrate vagina with finger or handheld dildo).
+- Finger 10 different pussies.
+- Cock in pussy (penetrate vagina with penis or strapon dildo).
+- Cock in pussy 10 times.
+- Cock in 10 different pussies.
+- Bare cock in pussy (penetrate vagina with penis without a condom) (male perspective owner only).
+- Rough with pussy (roughly thrust into vagina with finger or penis or strapon dildo).
+- Induce vaginal orgasm (believe in female climaxing while finger or penis or strapon dildo is inside vagina).
+- Climax inside pussy (with condom) (male perspective owner only).
+- Creampie (climax inside vagina without condom) (male perspective owner only).
+- Creampie 10 times (male perspective owner only).
+- Creampie 10 different pussies (male perspective owner only).
+- Finger in asshole (penetrate anus with finger or handheld dildo).
+- Cock in asshole (penetrate anus with penis or strapon dildo).
+- Cock in asshole 10 times.
+- Cock in 10 different assholes.
+- Bare cock in asshole (penetrate anus with penis without a condom) (male perspective owner only).
+- Rough with asshole (roughly thrust into anus with finger or penis or strapon dildo).
+- Induce anal orgasm (believe in female climaxing while mouth is on or finger or penis or strapon dildo is inside anus).
+- Climax inside asshole (with condom) (male perspective owner only).
+- Anal creampie (climax inside anus without condom) (male perspective owner only).
+- Anal creampie 10 times (male perspective owner only).
+- Anal creampie 10 different assholes (male perspective owner only).
+- Induce squirting.
+- Induce multiple orgasms.
+## Attracted to Males
+- Kiss male mouth.
+- Kiss male mouth 10 times.
+- Kiss 10 different male mouths.
+- Watch male masturbate.
+- Watch male masturbate 10 times.
+- Watch 10 different males masturbate.
+- Watch male climax.
+- Pleasured by male hand (get a handjob or fingering).
+- Climax on male hand (during a handjob or fingering).
+- Climax on male hand 10 times.
+- Climax on 10 different male hands.
+- Male mouth on sex (get a kiss, lick or suck on penis or vulva).
+- Male mouth on sex 10 times.
+- 10 different male mouths on sex.
+- Climax on male mouth (during fellatio or cunnillingus) (male perspective owner only).
+- Male throat on cock (get deepthroat during fellatio) (male perspective owner only).
+- Climax on male face.
+- Climax down male throat (male perspective owner only).
+- Climax on male or around mouth 10 times.
+- Climax on or around 10 different male mouths.
+- Induce oral-penis orgasm (feel or watch male ejaculation during or after stimuli using mouth).
+- Induce oral-penis orgasm 10 times.
+- Induce oral-penis orgasm 10 different males.
+- Cum tasting (taste semen).
+- Cum tasting 10 times.
+- Taste 10 different male semen.
+- Cum swallowing (swallow semen).
+- Watch male swallow perspective owner's semen (male perspective owner only).
+- See hinted shape of chest.
+- See partially exposed chest (tank top, bare midriff).
+- See fully exposed chst (includes aureoles and nipples).
+- Touch covered chest (using face, mouth or hand).
+- Touch exposed chest (using face, mouth or hand).
+- Mouth on chest (lick or suck).
+- Grope chest (grab, massage, squeeze).
+- Hurt chest (pinch, slap, bite).
+- Climax on chest (during a handjob) (male perspective owner only).
+- See hinted shape of male buttocks.
+- See partially exposed male buttocks (tight shorts, thong bikini bottoms).
+- See fully exposed male buttocks.
+- Touch covered male buttocks.
+- Touch exposed male buttocks.
+- Grope male buttocks (grab, massage, squeeze).
+- Hurt male buttocks (pinch, slap, bite).
+- Climax on male buttocks (during a handjob) (male perspective owner only).
+- See hinted shape of cock (tight pants, tight underwear or covered partial erection).
+- See partially exposed cock (covered full erection or exposed flaccid penis).
+- See fully exposed cock (well-lit, fully erect penis).
+- See fully exposed cock 10 times.
+- See 10 different fully exposed cocks.
+- Touch covered cock.
+- Touch exposed cock.
+- Touch exposed cock 10 times.
+- Touch 10 different exposed cocks.
+- Grope cock (rub, massage or rub with pussy).
+- Hurt cock (squeeze shaft, slap shaft or thumb down or bite down on glans).
+- Mouth on cock (kiss, lick or suck).
+- Pussy around cock (engulf penis with vagina) (female perspective owner only).
+- Pussy around cock 10 times.
+- Pussy around 10 different cocks.
+- Pussy around bare cock (engulf penis with vagina without a condom) (female perspective owner only).
+- Rough with cock (roughly jerk off with hand or roughly ride with vagina or anus).
+- Induce penis orgasm (feel or watch male ejaculation during or after stimuli to penis or scrotum).
+- Vaginal-penile orgasm (perspective owner climaxes while a penis is inside perspective owner's vagina) (female perspective owner only).
+- Creampie (feel male ejaculation inside vagina) (female perspective owner only).
+- See fully exposed balls (well-lit, fully exposed scrotum).
+- Touch covered balls.
+- Touch exposed balls.
+- Grope balls (rub, massage or rub with breasts).
+- Hurt balls (squeeze, slap or bite down on scrotum).
+- Mouth on balls (kiss, lick or suck (teabagging)).
+- Accelerate orgasm with balls massage (accelerate climax by groping balls).
+- Finger in asshole (penetrate anus with finger or handheld dildo).
+- Cock in asshole (penetrate anus with penis or strapon dildo).
+- Cock in asshole 10 times.
+- Cock in 10 different assholes.
+- Bare cock in asshole (penetrate anus with penis without a condom) (male perspective owner only).
+- Rough with asshole (roughly thrust into anus with finger or penis or strapon dildo).
+- Ass around cock (engulf penis with anus).
+- Ass around cock 10 times.
+- Ass around 10 different cocks.
+- Ass around bare cock (engulf penis with anus without a condom).
+- Stimulate prostate.
+- Induce anal orgasm (believe in male climaxing while mouth is on or finger or penis or strapon dildo is inside anus).
+- Prostate milking.
+- Climax inside asshole (with condom) (male perspective owner only).
+- Anal creampie (climax inside anus without condom) (male perspective owner only).
+- Anal creampie 10 times.
+- Anal creampie inside 10 different assholes.
+- Induce climax while cock is in cock-cage.
+- Frustrate male orgasm.
+# Cheating Experience Achievements
+
+
+# Seducer Achievements
+- Increase Happiness of Target.
+- Increase Calm of Target.
+- Increase Entertained of Target / Entertain a Target.
+- Make a Sad Target Happy.
+- Make an Angry Target Calm.
+- Flirt with a Target.
+- Flirt with a Target and get a positive reaction.
+- Flirt with a Target that sees themself superior to Actor and get a positive reaction.
+- Flirt with a Target that sees the Actor as Taboo and get a positive reaction.
+- Kiss a Target.
+- Kiss a Target and get a positive reaction.
+- Kiss a Target that sees the Actor as Taboo and get a positive reaction.
+- Increase Desire on a Target.
+- Increase Desire on a Target that initially saw the Actor as Slight or worse Desirability.
+- Increase Arousal on a Target.
+- Take a Target on a Date.
+- Take a Target on a Date that sees the Actor as Slight or worse Desirability.
+- Take a Target on a Date and get a Report.
+- Take a Target on a Date that sees the Actor as Slight or worse Desirability and get a Report.
+- Take a Target on a Date that initially saw the Actor as Slight or worse Desirability and get a Report.
+- Be the Target of someone's Kiss when Actor and Target never kissed before.
+- Be the Target of someone's Kiss from an Actor that initially saw the Target as Slight or worse Desirability.
+- Be the Target of someone's Kiss from an Actor that initially saw the Target as Slight or worse Desirability when Actor and Target never kissed before.
+- Make a Target WANT to Kiss.
+- Make a Target WANT to Grope (or be the Target of Grope).
+- Make a Target WANT to Penetrate (or be the Target of Penetrate).
+- Make a Target ACCEPT to try something Intense Embarrassing.
+- Make a Target ACCEPT to try a Taboo.
+- Make a Target ACCEPT to try something Intense Embarrassing, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, after knowing the Target for less than 24h, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, after knowing the Target for less than 24h, without a Threat or Promise.
+- Make a Target WANT to try something Intense Embarrassing.
+- Make a Target WANT to try a Taboo.
+- After an Interaction, on the Report, be rated as most Desirable in 24h by the target.
+- After an Interaction, on the Report, be rated as most Desirable in 7days by the target.
+- After an Interaction, on the Report, be rated as most Desirable in 30days by the target.
+- After an Interaction, on the Report, be rated as most Desirable in 90days by the target.
+- After an Interaction, on the Report, be rated as most Desirable Ever by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax in 24h by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax in 7days by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax in 30days by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax in 90days by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax Ever by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 24h by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 7days by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 30days by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 90days by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying Ever by the target.
+- Reach Intense Self-Grooming Skill.
+- Reach Intense Fashion Skill.
+- Reach Excessive Self-Grooming Skill.
+- Reach Excessive Fashion Skill.
+- Reach Intense in the Body Language Skill.
+- Reach Intense in the Charm Skill.
+- Reach Intense in the Kiss Skill.
+- Reach Intense in the Grope Skill.
+- Reach Intense in the Voice Encouragement/Vocalizing Skill.
+- Reach Excessive in the Body Language Skill.
+- Reach Excessive in the Charm Skill.
+- Reach Excessive in the Kiss Skill.
+- Reach Excessive in the Grope Skill.
+- Reach Excessive in the Voice Encouragement/Vocalizing Skill.
+- Wear Intense Provocative clothes.
+- Wear Excessive Provocative clothes.
+- Wear casual clothes/outfits.
+- Wear revealing clothes/outfits.
+- Wear sexy clothes/outfits.
+- Wear sensual clothes/outfits.
+- Wear provocative clothes/outfits.
+- Wear skimpy clothes/outfits.
+- Wear erotic clothes/outfits.
+- Make a Relationship Romantic.
+- Make a Relationship Sexual.
+- Create, in Target, the belief that only the Actor is capable of giving the Target pleasure.
+- Reinforce, in Target, the belief that only the Actor is capable of giving the Target pleasure.
+- Transform a Taboo Relationship into a Sexual Relationship.
+- Transform a Family Relationship into a Sexual Relationship.
+- Increase Love on a Target.
+- Increase Responsibility on a Target.
+- Increase Responsibility to Intense or better on a Target.
+- Reinforce, in Target, the belief that they can never get anyone as good as the Actor.
+- Reinforce, in Target, the belief that they can never get anyone else as good as the Actor.
+- Reinforce, in Target, the belief that only the Actor is capable of making the Target really happy.
+- Reinforce, in Target, the belief that the Target can only be happy with the Actor.
+- Reinforce, in Target, the belief that it is disheartening (decreases Actor's Happy) letting the Actor become or remain sexually frustrated.
+- Make hetero female Curious about Lesbian Sex with Actor.
+- Make hetero female Target Experience Lesbian Sex with Actor.
+- Change hetero female Target to Naturalize Lesbian Sex with Actor.
+- Change hetero female Target to Like Lesbian Sex with Actor.
+- Change hetero female Target a Habitual of Lesbian Sex with Actor.
+- Change hetero female Target to Adore of Lesbian Sex with Actor.
+- Change hetero female Target Addicted to Lesbian Sex with Actor.
+- Change hetero female Target Reject Lesbian Sex with Actor.
+- Make lesbian Target Curious about Hetero Sex with Actor.
+- Make lesbian Target Experience Hetero Sex with Actor.
+- Change lesbian Target to Naturalize Hetero Sex with Actor.
+- Change lesbian Target to Like Hetero Sex with Actor.
+- Change lesbian Target a Habitual of Hetero Sex with Actor.
+- Change lesbian Target to Adore of Hetero Sex with Actor.
+- Change lesbian Target Addicted to Hetero Sex with Actor.
+- Change lesbian Target Reject Hetero Sex with Actor.
+# Dependent Achievements
+- Make a Target increase Allowance to Intense or better.
+- Make a Target offer a Gift of Intense or better Cost.
+- Make a Target invest 1h on an Activity for the Actor.
+- Make a Target invest 12h on an Activity for the Actor.
+- Make a Target invest Happy on an Activity for the Actor.
+- Make a Target invest Happy on an Activity for the Actor, leaving the Target at SLIGHT Happy or less.
+- Increase Love on a Target.
+- Increase Responsibility on a Target.
+- Increase Responsibility to Intense or better on a Target.
+- Reinforce, in Target, the belief that making the Actor happy the Target's your responsibility.
+- Decrease Superiority towards Actor on a Target.
+- Decrease Superiority towards Actor on a Target to Slight or less.
+- Increase Inferiority towards Actor on a Target.
+- Increase Inferiority towards Actor on a Target to Intense or more.
+- Entitlement Indebtedness towards Actor on a Target to Not.
+- Increase Indebtedness towards Actor on a Target to Intense or more.
+- Transform a Provider-Dependent Relationship into a Servant-Master Relationship.
+- Transform a Provider-Dependent Relationship into a Employee-Boss Relationship.
+- Increase Trust of a Target towards Actor.
+- Increase Fear of a Target towards Actor.
+- Increase Influence over Target.
+- Create on the Target a Habit of Serving the Actor.
+- Increase Target's Submissiveness.
+- Increase Target's Generosity.
+- Make a Relationship Romantic.
+- Make a Relationship Sexual.
+- Decrease, from Actor's perspective, a Target's Authority over Actor.
+- Decrease, from Actor's perspective, a Target's Authority over Actor to Slight.
+- Decrease, from Actor's perspective, a Target's Authority over Actor to Not.
+- Decrease, from Target's perspective, a Target's Authority over Actor.
+- Decrease, from Target's perspective, a Target's Authority over Actor to Slight.
+- Decrease, from Target's perspective, a Target's Authority over Actor to Not.
+- Increase, from Target's perspective, Actor's Authority over Target.
+- Increase, from Target's perspective, Actor's Authority over Target to Slight.
+- Increase, from Target's perspective, Actor's Authority over Target to Intense.
+- Increase, from Target's perspective, Actor's Authority over Target to Excessive.
+# Home Authority Achievements
+- Increase, from Actor's perspective, the Actor's Authority over Target.
+- Increase, from Actor's perspective, the Actor's Authority over Target to Intense.
+- Increase, from Actor's perspective, the Actor's Authority over Target to Excessive.
+- Increase, from Target's perspective, the Actor's Authority over Target.
+- Increase, from Target's perspective, the Actor's Authority over Target to Intense.
+- Increase, from Target's perspective, the Actor's Authority over Target to Excessive.
+- Increase, from Target's perspective, the Target's Obedience towards the Actor.
+- Increase, from Target's perspective, the Target's Obedience towards the Actor to Moderate.
+- Increase, from Target's perspective, the Target's Obedience towards the Actor to Intense.
+- Increase, from Target's perspective, the Target's Obedience towards the Actor to Excessive.
+- Train a Target into a new Skill.
+- Train a Target to Intense on a Skill.
+- Train a Target to Excessive on a Skill.
+- Transform an Authority-Subject Relationship into a Master-Servant Relationship.
+- Gain, from Target's perspective, Authority over what they train.
+- Gain, from Target's perspective, Authority over how many hours they must train.
+- Gain, from Target's perspective, Authority over how many hours they must invest in chores.
+- Gain, from Target's perspective, Authority over how many hours they must invest in homework/school study.
+- Gain, from Target's perspective, Authority over what job they take.
+- Gain, from Target's perspective, Authority over Target's phone.
+- Gain, from Target's perspective, Authority over Target's computer.
+- Gain, from Target's perspective, Authority over when the Target can go outside of the house.
+- Gain, from Target's perspective, Authority over where the Target can go outside of the house.
+- Gain, from Target's perspective, Authority over where the Target can go inside of the house.
+- Gain, from Target's perspective, Authority over if the Target can leave a specific room.
+- Gain, from Target's perspective, Authority over whom the Target can Interact socially.
+- Gain, from Target's perspective, Authority over whom the Target can Interact as Friends.
+- Gain, from Target's perspective, Authority over whom the Target can Interact as Romantic.
+- Gain, from Target's perspective, Authority over whom the Target can Interact as Sexual.
+- Gain, from Target's perspective, Authority over whom the Target can Interact as Boss.
+- Gain, from Target's perspective, Authority over whom the Target can Interact as Master.
+- Gain, from Target's perspective, Authority over whom the Target can Interact as Owner.
+- Gain, from Target's perspective, Authority over whom the Target must Interact socially.
+- Gain, from Target's perspective, Authority over whom the Target must Interact as Friends.
+- Gain, from Target's perspective, Authority over whom the Target must Interact as Romantic.
+- Gain, from Target's perspective, Authority over whom the Target must Interact as Sexual.
+- Gain, from Target's perspective, Authority over whom the Target must Interact as Boss.
+- Gain, from Target's perspective, Authority over whom the Target must Interact as Master.
+- Gain, from Target's perspective, Authority over whom the Target must Interact as Owner.
+- Gain, from Target's perspective, Authority over where the Target can have Sexual Interactions (e.g. not a home).
+- Gain, from Target's perspective, Authority over where the Target must have Sexual Interactions (e.g. in public places).
+- Gain, from Target's perspective, Authority over how much of their wages the Target must give the Home Authority.
+- Gain, from Target's perspective, Authority over who can watch porn at home.
+- Gain, from Target's perspective, Authority over who can have sex at home.
+- Gain, from Target's perspective, Authority over who can masturbate at home.
+- Gain, from Target's perspective, Authority over who can masturbate at home or elsewhere.
+- Gain, from Target's perspective, Authority over when the Target can climax.
+- Gain, from Target's perspective, Authority over the Target's privacy.
+- Gain, from Target's perspective, Authority over the Target's modesty.
+- Gain, from Target's perspective, Authority over how they dress/outfits.
+- Gain, from Target's perspective, Authority to administer Berating punishment.
+- Gain, from Target's perspective, Authority to administer Extra Chores punishment.
+- Gain, from Target's perspective, Authority to administer Physical Pain punishment.
+- Gain, from Target's perspective, Authority to administer Humiliating Words punishment.
+- Gain, from Target's perspective, Authority to administer Humiliating Task punishment.
+- Gain, from Target's perspective, Authority to administer Sexual Limitations punishment.
+- Gain, from Target's perspective, Authority to administer Sexual Task punishment.
+- Gain, from Target's perspective, Authority over Target's food (what and how much).
+- Gain, from Target's perspective, Authority over how the Target addresses the Actor.
+- Increase the Target's Love.
+- Make the Relationship Sexual.
+- Decrease Superiority towards Actor on a Target.
+- Decrease Superiority towards Actor on a Target to Slight or less.
+- Increase Inferiority towards Actor on a Target.
+- Increase Inferiority towards Actor on a Target to Intense or more.
+- Reinforce, in Target, the belief that it is risky making the Actor Angry.
+- Reinforce, in Target, the belief that it is risky letting the Actor become or remain Angry.
+- Reinforce, in Target, the belief that it is risky letting the Actor become or remain sexually frustrated.
+- Reinforce, in Target, the belief that it is risky disappointing the Actor.
+- Reinforce, in Target, the belief that it is risky questioning the Actor.
+- Reinforce, in Target, the belief that it is risky challenging the Actor.
+- Reinforce, in Target, the belief that it is risky disobeying the Actor.
+- Reinforce, in Target, the belief that it is risky attacking the Actor with violence.
+- Reinforce, in Target, the belief that it is risky attacking the Actor with words (e.g. offenses).
+- Reinforce, in Target, the belief that the Actor has Authority over a third party character.
+# Confidante Achievements
+- Increase a Target's Trust.
+- Increase a Target's Trust to Intense.
+- Increase a Target's Trust to Intense, without revealing any of the Actor's secret beyond Minor.
+- Increase a Target's Trust to Excessive.
+- Increase a Target's Trust to Excessive, without revealing any of the Actor's secret beyond Minor.
+- Increase a Target's Safe.
+- Increase a Target's Safe to Intense or better.
+- Increase a Target's Intimacy.
+- Increase a Target's Intimacy to Intense.
+- Increase a Target's Intimacy to Excessive.
+- Learn a minor Secret of the Target's.
+- Learn a Secret that endangers one of the Target's cherished Reputations.
+- Learn a Secret that endangers the Target's social standing.
+- Learn a Secret that endangers the Target's revenue.
+- Learn a Secret that endangers the Target's freedom.
+- Learn a Secret that exposes the Target to losing money.
+- Learn a Secret that exposes the Target to be hurt, minor (e.g. spanking).
+- Learn a Secret that exposes the Target to be hurt, major (e.g. broken leg).
+- Learn a Secret that exposes the Target to be punished by some Authority.
+- Increase a Target's Fear to Intense towards Actor after reacing Trust Intense or better with the Target.
+- Transform an Confidante Relationship into a Counselor Relationship.
+# Counselor Achievements
+- Change one of a Target's Beliefs.
+- Change one of a Target's Relationships with a third party character.
+- Increase a Target's Liberated to Moderate.
+- Increase a Target's Liberated to Intense.
+- Increase a Target's Liberated to Excessive.
+- Increase a Target's Liberated to Excessive.
+- Make a Target ACCEPT to try something Intense Embarrassing.
+- Make a Target ACCEPT to try a Taboo.
+- Make a Target ACCEPT to try something Intense Embarrassing, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, after knowing the Target for less than 24h, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, after knowing the Target for less than 24h, without a Threat or Promise.
+- Make a Target WANT to try something Intense Embarrassing.
+- Make a Target WANT to try a Taboo.
+# Boss Achievements
+- Increase a Target's Dutiful.
+- Increase Responsibility on a Target.
+- Increase Responsibility to Intense or better on a Target.
+# Slut Achievements (includes exhibitionist, tease and whore achievements)
+- Whore: Get a Target to spend Slight money for a sensual or sexual favor.
+- Whore: Get a Target to spend Moderate money for a sensual or sexual favor.
+- Whore: Get a Target to spend Intense money for a sensual or sexual favor.
+- Whore: Get a Target to spend Excessive money for a sensual or sexual favor.
+- Reach Intense Self-Grooming Skill.
+- Reach Intense Fashion Skill.
+- Reach Excessive Self-Grooming Skill.
+- Reach Excessive Fashion Skill.
+- Reach Excessive Fashion Skill.
+- Reach Intense in the Body Language Skill.
+- Reach Intense in the Charm Skill.
+- Reach Intense in the Kiss Skill.
+- Reach Intense in the Grope Skill.
+- Reach Intense in the Voice Encouragement/Vocalizing Skill.
+- Reach Excessive in the Body Language Skill.
+- Reach Excessive in the Charm Skill.
+- Reach Excessive in the Kiss Skill.
+- Reach Excessive in the Grope Skill.
+- Reach Excessive in the Voice Encouragement/Vocalizing Skill.
+- Tease: Increase Desire on Target.
+- Tease: Increase Desire to Intense on Target.
+- Tease: Increase Desire to Excessive on Target.
+- Tease: Increase Arousal on Target.
+- Tease: Increase Arousal to Intense on Target.
+- Tease: Increase Arousal to Excessive on Target.
+- Tease: Increase Desire to Intense on Target without becoming nude.
+- Tease: Increase Arousal to Intense on Target without physical contact.
+- Tease: Increase Arousal to Intense on Target without physical contact and not allowing them to touch themself.
+- Tease: Wear Intense Provocative clothes.
+- Tease: Wear Excessive Provocative clothes.
+- Wear casual clothes/outfits.
+- Exhibitionist: Wear revealing clothes/outfits (e.g. yoga pants; swimwear).
+- Exhibitionist: Wear sexy clothes/outfits.
+- Exhibitionist: Wear sensual clothes/outfits (e.g. lingerie).
+- Exhibitionist: Wear provocative clothes/outfits.
+- Exhibitionist: Wear revealing swimwear clothes/outfits (e.g. bikini; swimming trunks).
+- Exhibitionist: Wear skimpy clothes/outfits (e.g. lose tanktop).
+- Exhibitionist: Wear erotic clothes/outfits.
+- Exhibitionist: Wear revealing swimwear clothes/outfits outside swimming context.
+- Promise Exhibitionist Action as a reward for some task/reward/gift.
+- Accept Ogling in Exhibitionist clothes/outfits.
+- Accept Ogling in Exhibitionist clothes/outfits during provocative activity (e.g. yoga; stretching).
+- Promise/Offer a Target Actor will accept Grope Chest (e.g. groping breasts) as a reward.
+- Promise/Offer a Target Actor will Flash Breasts as a reward.
+- Promise/Offer a Target Actor will accept Grope Buttocks as a reward.
+- Promise/Offer a Target Actor will Flash Crotch as a reward.
+- Promise/Offer a Target Actor will Flash Buttocks as a reward.
+- Promise/Offer a Target Actor will Ogling Nudity as a reward.
+- Promise/Offer a Target Actor will Ogling Striptease as a reward.
+- Promise/Offer a Target Actor will Rub Crotch with Buttocks while clothed (e.g. lapdance) as a reward.
+- Promise/Offer a Target Actor will Rub Crotch with Crotch while clothed (e.g. lapdance) as a reward.
+- Promise/Offer a Target Actor will Rub Chest with Chest while clothed (e.g. lapdance) as a reward.
+- Promise/Offer a Target Actor will accept Suck on Breasts as a reward.
+- Promise/Offer a Target Actor will accept Grope Crotch as a reward.
+- Promise/Offer a Target Actor will Manual Sex (e.g. Hanjob/Fingering) as a reward.
+- Promise/Offer a Target Actor will Oral Sex (e.g. Fellation/Cunnilingus) as a reward.
+- Promise/Offer a Target Actor will accept Ogling Masturbation (e.g. watch her masturbate) as a reward.
+- Promise/Offer a Target Actor will accept Ogling during Masturbation (e.g. let him masturbate as he looks at her) as a reward.
+- Promise/Offer a Target Actor will Receive Vaginal Penetration in the Cowgirl Position (e.g. ride him (sex) with her pussy) as a reward.
+- Promise/Offer a Target Actor will accept Climax on Buttocks or accept Climax on Stomach (e.g. let him cum on her buttocks or belly) as a reward.
+- Promise/Offer a Target Actor will Receive Vaginal Penetration in the Missionary Position (e.g. let him climb (sex) get on top of her) as a reward.
+- Promise/Offer a Target Actor will accept Climax on Breasts (e.g. let him cum on her breasts) as a reward.
+- Promise/Offer a Target Actor will accept Climax in Mouth (e.g. let him cum inside her mouth) as a reward.
+- Promise/Offer a Target Actor will accept Climax on Face (e.g. let him cum on her face; do a facial on her) as a reward.
+- Promise/Offer a Target Actor will Swallow Semen (e.g. swallow his cum) as a reward.
+- Promise/Offer a Target Actor will accept Anal Penetration (e.g. let him fuck her ass) as a reward.
+- Make a Relationship Sexual.
+- Make a Relationship Sexual, after knowing the Target for less than 24h, without a Threat or Promise
+- Make a Relationship Romantic, after the Relationship is already Sexual.
+- Expose hinted shape of breasts on camera.
+- Expose hinted shape of buttocks on camera.
+- Expose hinted shape of crotch on camera.
+- Expose naked breasts on camera.
+- Expose naked buttocks on camera.
+- Expose naked crotch on camera.
+- Masturbate on camera.
+- Have lesbian sex on camera.
+- Have oral sex on camera.
+- Expose receiving physical punishment (e.g. spanking) on camera.
+- Expose receiving humiliating task punishment on camera.
+- Expose receiving sexual humiliation on camera.
+- Expose receiving cuckolding on camera.
+# Sexual Athlete Achievements
+- After a Sexual Interaction, on the Report, be rated as best Climax in 24h by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax in 7days by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax in 30days by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax in 90days by the target.
+- After a Sexual Interaction, on the Report, be rated as best Climax Ever by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 24h by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 7days by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 30days by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying in 90days by the target.
+- After a Sexual Interaction, on the Report, be rated as most Satisfying Ever by the target.
+- Reach Intense Groping Skill.
+- Reach Excessive Groping Skill.
+- Reach Intense Fingering Skill.
+- Reach Excessive Fingering Skill.
+- Reach Intense Handjob Skill.
+- Reach Excessive Handjob Skill.
+- Reach Intense Cunnilingus Skill.
+- Reach Excessive Cunnilingus Skill.
+- Reach Intense Fellatio Skill.
+- Reach Excessive Fellatio Skill.
+- Reach Intense Perform Vaginal Penetration Skill.
+- Reach Excessive Perform Vaginal Penetration Skill.
+- Reach Intense Receive Vaginal Penetration Skill.
+- Reach Excessive Receive Vaginal Penetration Skill.
+- Reach Intense Perform Anal Penetration Skill.
+- Reach Excessive Perform Anal Penetration Skill.
+- Reach Intense Receive Anal Penetration Skill.
+- Reach Excessive Receive Anal Penetration Skill.
+- Reach Intense Self-Control Skill.
+- Reach Excessive Self-Control Skill.
+- Reach Intense Sexual Domination Skill.
+- Reach Excessive Sexual Domination Skill.
+- Reach Intense Sexual Submission Skill.
+- Reach Excessive Sexual Submission Skill.
+- Reach Intense Face Fuck Skill.
+- Reach Excessive Face Fuck Skill.
+- Reach Intense in the Voice Encouragement/Vocalizing Skill.
+- Reach Excessive in the Voice Encouragement/Vocalizing Skill.
+- Reach Intense in Sexual Stamina Skill.
+- Reach Excessive in Sexual Stamina Skill.
+- Increase a Target's Arousal to Pressing.
+- Increase a Target's Arousal to Excited.
+- Increase a Target's Arousal to Overexcited.
+- Increase a Target's Arousal to Yearning.
+- Increase a Target's Arousal to Craving.
+- Increase a Target's Arousal to Craving.
+- Make a Target WANT to accept Groping.
+- Make a Target WANT to Grope (or be the Target of Grope).
+- Make a Target WANT to Penetrate (or be the Target of Penetrate).
+- Make a Target ACCEPT to try something Intense Embarrassing.
+- Make a Target ACCEPT to try a Taboo.
+- Make a Target ACCEPT to try something Intense Embarrassing, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, after knowing the Target for less than 24h, without a Threat or Promise.
+- Make a Target ACCEPT to try a Taboo, after knowing the Target for less than 24h, without a Threat or Promise.
+- Make a Target WANT to try something Intense Embarrassing.
+- Make a Target WANT to try a Taboo.
+- Remove the last of a Target's Taboos.
+- Remove three or more of a Target's Taboos.
+- Remove two or more of a Target's Taboos in a single Sexual Interaction.
+- Lose a Taboo.
+- Lose one's last Taboo.
+- Gain a Kink.
+- Lose a Desire Preference.
+- Lose one's last Desire Preference.
+- Lose a Sexual Preference (e.g. Free Use).
+- Lose one's last Sexual Preference.
+- Create a new Kink in a Target.
+- Create three or more Kinks in a Target.
+- Create two or more Kinks in a Target in a single Sexual Interaction.
+- Create a new Kink in a Target of what was, previously, a Taboo.
+- Have unprotected (e.g. no condoms) penetration once.
+- Ejaculate inside a partner's vagina.
+- Ejaculate inside a partner's rectum.
+- Ejaculate inside a partner's mouth.
+- Insides Painter: Ejaculate inside a partner 10 or more times.
+- Climax over a partner's crotch.
+- Climax over a partner's buttocks.
+- Climax over a partner's chest.
+- Climax over a partner's feet.
+- Climax over a partner's face.
+- Face Painter: Climax over a partner 10 times or more.
+- Receive ejaculate inside vagina.
+- Receive ejaculate inside rectum.
+- Receive ejaculate inside mouth.
+- Cumdump: Receive ejaculate inside 10 or more times.
+- Receive climax over a crotch.
+- Receive climax over a buttocks.
+- Receive climax over a chest.
+- Receive climax over a feet.
+- Receive climax over a face.
+- Cum Tableau: Receive climax over self 10 or more times.
+- Professional Cocksucker: Perform Fellation 10 or more times.
+- Vaginal Athlete: Receive Vaginal Penetration 10 or more times.
+- Buttslut: Receive Anal Penetration 10 or more times.
+- Slick Hands: Perform Handjob 10 or more times.
+- Nympho: Sexual Interaction 20 or more times.
+- Face Sitter: Receive Cunnilingus 10 or more times.
+- Meat Flute: Receive Fellatio 10 or more times.
+- Cuntlapper/Carpet Muncher: Perform Cunnilingus 10 or more times.
+- Anal Driller: Perform Anal Penetration 10 or more times.
+- Pussy Rider: Perform Vaginal Penetration 10 or more times.
+- Face Stuffer: Receive Fellation 10 or more times.
+# Pervert Achievements
+- Watch porn.
+- Masturbate.
+- Wanker: Masturbation 10 or more times.
+- Spy on Target changing clothes.
+- Spy on Target taking shower.
+- Spy on Target masturbating.
+- Spy on Target having or receiving oral sex.
+- Spy on Target having sex.
+- Spy on taboo Target naked.
+- Spy on taboo Target masturbating.
+- Spy on taboo Target having sex.
+- Spy on partner having sex with another.
+- Masturbate watching porn.
+- Masturbate watching spied Target naked.
+- Masturbate watching spied Target masturbating.
+- Masturbate watching spied Target having sex.
+- Masturbate watching spied taboo Target naked.
+- Masturbate watching spied taboo Target masturbating.
+- Masturbate watching spied taboo Target having sex.
+- Masturbate watching spied on partner having sex with another.
+- Have fact that watches porn exposed (e.g. porn found on computer; browser history evidence of watching porn; network traffic evidence of watching porn).
+- Get caught watching porn.
+- Get caught masturbating.
+- Get caught spying on Target naked.
+- Get caught spying on Target masturbating.
+- Get caught spying on Target having sex.
+- Get caught spying on partner having sex with another.
+- Get caught masturbating to porn.
+- Get caught masturbating to spied Target.
+- Get caught masturbating to spied taboo Target.
+- Get caught masturbating to partner having sex with another.
+- Get caught cheating.
+- Get caught breaking no masturbation rule or punishment.
+- Filmed masturbating.
+- Filmed masturbating to porn.
+- Filmed masturbating to spied Target.
+- Filmed masturbating to spied taboo Target.
+- Filming spied naked.
+- Filming spied sex.
+- Distributing filmed naked.
+- Distributing filmed sex.
+- Get Aroused to lesbian porn (when a hetero male).
+- Get Aroused to lesbian porn (when a hetero female).
+- Get Aroused to big dicks porn.
+- Get Aroused to anal sex porn.
+- Get Aroused to femdom porn.
+- Get Aroused to BBC porn (when a non-black male).
+- Get Aroused to BBC porn (when a female).
+- Get Aroused to incest roleplay porn.
+- Get Aroused when being punished.
+- Get Aroused when suffering humiliation.
+- Get Aroused when suffering pain.
+- Get Aroused to partner having sex with another.
+- Get Sexual Task as punishment.
+- Get Chastity as punishment.
+# Changing Minds Achievements
+- Increase Target's Libido.
+- Increase Target's Liberated.
+- Increase Target's Liberated to Intense.
+- Increase Target's Obedience towards Actor.
+- Increase Target's Fear towards Actor.
+- Increase Target's Submissiveness.
+- Remove the last of a Target's Taboos.
+- Remove three or more of a Target's Taboos.
+- Create a new Kink in a Target.
+- Create three or more Kinks in a Target.
+- Create a new Kink in a Target of what was, previously, a Taboo.
+- Create an Arousal Trigger in a target (e.g. Tingly at the scent of black cock; excited at the sight of stocking tops).
+- Introduce a new Element to a Target's dream.
+- Introduce a recurring Element to a Target's dreams.
+- Introduce a new Element to a Target's Aroused dream.
+- Introduce a recurring Element to a Target's Aroused dreams.
+- Create a new Desire Element in a Target.
+- Create a new Arousal Element in a Target.
+- Increase a Target's Climax Threshold (i.e. harder to climax, but more intense climax).
+- Descrease a Target's Climax Threshold (i.e. easier to climax, but less intense climax).
+- Create a Climax Multiplier in a Target (e.g. increased when doing kitten cosplay; decreased when receiving penetration by a white penis; increased when crushing scrotum in hands).
+- Create a Climax Multiplier of Anything a Target (i.e. all Climaxes become more intense).
+- Increase a Target's Exhibitionism.
+- Create a Docility Trigger in a Target (e.g. temporarily increase Submission when looking at a naked pussy; temporarily increase Submission when getting the scent of black cock).
+- Create a Conditioned Reflex in a Target (e.g. caress breasts when seeing a particular person; kneeing a cock when seeing an erect white penis; fingering anus when receiving vaginal penetration).
+- Increase Target Sexual Readiness for Arousal Level (e.g. fully erect penis at Tingling; open labia, relaxed vagina and very wet at Pressing).
+- Create Arousal Requirement in Target (e.g. can only reach Pressing if having incest; can only reach Excited when being dominated).
+- Create Climax Requirement in Target (e.g. can only climax if having incest; can only climax when being dominated; can only climax when having anal sex).
+- Remove one of Target's Arousal Elements.
+- Remove one of Target's Desire Elements.
+- Remove one of Target's Psychological Stimuli Elements.
+- Remove one of Target's Physical Stimuli Elements.
+- Remove Grant Exclusivity component of one of Target's Relationship.
+- Remove Expect Exclusivity component of one of Target's Relationship.
+- Decrease Jealousy component of one of Target's Relationship.
+- Increase Jealousy component of one of Target's Relationship.
+- Make Target Curious about Masturbation.
+- Make Target Experience Masturbation.
+- Change Target to Naturalize Masturbation.
+- Change Target to Like Masturbation.
+- Change Target a Habitual of Masturbation.
+- Change Target to Adore of Masturbation.
+- Change Target Addicted to Masturbation.
+- Change Target Reject Masturbation.
+- Make hetero female Curious about Lesbian Sex.
+- Make hetero female Target Experience Lesbian Sex.
+- Change hetero female Target to Naturalize Lesbian Sex.
+- Change hetero female Target to Like Lesbian Sex.
+- Change hetero female Target a Habitual of Lesbian Sex.
+- Change hetero female Target to Adore of Lesbian Sex.
+- Change hetero female Target Addicted to Lesbian Sex.
+- Change hetero female Target Reject Lesbian Sex.
+- Make lesbian Target Curious about Hetero Sex.
+- Make lesbian Target Experience Hetero Sex.
+- Change lesbian Target to Naturalize Hetero Sex.
+- Change lesbian Target to Like Hetero Sex.
+- Change lesbian Target a Habitual of Hetero Sex.
+- Change lesbian Target to Adore of Hetero Sex.
+- Change lesbian Target Addicted to Hetero Sex.
+- Change lesbian Target Reject Hetero Sex.
+- Reprogram Target's Reaction to a specific Stimulus to Unforgivable.
+- Reprogram Target's Reaction to a specific Stimulus to Disgusted.
+- Reprogram Target's Reaction to a specific Stimulus to Infuriated.
+- Reprogram Target's Reaction to a specific Stimulus to Chagrined (i.e. emotionally hurt).
+- Reprogram Target's Reaction to a specific Stimulus to Devastated (i.e. intense melanchonly).
+- Reprogram Target's Reaction to a specific Stimulus to Terrified (i.e. intense melanchonly).
+- Reprogram Target's Reaction to a specific Stimulus to Upsetting (i.e. makes sad).
+- Reprogram Target's Reaction to a specific Stimulus to Angering (i.e. makes angry).
+- Reprogram Target's Reaction to a specific Stimulus to Acceptable.
+- Reprogram Target's Reaction to a specific Stimulus to Appreciated.
+- Reprogram Target's Reaction to a specific Stimulus to Loved.
+- Reprogram Target's Reaction to a specific Stimulus to Arousing.
+- Reprogram Target's Reaction to a specific Stimulus to Stimulating.
+- Reprogram Target's Willingness to perform a specific Action to Craving (i.e. addicted/needing).
+- Reprogram Target's Willingness to perform a specific Action to Yearning (i.e. enthusiastic).
+- Reprogram Target's Willingness to perform a specific Action to Eager.
+- Reprogram Target's Willingness to perform a specific Action to Willing.
+- Reprogram Target's Willingness to perform a specific Action to Reluctant.
+- Reprogram Target's Willingness to perform a specific Action to Fearful.
+- Reprogram Target's Willingness to perform a specific Action to Unwilling.
+- Make Target dumber.
+- Ela pode ser condicionada a ficar com o cuzinho piscando e faminto com estímulo oral.
+- Ela pode ser condicionada a ficar louca para chupar se tiver algum estímulo anal.
+## Examples
+- Increase attraction to women.
+- Increase attraction to men.
+- Change behavior towards fellatio.
+- Change behavior towards cunilingus.
+- Change behavior towards analingus.
+- Change behavior towards homo sex.
+- Change behavior towards hetero sex.
+- Change behavior towards exhibitionism.
+- Change behavior towards voyeur.
+- Change behavior towards cuckolding other.
+- Change behavior towards being cuckolded by other.
+- Change behavior towards sharing partner.
+- Change behavior towards using strapon.
+- Change behavior towards receiving strapon.
+- Change behavior towards butt-play (finger-teasing, fingering, plug).
+- Change behavior towards chastity.
+- Change behavior towards hand-play (fingering, handjob; performing, receiving).
+- Make Target deeply in love with Actor.
+- Make Target deeply in love with a third party character.
+- Make Target profoundly respectful (e.g. "I love you daddy").
+- Make Target want to please the Actor at all costs (devoted).
+- Make Target like rough sex.
+- Make Target "turned on" (Aroused) by Humiliation.
+- Program behavior: Act like a virgin.
+- Program behavior: Girlfriend experience.
+- Program behavior: Reluctant innocent.
+- Program behavior: Fearful and respectful slave.
+- Program behavior: Enthusiastic nympho.
+- Program behavior: Needy sex addict.
+- Program behavior: Cum-taste addict.
+- Change Personality: Submissive Personality.
+- Change Personality: Feisty Personality.
+- Make Target addicted to vaginal stimuluation.
+- Create climax trigger (physical stimulation, like anal; trigger word).
+- Change her to take a pat on the head as a reward.
+- Program her to try to get a cock deeper in her throat whenever she gets a pat on the head.
+- Program her to seek a cock with her mouth whenever she gets a pat on the head.
+# Changing Bodies Achievements
+- Change a Target's Erogenous Zones Sensitivity.
+- Change a Target's Erogenous Zones Multipliers.
+# Dominating Females Achievements
+# Dominating Males Achievements
+# Male Submissive Achievements
+# Female Submissive Achievements
+# Changing Relationships Achievements
+# Adoration/Devotion Achievements
+- Create a new Desire Element in a Target to better reflect Actor Traits.
+- Create a new Arousal Element in a Target to better reflect Actor Traits.
+- Create a new Desire Element in a Target, so that 3 or more Desire Elements reflect Actor Traits (i.e. Target finds the Actor very Desirable).
+- Create a new Arousal Element in a Target, so that 3 or more Arousal Elements reflect Actor Traits (i.e. Target finds the Actor very Arousing).
+- Remove one of Target's Arousal Elements.
+- Remove one of Target's Desire Elements.
+- Remove last of Target's Desire Elements, so that all Desire Elements are met by the Actor (i.e. Target only Desires people exactly like the Actor).
+- Remove last of Target's Arousal Elements, so that all Arousal Elements are met by the Actor (i.e. Target is only Aroused by people exactly like the Actor).
+# Male Power Corruption Achievements
+# Female Power Corruption Achievements
+
+
+
+
+
+
+
+
+I'm glad to help her just to make her happy.
+
+She tells me I can look at her tits if I agree.
+She tells me I can watch her work out (yoga?) if I agree.
+She tells me I can see her in a bikini if I agree.
+She tells me I can see her in lingerie if I agre.
+She tells me she will let me grope her tits if I agree.
+She tells me she will flash her tits if I agree.
+She tells me she will let me grope her ass if I agree.
+She tells me she will flash her pussy if I agree.
+She tells me she will flash her ass if I agree.
+She tells me she will let me suck on her tits if I agree.
+She tells me I can touch her pussy if I agree.
+She tells me she will give me a handjob if I agree.
+She tells me she will give me a blowjob if I agree.
+She tells me she will let me watch her masturbate if I agree.
+She tells me she will let me masturbate as I look at her if I agree.
+She tells me she will ride me with her pussy (sex) if I agree.
+She tells me she will let me cum on her buttocks or belly if I agree.
+She tells me she will let me get on top of her (sex) if I agree.
+She tells me she will let me cum on her breasts if I agree.
+She tells me she will let me cum inside her mouth if I agree.
+She tells me she will let me cum on her face if I agree.
+She tells me she will swallow my cum if I agree.
+She tells me she will let me fuck her ass if I agree.
+
+# Achievements
+- Cumdump (at receive cum inside >= 10)
+- Cum Slut (at receive cum outside >= 10)
+- Professional Cocksucker (at perform blowjobs >= 10)
+- Nympho (at receive vaginal sex >= 10)
+- Buttslut (at receive anal sex >= 10)
+- Slick Hands (at perform handjobs >= 10)
+- Loyal (at obedience >= 10)
+- Exhibitionist (at exhibitionism >= 10)
+- Submissive (at submission >= 10)
+- Mega Slut (at sluttiness >= 10)
+- Foot Fetish (at footjob >= 10)
+- Pazuri Star (at boobjobs >= 10)
+- In Love (at affection >= 10)
+- Incestual (sister sex >= 10)
+- Lesbian (lesbian sex >= 10)
+- Bi-sexual Slut (lesbian sex >= 10 and hetero sex >= 10)
+- Face Sitter (at receive cunnilingus >= 10)
+- Cuntlapper/Carpet Muncher (at perform cunnilingus >= 10)
+- Anal Driller (at perform anal sex >= 10)
+- Pussy Rider (at perform vaginal sex >= 10)
+- Face Painter (at perform cum outside >= 10)
+- Insides Painter (at perform cum inside >= 10)
+- Face Stuffer (at receive blowjobs >= 10)
+- Wanker (masturbation >= 10)
+- Free Use

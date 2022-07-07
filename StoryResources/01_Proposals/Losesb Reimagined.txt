@@ -1,0 +1,52 @@
+# Losesb Reimagined
+
+# Seducer Route - Harem Ending
+
+# I get a house by myself.
+# I put an ad for roommates.
+# I interview a first roommate: Bree. I get to ask 3 questions. What do you like to do? How will you get money to pay the rent? What is something you do well? What is something you are not good at?
+    # Bree is nice, a little airy, hot, liberated and a little naive.
+    # Bree likes playing videogames, reading and sunbathing by the pool.
+    # Bree goes to school, but dislikes it.
+    # Bree does not have a job. She gets money sent to her.
+    # Bree is strapped for money.
+    # Bree reads books to stay Smart.
+    # Bree runs in the park to stay Fit.
+    # Bree is not very Charming.
+# I interview a second roommate: Sasha. I get to ask 3 questions. What do you like to do? How will you get money to pay the rent? What is something you do well? What is something you are not good at?
+    # Sasha is cold, cunning, sexy, liberated and a cynic.
+    # Sasha likes listening to hardcore metal, horror movies, dancing and drinking at the Pub. She likes to win a games of pool.
+    # Sasha does not study.
+    # Sasha goes works at a clothes shot, but dislikes it.
+    # Sasha does okay for money.
+    # Sasha reads the news on the computer to stay Smart.
+    # Sasha often goes out dancing to stay Fit.
+    # Sasha has frequent conversations with customers to stay Charming.
+# Bree moves in the same afternoon. I use some willpower to help her move in. Bree feels a little indebted to me. Bree will remember I helped her move in. Bree thinks that I'm a nice guy. I increase my reputation as a nice guy.
+# Sasha moves in the same evening. I use some willpower to help her move in. Sasha feels a little indebted to me. Sasha will remember I helped her move in. Sasha thinks that I'm a nice guy. I increase my reputation as a nice guy.
+# I go to sleep tired.
+# I wake up later to ration willpower.
+# I walk around the house and find that Bree's bedroom is closed, as is Sasha's bedroom.
+# I check the kitchen and find out that the pantry is filled. Someone has done the groceries.
+# I take breakfast at home.
+# Sasha goes into the kitchen to take breakfast.
+# Sasha goes out.
+# I explore my phone and learn it's features. I also create a notebook for both Bree and Sasha. I am surprised that there is no map of the Enclave available online (???or, maybe, there is, but you have to pay).
+# I have lunch at home.
+# I decide to go out and discover that there is a grocery store just across the street from home. The grocer is an old men of few words. I decide to ignore him.
+# I find Bree lounging by the pool when I come back home.
+    # Bree takes her showers early in the morning.
+    # Bree studies in the morning on week days. She frequently plays hokey and stays at home, though.
+    # Bree has lunch at school or at the mall.
+    # Bree reads in the afternoon, or sunbathes, or studies, or does some chores.
+    # Bree takes dinner at home.
+    # Bree plays videogames, or reads in the evening.
+    # Bree goes to sleep early.
+    # Sasha wakes up as late as possible.
+    # Sasha goes to work at the clothes store in the morning.
+    # Sasha has lunch at the mall.
+    # Sasha goes to work at the clothes store in the afternoon.
+    # Sasha has dinner at home.
+    # Sasha takes her showers after dinner.
+    # Sasha goes to the pub, or to band practice, or reads in her bedroom, or stays home to watch a horror movie in the evening.
+    # Sasha goes dancing at the nightclub, or stays home to watch a movie at night.

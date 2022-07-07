@@ -1,0 +1,105 @@
+/*
+    Leon was friends with Christie when they were kids at Joyville.
+
+    He was fat and whiny as a kid. He used to be called Leonard.
+
+    He moved away to France when he was 10.
+
+    Leon asks Christie call Christie to catch up on the past. He is in town. They haven't seen each other in 12 years. He become a very fit and confident young black man.
+
+    Leon wants to move into town (Carmaton) and asks Christie for a place to crash.
+
+    Leon is confident he will soon be banging Christie.
+
+    Leon is good humored, but a little crass with his jokes. He makes lewd/sexualized compliments to Christie. He makes lewd/sexualized jokes. He often talks about Christie using a dildo/vibrator, thinking about him, sucking on his dick and/or bouncing on his dick. He implies he has a big dick and that Christie is dying to see it.
+
+    Leon is gym conscious and starts going to the gym as soon as possible.
+
+    Leon has no higher learning and must look for and get menial jobs in town (Carmaton).
+
+    Leon uses drugs/anabolyzers to look very strong and fit. OPPORTUNITY: The protagonist can get proof of this and expose him.
+
+    Leon is something of a bully, but he cultivates a very nice demeanor. OPPORTUNITY: The protagonist can get proof of this and expose him.
+
+    Leon will get a job as a bouncer at the night club. This is a position that Jack (the protagonist) could have gotten.
+
+    Leon doesn't know what Christie is like and what she likes as an adult. He has to ask for help to find out her preferred wine.
+
+    Leon is not against asking Jack (the protagonist) for help.
+
+    Leon looks for ways not to do his home chores. OPPORTUNITY: The protagonist can get tell Leon that he will do his chores and, then, not do it, making Christie mad.
+
+    Leon cultivates a charming demeanor. He is careful with his words and can plant seeds at a moment to reap the benefits later.
+
+    Leon often implies that he deserves better, with humor, but never letting people forget about it.
+
+    Leon is a very light sleeper and is likely to notice things happening around the house, like Jack (the protagonist) spying on Christie's shower, her sleeping or others. He is likely not to say anything to use the information to his advantage later.
+
+    OPPORTUNITY: The protagonist can engineer a trap to implicate Leon in spying on a sleeping Christie.
+
+    Leon can have some unpredictable hours and will often catch the protagonist doing stuff when he thinks he is alone at home.
+
+    Leon can make Christie used to his lewd/sexualized jokes.
+
+    Leon can make Christie used to drinking wine in the evening.
+
+    Leon is not against taking a little advantage from Christie when she is tipsy. He will grope her one day and he will kiss her another (she will remember the kiss). OPPORTUNITY: The protagonist can get proof of this and expose him.
+
+    Leon is not beyond threatening Jack (the protagonist) with physical harm. OPPORTUNITY: The protagonist can get proof of this and expose him.
+
+    Leon knows when to show off. He will go to the pool party and work on the lawn without a shirt to expose his muscles.
+
+    Leon's drugs/anabolyzers interfere with his erections. He needs drugs (viagra-like) to stay hard. OPPORTUNITY: The protagonist can get proof of this and expose him.
+
+    Leon hates Andrea from the start. He badmouths her in private. OPPORTUNITY: The protagonist can get proof of this and expose him. This also strengthens Andrea's connection with Christie.
+
+    Leon feels threatened by Malik. He engineers an opportunity to have Malik seem threatening to Christie and, then, places himself as a protector.
+
+    Leon will only ask Christie on a date when he is sure she is already attracted to him.
+
+    Leon will kiss Christie after their first date.
+
+    Leon will threaten Colin, the neighbor, to get money for a second date with Christie. OPPORTUNITY: The protagonist can get proof of this and expose him.
+
+    Leon will sleep with Christie after the second date. She is reluctant and tipsy and he takes advantage of it. She is NOT unconscious, however, and, even though a little embarrassed the next morning, she will accept they are in a sexual relationship.
+
+    Leon will engineer situations to expose Jack (the protagonist) as a peeping tom (on her shower), a pervert (some kinky porn), a wimp (backing off on a confrontation) and a sex addict (more porn or peeping on him having sex). He will suggest to Christie that Jack (the protagonist) should wear a chastity belt or leave.
+
+    Leon will get Christie to try kinkier stuff.
+
+    Leon will offer Andrea a chance to have sex with Christie in a threesome. She will agree. He will, then, have sex with Andrea. Finally, he will expose Andrea and have her out of Christie's life. OPPORTUNITY: The protagonist can get proof of this and expose him.
+
+    Leon will get Christie to get used to have Jack (the protagonist) watching them having sex. She will develop an exhibitionist fetish.
+
+    Leon will get Christie to feel isolated and reliant on him.
+
+    Leon will get Christie to feel she can never get some decent friends - pointing out she was betrayed by both Malik and Andrea and that only he could protect her.
+
+    Leon will get Christie to accept another threesome with Cindy (playing on her exhibitionist fetish).
+
+    Leon will work to destroy some of Christie's confidence. He will take advantage of small mistakes to point out that she is stupid. She will get mad, but he will make it up to her until she gets used to it.
+
+    Leon will get Christie to accept that he can have his fun with Cindy. Christie gets very sad, but he gets her some booze, some gifts and fucks her brains off. She gets okay with it (especially because she got isolated and convinced she cannot have anyone else).
+
+    Leon will tell Christie that Cindy is just a booty call.
+
+    Leon will use Jack (the protagonist) as a servant for him and Christie. This will get her get more okay with her situation of sharing her boyfriend.
+
+    Leon will use Jack (the protagonist) as a servant for him and Cindy.
+
+    Leon will make Christie realize that she is just his bootycall.
+
+    Leon will make Christie accept to have a threesome with some other guy. She will be embarrassed at first, but he will make it seem thrilling.
+
+    Leon will make Christie accept to have sex with other men that he directs her to. After all, she already sex with some other man in the threesome.
+
+    Leon will make Christie accept to have sex with whomever he points her to. She becomes his whore and he, her pimp.
+
+    Leon will make Christie accept to be his and Cindy's plaything.
+*/
+
+::Leon - Initialization
+<<nobr>>
+<<set $leon = {name: "Leon", fistName: "Leonard", lastName: "Graham"}>>
+<<set $topics.landlady.talkpast.childhood.friends = 0>>
+<</nobr>>\

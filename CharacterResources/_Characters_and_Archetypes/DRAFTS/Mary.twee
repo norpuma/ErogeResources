@@ -1,0 +1,47 @@
+/*
+    - Reasonably smart, non-confrontational, caring, worried, motherly, proud.
+    - Likes movies, likes wine, likes classic rock, likes candle-lit dinners.
+    - Dislikes working out, dislikes offensive people.
+    - Works at a hospital.
+    - Worried about her kids, worried about money, worried about her appearance, worries she is not good material to get a new man.
+    - No lust for family.
+
+    - Wants new videogame.
+    - Wants better internet access. Can be made more selfish reconfiguring router for better internet for himself.
+
+    Routine:
+    - Job.
+    - Family dinner.
+    - Home, chores.
+    - Home, movies.
+
+    Events:
+    - Mary learns about a possible job promotion.
+    - Mary learns that she will get a new boss.
+    - Mary gets a female job rival.
+    - Mary meets a well-built older gentleman (former military).
+    - Mary meets a smooth charmer at the hospital.
+    - Mary learns about a music festival she would LOVE to go to.
+    - Mary learns about a sex shop in town.
+    - Mary learns about a guy selling weed at the park.
+
+    You can:
+    - Observe her at home
+    - Observe her around town (at her job, mostly)
+    - Observe her dreams
+    - Whisper in her dreams
+    - Whisper in her mind
+    - Hear some of her thoughts
+    - Reveal yourself to her
+    - Tempt her
+    - Command her
+    - Change her body
+    - Possess her
+
+*/
+
+::Mary - Initialization
+<<nobr>>
+<<set $mary = {name: "Mary", firstName: "Mary", lastName: $familyName}>>
+<</nobr>>\
+

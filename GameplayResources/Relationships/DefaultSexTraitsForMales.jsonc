@@ -1,0 +1,11 @@
+// This lists character Traits from Default Character Traits with their weights.
+// A character finds another Fit to Be a Sexual Partner if the character has crossed a given value when adding up Traits from this json which can be found in the character.
+{
+    "Female": 0, // For gay characters, overwrite "Female" with -10 or more.
+    "Male": -10, // For gay characters, overwrite "Male" with 0.
+    "BigBreasts": 10, // For gay characters, ovewrite "BigBreasts" with 0.
+    // For gay characters, ovewrite "BigPenis" with 10 or more.
+    "Attractive": 10,
+    "Charming": 10,
+    "Fit": 10
+}

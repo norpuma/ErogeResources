@@ -1,0 +1,10 @@
+// ::Protagonist - Bedroom - Initialization [script]
+//     State.variables.protagonist.bedroom = new Location("My bedroom", "Protagonist - Bedroom - Examine")
+
+
+::Protagonist - Bedroom - Examine
+    This is the only place I can do anything I want. This is where I can find true privacy.
+
+    Besides my bed and a wardrobe, I have my computer here.
+
+

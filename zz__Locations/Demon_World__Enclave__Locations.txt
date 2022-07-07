@@ -1,0 +1,1161 @@
+REFERENCES:
+    # Jack-o-Nine-Tails
+    # Brothel King
+    # Love & Sex - Second Base
+    # Perverted Education
+    # Wife Trainer
+    # The Company
+    # Man of the House
+    # Labrats 1
+    # Labrats 2
+    - The Sinner
+    - Enchantment
+    - Spell For All
+
+FROM Jack-o-Nine-Tails:
+    - Outside:
+        - Patrol the Fogs
+        - Smugglers
+        - Moneylenders
+        - Slums
+    - White Town
+        - Trade Square
+        - Slaver's Guild
+        - Colosseum (fights and races)
+        - Central Forum (spread rumors and special missions)
+        - Vatican
+    - Necropolis
+        - Residences
+        - Steel Rose (piercings and bdsm)
+        - Anatomical Theater (spectacles and body modification)
+        - Raven Tower
+    - Quarter of the Bull
+        - Residences
+        - Salon (brothel)
+        - Gentlemen's Club
+        - White Palace
+    - Serpentine Quarter
+        - Anthill (residences)
+        - Pub
+        - Technosphere (medical center)
+        - Administrative Spires
+    - Quarter of the Outcasts
+        - Residences
+        - Tattoo parlor
+        - Magic shop (ingredients for potions and drugs)
+        - Animal Farm
+        - Citadel
+
+FROM Brothel King:
+    - Slums:
+        - Spice Market
+        - Sewers
+        - Farm
+        - Watchtower
+        - Junkyard
+        - Thieves' Guild
+    - Docks
+        - Harbor
+        - Shipyard
+        - Seafront
+        - Beach
+        - Taverns
+        - Exotic Emporium
+    - Warehouse
+        - Market
+        - Stables
+        - Plaza
+        - Gallows
+        - Prison
+        - Arena
+    - Magic Gardens
+        - Botanical Garden
+        - Library
+        - Magic Forest
+        - Hanging Gardens
+        - Guild Quarter
+        - Magic Guild
+    - Cathedral
+        - Pilgrim Road
+        - Banking Quarter
+        - Old Ruins
+        - Lake
+        - Training Grounds
+        - Cathedral
+    - King's Hold
+        - Battlements
+        - Keep
+        - Hall
+        - Courtyard
+        - Temple
+        - Falls
+
+FROM Love & Sex - Second Base:
+    - Town:
+        - Office
+            - Managers Office
+            - Breakroom
+            - Cubicles
+            - Personal Office
+            - Rooftop
+        - Alley
+        - Mall
+            - Arcade
+            - Bakery
+            - Bookstore
+            - Clothes Shop
+            - Coffee Shop
+            - Drugstore
+            - Electronics Store
+            - Flowershop
+            - Sexshop
+        - Gym
+        - Home
+            - Bathroom
+            - Bedroom 1
+            - Bedroom 2
+            - Bedroom 3
+            - Driveway
+            - Kitchen
+            - Living Room
+            - Pool
+            - Hallway
+        - Church
+        - Cinema
+            - Cinemaroom
+        - Highclass Restaurant
+        - Nightclub
+        - Park
+        - Pub
+            - Public Bathroom
+        - Studio
+        - University
+    - Beach
+    - Trailer Park
+    - Waterpark
+
+FROM Perverted Education:
+    - School
+    - Mall
+    - Therapist
+    - Clinic
+    - Neighbor
+    - Club
+    - Fast Food
+    - Sex Shop
+    - Cheerleader's House
+    - SPA
+
+FROM Wife Trainer:
+    - Suburbs
+        - Home
+        - Neighbor
+    - Downtown
+        - BDSM Store
+        - Clothes Store
+        - Lawyers
+        - Secret Club
+        - Dark Magic Store
+        - Bank
+        - Jeweler
+        - Coffee Shop
+        - Petshop
+    - School
+    - Trailer Park
+
+FROM The Company:
+    - Mall
+        - Adult Store
+        - Intimate Store
+        - Men's Clothes
+        - Women's Clothes
+    - Home
+        - Bedroom Protagonist
+        - Bedroom Sister
+        - Bedroom Mom
+        - Kitchen
+        - Living Room
+    - Company
+        - Lab
+        - Documents
+        - Nurse
+        - Sales
+        - Manager Office
+
+FROM Man of the House:
+    - Casino
+    - Tennis Club
+    - Pizzeria
+    - Grocery Store
+    - Park
+    - Museum
+    - Health Club / Gym
+    - Apartment Building
+        - Home
+        - Therapist
+    - Movie Theater
+    - Sex Shop
+    - Rich Apartment Building
+    - Beach
+    - Secret Club
+    - Café
+    - Police Station
+    - Nightclub
+    - Bar
+    - Mall
+        - Electronics Store
+        - Book Store
+        - Furniture Store
+        - Clothes Shop
+        - Lingerie Store
+        - Perfume Shop
+        - Drugstore
+    - Research Company
+
+FROM Labrats 1:
+    - College
+        - Lab
+        - Café
+        - Underground
+        - Lawn
+    - Home
+    - Party House
+    - Tennis Club
+
+FROM Labrats 2:
+    - Home
+        - Bedroom Protagonist
+        - Bedroom Sister
+        - Bedroom Mom
+    - Downtown
+        - Residences
+        - Plaza
+        - Streets
+    - Mall
+        - Gym
+        - Home Improvement Store
+        - Office Supply Store
+        - Sex Store
+        - Clothing Store
+    - Research Lab
+        - Production Division
+        - Lobby
+        - R&D Division
+        - Marketing Divistion
+        - Main Office
+
+LOCATIONS (with typical jobs)
+    # Administration Bureau; @Diligence District
+        ~ Bureaucrat
+    # Auto Shop (automobiles, boats and drone repairs); @Fortitude District
+        ~ Repairman
+    # Bank; @Diligence District
+        ~ Moneylender
+        ~ Manager
+        ~ Sales Representatives
+        ~ Sales Clerk
+    # Bar 1; @Clarity District
+        ~ Barkeep
+        ~ Waiter/Waitress
+    # Bar 2 - Pub; @Diligence District
+        ~ Barkeep
+        ~ Waiter/Waitress
+        ~ Musician
+    # Baths, Public; @Clarity District
+    # Beach; @Temperance District
+        ~ Life Guard
+        ~ Sales Clerk
+    # Brothel 1, Underground; @Prudence District
+        ~ Whore
+        ~ Bouncer
+        ~ Pimp
+    # Brothel 2; @Temperance District
+        ~ Whore
+        ~ Pimp
+        ~ Bouncer
+    # Brothel 3 - Madam's Girls; @Diligence District
+        ~ Pimp
+        ~ Whore
+    # Café 1; @Temperance District
+        ~ Barista
+        ~ Manager
+        ~ Musician
+    # Café 2; @Diligence District
+        ~ Barista
+        ~ Manager
+        ~ Musician
+    # Clinics 1 "Healers"; @Prudence District
+        ~ Physician
+    # Clinics 2 - Illegal Body Mods (body modification with tech); @Clarity District
+        ~ Physician
+    # Clinics 3; @Temperance District
+        ~ Therapist
+        ~ Physician
+        ~ Nurse
+    # Clinics 4; @Diligence District
+        ~ Physician
+        ~ Nurse
+        ~ Sales Clerk
+        ~ Therapist
+    # Colosseum (fights and races); @Justice District
+        ~ Slaver (trainer)
+        ~ Slaves
+    # Council Building; @Justice District
+        ~ Bureaucrat (assistants)
+        ~ Council Member
+    # Docks; @Diligence District
+        ~ Robot Supervisor
+        ~ Bureaucrat
+        ~ Guards
+    # Farms, "Organic"; @Temperance District
+        ~ Farmer
+        ~ Slaves
+        ~ Slaver (Trainer)
+    # Forum, Central (spread rumors and special missions); @Digital District
+    # Gates; @Prudence District
+        ~ Guards
+    # Genetics/Cloning Facilities (Abandoned); @Clarity District
+    # Gentlemen's Club (influence and girl services); @Justice District
+        ~ Waiter/Waitress
+        ~ Musician
+        ~ Pimp
+        ~ Slaver (trainer)
+        ~ Slaves
+    # Guards Central; @Prudence District
+        ~ Guards
+    # Gym Center; @Clarity District
+        ~ Gym Trainer
+    # Hospital; @Justice District
+        ~ Physician
+        ~ Nurse
+        ~ Manager
+    # Hotel; @Diligence District
+        ~ Manager
+        ~ Maid
+        ~ Barkeep
+        ~ Dancers
+        ~ Masseur/Masseuse
+        ~ Gym Instructor / Swim Teacher
+    # House of Arts; @Temperance District
+        ~ Projectionist
+        ~ Historian
+        ~ Artist
+        ~ Actor
+        ~ Teacher
+    # Inn 1; @Prudence District
+        ~ Inkeeper (manager)
+        ~ Maid
+    # Inn 2; @Prudence District
+        ~ Inkeeper (manager)
+        ~ Maid
+    # Library; @Justice District
+        ~ Librarian
+        ~ Students
+    # Magazine, Digital; @Digital District
+    # Magic - Arcane Arts Division (Abandoned); @Diligence District
+    # Magic - Arcane Post (Abandoned); @Fortitude District
+    # Magic - Discreet Mage Conselor; @Justice District
+        ~ Mage
+    # Magic - Magic Body Modification; @Diligence District
+        ~ Sales Clerk
+        ~ Mage
+    # Magic - Underground Magic Shop; @Clarity District
+        ~ Mage
+    # Mall; @Temperance District
+        ~ Drug Dealer
+    # Mall: Store, Clothes; @Temperance District
+        ~ Sales Clerk
+    # Mall: Store, Electronics; @Temperance District
+        ~ Sales Clerk
+        ~ Repairman
+    # Mall: Store, Books; @Temperance District
+        ~ Sales Clerk
+        ~ Librarian
+    # Mall: Store, Furniture; @Temperance District
+        ~ Sales Clerk
+    # Mall: Store, Antiques; @Temperance District
+        ~ Sales Clerk
+        ~ Historian
+    # Mall: Arcade; @Temperance District
+        ~ Bureaucrat
+    # Marina; @Diligence District
+        ~ Sailor
+        ~ Deckhand
+    # Market, Day (leather goods, utensils, produce, farmers, slaves, street food); @Fortitude District
+        ~ Craftsman
+        ~ Stall Clerk
+        ~ Street Cook
+    # Market, Digital; @Digital District
+    # Market, Night (entertainment, clothes, drugs, whores); @Prudence District
+        ~ Stall Clerk
+        ~ Drug Dealer
+    # Moneylender; @Prudence District
+        ~ Criminal Moneylender
+    # Nightclub; @Temperance District
+        ~ DJ
+        ~ Waiter/Waitress
+        ~ Barkeep
+    # Onsen/Hot Springs; @Temperance District
+        ~ Sales Clerk
+        ~ Masseur/Masseuse
+    # Park 1
+        ~ Drug Dealer
+    # Park 2 - Botanical Gardens; @Justice District
+        ~ Agronomer
+        ~ Scientist
+    # Pharmacy 1; @Fortitude District
+        ~ Pharmacist
+        ~ Sales Clerk
+    # Pharmacy 2; @Clarity District
+        ~ Pharmacist
+        ~ Sales Clerk
+    # Pharmacy 3; @Temperance District
+        ~ Pharmacist
+        ~ Sales Clerk
+    # Pharmacy 4; @Diligence District
+        ~ Pharmacist
+        ~ Sales Clerk
+    # Piercings and Tattoos - Underground Body Mods (piercings, tattoos and bdsm); @Clarity District
+        ~ Nurse
+        ~ Artist
+        ~ Craftsman
+    # Plant, Drone Manufacturing; @Clarity District
+        ~ Engineer
+        ~ Factory Worker
+    # Plant, Generic 1 (3d printers); @Clarity District
+        ~ Engineer
+        ~ Factory Worker
+    # Plant, Generic 2 (3d printers); @Clarity District
+        ~ Engineer
+        ~ Factory Worker
+    # Plant, Power; @Clarity District
+        ~ Engineer
+        ~ Factory Worker
+    # Plant, Water / Sewers; @Fortitude District
+        ~ Engineer
+        ~ Workers
+    # Plaza (gallows); @Temperance District
+    # Pool, Public; @Clarity District
+        ~ Lifeguard
+    # Prison; @Prudence District
+        ~ Guards
+        ~ Criminals
+    # Processing Bureau; @Prudence District
+        ~ Bureaucrat
+    # Publisher; @Temperance District
+        ~ Editor
+        ~ Writer
+        ~ Photographer
+        ~ Sales Representatives
+        ~ Manager
+    # Reprocessing Center (junkyard); @Clarity District
+        ~ Engineer
+        ~ Factory Worker
+    # Research Institute; @Temperance District
+        ~ Researcher (programming/AI)
+        ~ Researcher (robotics)
+        ~ Researcher (chemistry)
+        ~ Researcher (arcane)
+    # Residences (Slum Houses / Trailer Parks); @Fortitude District
+    # Residences (low income); @Clarity District
+    # Residences (medium income); @Temperance District
+    # Residences (high income); @Diligence District
+        ~ Maids
+        ~ Poolboy
+        ~ Security
+        ~ Gardner
+    # Residences, (Mansions); @Justice District
+        ~ Residents
+        ~ Maid
+        ~ Cook
+        ~ Gardner
+        ~ Waiter/Waitress (butler)
+    # Restaurant, Diner; @Temperance District
+        ~ Cook
+        ~ Waiter/Waitress
+        ~ Manager
+    # Restaurant, Fancy; @Diligence District
+        ~ Cook
+        ~ Maitre d'
+        ~ Waiter
+        ~ Somelier
+    # Restaurant, Fast Food; @Clarity District
+        ~ Waiter/Waitress
+        ~ Sales Clerk
+        ~ Cook
+    # Ruins, Old; @Diligence District
+    # School, Finishing; @Diligence District
+        ~ Teacher
+        ~ Principal
+        ~ Students
+        ~ Coach
+    # Security Station 1; @Clarity District
+        ~ Guards
+    # Security Station 2; @Temperance District
+        ~ Guards
+        ~ Investigator
+    # Security Station 3; @Diligence District
+        ~ Guards
+        ~ Investigator
+    # Security Central and Guards Training; @Diligence District
+        ~ Guard
+        ~ Police Chief
+        ~ Investigator
+    # Services, Accounting; @Temperance District
+        ~ Bureaucrat
+    # Services, Computer; @Clarity District
+        ~ Repairman
+        ~ Researcher
+    # Services, Courier Company / Delivery Center; @Clarity District
+        ~ Courier
+        ~ Bureaucrat
+        ~ Robot Supervisor
+    # Services, Detective Services; @Clarity District
+        ~ Investigator
+    # Services, Landscaping; @Temperance District
+        ~ Gardner
+        ~ Manager
+    # Services, Maids; @Temperance District
+        ~ Maid
+        ~ Manager
+    # Services, Surveillance; @Diligence District
+        ~ Sales Representatives
+        ~ Watchman
+    # Slave Pens; @Prudence District
+        ~ Slaves
+    # Slavers' Guild 1; @Prudence District
+        ~ Slaver
+    # Slavers' Guild 2; @Temperance District
+        ~ Slavers
+    # Slavers's Guild 3; @Justice District
+        ~ Slaver (trainer)
+        ~ Slave Master
+        ~ Hunter
+    # Smugglers' Den; @Prudence District
+        ~ Smuggler
+    # SPA; @Justice District
+        ~ Masseur/Masseuse
+        ~ Waiter/Waitress
+        ~ Sales Clerk
+    # Sports Arena; @Diligence District
+        ~ Athlete
+        ~ Coach
+        ~ Gym Instructor
+    # Stables, Human; @Diligence District
+        ~ Veterinarian
+        ~ Slaver (trainer)
+        ~ Athlete
+        ~ Slave
+    # Stage, Digital; @Digital District
+    # Store, Exotic Emporium; @Diligence District
+        ~ Sales Clerk
+        ~ Hunter
+    # Store, Petshop; @Diligence District
+        ~ Sales Clerk
+        ~ Veterinarian
+        ~ Slaves
+        ~ Slaver (trainer)
+    # Store, Sex Shop; @Temperance District
+        ~ Sales Clerk
+    # Studio, Recording (music, movies, camshows); @Clarity District
+        ~ Actor
+        ~ Photographer
+        ~ Writer
+        ~ Musician
+    # Tavern 1; @Fortitude District
+        ~ Barkeep
+        ~ Waiter/Waitress
+    # Tavern 2; @Prudence District
+        ~ Barkeep
+        ~ Waiter/Waitress
+        ~ Bouncer
+    # Tavern 3; @Prudence District
+        ~ Barkeep
+        ~ Waiter/Waitress
+        ~ Bouncer
+    # Temple; @Justice District
+        ~ Priestess
+        ~ Temple Slave
+    # Terminal, Automated Buses; @Fortitude District
+        ~ Bureaucrat
+    # Vats, Hydroponics; @Clarity District
+        ~ Farmer (Agronomer)
+    # Vats, Meat; @Clarity District
+        ~ Biologist (Physician)
+    # Wall Repairs Center; @Fortitude District
+        ~ Repairman
+    # Watchtower 1; @Fortitude District
+        ~ Guards
+    # Watchtower 2; @Fortitude District
+        ~ Guards
+    # Watchtower 3; @Fortitude District
+        ~ Guards
+    # Warehouses 1; @Clarity District
+    # Warehouses 2; @Diligence District
+
+
+LOCATIONS BY DISTRICT
+    FORTITUDE DISTRICT / OUTER RING:
+        - Slum Houses / Trailer Parks
+            - Residents
+        - Automated Buses Terminal
+            - Bureaucrat
+        - Water Plant / Sewers
+            - Engineer
+            - Workers
+        - Watchtower 1
+            - Guards
+        - Watchtower 2
+            - Guards
+        - Watchtower 3
+            - Guards
+        - Arcane Post (Abandoned)
+        - Tavern 1
+            - Barkeep
+            - Waiter/Waitress
+        - Wall Repairs Center
+            - Repairman
+        - Day Market (leather goods, utensils, produce, farmers, slaves, street food)
+            - Craftsman
+            - Stall Clerk
+            - Street Cook
+        - Auto Shop (automobiles, boats and drone repairs)
+            - Repairman
+        - Pharmacy 1
+            - Pharmacist
+            - Sales Clerk
+
+    PRUDENCE DISTRICT / FOREIGNERS QUARTER:
+        - Inn 1
+            - Inkeeper (manager)
+            - Maid
+        - Inn 2
+            - Inkeeper (manager)
+            - Maid
+        - Tavern 2
+            - Barkeep
+            - Waiter/Waitress
+            - Bouncer
+        - Tavern 3
+            - Barkeep
+            - Waiter/Waitress
+            - Bouncer
+        - Guards Central
+            - Guards
+        - Processing Bureau
+            - Bureaucrat
+        - Smugglers' Den
+            - Smuggler
+        - Slavers' Guild 1
+            - Slaver
+        - Underground Brothel
+            - Whore
+            - Bouncer
+            - Pimp
+        - Night Market (entertainment, clothes, drugs, whores)
+            - Stall Clerk
+            - Drug Dealer
+        - Healers
+            - Physician
+        - Gates
+            - Guards
+        - Slave Pens
+            - Slaves
+        - Prison
+            - Guards
+            - Criminals
+        - Moneylender
+            - Criminal Moneylender
+
+    FOUNDATION DISTRICT:
+        - *INACCESSIBLE*
+
+    CLARITY DISTRICT / TECHNOSPHERE:
+        - Residences (low income)
+            - Residents
+        - Power Plant
+            - Engineer
+            - Factory Worker
+        - Drone Plant
+            - Engineer
+            - Factory Worker
+        - Reprocessing Center (junkyard)
+            - Engineer
+            - Factory Worker
+        - Generic Plant 1 (3d printers)
+            - Engineer
+            - Factory Worker
+        - Generic Plant 2 (3d printers)
+            - Engineer
+            - Factory Worker
+        - Hydroponics
+            - Farmer (Agronomer)
+        - Meat Vats
+            - Biologist (Physician)
+        - Genetics/Cloning Facilities (Abandoned)
+        - Bar 1
+            - Barkeep
+            - Waiter/Waitress
+        - Pharmacy 2
+            - Pharmacist
+            - Sales Clerk
+        - Fast Food
+            - Waiter/Waitress
+            - Sales Clerk
+            - Cook
+        - Public Pool
+            - Lifeguard
+        - Gym Center
+            - Gym Trainer
+        - Delivery Center / Courier Company
+            - Courier
+            - Bureaucrat
+            - Robot Supervisor
+        - Security Station 1
+            - Guards
+        - Public Baths
+        - Warehouses 1
+        - Underground Body Mods (piercings, tattoos and bdsm)
+            - Nurse
+        - Illegal Body Mods (body modification with tech)
+            - Physician
+        - Underground Magic Shop
+            - Mage
+        - Recording Studio (music, movies, camshows)
+            - Actor
+            - Photographer
+            - Writer
+            - Musician
+        - Detective Services
+            - Investigator
+        - Computer Services
+            - Repairman
+            - Researcher
+
+    TEMPERANCE DISTRICT / PLEASANCE QUARTER:
+        - Residences (medium income)
+        - Park
+            - Drug Dealer
+        - Mall
+            - Mall: Clothes Store
+                - Sales Clerk
+            - Mall: Electronics Store
+                - Sales Clerk
+                - Repairman
+            - Mall: Book Store
+                - Sales Clerk
+                - Librarian
+            - Mall: Furniture Store
+                - Sales Clerk
+            - Mall: Antique Shop
+                - Sales Clerk
+                - Historian
+            - Mall: Arcade
+            - Drug Dealer
+        - Beach
+            - Life Guard
+            - Sales Clerk
+        - Publisher
+            - Editor
+            - Writer
+            - Photographer
+            - Sales Representatives
+            - Manager
+        - Sex Shop
+            - Sales Clerk
+        - Nightclub
+            - DJ
+            - Waiter/Waitress
+            - Barkeep
+        - Maid Services
+            - Maid
+            - Manager
+        - Landscaping Services
+            - Gardner
+            - Manager
+        - Clinics 1
+            - Therapist
+            - Physician
+            - Nurse
+        - "Organic" Farms
+            - Farmer
+        - Security Station 2
+            - Guards
+            - Investigator
+        - Slavers' Guild 2
+            - Slavers
+        - Café 1
+            - Barista
+            - Manager
+            - Musician
+        - Diner
+            - Cook
+            - Waiter/Waitress
+            - Manager
+        - Onsen/Hot Springs
+            - Sales Clerk
+            - Masseur/Masseuse
+        - House of Arts
+            - Projectionist
+            - Historian
+            - Artist
+            - Actor
+        - Brothel 2
+            - Whore
+            - Pimp
+            - Bouncer
+        - Plaza (gallows)
+        - Pharmacy 3
+            - Pharmacist
+            - Sales Clerk
+        - Accounting Services
+            - Bureaucrat
+        - Research Institute
+            - Researcher (programming/AI)
+            - Researcher (robotics)
+            - Researcher (chemistry)
+            - Researcher (arcane)
+
+    DILIGENCE DISTRICT:
+        - Residences (high income)
+            - Residents
+            - Maids
+            - Poolboy
+            - Security
+            - Gardner
+        - Fancy Restaurant
+            - Cook
+            - Maitre d'
+            - Waiter
+            - Somelier
+        - Surveillance Services
+            - Sales Representatives
+            - Watchman
+        - Finishing School
+            - Teacher
+            - Principal
+            - Students
+            - Coach
+        - Hotel
+            - Manager
+            - Maid
+            - Barkeep
+            - Dancers
+            - Masseur/Masseuse
+            - Gym Instructor / Swim Teacher
+        - Sports Arena
+            - Athlete
+            - Coach
+            - Gym Instructor
+        - Arcane Arts Division (Abandoned)
+        - Clinics 2
+            - Physician
+            - Nurse
+            - Sales Clerk
+            - Therapist
+        - Security Station 3
+            - Guards
+            - Investigator
+        - Surveillance Services
+            - Watchman
+            - Manager
+        - Café 2
+            - Barista
+            - Manager
+            - Musician
+        - Docks
+            - Robot Supervisor
+            - Bureaucrat
+            - Guards
+        - Marina
+            - Sailor
+            - Deckhand
+        - Warehouses 2
+        - Bank
+            - Moneylender
+            - Manager
+            - Sales Representatives
+            - Sales Clerk
+        - Magic Body Modification
+            - Sales Clerk
+            - Mage
+        - Madam's Girls
+            - Pimp
+            - Whore
+        - Bar 2 / Pub
+            - Barkeep
+            - Waiter/Waitress
+            - Musician
+        - Administration Bureau
+            - Bureaucrat
+        - Security Center and Guards Training
+            - Guard
+            - Police Chief
+            - Investigator
+        - Exotic Emporium
+            - Sales Clerk
+            - Hunter
+        - Human Stables
+            - Veterinarian
+            - Slaver (trainer)
+            - Athlete
+            - Slave
+        - Old Ruins
+        - Pharmacy 4
+            - Pharmacist
+            - Sales Clerk
+        - Petshop
+            - Sales Clerk
+            - Veterinarian
+            - Slaves
+            - Slaver (trainer)
+
+    JUSTICE DISTRICT / HIGH QUARTER:
+        - Temple
+            - Priestess
+            - Temple Slave
+        - Library
+            - Librarian
+            - Students
+        - Council Building
+            - Bureaucrat (assistants)
+            - Council Member
+        - ((Mansions))
+            - Residents
+            - Maid
+            - Cook
+            - Gardner
+            - Waiter/Waitress (butler)
+        - Hospital
+            - Physician
+            - Nurse
+            - Manager
+        - Slavers's Guild 3
+            - Slaver (trainer)
+            - Slave Master
+            - Hunter
+        - Colosseum (fights and races)
+            - Slaver (trainer)
+            - Slaves
+        - Gentlemen's Club (influence and girl services)
+            - Waiter/Waitress
+            - Musician
+            - Pimp
+            - Slaver (trainer)
+            - Slaves
+        - Discreet Mage Conselor
+            - Mage
+        - Park 2 / Botanical Gardens
+            - Agronomer
+            - Scientist
+        - SPA
+            - Masseur/Masseuse
+            - Waiter/Waitress
+            - Sales Clerk
+
+    DIGITAL DISTRICT:
+        - Central Forum (spread rumors and special missions)
+        - Digital Market
+        - Digital Stage
+        - Digital Magazine
+
+
+
+LOCATIONS BY ACTIVITY
+    RESIDENCES
+        # Residences (Slum Houses / Trailer Parks); @Fortitude District
+        # Residences (low income); @Clarity District
+        # Residences (medium income); @Temperance District
+        # Residences (high income); @Diligence District
+        # Residences, (Mansions); @Justice District
+    COMMERCE
+        # Magazine, Digital; @Digital District
+        # Magic - Underground Magic Shop; @Clarity District
+        # Mall: Store, Clothes; @Temperance District
+        # Mall: Store, Electronics; @Temperance District
+        # Mall: Store, Books; @Temperance District
+        # Mall: Store, Furniture; @Temperance District
+        # Mall: Store, Antiques; @Temperance District
+        # Market, Day (leather goods, utensils, produce, farmers, slaves, street food); @Fortitude District
+        # Market, Digital; @Digital District
+        # Market, Night (entertainment, clothes, drugs, whores); @Prudence District
+        # Pharmacy 1; @Fortitude District
+        # Pharmacy 2; @Clarity District
+        # Pharmacy 3; @Temperance District
+        # Pharmacy 4; @Diligence District
+        # Store, Exotic Emporium; @Diligence District
+        # Store, Petshop; @Diligence District
+        # Store, Sex Shop; @Temperance District
+    PUBLIC PLACES
+        # Baths, Public; @Clarity District
+        # Beach; @Temperance District
+        # Docks; @Diligence District
+        # Forum, Central (spread rumors and special missions); @Digital District
+        # Park 1
+        # Park 2 - Botanical Gardens; @Justice District
+        # Plaza (gallows); @Temperance District
+        # Pool, Public; @Clarity District
+        # Ruins, Old; @Diligence District
+        # Sports Arena; @Diligence District
+    PLACES TO EAT
+        # Bar 1; @Clarity District
+        # Bar 2 - Pub; @Diligence District
+        # Café 1; @Temperance District
+        # Café 2; @Diligence District
+        # Inn 1; @Prudence District
+        # Inn 2; @Prudence District
+        # Market, Day (leather goods, utensils, produce, farmers, slaves, street food); @Fortitude District
+        # Restaurant, Diner; @Temperance District
+        # Restaurant, Fancy; @Diligence District
+        # Restaurant, Fast Food; @Clarity District
+        # Tavern 1; @Fortitude District
+        # Tavern 2; @Prudence District
+        # Tavern 3; @Prudence District
+    ENTERTAINMENT
+        # Bar 1; @Clarity District
+        # Bar 2 - Pub; @Diligence District
+        # Beach; @Temperance District
+        # Café 1; @Temperance District
+        # Café 2; @Diligence District
+        # Colosseum (fights and races); @Justice District
+        # Gentlemen's Club (influence and girl services); @Justice District
+        # House of Arts; @Temperance District
+        # Magazine, Digital; @Digital District
+        # Market, Night (entertainment, clothes, drugs, whores); @Prudence District
+        # Nightclub; @Temperance District
+        # Pool, Public; @Clarity District
+        # Sports Arena; @Diligence District
+        # Mall: Arcade; @Temperance District
+    PLACES OF LEARNING
+        # School, Finishing
+        # House of Arts
+    OFFICE ENVIRONMENTS
+        # Administration Bureau; @Diligence District
+        # Bank; @Diligence District
+        # Council Building; @Justice District
+        # Hospital; @Justice District
+        # Processing Bureau; @Prudence District
+        # Publisher; @Temperance District
+        # Services, Accounting; @Temperance District
+        # Services, Surveillance; @Diligence District
+    PLACES TO FIND SERVICE
+        # Auto Shop (automobiles, boats and drone repairs); @Fortitude District
+        # Bank; @Diligence District
+        # Gym Center; @Clarity District
+        # Magic - Discreet Mage Conselor; @Justice District
+        # Marina; @Diligence District
+        # Market, Night (entertainment, clothes, drugs, whores); @Prudence District
+        # Moneylender; @Prudence District
+        # Onsen/Hot Springs; @Temperance District
+        # Piercings and Tattoos - Underground Body Mods (piercings, tattoos and bdsm); @Clarity District
+        # Processing Bureau; @Prudence District
+        # Services, Accounting; @Temperance District
+        # Services, Computer; @Clarity District
+        # Services, Courier Company / Delivery Center; @Clarity District
+        # Services, Detective Services; @Clarity District
+        # Services, Landscaping; @Temperance District
+        # Services, Maids; @Temperance District
+        # Services, Surveillance; @Diligence District
+        # Slavers' Guild 1; @Prudence District
+        # Slavers' Guild 2; @Temperance District
+        # Slavers's Guild 3; @Justice District
+        # SPA; @Justice District
+        # Sports Arena; @Diligence District
+        # Studio, Recording (music, movies, camshows); @Clarity District
+        # Terminal, Automated Buses; @Fortitude District
+        # Wall Repairs Center; @Fortitude District
+
+# Places to get fit:
+## Gym. @Dyson Lane.
+## Park. @Fatgrass Avenue.
+
+# Medical Places:
+## Teaching Hospital. @Julian Road.
+## Plastic Surgery Clinic. @Silver Street.
+## Pharmacy. @Newfound Lane.
+## Veterinary Clinic. @Aquarius Drive.
+## Pharmacology Company. @Flurry Street.
+
+# Sinful places:
+## Sex Shop. @Mooney Lane.
+## Nightclub. @Silver Street.
+## Secret BDSM Club. @Julian Road.
+
+
+
+COMPANIES
+    # Magazine
+    # News
+    # Drones
+    # Pharmaceuticals
+    # Clinics
+    # Power Plant
+    # Energy Plant
+    # Restaurant
+    # Café
+    # Fast Food
+    # Courier
+
+
+
+# Residences:
+## B&B / Sothton House  [no pool]. @Cedar Street.
+## Broken Hotel [pool]. @Silver Street.
+## Shared House [pool]. @Mercer Street.
+## Starbright Apartments Building [no pool]. @Mooney Lane.
+## Wimp Boyfriend's House / Foster House [no pool]. @Mercer Street.
+## Uptight Nurse MILF House / Thompson House [pool]. @Cedar Street.
+## Cuckolded Councilor's House / Smiths House  [no pool]. @Silver Street.
+## Café Owner's House / Ryan House [no pool]. @Cedar Street
+## Rich Plastic Surgeon's House / Masters Big House [no pool]. @Cedar Street.
+## Neighbor's House / Warren House [no pool]. @Cedar Street.
+## Big Deceptively Dangerous Guy House / Cranston House [no pool]. @Cedar Street.
+## Second Boss Doctor House [no pool] / Monroe House [no pool]. @Cedar Street.
+## Principal MILF House / Chatnam House [no pool. @Mercer Street.
+## Trailer Park: Michaels Trailer [no pool]. @Flurry Street.
+## Trailer Park: Vance Trailer [no pool]. @Flurry Street.
+## Trailer Park: Brenton Trailer [no pool]. @Flurry Street.
+## Trailer Park: Adams Trailer [no pool]. @Flurry Street.
+## Trailer Park: Boyd Trailer [no pool]. @Flurry Street.
+## Trailer Park: Harris Trailer [no pool]. @Flurry Street.
+## Gym Chain Owner House / Johnson's Big House [no pool]. @Cherry Lane.
+## Jerk High School Coach House / Hauser Small House [no pool]. @Mooney Lane.
+## Helpful School Guy House / Wallace Small House [no pool]. @Flurry Street.
+## Restaurant Owner House / Greenland Big House [pool]. @Cherry Lane.
+## Shared House 2 [no pool]. @Newfound Lane.
+## Sex Shop Owner's House / Nice Little Longant House [no pool]. @Dyson Lane.
+## Beach Cabanas Owner's House / Vennman House [pool]. @Dyson Lane.
+## Nightclub Owner's House / Laurence House [no pool]. @Mooney Lane.
+## Fitness Blogger Callgirl House / Flowers Nice Little House [no pool]. @Cherry Lane.
+## Sherwood Apartments Building [no pool]. @Aquarius Drive.
+## First Puppy's House / Schwarz House. @Aquarius Drive.
+## Castelli House [no pool]. @St Nicholas Street.
+## Sussman House [no pool]. @St Nicholas Street.
+## Shared House 3 [no pool]. @St Nicholas Street.
+## Veterinarian's House / Grant House [no pool]. @St Nicholas Street.
+## Overworked Young Master's House / Collins House [no pool]. @St Nicholas Street.
+## Griffin Mansion [pool]. @Coriolis Lane, The Shelves.
+## Magazine Publisher Director's House / Dubois Mansion [pool]. @Coriolis Lane, The Shelves.
+## Witch House / Glarindale House [no pool]. @Coriolis Lane, The Shelves.
+## Lesbian Sweetheart Teen's House / White House [no pool]. @Dyson Lane.
+## Doctor Family House / Koch House. @Coriolis Lane, The Shelves.
+## First Puppy Owner's House / Clearing's House [pool]. @Coriolis Lane, The Shelves.
+## Ravelli Estate [pool]. @Coriolis Lane, The Shelves.
+## Connors House [no pool]. @Cramdoin Drive, The Shelves.
+## Arlington Estate [no pool]. @Cramdoin Drive, The Shelves.
+
+
+
+
+- The Directorate Center is where the richest and most influential people of the District live. The houses there look like mansions. It is also where the Council meets to take decisions that impact the entire District and even the whole Enclave.
+- The Services Center is where people find shops of all kinds and the offices of some of the companies providing services to the district and enclave.
+- The Education Center is where people under 21 years old attend the mandatory Finishing Education classes and other people can attend Specialized Education clases - necessary to get a good job in the Enclave. Citizes sometimes have to undertake mandatory Re-Education clases here, too.
+- The Lodgings is the largest area of the District. It is where people have their homes - which range from single room affairs to houses with several bedrooms. There are communal showers and baths throughout the area too, as well communal kitchens and the public restaurant.
+- The Recreation Center is the area people go to relax and spend some of their income on ephemerals. There is a park in the area, a public pool, a sports arena, a gym center, a couple of bars and a restaurant. There are often people performing music, poetry or even a little acting around here.
+- The Enlightenment Center is where the public library is found as well as a temple, an arcane arts division and the House of Arts (museum, art gallery and stage for theater, movies, music and dancing).
+- The Control Center is where the surveillance station and security station can be found.
+- The Health Center is where the clinics can be found. There is also a veterinarian and a pharmacy.
+- The Production Center is the second largest area of the District. It is where manufacturing plants can be found, as well as the farms.
+- The Processing Center is near the District Gates. Everyone entering the District must go through the Processing Center. When gengineered were still being produced, they came from the Processing Center too.
+- The Digital Center is not actually a physical location, but a virtual place where entertainment can be found. Music, plays and porn can be found online in the Digital Center, as well as some training material for very specific skills.
+

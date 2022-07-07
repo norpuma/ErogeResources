@@ -1,0 +1,54 @@
+/*
+
+# Mr Alec Maxim
+    ## Male|Dom
+    ## Male (DILF)
+    ## Inspired by: Real Porn - Steve Holmes; Dr Diggler - Dr Diggler
+    -- Details: School councilor; shard owner; corruptor; programmed some of the girls in town.
+
+* Introduce yourself
+* Say "Hello"
+* Increase intimacy (learn more about her, share more about you)
+* Be complimentary
+* Be demeaning
+* Invite on date
+* Sex Acts
+* Commerce
+
+
+* Introduce yourself
+"Hello, sir. I don't know if you remember me-"
+
+"Oh, yes. Hello, Mr $protagonist.lastName. I remember you. Although, I guess I should call you $protagonist.diminutiveName, now that you are a janitor here at $school.name."
+
+You make a face, not comfortable with him using that name. But you guess you shouldn't confront him about it. "Uh, yes, sir. I guess you can call me $protagonist.diminutiveName."
+
+"Well, you can clean up in here. I was about to leave, anyway. Just, don't touch the drawers. Let me repeat it, DON'T TOUCH THE DRAWERS!" He said that last in a raised voice while keeping eye contact to convey how serious he was.
+
+
+* Say "Hello"
+"Yeah, yeah. Hello, $protagonist.diminutiveName."
+
+
+You try one of the drawers and finds that it is locked.
+
+While cleaning some of the books, you dislodge a key. You wonder if it opens the locked drawers.
+
+- It is a shard of some blue crystal. It looks a lot like what Mr Maxim was using on Kate that time.
+- There is a mobile phone in the drawer.
+
+You take the object with you.
+
+
+"Come in here. Maybe I should educate you!"
+
+
+*/
+
+::School Counselor - Initialization
+<<nobr>>
+    <<set $schoolCounselor = new BaseCharacter("Alec")>>
+    <<run $schoolCounselor.setNames({firstName: "Alec", lastName: "Maxim"})>>
+<</nobr>>
+
+::School Counselor - Relationships

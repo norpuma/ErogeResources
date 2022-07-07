@@ -1,0 +1,186 @@
+::Mother - Initialization
+<<nobr>>
+    <<set $mother = new BaseCharacter("Mom", "female")>>
+    <<set $mother.title = "mom">>
+    <<set $mother.firstName = "Clarice">>
+    <<set $mother.lastName = "Emerson">>
+    <<run $mother.goTo($home)>>
+    <<set $mother.updateFunction = motherUpdate>>
+    <<set $mother.relationships = {}>>
+<</nobr>>
+
+::Mother - Further Initialization
+<<nobr>>
+    <<set $mother.relationships[$protagonist] = {}>>
+    <<set $mother.relationships[$protagonist].name = "Jakey">>
+<</nobr>>
+
+::Mom - Visit at Home
+<<switch $mother.activity>>\
+    <<case "TV">>\
+        <<goto "Mom - Visit at Home - TV">>
+        <<break>>\
+    <<case "Sleeping">>\
+        <<goto "Mom - Visit at Home - Sleeping">>
+        <<break>>\
+<</switch>>\
+
+::Mom - Visit at Home - TV
+You find your mother in the living room, browsing for a movie to watch.
+
+[[Spend time with mom.|Mom - Spending Time in TV Room]]
+[[Suggest you watch a movie togehter.|Mom - Watching Movies with Protagonist - Invitations]]
+[[Nevermind|back]]
+
+::Mom - Spending Time in TV Room
+You take a seat beside Mom, joining her while she watches TV.
+
+/* TODO: Add hub options for sex choices. */\
+<<run progressToNextTimeSlice()>>\
+The two of you are soon talking and paying little attention to what is going on in the tv.
+[[Continue|Protagonist - Room Activities]]
+            
+::Mom - Watching Movies with Protagonist - Invitations
+    <<set _protagonist = $mother.relationships[$protagonist].name>>\
+    <img src="img/Characters/Mom_Jennifer/Mom_Casual.png" align="right" height=600>\
+    @@.protagonist_talk;"Hey mom."@@
+
+    @@.mother_talk;"Hi, how are you doing?"@@
+
+    @@.protagonist_talk;"Pretty well, enjoying the new job and trying to make the most out of the experience."@@
+
+    @@.mother_talk;"That's a great attitude to have."@@
+
+    @@.protagonist_talk;"Hey mom, it's been a long week for you. How about throw a movie on the TV and spend some time together?"@@
+
+    <<if $youngerSister.location == $home.uniqueID and $olderSister.location == $home.uniqueID>>\
+        @@.mother_talk;"Sounds like a great idea _protagonist. I'll wash the dishes quickly, you go and ask your sisters if they'd like to join."@@
+
+        [[Call both girls.|Mom - Watching Movies with Protagonist - Invitations - Both Sisters]]
+        [[Call only $youngerSister.name.|Mom - Watching Movies with Protagonist - Invitations - Younger Sister]]
+        [[Call only $olderSister.name.|Mom - Watching Movies with Protagonist - Invitations - Older Sister]]
+        [[Pretend to, but not actually call anynone.|Mom - Watching Movies with Protagonist - Pretend to Invite Sisters]]
+    <<elseif $youngerSister.location == $home.uniqueID>>\
+        @@.mother_talk;"Sounds like a great idea _protagonist. I'll wash the dishes quickly, you go and ask your sister if she'd like to join."@@
+
+        <<link "Call $youngerSister.name." "Mom - Watching Movies with Protagonist - Invitations - Younger Sister">><</link>>
+        [[Pretend to, but not actually call anynone.|Mom - Watching Movies with Protagonist - Invitations - Pretend to Invite Sisters]]
+    <<elseif $olderSister.location == $home.uniqueID>>\
+        @@.mother_talk;"Sounds like a great idea _protagonist. I'll wash the dishes quickly, you go and ask your sister if she'd like to join."@@
+
+        <<link "Call $olderSister.name.">><</link>>
+        [[Pretend to, but not actually call anynone.|Mom - Watching Movies with Protagonist - Pretend to Invite Sisters]]
+    <<else>>\
+        @@.mother_talk;"Sounds like a great idea _protagonist. I'll wash the dishes quickly and come join you."@@
+
+        [[Start a movie with mom.|Mom - Watching Movies with Protagonist - The Movie]]
+    <</if>>\
+
+::Mom - Watching Movies with Protagonist - Invitations - Younger Sister
+You head over to $youngerSister.name's room and knock.
+@@.youngerSister_talk;"It's open!"@@
+<img src="img/Characters/Sister_Lily/Lily_Casual.png" align="right" height=600>\
+
+@@.youngerSister_talk;"Hey, what's up?"@@
+
+@@.protagonist_talk;"Me and mom are going to watch a movie, want to join us?"@@
+
+$youngerSister.name checks her phone.
+
+@@.youngerSister_talk;"Sure, my friends cancelled so I'm home for the evening. I'm in, let's go."@@
+
+You return to the living room with $youngerSister.name following you.
+
+[[Continue|Mom - Watching Movies with Protagonist - The Movie]]
+
+::Mom - Watching Movies with Protagonist - Invitations - Older Sister
+There is light escaping from under $olderSister.name's bedroom door. You knock on it and a moment later she comes out.
+
+<<set _protagonist = $olderSister.relationships[$protagonist].name = "Wanker">>
+@@.olderSister_talk;"What is it, _protagonist?"@@ She asks, acid dripping from her voice.
+
+You realize it was a bad idea coming to get her, but now you are committed.
+
+@@.protagonist_talk;"I'm going to watch a movie downstairs with mom and she wanted me to invite you."@@
+
+She sniffs in disdain and looks at you as you were a worm. Then, she looks away a bit, seeming to think, and relaxes. @@.olderSister_talk;"Actually, I would like that. Let's go."@@
+
+She closes her bedroom's door behind her and follows you back to the living room.
+
+[[Continue|Mom - Watching Movies with Protagonist - The Movie]]
+
+::Mom - Watching Movies with Protagonist - Invitations - Both Sisters
+As you take the stairs up, you consider that it would be better to have $youngerSister.name's backup before you go talk to $olderSister.name.
+
+You head over to $youngerSister.name's room and knock.
+@@.youngerSister_talk;"It's open!"@@
+<img src="img/Characters/Sister_Lily/Lily_Casual.png" align="right" height=600>\
+
+@@.youngerSister_talk;"Hey, what's up?"@@
+
+@@.protagonist_talk;"Me and mom are going to watch a movie, want to join us?"@@
+
+$youngerSister.name checks her phone.
+
+@@.youngerSister_talk;"Sure, my friends cancelled so I'm home for the evening. I'm in, let's go."@@
+
+<<set _Mom = capitalize($mother.title)>>\
+@@.protagonist_talk;"_Mom also wanted me to come get $olderSister.name too."@@
+
+$youngerSister.name brightened at that. @@.youngerSister_talk;"Yay! All of us together!"@@
+
+With your sister in tow, you manage to persuade $olderSister.name to join pretty easily.
+
+@@.olderSister_talk;"Let's go, then,"@@ she says, trying to affect a bored tone, but you can see she is happy before the three of you go downstairs to join $mother.title.
+
+[[Continue|Mom - Watching Movies with Protagonist - The Movie]]
+
+::Mom - Watching Movies with Protagonist - Invitations - Pretend to Invite Sisters
+You head out of the kitchen and go upstairs, then wait a minute in the upstairs bathroom. Once enough time has passed you rejoin your mom in the living room.
+<img src="img/Characters/Mom_Jennifer/Mom_Casual.png" align="right" height=600>\
+
+@@.protagonist_talk;"I couldn't find anyone. Perhaps the girls already had plans."@@
+
+[[Continue|Mom - Watching Movies with Protagonist - The Movie]]
+
+::Mom - Watching Movies with Protagonist - The Movie
+/*
+    Romantic movie.
+    Horror movie.
+    Porn.
+    Let her choose.
+*/\
+<<if $youngerSister.activity == "TV" and $olderSister.activity == "TV">>\
+    You sit on the floor, by the couch, while the girls sit on it.
+
+<<elseif $youngerSister.activity == "TV" or $olderSister.activity == "TV">>\
+    You sit on the couch between the girls.
+
+<<else>>\
+    The two of you sit on the couch together.
+
+<</if>>\
+You scroll through movies discussing the merits of each and eventually agree on a comedy.
+
+About an hour later, mom pauses the movie.
+
+<<set _protagonist = $mother.relationships[$protagonist].name>>\
+@@.mother_talk;"I'm going to make us some popcorn. Could you get us something to drink, _protagonist?"@@
+
+@@.protagonist_talk;"Sure, no problem. Back in a moment."@@
+
+You return with a tray with glasses of juice. Each of you take a glass and you resume the movie.
+
+<<run progressToNextTimeSlice()>>\
+At the end of the movie you are all in a good mood and bid each other goodnight before heading to your own rooms.
+
+[[Continue|Protagonist - Room Activities]]
+
+::Mom - Visit at Home - Sleeping
+Your mother is asleep. You observe how relaxed she looks like that and realize she is under a lot of stress lately.
+
+/* TODO: Add night creeping options. */\
+You decide not to bother her.
+
+::Mom - Empty Bedroom Visit
+You enter your mother's room. It is clean and tidy, as you would have expected. You look around, but don't dare touch anything.

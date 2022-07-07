@@ -1,0 +1,265 @@
+::Protagonist - Arriving at the Dreams Hotel for the First Time
+As you arrive at the Dreams Hotel, you realize the pictures you found online were pretty recent as the hotel looks exactly like it did in those - that is, not at atll in a good shape.
+
+A young blonde woman stands in front of the hotel, wearing a business suite and holding a briefcase. She waves when she notices you.
+
+@@.girl_talk;"Mr $protagonist.names.lastName!"@@ She smiles as you approach. @@.girl_talk;"I'm Penny Angler. We talked on the phone."@@
+
+She shakes your hand and fishes a keyring with a few keys and hands it to you.
+
+@@.girl_talk;"These are the keys to the outside entrances. The doors inside don't have any keys. They used to lock using a card system, but it has been deactivated and the doors are all unlocked. With this, my participation here is done. Do you want a brief history of the hotel before I go?"@@
+
+<span id="hotel_introduction_by_penny">\
+<<link "\"Yes, please. Tell me about the hotel.\"">><<replace "#hotel_introduction_by_penny">>@@.protagonist_talk;"Yes, please. Tell me about the hotel."@@
+
+<<include "Hotel Introduction - By Penny">>
+
+<<include "Introduction - Penny Asks Some Questions">><</replace>><</link>>
+<<link "\"No. Thank you.\"">><<replace "#hotel_introduction_by_penny">>@@.protagonist_talk;"No. Thank you."@@
+
+<<include "Introduction - Penny Asks Some Questions">><</replace>><</link>>
+</span>\
+
+::Introduction - Penny Asks Some Questions
+<<include "Pennys Questions - Default Values">>\
+@@.girl_talk;"Now, would you mind answering me a few questions regarding Ms Carlson?"@@
+
+You have a feeling you should help Penny and answer truthfully.
+
+<span id="introduction_pennys_questions">\
+/*TODO: Remove. <<link "Nod in agreement.">><<replace "#introduction_pennys_questions">><<include "Introduction - Pennys Questions - Sarah's Marriage">><</replace>><</link>>*/\
+<<link "Nod in agreement." "Introduction - Pennys Questions - Sarah's Marriage">><</link>>
+<<link "(Skip setup and use defaults) \"I don't have time for that, right now.\"">><<replace "#introduction_pennys_questions">><<include "Introduction - Skip Additional Setup and Use Defaults">><</replace>><</link>>
+</span>
+
+::Introduction - Penny Makes Her Goodbyes
+<<run setPennysQuestionsToSystem()>>\
+@@.girl_talk;"If that is all, I am done here. Good luck, Mr $protagonist.names.lastName."@@ She smiles at you a last time and leaves. You have a feeling you will not soon see her again.
+
+[[Continue.|Introduction - Finish Introduction Day]]
+
+::Hotel Introduction - By Penny
+@@.girl_talk;"The Dreams Hotel dates from before the Enclave. It was once modern and luxurious, catering to the most distinguised visitors."@@ She starts, seeming happy to do some recounting. She
+
+@@.girl_talk;"Once the Enclave closed its borders, the visitors started becoming more and more infrequent. When Mr Abraham Carlson bought the place, it was already far from its prime. Mr Abraham had worked at the hotel and it seems he had a sentimental attachment to the place. He refused to take a mortgage on it. Portions of the hotel had to be closed one by one over time, as the owners simply didn't have enough money to keep the whole place running."@@
+
+@@.girl_talk;"Mr Abraham recently passed away and after only an year of jumping through bureaucratic hoops, our office was able to conclude the transference of the dee to Ms Carlson. She is a school teacher, from what I understand."@@
+
+@@.girl_talk;"Ms Carlson already invested some money on the hotel. A crew has been working here since last week. They finished fixing a room and the common bathrooms on the second floor. I think those are reserved for your usage. They didn't seem to know what to fix next, though."@@
+
+::Pennys Questions - Default Values
+<<nobr>>
+    <<set $pennysQuestions_isSarahMarried = true>>
+    <<set $pennysQuestions_doesSarahHaveTeenageDaughter = true>>
+    <<set $pennysQuestions_doesSarahHaveYoungAdultDaughter = true>>
+    <<set $pennysQuestions_doesSarahsYoungAdultDaughterLiveByHerself = false>>
+    <<set $pennysQuestions_doesSarahHaveTeenageSon = true>>
+    <<set $pennysQuestions_SarahTeenageSonsName = "Jacob">>
+    <<set $pennysQuestions_doesSarahHaveYoungAdultSon = true>>
+<</nobr>>\
+
+::Introduction - Skip Additional Setup and Use Defaults
+@@.protagonist_talk;"I don't have time for that, right now."@@
+
+@@.girl_talk;"Of course,"@@ she nods, nonplussed.
+
+<<include "Introduction - Penny Makes Her Goodbyes">>
+
+::Introduction - Pennys Questions - Sarah's Marriage
+After you nod, she pulls up a picture on her phone and shows it to you.
+
+@@.girl_talk;"Is this Ms Carlson?"@@
+
+She shows you the picture of a mature blond woman in very good shape. It is, indeed, Sarah Carlson.
+
+@@.protagonist_talk;"Yes. That is her,"@@ you say simply.
+
+@@.girl_talk;"My file says she is married to a Mr Harold Carlson. Is that the case?"@@
+
+<span id="introduction_questions_sarah_marital_situation">\
+<<link "Yes. They are still married.">><<set $pennysQuestions_isSarahMarried = "yes">><<replace "#introduction_questions_sarah_marital_situation">>@@.protagonist_talk;"Yes. They are still married."@@
+
+<<include "Introduction - Pennys Questions - Sarah's Children">><</replace>><</link>>
+<<link "They were married once, but they are divorced, now.">><<set $pennysQuestions_isSarahMarried = "no">><<replace "#introduction_questions_sarah_marital_situation">>@@.protagonist_talk;"They were married once, but they are divorced, now."@@
+
+<<include "Introduction - Pennys Questions - Sarah's Children">><</replace>><</link>>
+</span>\
+
+::Introduction - Pennys Questions - Sarah's Children
+@@.girl_talk;"Ok. Thanks."@@ She taps something on her phone. @@.girl_talk;"I also have that she adopted four kids. Are they still with her?"@@
+
+She looks up a list.
+
+@@.girl_talk;"I have Kelly, adopted when she was two years old. She should be eighteen, now. Jacob, adopted when he was eight, he should be eighteen, now, too. Tyrone, adopted when he was twelve. He should be twenty-three, now. And, finally, Victoria, adopted when she was thirteen, she should be twenty-two, now."@@
+
+<<include "Introduction - Pennys Questions - Sarah's Children - About Kelly">>
+
+<<include "Introduction - Pennys Questions - Sarah's Children - About Jacob">>
+
+<<include "Introduction - Pennys Questions - Sarah's Children - About Victoria">>
+
+<<include "Introduction - Pennys Questions - Sarah's Children - About Tyrone">>
+
+@@.girl_talk;"Thank you for your answers."@@
+
+<<include "Introduction - Penny Makes Her Goodbyes">>
+
+::Introduction - Pennys Questions - Sarah's Children - About Kelly
+@@.girl_talk;"Is my information right about Kelly?"@@
+
+<span id="pennys_questions_about_kelly">\
+<label><<radiobutton "$pennysQuestions_doesSarahHaveTeenageDaughter" true autocheck>> @@.protagonist_talk;"Yes. Kelly is 18 and still with Sarah."@@</label>
+<label><<radiobutton "$pennysQuestions_doesSarahHaveTeenageDaughter" false autocheck>> @@.protagonist_talk;"I guess Kelly is 18, now, but she hasn't lived with Sarah for a long time. Her mother came to claim her."@@</label>
+/*<<link "\"Yes. Kelly is 18 and still with Sarah.\"">><<replace "#pennys_questions_about_kelly">><<set $pennysQuestions_doesSarahHaveTeenageDaughter = true>>@@.protagonist_talk;"Yes. Kelly is 18 and still with Sarah."<</replace>><</link>>
+<<link "\"I guess Kelly is 18, but she hasn't lived with Sarah for a long time.\"">><<replace "#pennys_questions_about_kelly">><<set $pennysQuestions_doesSarahHaveTeenageDaughter = false>>@@.protagonist_talk;"I guess Kelly is 18, but she hasn't lived with Sarah for a long time."<</replace>><</link>>*/\
+</span>\
+
+::Introduction - Pennys Questions - Sarah's Children - About Jacob
+<<if ($protagonistForm.relationToOwner != "son") && ($protagonistForm.firstName != "Jacob")>>\
+    @@.girl_talk;"And is my information right about Jacob?"@@
+    
+    <span id="pennys_questions_about_jacob">\
+        <label><<radiobutton "$pennysQuestions_doesSarahHaveTeenageSon" true autocheck>> @@.protagonist_talk;"Yes. Jacob is Sarah's 18 year-old son."@@</label>
+        <label><<radiobutton "$pennysQuestions_doesSarahHaveTeenageSon" true autocheck>> @@.protagonist_talk;"Yes. Sarah has an 18 year-old son, but his name is <<textbox "$pennysQuestions_SarahTeenageSonsName" "Jacob">>."@@</label>
+        <label><<radiobutton "$pennysQuestions_doesSarahHaveTeenageSon" false autocheck>> @@.protagonist_talk;"No, Sarah has no teenager son."@@</label>
+    </span>\
+<<else>>\
+    @@.girl_talk;"And is my information right about Jacob? Is that supposed to be you?"@@
+
+    <<if $protagonistForm.relationToOwner == "son">>\
+        <<if $protagonistForm.firstName == "Jacob">>\
+            @@.protagonist_talk;"Yes, that's me."@@
+        <<else>>\
+            @@.protagonist_talk;"Yes, that's me. But my name is actually $protagonist.firstName."@@
+        <</if>>\
+    <<else>>\
+        <label><<radiobutton "$pennysQuestions_doesSarahHaveTeenageSon" true autocheck>> @@.protagonist_talk;"Sarah has an 18 year-old son. However, his name is <<textbox "$pennysQuestions_SarahTeenageSonsName" "Anton">>."@@</label>
+        <label><<radiobutton "$pennysQuestions_doesSarahHaveTeenageSon" false autocheck>> @@.protagonist_talk;"No, Sarah has no teenager son."@@</label>
+    <</if>>
+<</if>>\
+
+::Introduction - Pennys Questions - Sarah's Children - About Victoria
+@@.girl_talk;"What about Victoria? Is my information right about her?"@@
+
+<span id="pennys_questions_about_victoria">\
+<label><<radiobutton "$pennysQuestions_doesSarahHaveYoungAdultDaughter" true autocheck>> @@.protagonist_talk;"Yes, your information is correct."@@</label>
+<label><<radiobutton "$pennysQuestions_doesSarahsYoungAdultDaughterLiveByHerself" true autocheck>> @@.protagonist_talk;"And Victoria still lives with Sarah."@@</label>
+<label><<radiobutton "$pennysQuestions_doesSarahsYoungAdultDaughterLiveByHerself" false autocheck>> @@.protagonist_talk;"Victoria now lives by herself, though."@@</label>
+<label><<radiobutton "$pennysQuestions_doesSarahHaveYoungAdultDaughter" false autocheck>> @@.protagonist_talk;"I don't think that is right, no."@@</label>
+</span>\
+
+::Introduction - Pennys Questions - Sarah's Children - About Tyrone
+@@.girl_talk;"And what about Tyrone?"@@
+
+<span id="pennys_questions_about_tyrone">\
+<label><<radiobutton "$pennysQuestions_doesSarahHaveYoungAdultSon" true autocheck>> @@.protagonist_talk;"Yes, that is true."@@</label>
+<label>  <<radiobutton "$pennysQuestions_doesSarahsYoungAdultDaughterLiveByHerself" true autocheck>> @@.protagonist_talk;"Tyrone even still lives with Sarah."@@</label>
+<label>  <<radiobutton "$pennysQuestions_doesSarahsYoungAdultDaughterLiveByHerself" false autocheck>> @@.protagonist_talk;"Tyrone lives on his own, nowadays."@@</label>
+<label><<radiobutton "$pennysQuestions_doesSarahHaveYoungAdultSon" false autocheck>> @@.protagonist_talk;"There is a slight mistake in your information. Tyrone is actually Sarah's nephew."@@</label>
+<label><<radiobutton "$pennysQuestions_doesSarahHaveYoungAdultSon" false autocheck>> @@.protagonist_talk;"There is no Tyrone, no."@@</label>
+</span>\
+
+::Introduction - Finish Introduction Day
+You had a long day and you can't wait to hit the bed.
+
+You barely notice your surroundings as you leave your bags in the only bedroom on the second floor that looks minimally usable and take a quick shower.
+
+You spend an hour on your phone doing some meaningless browsing and, before you know it, you are asleep.
+
+[[Continue.|Start First Day]]
+
+::Start First Day
+You wake up in this stranger's bedroom. It takes some time before you remember you moved into the Dreams Hotel, an empty shell of a hotel that your ;;; inherited and that you are helping prepare. Tired as you were, yesterday, you went to bed early and now you are up earlier than you need.
+
+In the Enclave, teenagers between eighteen and twenty-one must go to the Finishing School, and you are no exception.
+
+You have prepared a schedule to help you adapt to this new life. Before checking it up, though, you take advantage of having woken up earlier than needed and unpack some of your stuff.
+
+Having finished unpacking, you take a look at yourself in the bathroom mirror.
+
+[[Check yourself.|Checking Self in Mirror - First Time]]
+
+::Checking Self in Mirror - First Time
+???
+
+::Morning Routine
+/* TODO: Create a morning routine list. */\
+You clean up, change and get ready for the day.
+
+<<include "Available Morning Events">>
+
+<<include "Available Morning Actions">>
+
+::Available Morning Events
+/*
+    - Standard breakfast.
+    - Nice Guy breakfast with mom.
+    - Jerk breafast with mom.
+    - Prepare breakfast for family.
+    - Clean kitchen before breakfast.
+    - 
+
+
+# Kitchen
+## Breakfast
+### Nice Breakfast with Mom
+### Sister Homework Last Minute Help
+### Corruptive Breakfast for Family
+### Clean Kitchen for Mom's Breakfast
+### Sister Winces After Spanking
+## Dinner
+### Sister Tells about School over Dinner
+### Mother Tells about Self over Dinner
+### Sister Teases in Skimpy Clothes
+### Under the Table Sister Blowjob
+### Invitation to Fuck Mom in Bedroom
+## Washing Dishes
+### No One Notices
+### Mom is Appreciative
+### Mom is Splashed with Water
+### Fixing the Garbage Disposal
+#### Mom Rewards Garbage Disposal Fix
+
+*/
+
+::Available Morning Actions
+
+::Standard Breakfast
+You take a quick breakfast and hurry out.
+
+::Nice Guy - Breakfast with Mom
+You find your step-mother in the kitchen and share a nice breakfast.
+
+<<speech $protagonist>>"Thanks for the breakfast, mom."<</speech>>
+
+<<if $stepMother.appreciation >= 10>>\
+    <<speech $stepMother>>"You are welcome. Now, hurry off."<</speech>>
+<<elseif $stepMother.appreciation >= 10>>\
+    <<speech $stepMother>>"Of course sweety, breakfast is the most important meal of the day!"<</speech>>
+<<else>>\
+    She looks at you and turns around without a word. She is still pretty cold towards you.
+<</if>>\
+
+/* TODO: Increase stepMother appreciation stat. */\
+
+::Nice Guy - New Normal - Prepare Breakfast for Family
+/* TODO: As their Corruption increases, cook naked and in chastity for Sister and Mother */\
+You go into the kitchen early and get busy preparing breakfast for everyone. No one shows any appreciation, but you know they are glad for your efforts.
+
+::Nice Guy - Prepare Breakfast for Family
+You go into the kitchen and you are the first one there.
+
+$stepMother.names.standard would probably appreciate an omelette. And $littleSister.names.standard doesn't each much more than some cereal, in the morning, but you can setup a nice table for them.
+
+Both women are delighted at finding everything set. They smile as they eat and voice their appreciation.
+
+/* TODO: Increase stepMother and littleSister appreciation stat. */
+/* TODO: Mark protagonist.preparedBreakfastForEveryone. */
+
+::Nice Guy - Step Mother - Protagonist should be Regular Breakfast Cook
+You get into the kitchen and find your step-mother there, seemingly waiting for you.
+
+<<speech $stepMother>>"That breakfast you did the other day was pretty nice. I was thinking you should be in charge of breakfast from now on," she suggests, without much preamble. "What do you think?"<</speech>>
+
+/* TODO: Give the option of being Jerk or Nice Guy */
+

@@ -1,0 +1,181 @@
+/*
+
+
+- Becomes an investor and a major voice in the hotel's administration.
+- Dominates Lin.
+- Leads a proxy war against Ellen.
+- Turns the hotel into a versatile place of pleasure.
+- Becomes the Enclave's leader.
+
+
+Mike as Hotel investor:
+- Reveals he is a top investor of the drone security company.
+- Complains about food.
+- Complains about room cleaning.
+- Offers to invest in the hotel's surveillance system.
+- Offers some extra money invested in the hotel (training for the cook and new - sluttier - uniforms).
+- (Finds some convenience in helping the Swim Instructor.)
+- (Opens the bar.)
+- (Opens the massage parlor.)
+- (Opens the medical area.)
+- (Opens the strip club.)
+- (Opens the onsen.)
+- Trains the bar girls to accept some pawing.
+- Trains the bar girls to sit on customers' laps.
+- During migrant wave, there is place of the wealthy and the opportunity to house new slaves.
+- Invests in slave hunting operation.
+- During refugee wave, gets a lot of slaves.
+
+
+
+- (Opens the bar.)
+- (Opens the massage parlor.)
+- (Opens the medical area.)
+- (Opens the strip club.)
+- (Opens the onsen.)
+- 
+
+Sex Temple is the opposition.
+
+
+
+
+Mike as Councilman:
+- Reveals he is a top investor of the drone security company.
+- Votes against weather cladding (loses face after the storm).
+- Pledges some of his security drones to help with the town's security.
+- Votes against sex temples. (he wants the population sexually frustrated)
+- Votes in favor of state slavery by debt.
+- Drones help protect against raider attack. Gains influence.
+- Votes against water reclamation system. When there is a water shortage, he loses influence, but he wins a lot of money (he had invested in some private water cleansers).
+- Votes in favor of transmission lines.
+- During energy shortage, gains influence for having voted for the transmission lines.
+- Votes for expansion.
+- Votes for pheromone additives.
+- Votes for chastity belt for pervs (three accusations with witnesses).
+- Votes in favor of allowing strip clubs. Reforms part of the hotel into a strip club.
+- Votes against women political rights.
+- Votes for enslavement of wanton sluts - women who can't control their desires.
+- Votes for water additive. Makes population healthier, but also enlarges black male penises and shrinks white male penises.
+- Votes for black men superiority.
+- Votes for mandatory chastity. Black males are the only ones who can open cock cages.
+
+
+Mike and Kali:
+- Kali comes live at the hotel.
+- (Kali: Suggests that Kali could work at the hotel)
+
+Mike and Bellboy:
+- Observes the bellboy arriving at the Hotel.
+- Observes the bellboy is the new manager's step-son.
+- Observes the bellboy getting friendly with Lin.
+- Gives the bellboy some opportunities to spy on the staff and hosts. Gets him caught. Gets him painted as a pervert.
+- Accepts bellboy's request to get Lin some sex-activating pheromones.
+- (Gets the bellboy to meet one of his conspirators against Ellen.)
+- Puts the bellboy in a chastity cage.
+- (Gets the bellboy to serve a femdom.)
+
+Mike and Ellen:
+
+
+
+
+
+
+*/
+
+::Initializations - Councilman
+<<nobr>>
+    <<set $councilmanTenant = new BaseCharacter("Mike")>>
+    <<set $protagonist = $councilmanTenant>>
+    <<set $protagonist.pocketMoney = 1000>>
+    <<set $protagonist.investmentMoney = 100000>>
+    <<set $protagonist.influence = 50>>
+    <<set $originalHotelOwner = new BaseCharacter("Abraham")>>
+    <<set $femdomManager = new BaseCharacter("Ellen")>>
+    <<set $elfMaid = new BaseCharacter("Lin")>>
+    <<set $newHotelOwner = new BaseCharacter("Bob")>>
+    <<set $bellboy = new BaseCharacter("Jake")>>
+    <<set $swimInstructor = new BaseCharacter("Troy")>>
+    <<set $bitchyTenant = new BaseCharacter("Kali")>>
+<</nobr>>\
+
+
+::Start - Councilman
+The world has gone to shit, but you had the foresight and the willpower to make something out of it.
+
+You realized what was going to happen early and moved, with your family, to one of the Enclaves - Pride. You used your technical background, there, to build a surveillance company.
+
+It took you several years of dedication and political savvy, but you became a force to be reckonned in the Pride Enclave, a major businessman and a member of the Council. It just cost you your marriage and any sense of fun.
+
+You moved into the Dreams Hotel, after your wife threw you out. It is rather broken down, but it has a lot of potential. You are trying to just enjoy the fruits of your labor, but you can't help but feel like this place could be your next big project.
+
+You don't have to go to the company, anymore, but everytime you go, you get a little extra pocket money. You have to attend Council meetings three times a week. If you go more than that, you can usually play the back channels and gain some more influence.
+
+**
+
+Dreams - the hotel - is owned by some old geezer named $originalHotelOwner.name, but it is actually managed by a woman, $femdomManager, who seems too smart to have let the hotel go into this pityable state by accident. She also has gotten an immediate dislike for you.
+
+The hotel is in serious need of improvements. It has a great structure and a large area, but it provides mediocre foods, no services beyond room cleaning and laundry and has virtually no staff.
+
+<<include "Councilman - Storyline - Elf Maid - Introduction">>
+
+**
+
+You decide to complain about the hotel's food, to see if you can lower it's apparent value. $femdomManager.name is not at her place, on the front desk, and you decide the complaint will not have the same impact if just brought to her.
+
+You go looking for $femdomManager.name at the servant's quarter and find, to your surprise, that she has a guest room. You find her door slightly ajar and, when you step in, you find $femdomManager.name in her small clothes. She screams at you and this does not seem to place her in the mood to hear any complaints about the food.
+
+At night, you approach $originalHotelOwner.name. The old man tells you the place is his life's work and that he will not sell at any cost. You leave, disappointed.
+
+**
+
+You thought your involvement in the day-to-day affairs of the company were over, but a recent breakthrough demands your attention. You will have to spend several days at the office.
+
+**
+
+The breakthrough was well worth your involvement. It seems your engineers were able to generate a brighter than usual AI. You realized the potential of this and needed several days to check on the possibility of using your surveillance drones to provide automated security around the Enclave. You have your team preparing some prototypes and, for now, you can go back to your semi-retirement.
+
+**
+
+Old $originalHotelOwner.name just passed away. It was somewhat surprising, but you immediately ask your lawyers to check if you can acquire the Dreams Hotel. It still seems a worthy investment. It appears, at first, that the old man didn't leave any testaments and has no descendants. The hotel may go up for auction!
+
+You enter into a row with $femdomManager.name. She learned of your intentions of acquiring the hotel and is not at all happy. You tell her you are looking for investment opportunities, she calms down, but does not seem entirely convinced.
+
+**
+
+An heir to old $originalHotelOwner.name just appeared out of nowhere - $newHotelOwner.name. $femdomManager.name provided documents and old pictures to support his claim of inheritance. This just muddied the inheritance situation.
+
+The new hotel owner is some middle-aged man recently arrived at Pride. He does not appear to be a bad person, but it seems a little too early to offer him a chance to sell the hotel. He seems like a lusty old goat, though. That could, perhaps, play to your advantage.
+
+**
+
+A big project is announced for the Enclave. Weather upgrades on the largest buildings. You have the chance to study for that, but it is very boring studying.
+
+**
+
+You approach $newHotelOwner.name about buying the hotel. He goes check on $femdomManager.name and, later, refuses. You offer, then, to invest in the hotel. You tell the new owner that you see potential in the place and want to put in some money to get a cut of the earnings.
+
+After some discussion, they agree, tentatively, to allow you to renovate the hotel's security and surveillance. You convince them it is a showcase of your new security system and that they need to offer nothing back.
+
+**
+
+Your new surveillance system already demonstrated its efficiency. A break in was detected and stopped. You gained the confidence of the $newHotelOwner.name, even though $femdomManager.name is still distrustful.
+
+You talk about expanding investments with $newHotelOwner.name and he agrees with some limited investments in exchange for a part of the revenue for two months.
+
+After your investment, the hotel buys the staff new clothes, puts out some ads and gets the cook some additional training. They also fix the pool and hire new people. To your disappointment, $femdomManager.name hires two males: young $bellboy.name as a bellboy and big $swimInstructor.name as a pool boy and swim instructor.
+
+Your efforts soon bear fruit, when you notice a new face around the corridors. You go ask and find that $bitchyTenant.name, the new girl you have seen around the corridors, has rented a room for a month. $elfMaid.name signed her in a couple of nights ago. You wonder if you will see her in a bikini, by the pool.
+
+**
+
+The hotel is seeing new customers everyday. You ask around and people still complain about the food and room cleaning, though.
+
+**
+
+It is time to vote on the weather modifications for the Enclave. You haven't properly studied the subject. You could vote either yes or no. You vote no.
+
+**
+
+

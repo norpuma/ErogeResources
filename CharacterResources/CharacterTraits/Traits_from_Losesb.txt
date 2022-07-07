@@ -1,0 +1,67 @@
+Traits: (from Losesb 19)
+- bitchy
+- bookworm
+- dominant
+- dumb
+- family
+- not_family
+- flirty
+- geek
+- gourmand
+- guitar
+- innocent
+- lazy
+- music
+- playful
+- poor
+- princess
+- rebel
+- slutty
+- spoiled
+- sportsy
+- submissive
+- trashy
+- workaholic
+- yandere
+
+
+Desire Factors: (from Losesb 19)
+- music
+- sextoy
+- sluts
+
+Likes (all can be preceded by NOT):
+    - Date Locations:
+        -- beach
+        -- cinema
+        -- highclassrestaurant
+        -- home
+        -- livingroom
+        -- mall
+        -- nightclub
+        -- park
+        -- pub
+        -- waterpark
+    - Gifts:
+        -- books
+        -- clothes
+        -- flowers
+        -- purse
+        -- sweets
+        -- underwear
+    - Partner Traits:
+        -- career
+        -- charm
+        -- cooking
+        -- fitness
+        -- knowledge
+        -- guitar
+        -- martial_arts
+        -- money
+        -- video_games
+    - Activities:
+        -- concert
+        -- dance
+        -- horror (movie)
+        -- science fiction (movie)
+        -- shooting

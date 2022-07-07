@@ -1,0 +1,88 @@
+* You are too proud for that.
+* She is too proud for that.
+* You are too submissive for that.
+* She is too submissive for that.
+
+PROTAGONIST stats:
+    Pride - Too proud to do it. Too submissive to do it.
+    Moral - Too nice to do it. Too amoral to do it.
+    Daring - Too scared to do it. Too brave to do it.
+    Horny - Too horny to do it. Too satisfied to do it.
+    Love - You can't bear to make her sad. You NEED to make her happy.
+    Willpower - Do stuff against your inclinations
+
+    Peep through a keyhole: Can't be too proud. Can't be too moral. Can't be too scared (low Daring). Horny adds to chance. -> Daring + Horny - Pride - Moral > threshold.
+    Introduce yourself: Can't be too submissive (low Pride). Can't be too scared (low Daring). Horny adds to chance. -> Daring + Pride + Horny > threshold.
+    Ask on a date: Can't be too submissive (low Pride). Can't be too scared (low Daring). Horny adds to chance. -> Daring + Pride + Horny > threshold.
+    Perform chores: Can't be too amoral (low Moral). Can't be too proud. Can't be too daring. Horny subtracts from chance. -> Moral - Daring - Pride - Horny > threshold.
+    Challenge to a match: Can't be too submissive (low Pride). Can't be too amoral (low Moral) (would need to cheat, in that case). Can't be too scared (low Daring). -> Pride + Moral + Daring > threshold.
+    Challenge to a rigged match: Can't be too submissive (low Pride). Can't be too moral. Can't be too scared (low Daring). -> Pride + Daring - Moral > threshold
+    Proposition for sex: Can't be too submissive (low Pride). Can't be too scared (low Daring). Horny adds to chance. -> Daring + Pride + Horny > threshold.
+
+
+
+Come back into town.
+Decide if should rekindle with girlfriend or not.
+
+- Live by yourself.
+- See girlfriend.
+- Go to office.
+- Beware of former friend turned gym teacher.
+- Beware of female neighbor therapist.
+- Dominating and slutty female friend
+- Maid
+- Dangerous photographer at work
+- Needy nerd at work
+- Dangerouns female boss
+- Tempting female co-worker 1
+- Tempting female co-worker 2
+- Girlfriend's Teenage sister
+- Your Teenage niece
+
+
+- Clean the house yourself
+- Cook yourself
+- Ask her to cook
+- Ask her to clean the house
+- Give her a gift
+- Ask for a blowjob (fellatio)
+- Go down on her (cunnilingus)
+- Go to bar, hit on girls
+- Watch porn
+
+
+Improve yourself:
+- Work hard for promotion
+- Work out to get fit
+- Learn to cook
+- Learn to do massages
+
+
+
+You were raised in Billings. You had big plans for college, but they fell through. You got a technical degree by correspondence.
+Your high school girlfriend, a nerdy girl, just moved into the nearby city as she finally got a college scholarship. She quickly found you a job and you moved into the city's suburbs.
+You had an arrangement to share a two-bedroom apartment with a friend. But the arrangement fell through. Now you live in a big apartment by yourself.
+
+
+You just moved in.
+Your phone got busted in the move. You have to get it fixed.
+Your girlfriend comes visit.
+    She is nerdy, but cute. She is a little high maintenance, liking nice things. And she believes she will make it big in the city.
+    She complains about your busted phone.
+    She is rather conservative. You can have sex with her, but she believes she is doing you a favor. You only ever had very conservative sex with her.
+You have Sunday all by yourself. Girlfriend has some stuff she *has* to do.
+You evaluate yourself.
+    You look at yourself in the mirror and you realize you are out of shape.
+    You look at the stuff you brought and you realize you dress for comfort, but it must be seen as dressing like a slob.
+    You look at the food you brought and you realize you don't eat well.
+You evaluate the apartment.
+    The apartment is pretty empty, right now.
+    The apartment is spatious. It has two large bedrooms. And a comfortable bathroom.
+You visit the nearby commercial hub.
+    You find that it underwent a full renewal recently and not all stores are functioning yet.
+    You find that the grocery store is working.
+    You find that there is an electronics store where you can fix your phone, but it will only open Tuesday.
+
+You go to work.
+    You meet your new boss.
+    You undergo induction.

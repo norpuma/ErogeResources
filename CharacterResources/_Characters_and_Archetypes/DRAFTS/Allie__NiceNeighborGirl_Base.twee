@@ -1,0 +1,150 @@
+::Nice Neighbor Girl - Initialization
+<<nobr>>
+    <<set $niceNeighborGirl = new BaseCharacter("Allie", "female")>>
+    <<set $niceNeighborGirl.firstName = "Allison">>
+    <<set $niceNeighborGirl.lastName = "Fust">>
+    <<set $niceNeighborGirl.updateFunction = niceNeighborGirlUpdate>>
+<</nobr>>
+
+::Nice Neighbor Girl - Visit at Home
+<<switch $niceNeighborGirl.activity>>\
+    <<case "Idling">>\
+        <<goto "Nice Neighbor Girl - Visit at Home - Idling">>
+        <<break>>\
+    <<case "Studying">>\
+        <<goto "Nice Neighbor Girl - Visit at School - Studying">>
+        <<break>>\
+    <<case "Exercising">>\
+        <<goto "Nice Neighbor Girl - Visit at Home - Exercising">>
+        <<break>>\
+    <<case "Sleeping">>\
+        <<goto "Nice Neighbor Girl - Visit at Home - Sleeping">>
+        <<break>>\
+<</switch>>\
+
+::Nice Neighbor Girl - Visit at Home - Idling
+You find $niceNeighborGirl.name browsing distractedly on her computer.
+
+/* TODO: Tailor her reaction at how she feels about you. */\
+She smiles as she sees you approach.
+
+@@.niceNeighborGirl_talk;"Up for a match?"@@ She asks, waving a game control in your direction.
+
+@@.protagonist_talk;"You know I am!"@@ You grab the console and plop down on her bed as she pushes her chair back from the computer and grabs her own control while loading a game.
+
+[[Just enjoy the games.|Nice Neighbor Girl - Videogames - Finishing the Game Session]]
+/* TODO: Add hub options for sex choices. */\
+[[Wait for an opportunity to act.|Nice Neighbor Girl - Videogames - Spiking Her Drink]]
+
+::Nice Neighbor Girl - Visit at Home - Exercising
+You find $niceNeighborGirl.name at her door, wearing running shorts and a big t-shirt over a sports bra.
+
+/* TODO: Tailor her reaction at how she feels about you. */\
+She smiles at you and waves.
+
+@@.niceNeighborGirl_talk;"Want to join me for a run?"@@
+
+@@.protagonist_talk;"That would be nice, yes. Give a minute to go change!"@@
+
+A few minutes later, you both start down the street on a lazy jog. Before long, though, she starts accelerating and the two of you are soon trotting at a strong pace.
+
+After a while, you make a pause at a shady area of the park, both drenched in sweat. $niceNeighborGirl is flushed, but smiling broadly at the exhiliriating exercise.
+
+/* TODO: Add option to spike her drink. */\
+You offer to get her a water and go find a vendor.
+
+She thanks you as you hand her the bottle and drinks deeply.
+
+<<run progressToNextTimeSlice()>>\
+After a short pause, you jog back home. You wonder if all the effort was worth it, as you head home to take a shower and relax your drained muscles.
+
+[[Continue.|Home - Landing]]
+
+::Nice Neighbor Girl - Visit at Home - Sleeping
+$niceNeighborGirl.name is asleep in her bed.
+
+/* TODO: Add night creeping options. */\
+You do not feel comfortable at the thought of disturbing her.
+
+::Nice Neighbor Girl - Videogames - Finishing the Game Session
+<<run progressToNextTimeSlice()>>\
+The two of you challenge each other for a few hours. It is entertaining and stimulating.
+
+Then, you bid hr farewell and go home.
+
+[[Continue.|Home - Landing]]
+
+::Nice Neighbor Girl - Videogames - Spiking Her Drink
+After an hour of playing, $niceNeighborGirl.name pauses the game, stands up and tells you: @@.niceNeighborGirl_talk;"I'm going to get myself something to drink. Do you want me to bring you anything?"@@
+
+@@.protagonist_talk;"I'm fine, thank you."@@
+
+Once she comes back and starts sipping on her glass you start feeling parched.
+
+@@.protagonist_talk;"On second thought, $niceNeighborGirl.name, would you mind getting me a glass of water?"@@
+
+@@.niceNeighborGirl_talk;"Oh, come on! I just sat down!"@@ She says, faking annoyance.
+
+@@.protagonist_talk;"Please, $niceNeighborGirl.name! I feel so parched!"@@ You say, dramatically grasping your throat.
+
+She laughs and gets up to bring you something to drink.
+
+/* TODO: Add option to select the kind of Elixir. */\
+You pour some of the Elixir in her glass while she is out.
+
+When she comes back, you thank her for the drink and try not to be too obvious as you attentively watch her drain her own glass.
+
+When you notice the telltale signs of the Elixir taking effect, you are ready to try to take advantage of the opportunity.
+
+- [[Flash Tits|Nice Neighbor Girl - Videogames - Tit Flash for Winners]] (needs lowered inhibitions)
+- Handjob
+- Get naked
+- Blowjob
+- Sex
+
+::Nice Neighbor Girl - Videogames - Tit Flash for Winners
+@@.protagonist_talk;"We played for a couple of hours and, from my accounts, we have the exact same number of victories."@@
+
+@@.niceNeighborGirl_talk;"Is that so?"@@ She asks feigning skepticism to tease.
+
+@@.protagonist_talk;"Yes, it is. I keep very accurate accounts. So, I was wondering if you would care to make this a little more interesting."@@
+
+@@.niceNeighborGirl_talk;"Are you proposing a wager?"@@
+
+@@.protagonist_talk;"I am. So, what do you say?"@@
+
+@@.niceNeighborGirl_talk;"I'm in!"@@
+
+@@.protagonist_talk;"Don't you want to know the terms of the wager?"@@
+
+@@.niceNeighborGirl_talk;"Not really. I'm sure I can beat you, whatever game you chose!"@@
+
+@@.protagonist_talk;"Very well, then. If I win, it seems I will be able to get whatever I want!"@@ You waggle my eyebrows at her.
+
+@@.niceNeighborGirl_talk;"Hahaha! Keep dreaming!"@@ She laughs good-naturedly. @@.niceNeighborGirl_talk;"Bring it on!"@@
+
+You play the next match as if you life depends on it. Soon after you start you realize she may have been holding back for the previous couple of rounds. You press on, though. You really want to win the wager. And you do! You win! Maybe the Elixir gave you a little edge, there.
+
+@@.niceNeighborGirl_talk;"Oh, come on! That was not fair!"@@ $niceNeighborGirl.name stands up abruptly, throwing her control down on the bed. In spite of her little tantrum, she does not seem to really be upset.
+
+She huffs, but, then, recomposes herself. She looks at you and asks, arms crossed, but a smile playing at the edge of her mouth.
+
+@@.niceNeighborGirl_talk;"Alright, then. What do you want as a prize?"@@
+
+You start thinking how to say it in a clever way and make her th- @@.protagonist_talk;"Tits!"@@ Your mouth blurts out before your brain could think of a proper strategy.
+
+@@.niceNeighborGirl_talk;"Tits?"@@ She says, blushing a little, but not really stepping back.
+
+@@.protagonist_talk;"Well, what I meant was that you are so beautiful. And I would r-"@@
+
+@@.niceNeighborGirl_talk;"Tits!"@@ She exclaims as she pulls up her shirt and exposes her perky little breasts to you.
+
+You look on, entranced, losing track of time, before she pulls her shirt back down and snap you out of your reverie. You wonder if you drooled a little.
+
+@@.niceNeighborGirl_talk;"Okay, $protagonist.name. I think that was plenty enough for today."@@
+
+She gently, but firmly, hush you out of her place. You walk back home with a stupid smile on your face and a good feelng in your heart.
+
+<<run progressToNextTimeSlice()>>\
+[[Continue.|Home - Landing]]
+

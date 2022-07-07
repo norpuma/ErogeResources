@@ -1,0 +1,179 @@
+/*
+Young man + Lin + Befriending:
+    - You learn her name.
+        - Closeness: 1
+    - You exchange some stories about cleaning rooms (requires: clean rooms 3 times). (reward: she smiles)
+        - Closeness: 2
+    - You go clean a room with her. She tells you it is not always nice to clean rooms (she doesn't say but is remembering a client pawing her). (reward seeing her panties while she cleans)
+        - Closeness: 4
+    - You find her trying to cook. (OPTION: shoot her confidence down)
+        - Closeness: 5
+        - Submission: 1
+    - You help her practice cooking. Essentially tasting bad food. (reward: she slips and flashes her panties again)
+        - Closeness: 6 OR Submission: 3
+    - You get her a book for her. (reward: she opens up some more and tells you not everyone treats her nicely. Flashback to a client pawing at her ass and tits over her clothes)
+        - Closeness: 7
+    - You get some ingredients for her. She is really grateful and tells you you are a real friend (friendzone if you haven't kissed her). (reward: she becomes comfortable with you and tells you so - you can, now, watch her washing herself)
+        - Closeness: 8
+    - You learn about the kind of guy she likes. (reward: information on how to influence her)
+        - Closeness: 9
+    - You get a chance to protect her from a client intent on cornering her to rape her. (reward: seeing her in torn clothes)
+        - Closeness: 10
+    - You learn that she is privy to some of the secrets of the hotel and she is willing to share them with you. (reward: info or blackmail material on Ellen)
+        - Closeness: 11
+    - You get a chance to tell her how to react to customers. (reward: hindering or helping BBC domination agenda)
+        - Closeness: 12
+    - You get a chance to tell her how to react to new employee training. (reward: hindering or helping femdom agenda)
+        - Closeness: 13
+    - You learn about a guy she fancies.
+        - Closeness: 14
+    - You learn, from her, about an offer to buy the hotel. (reward: hindering the hotel take over)
+        - Closeness: 15
+    - You hear about her sexual experiences (either with customers or the guy she likes). (reward: imagining her having sex)
+        - Closeness: 16
+
+*/
+
+::Lin - Says Her Name
+<<if $protagonist.isHotelEmployee == true>>\
+@@.protagonist;"Hello, cutie. What's your name?"@@
+
+@@.lin;"H- Hi,"@@ she stammers, timidly. @@.lin;"My name is $lin.name."@@
+
+You smile at her and she smiles back.
+
+@@.lin;"Thank you for asking. Few people ever ask my name."@@
+
+@@.protagonist;"Nice to meet you, $lin.name. I am $protagonist.name."@@
+<<else>>\
+@@.protagonist;"Girl! What is your name?"@@
+
+@@.lin;"I'm- I'm $lin.name, sir."@@ She stammers.
+
+@@.protagonist;"Good to know, $lin.name. I will be counting on your good service from now on."@@
+
+@@.lin;"Of course, sir. You- you may count on me."@@ She bobs her head hurriedly.
+<</if>>\
+
+::Lin - Get closer talking about her past
+<<set _linDesignator = $protagonist.relationships[$lin].title>>\
+@@.protagonist;"Have you been cleaning rooms for long, _linDesignator?"@@
+
+@@.lin;"I- I haven't. I have only been at the hotel for the last three months and I only started working on rooms a week before I met you."@@
+
+@@.protagonist;"You seem very dedicated to your task!"@@ You say, appreciatevely.
+
+<<if $protagonist.isHotelEmployee == true>><<set _protagonistDesignator = $lin.relationships[$protagonist].title>><<else>><<set _protagonistDesignator = $protagonist.name>><</if>>
+@@.lin;"I must be the best maid I can be, _protagonistDesignator"@@ She said, her eyes intense, but not looking at you.
+
+<<if $protagonist.isHotelEmployee == true>>\
+    @@.protagonist;"I just hope I will be as good as you in two weeks,"@@ you say, with a smile.
+
+    @@.lin;"You wish!"@@ She says, smiling back teasingly.
+
+    You are glad you took $lin.name out of her shell, there, for a bit.
+<<else>>\
+    @@.protagonist;"You are doing really for such a short time."@@
+
+    @@.lin;"Thank you, _protagonistDesignator,"@@ she says, with a timid little smile.
+
+    You are glad you managed to make her smile.
+<</if>>\
+
+::Lin - Hints at Clients Groping During Room Cleaning
+You watch as $lin.name starts cleaning and, after a little time, you speak up.
+
+<<set _linDesignator = $protagonist.relationships[$lin].title>>\
+<<if $protagonist.isHotelEmployee>>\
+    @@.protagonist;"Oh, wow! You are fast! And effective!"@@
+<<else>>\
+    @@.protagonist;"Nicely done, _linDesignator. That's a good start! Efficient and precise."@@
+<</if>>\
+
+She straightens up a bit, letting a little pride shine through her modest behavior.
+
+@@.lin;"Thank you! I try my best..."@@ She looks back down, becoming the timid gengineered, once again.
+
+@@.protagonist;"How quickly do you usually clean a room such as this one?"@@
+
+@@.lin;"Hm... Twenty to twenty-five minutes, I think,"@@ she replies, pensively. @@.lin;"I always double check. It wouldn't do to leave a guest's trash bin unemptied, or worse, some food wrapping molding under the bed!"@@ She seems to shiver at the thought.
+
+@@.protagonist;"That's very thoughtful,"@@ you encourage her.
+
+@@.lin;"Sometimes... it takes longer. If the room is not empty or if a guest comes in while I'm cleaning..."@@ She seems to remember something and it doesn't seem to be a good memory. @@.lin;"I do my best to leave quickly, but I can't always escape- I mean, leave, that fast."@@
+
+/* TODO: SEXY - Maid panties picture/image. */\
+She resumes cleaning, but she is a little distracted with whatever you made her think about and you get the opportunity to peek at her panties as she gets down on all-fours to reach something under the bed.
+
+The two of you soon finish and leave the room, pristine and ready to receive a new guest.
+
+::Lin - Trying to Cook
+As you approach the kitchen, you smell something burning. You enter to find $lin.name looking harried, chopping vegetables while a pot bubbles on the stove and another pot smokes in the sink.
+
+@@.protagonist;"$lin.name?"@@ You call, uncertain if you should interrupt.
+
+<<if $protagonist.isHotelEmployee == true>><<set _protagonistDesignator = $lin.relationships[$protagonist].title>><<else>><<set _protagonistDesignator = $protagonist.name>><</if>>
+@@.lin;"Oh, _protagonistDesignator! It's you!"@@ She is surprised by your arrival and seems somewhat embarrassed.
+
+@@.protagonist;"What are you doing?"@@
+
+@@.lin;"I- Uh... I'm... cooking,"@@ she says that last in a small voice.
+
+@@.protagonist;"Cooking?"@@
+
+@@.lin;"Yes... I-"@@ The pot on the stove boils over and she turns around. @@.lin;"Oh, no!"@@ She burst into tears, then.
+
+You hurry over and turn off the stove. At the same time, $lin.name bumps into the counter and a knife falls almost on top of your foot.
+
+@@.lin;"Oh! I'm sorry! I'm sorry!"@@ She sobs as she hurries away.
+
+You put the knife on the sink and make sure there is nothing more that can go terribly wrong in the mess that is the kitchen before going after her.
+
+@@.protagonist;"$lin.name. $lin.name! Everything is fine, now,"@@ you call to her as you approach her, outside.
+
+@@.lin;"No, it's not!"@@ She cries.
+
+@@.protagonist;"Oh, come on. It's okay,"@@ you tell her, as you pat her on the back.
+
+She turns around and burries her face in your shoulder.
+
+@@.lin;"I'm a mess! I'm a mess! I almost burned down the kitchen!"@@
+
+@@.protagonist;"Come on, now, $lin.name. It wasn't so terrible."@@
+
+@@.lin;"I just- I just wanted to cook..."@@
+
+@@.protagonist;"This is every important to you, isn't it?"@@
+
+@@.lin;"Yes!"@@ She sobs heavily. @@.lin;"My- my last master sold me because I was useless. I don't want to be useless!"@@
+
+<<if $protagonist.isHotelEmployee == true>>\
+    @@.protagonist;"I don't think anyone is going to sell you because you can't cook, $lin.name,"@@ you try to sooth her, carressing her silky black hair.
+
+    @@.lin;"You don't know that!"@@ She wails.
+
+    @@.protagonist;"There, there, $lin.name. There, there. Maybe I could help you..."@@
+
+    @@.lin;"Do you know how to cook?"@@
+
+    @@.protagonist;"I- well, I don't..."@@ you admit. @@.protagonist;"But, maybe, I could test whatever you prepare and tell you how it tastes. Or I could be your assistant in the kitchen."@@
+
+    @@.lin;"Would you? Would you really help me?"@@ She looks up at you, hopefully.
+
+    You just nod and you get a big hug in return.
+
+    @@.lin;"Oh, thank you! Thank you, thank you, thank you!"@@
+
+    You leave a little later, feeling you have gotten closer to $lin.name.
+<<else>>\
+    @@.protagonist;"You shouldn't worry about that, $lin.name. If you are loyal and dutiful, you should stay with us a long time,"@@ you tell her with another pat on the back.
+
+    @@.lin;"Really, _protagonistDesignator? Is that true?"@@
+
+    @@.protagonist;"Yes, $lin.name. Of course!"@@ After a pause, you realize it is still an issue for her, so you add: @@.protagonist;"If you really want to learn how to cook, I could help you. I will try whatever you cook and tell you if it is good or not."
+
+
+<</if>>\
+
+::Lin - Helping Her Cook
+

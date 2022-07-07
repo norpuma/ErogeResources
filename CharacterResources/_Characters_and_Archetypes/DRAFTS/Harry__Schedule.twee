@@ -1,0 +1,53 @@
+::Steven - Schedule - Build [script]
+steven.schedule = new CharacterSchedule()
+
+
+
+::Steven - Schedule - Check
+Steven should spend 8 points per day on sleep.
+Steven should spend 3 points per day on meals.
+Steven should spend 2 points per day on hygiene and on his appearance.
+Steven should spend 8 points per day on his job, on week days.
+    = 13 hours per day on weekend days.
+    = 21 hours per day on week days.
+
+Steven must spend at least 50 points per week on sleep.
+Steven must spend at least 18 points per week on meals.
+Steven must spend at least 5 points per week on hygiene and on his appearance.
+Steven must spend at least 30 points per week on his job.
+
+Steven has level 2 Charm. It takes ??? points per week to maintain.
+Steven has level 1 Fitness. It takes ??? points per week to maintain.
+Steven has level 3 Knowledge. It takes ??? points per week to maintain.
+
+Steven keeps a luxury life style.
+It takes 3'000 moneys per day to maintain.
+It has a surtax of 3'000 moneys at the end of every Friday, amounting to 18'000 moneys per week.
+This brings him +100 Happiness, +30 Charm, +20 Fitness and +20 Knowledge at the end of every Friday.
+
+Steven has a nice job, paying him 1500 moneys at the end of every Friday. He can still get a promotion at his job.
+To keep his job, Steven must have earned at least 30 professional points in a week, checked at the end of every Friday.
+Steven is expected to work from 8:00 to 17:00 every weekday. He may come in late, but that is not good. He may miss a day with a good excuse, but that is not good either.
+When Steven applies himself on his job, every hour spent on the job gets him +1 professional point, +0.25 Knowledge points, +0.25 Charm points and -0.5 Happiness points.
+    = 1'500 moneys
+    = 40 professional points per week.
+    = 10 Knowledge points per week.
+    = 10 Charm points per week.
+    = -20 Happiness points per week.
+When Steven takes it easy on his job, every hour spent on the job gets him +0.75 professional point, +0.50 Charm points and -0.25 Happiness points.
+When Steven focuses on his job, every hour spent on the job gets him +1.25 professional point, +0.5 Knowledge points and -1.25 Happiness points.
+
+Steven spends 4 hours per week on social media, earning 4 Charm points, 1 Knowledge point and 2 Happiness points.
+Steven spends 4 hours per week reading novels, earning 2 Knowledge points and 4 Happiness points.
+Steven spends 2 hours per week on chores, earning 1 Fitness points and -2 Happiness points.
+Steven spends 2 hours per week jogging, earning 2 Fitness points and -2 Happiness points.
+Steven spends 6 hours per week talking with his wife, earning 6 Happiness points.
+Steven spends 4 hours per week shopping useless stuff online, earning -300 moneys and +10 Happiness points.
+
+    = 40 professional points per week.
+    = 10 + 3 Knowledge points per week.
+    = 10 + 4 Charm points per week.
+    = -20 + 2 + 4 - 2 + 6 Happiness points per week.
+    = 1 + 2 Fitness points per week.
+    = -10'000 + 1'500 moneys per week.
+

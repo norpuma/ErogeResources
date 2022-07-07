@@ -1,0 +1,207 @@
+/*
+    LIN in Harem Hotel
+
+    - Adria Rae.
+
+    - Naive.
+    - Eager to please.
+    - Non-confrontational.
+    - Romantic idealist.
+    - Low-self esteem.
+    - Desperate for praise.
+    
+    - May betray an evil owner if she loses respect. More easily co-opted by Ellen.
+    - Will submit to Michael if not receiving clear boundaries from Steve and not carefully observed.
+
+
+
+
+    # Harem Hotel stats
+    * Obedience - Spanking, petting, taking off clothes in kitchen, cleaning bedroom, wearing dildo and buttplug, blowjob in kitchen
+    * "Lust" (horniness) - too many days without a climax, bedroom bdsm teasing, dungeon games
+    * Sluttiness - bedroom sex
+    * Exhibitionism - café training
+    * Submission - dungeon training
+    * Footjobs - "apron scenes"
+    * Handjobs - bedroom
+    * Blowjobs - kitchen, dungeon, "apron scene"
+    * Vaginal Sex - bedroom, bdsm teasing, dungeon, "apron scene"
+    * Anal Sex - bedroom, bdsm teasing, dungeon, shower
+    * - Cumdump (at cum inside >= 10)
+    * - Cum Slut (at cum outside >= 10)
+    * - Professional Cocksucker (at Blowjobs >= 10)
+    * - Nympho (at vagainal sex >= 10)
+    * - Buttslut (at anal sex >= 10)
+    * - Slick Hands (at handjobs >= 10)
+    * - Loyal (at Obedience >= 10)
+    * - Exhibitionist (at Exhibitionism >= 10)
+    * - Submissive (at submission >= 10)
+    * - Mega Slut (at Sluttiness >= 10)
+    * - Foot Fetish (at footjob >= 10)
+
+
+    She becomes more submissive.
+    Patrons abuse her.
+    She becomes more of a exhibitionist.
+    She agrees to wear skimpier clothes.
+    She is very unhappy.
+    She draws fewer patrons.
+
+    you are her boss, you are her friend, you are her master, you are her pimp
+*/
+
+::Lin - Initialization
+<<nobr>>
+<<if $lin eq undefined>>
+    <<set $lin = {name:"the Servant", firstName: "Lin", lastName: "L1n-38A37"}>>
+    <<set $lin.titleForProtagonist = "Sir">>
+    <<set $lin.skills = {cleaning: 2, cooking: 0}>>
+    <<set $lin.taskDescription = "Nothing to do">>
+    <<set $lin.unevaluatedGoodActions = []>>
+    <<set $lin.unevaluatedBadActions = []>>
+    <<set $lin.lastUpdate = {day:0, hour:0, minutes:0}>>
+    <<set $characters.push($lin)>>
+    <<set $slaves.push($lin)>>
+<</if>>
+<</nobr>>\
+
+::Lin - Introduction
+<<set $lin.wasIntroduced = true>>\
+$protagonist.name looks into the kitchen and find a petite young woman with straight black hair working there. Upon further examination, it is possible to notice her elongated ears and yellow eyes. She is reminescent of a fantasy elf!
+
+When she sees $protagonist.name, she startles and drops the sponge she was using to wash some dishes and raises a hand to her pretty mouth.
+
+@@.lin_talk;"Oh, sorry, sir! You startled me!"@@
+
+@@.protagonist_talk;"Hello, ehm... who are you?"@@
+
+@@.lin_talk;"I'm the hotel's servant, sir. Are you a new guest? I don't recognize you."@@
+
+@@.protagonist_talk;"Uh, no. I'm $protagonist.name, the new owner."@@
+
+@@.lin_talk;"Oh! Sorry!"@@ She raises both hands to her mouth, again. The young woman (elf?) looks easily startled. @@.lin_talk;"I didn't know you had arrived. How may I serve you?"@@
+
+@@.protagonist_talk;"You are... the hotel's servant?"@@
+
+@@.lin_talk;"Yes, sir,"@@ she replies, with a timid smile. @@.lin_talk;"Mr $protagonist.lastName, your grandfather, purchased me some weeks ago and put me to work right away. I do the beds, clean the rooms and work in the kitchen."@@
+
+@@.protagonist_talk;"You do it all by yourself?"@@
+
+@@.lin_talk;"Uh, yes, sir. It's hard work, but I don't mind. I like to serve. I was made- I was made for it."@@ There was a slight hesitation, before she repeated herself.
+
+@@.protagonist_talk;"Made?"@@
+
+@@.lin_talk;"I am a genetically engineered humanoid, sir,"@@ she says, gently rubbing her elongated ears. @@.lin_talk;"I was brought to the $town.formalName a couple of months ago, auctioned and bought by your grandfather."@@
+
+@@.protagonist_talk;"Bought?"@@ $protagonist.name asks, shocked.
+
+@@.lin_talk;"The gen-gineered do not have rightas as people, here, in $town.name. I understand I amd property and I am glad to serve."@@
+
+@@.protagonist_talk;"I- I see,"@@ he replies, not sounding entirely convinced.
+
+<<include "Lin - Options">>
+
+::Lin - Updates
+<<if $lin.lastUpdate.day < $dayCount>>\
+    <<run dailyUpdate($lin, $dayCount)>>
+<</if>>
+
+::Lin - Look for
+<<if $lin.wasIntroduced == undefined>>\
+    <<goto "Lin - Introduction">>\
+<</if>>\
+\
+$protagonist.name finds $lin.name in the hotel kitchen. She looks busy.
+
+<<include "Lin - Options">>
+
+::Lin - Options
+<<link "Chat with $lin.name." "Lin - Talk">><</link>>
+<<link "Evaluate her." "Lin - Evaluation">><</link>>
+<<link "Train her" "Lin - Training">><</link>>
+<<link "Give her a task for the $dayPart" "Lin - Tasks">><</link>>
+<<link "Sex acts" "Lin - Sex">><</link>>
+/* TODO:
+- Inspect her work.
+- Inspect her attire.
+-- Reward or punish her accordingly.
+*/\
+
+<<link "Continue" "Main">><</link>>
+
+::Lin - Talk
+<<link "Ask about herself." "Lin - About Herself">><</link>>
+
+::Lin - About Herself
+<<if $lin.presentationDone == undefined>>\
+    <<include "Lin - About Names">>
+<<else>>\
+    <<link "About names..." "Lin - About Names">><</link>>
+<</if>>\
+
+<<link "Continue" "Lin - Options">><<set $lin.presentationDone = true>><</link>>
+
+::Lin - Evaluation
+You call $lin.name. She comes up for your inspection.
+
+$lin.name is wearing her maid clothes. She is in a good mood, but slightly concerned to have been summoned.
+
+<<if $lin.unevaluatedGoodActions >= 1 || $lin.unevaluatedBadActions >= 1>>\
+Recently, $lin.name did some...
+
+    <<if $lin.unevaluatedGoodActions >= 1>>\
+    Good things:
+        <ul>
+        <<for _goodAction range $lin.unevaluatedGoodActions>>\
+        <li>_goodAction.shortDescription</li>
+        <</for>>\
+        </ul>
+    <</if>>\
+
+    <<if $lin.unevaluatedBadActions >= 1>>\
+    Bad things:
+        <ul>
+        <<for _badAction range $lin.unevaluatedBadActions>>\
+        <li>_badAction.shortDescription</li>
+        <</for>>\
+        </ul>
+    <</if>>\
+<<else>>\
+$lin.name hasn't, recently, done anything deserving of an evaluation.
+<</if>>\
+
+<<link "Punish $lin.name" "Lin - Punishment">><</link>>
+<<link "Reward $lin.name" "Lin - Reward">><</link>>
+
+<<return>>
+
+::Lin - Tasks
+<<link "Make her train." "Lin - Training">><</link>>
+<<link "Make her clean rooms." "Lin - Cleaning Rooms">><</link>>
+<<link "Make her cook." "Lin - Cooking">><</link>>
+<<link "Make her whore herself." "Lin - Whoring">><</link>>
+
+<<return>>
+
+::Lin - About Names
+@@.lin_talk;"Would you like to rename me, $lin.titleForProtagonist?"@@
+
+<<if $lin.presentationDone == undefined>>\
+@@.protagonist_talk; "Don't you have a name?"@@
+
+@@.lin_talk;"My formal designation is $lin.lastName, but most people call me $lin.name. As my owner, however, you may wish to change my name."@@
+
+@@.protagonist_talk;"Well, I guess I will call you <<textbox "$lin.name" $lin.firstName autofocus>>."@@
+
+@@.lin_talk;"And do you have a preferred form of address? I am currently calling you $lin.titleForProtagonist, but I may change the form of address."@@
+
+@@.protagonist_talk;"You may call me <<textbox "$lin.titleForProtagonist" $lin.titleForProtagonist>>."@@
+<<else>>\
+@@.lin_talk;"You will answer to <<textbox "$lin.name" $lin.name autofocus>>, from now on.
+
+"And you will address me as <<textbox "$lin.titleForProtagonist" $lin.titleForProtagonist>>."@@
+<</if>>\
+
+@@.lin_talk;"Understood."@@ She nods, obediently.
+
+<<link "Continue" "Lin - Options">><</link>>

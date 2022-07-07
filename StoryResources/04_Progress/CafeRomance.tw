@@ -1,0 +1,593 @@
+::CuteBaristaHottie - Cafe Romance - First Sight
+    I get into the café and look for a barista. That is when I see her. She looks so hot! The simple uniform does not hide her beauty. She doesn't notice me, at first, as she is busy preparing someone's latte, but when she looks my way I can see how incredible her eyes are.
+
+    <<talk $cuteBaristaHottie "\"Hello. Can I get you anything?\" I notice her nametag says Emily.">>
+
+    <<talk $protagonist "\"Ah! Uh... yeah. I'd like a coffee, please.\"">>
+
+    <<talk $cuteBaristaHottie "\"Okay. I'll bring it to you in a moment,\" she says, sounding all business.">>
+
+    [[A little later|"CuteBaristaHottie - Cafe Romance - First Smile"]]
+
+
+::CuteBaristaHottie - Cafe Romance - First Smile
+    <<talk $protagonist "\"Hello, Emily!\" I call out her name, checking how she will react.">>
+
+    When she turns around I flash her my best smile.
+
+    <<talk $cuteBaristaHottie "\"Oh, hi!\" She seems somewhat surprised, but smiles back and I get to drink in that gorgeous smile. \"I guess you are becoming a regular.\"">>
+
+    <<talk $protagonist "\"I guess I am,\" I laugh before answering.">>
+
+    I order a coffee and she promptly brings it to me, putting the cup down with another smile as she looks into my eyes.
+
+    [[A few days later|"CuteBaristaHottie - Cafe Romance - Learning About Likes"]]
+
+::CuteBaristaHottie - Cafe Romance - Learning About Likes
+    I notice Emily is leaning against the counter during a lull in the service and approach her.
+
+    <<talk $protagonist "\"Hey, Emily, how are you?\"">>
+
+    <<talk $cuteBaristaHottie "\"Pretty good, right now,\" she answers with one of her big smiles.">>
+
+    <<talk $protagonist "\"I was wondering, what do you do in your free time?\"">>
+
+    <<talk $cuteBaristaHottie "\"Me? I read, mostly. I like books, preferably physical books, you know - dead trees.\"">>
+
+    I smile at her weak joke and realize she is grateful that I appreciated the quip as she lets out a relieved little smile of her own.
+
+    <<talk $protagonist "\"That's cool. What kind of book, then?\"">>
+
+    <<talk $cuteBaristaHottie "\"Science fiction, mostly. Old science fiction! I like to see how people used to imagine the future. Other than that, I mostly listen to music. I prefer live music, but I hear records when I can't get that.\"">>
+
+    <<talk $protagonist "\"That's interesting.\"">>
+
+    After that, a customer calls her over and we break the conversation.
+
+    [[Next time|"CuteBaristaHottie - Cafe Romance - Compliment 1"]]
+
+::CuteBaristaHottie - Cafe Romance - Compliment 1
+    <<talk $protagonist "\"Hi, Emily!\"">>
+
+    <<talk $cuteBaristaHottie "\"Hey! How are you?\"">>
+
+    <<talk $protagonist "\"Pretty good, now that I have seen your smile.\"">>
+
+    <<talk $cuteBaristaHottie "\"Oh, you charmer!\" She scoffs, but smiles all the same at the cheesy line.">>
+
+    [[And the next|CuteBaristaHottie - Cafe Romance - Compliment 2]]
+
+::CuteBaristaHottie - Cafe Romance - Compliment 2
+    <<talk $cuteBaristaHottie "\"Hello!\" She calls as she comes my way. \"What can I get you today?\"">>
+
+    <<talk $protagonist "\"I just came for the warmth of your smile, but I guess I could use a cup of coffee too.\"">>
+
+    She laughs, but does not scoff. I guess I'm getting to her.
+
+    [[Finally I got the courage|CuteBaristaHottie - Cafe Romance - Ask on a Date]]
+
+
+::CuteBaristaHottie - Cafe Romance - Ask on a Date
+    <<talk $protagonist "\"Emily, just a moment,\" I say when she puts down the coffee. \"I wanted to ask you something.\"">>
+
+    <<talk $cuteBaristaHottie "\"Okay,\" she asks, pausing and pushing a lock of hair behind her ear. \"What is it?\"">>
+
+    <<talk $protagonist "\"Are you free tonight? Would you like to go on a date with me?"\">>
+
+    <<talk $cuteBaristaHottie "\"Oh!\" She seems surprised and thinks for a few moments as my heart beats faster and faster, worried about her answer. \"Okay. I think I would like that."\">>
+
+    <<talk $protagonist "\"Oh, great!\" I say, trying to hide my relief. \"I will come see you in the evening, though.\"">>
+
+    <<talk $protagonist "\"Sounds good!\" She smiles and goes back to work.">>
+    
+    [[On the date|CuteBaristaHottie - Cafe Romance - On a Date]]
+
+::CuteBaristaHottie - Cafe Romance - On a Date
+    I find Emily waiting for me at the time of the date. She smiles when I approach and entwines her arm with mine as we walk down the street.
+
+    I ask her what she would like to do and she answers she wants to know what I had planned. I tell her I was thinking of taking her to the movies and she seems to like that.
+
+    At the movie theater, I ask her what kind of movie she would like to see and she suggests a romantic comedy. I agree and we go in.
+    
+    I offer to pay her ticket and she gracefully accepts.
+
+    Emily seems entertained by the scenes and barely looks in my direction. She holds my hand through most of the movie, though and I enjoy the warm and soft sensation as well as the scent of her.
+
+    After the movie, I ask her if she wants to go get something to eat and she agrees. I make a few jokes during dinner and she laughs at them. At the end of dinner, I offer to pick up the tab and she agrees.
+
+    I feel that Emily is enjoying our date.
+
+    <<talk $cuteBaristaHottie "At the end of the date, she asks me to walk her home. I wonder if she will invite me in, but at the door, she turns around and says, bashfully: \"That's it. I'm here.\"">>
+
+    <<talk $protagonist "\"Oh, okay. Good night, then,\" I reply, a little disappointed.">>
+
+    The way she looks at me, though, instead of going inside immediately, makes me wonder if she is waiting for me to make a move.
+
+    Taking courage, I lean in and I feel immense relief and a lot of excitement when I see her close her eyes and lean in too.
+
+    We kiss on her doorstep. She tastes great. Fresh and young and warm. My blood runs through me at an incredible speed as my heart beats faster than ever.
+
+    After only a few seconds, we pull back. She has a big grin on her face and I realize I'm smiling too.
+
+    <<talk $cuteBaristaHottie "\"Good night!\" She shoots me a last, mischievous grin before stepping inside and closing the door.">>
+
+    I walk away feeling very good about myself.
+
+/*
+A Gift of Flowers:
+-----------------
+
+    I catch Emily's eye as I walk into the café. She smiles when she sees me and I reveal I have brought her a gift.
+
+    She is surprised and delighted when she sees the flowers. I get the feeling that she wants to hug me, but refrains herself from doing that at her workplace. She still beams me an amazing smile and grabs my hand for a second.
+
+    "Thank you, Steve! They are beautiful!"
+
+On a Second Date:
+----------------
+
+    "Emily, I was wondering if you would like to go on a date again," you ask the cute barista.
+
+    "The movie theater was nice and you were a perfect gentleman. So, I would go again. I'd like to go to some place different, though. Surprise me!"
+
+    "Okay, I will think on that. I will come back to you."
+
+    **
+
+    "Hi," I tell the cute barista as she sees me. "I was thinking about the date. Would you be up to a date during the day?"
+
+    "During the day?"
+
+    "Yeah, what about a picnic in the weekend?"
+
+    "That would be different. Yeah, why not?"
+
+    "Do we have a date, then?"
+
+    "Sure! Find me at my place, alright?"
+
+    "Great!"
+
+    **
+
+    I knock on Emily's door and she soon steps out wearing a lovely summer dress.
+
+    "Good morning, Emily!"
+
+    "Hello, Steve! Good to see you out of the café!"
+
+    She hooks her arms with yours and the two of you walk to the park.
+
+    You pull out a blanket, some sandwiches and a couple of bottles of wine.
+
+    The two of you talk and enjoy the view. It is a beautiful day and there are lots of people taking advantage of the park as well, but it is not noisy.
+
+    Emily seems happy with the date and gets a little tipsy with the wine. I even get a glimpse of her panties.
+
+    I have a chance to look directly under her skirt, but I resist the temptation. I will probably get my just rewards later.
+
+    When we finish the wine, Emily suggests it is time to finish. I gather everything and offer to tak her home.
+
+    "No need for a walk home, today, Steve. It is not even dark."
+
+    "I would still love to."
+
+    "You are a nice guy, Steve!" She says, a little louder, because of the alchohol.
+    
+    She comes closer and kisses me. I taste her mouth and it is better than I remember. She presses closer to me and her hands roam my chest.
+    
+    I get tempted to grab her breasts as well, but I decide she is changed by the alcohol. I pull back and just ask her if she will be alright going home.
+
+    Emily lets her lips linger a little longer on mine, than she gives me a happy smile and leaves.
+
+Feedback on Second Date:
+-----------------------
+
+    "Hello, Emily. How are you feeling?"
+
+    "I'm okay."
+
+    "After last date, you didn't seem entirely yourself."
+
+    "Ah, yeah." She looks embarrassed. "I don't hold my liquor very well."
+
+    "I understand."
+
+    "Did I- Did I do anything too embarrassing?"
+
+    "No, no!" I reassure her. "You were a perfect lady!"
+
+    She smiles and I think I may have overdone it a bit.
+
+    "Would you go out with me on anohter date, then?"
+
+    "Yeah, sure!"
+
+    "Nice!"
+
+    I'm happy with her prompt answer when Emily chimes in again.
+
+    "Next time, though, I want to go somewhere I have never gone before. Do you think you can swing that?"
+
+    "Uh... I guess. Yeah."
+
+    "Ok. So, just let me know when you think of the place."
+
+    "Alright."
+
+On a Third Date:
+---------------
+
+    "Hey, Emily! About the date: are you still up to it? I found a place that I think you will like. It's a bit fancy, though."
+
+    "Nice! Pick me up in the evening, like last time?"
+
+    "Sure!"
+
+    I come find Emily in the evening. She looks lovely.
+
+    "So, where are we going?"
+
+    "I was thinking we could go to Le Coq, tonight. What would you say?"
+
+    "The fancy restaurant on Angel Street? I would love that!"
+
+    I have a reservation, so we are promptly seated. Emily looks around, delighted and takes her time combing through the menu. I quickly decide what I want, so I have a little time to look around.
+
+    There is a hot waitress serving a nearby table and I get a chance to look at her ass. With a girl as beautiful as Emily with me, though, I don't see the point and focus on my date.
+
+    Emily asks what I think she should order. It may be an expensive dinner, depending on what she asks. I take a risk and tell her she should order whatever she wants.
+
+    "I never tried lobster, but I never tried salmon either. I think I will leave the lobster to some other opportunity. Tonight, I will have the fish."
+
+    At the end of the dinner, Emily is happy that I gave her the opportunity to try something new. It seems she really appreciates that kind of opportunity.
+
+    Once again, Emily asks if I would walk her home. She admits she feels a little worried late at night on the streets. I agree to take her home, of course.
+
+    As we approach her home, my heart starts beating faster. I wonder if she will invite me in today, or if I will be able to taste her lips once more.
+
+    As we are getting to her door, I decide to take a chance and pull gently on Emily's hand, making her face me. I look deep into her eyes and she looks at me, eyes wide open. When I lean in, she closes her eyes and pouts her lips.
+
+    We kiss. It is longer and deeper than the last time. I put my hands around her waist and pull her closer, feeling her warmth and the softness of her curves presing against me.
+
+    Too soon, she pulls back, seeming a little short of breath. She looks up at me with a coy little smile and I wonder if I will be getting into her pants tonight.
+
+    "Thank you, Steve, for the wonderful night!" She says, before stepping back and getting inside.
+
+    Not tonight, then. I step back and wave at her and walk away.
+
+    I'm a few steps away when I look back and find Emily is still at her door, biting her lower lip.
+
+    "Steve!" She calls me and I stop and turn around. "Do you want to come inside?"
+
+    It takes a lot of self control not to run back to Emily.
+
+    As soon as I step inside, we are kissing again. Emily lifts my shirt. This is really happening, then!
+
+    I caress her stomach and she grabs my hand and places it firmly on her breast, while starting to moan into our kiss.
+
+    We are like that for several minutes, kissing, groping, exploring each other's body. She pulls apart and I let out an involuntary sight.
+
+    She looks at me, takes a deep breath and waits. I look back at her and smile faintly, unsure of what I should do next.
+
+    I decide to ask her.
+
+    "What do you want me to do?"
+
+    She bites her lip again, takes me by the hand and leads me to her bedroom.
+
+    "Come with me."
+
+Sex for the First Time:
+----------------------
+
+    Emily takes off her dress. She looks like she is still a little uncertain, but she gestures to me to get naked too.
+
+    I comply and look at her. She is just stunning!
+
+    I walk towards her and decide to go slowly. I caress her stomach again, moving my hands slowly towards her breast. Then I start kissing her neck and she lets out a deep moan of pleasure. It seems I am doing this right.
+
+    I kiss Emily's mouth again, then I suck on her breasts a little, while my hands brush the place between her legs. She moves her hips back and forth, guiding my exploration. We are kissing again when she breaks away the kiss and pulls me towards the bed.
+
+    Emily is already wet, I see her nehter lips glistening as she turns around and takes a condom out of her nightstand. She gives it to me and I put it on promptly. It is thin and nearly invisible. She comes back to me and presses her chest against mine, let me feel how hot her breath is before kissing me.
+
+    She pulls me gently into her warm, waiting channel. She is soft and tight. It is a wonderful feeling!
+
+    We make gentle love. Full of kisses, caresses and sighs of pleasure. I massage her breasts as she rides me, moving faster and faster and climaxing with a deep sight and a slight tremor.
+
+    "Oh, God! I needed that!" She sighs in pleasure.
+
+    We flip around and I get on top, moving faster and deeper, making her moan with the stimulus until I let out a bass rumble of a groan and climax inside the condom.
+
+    "Aaaaah..." I sigh as I roll to the side and lie on my back.
+
+    I find that our fingers are entwined, both reocvering our breaths, looking at her ceiling and enjoying each other's company.
+
+She is not Ready for Impromptu Visits:
+-------------------------------------
+
+    I knock on Emily's door. It doesn't take long before she comes open.
+
+    "Oh, Steve! Hi! I didn't expect you."
+
+    "Can I come inside?"
+
+    "Now is not a good time. I'm busy studying. Maybe another time, alright?"
+
+    "Yeah, of course."
+
+    I guess she is not yet ready for me to come by unannounced.
+
+She Messages that she Misses Me:
+-------------------------------
+
+    There is a message from Emily:
+
+    "It's been three days! I miss you!"
+
+    I reply to reassure her.
+
+    "I miss you too, beautiful! I will see you soon!"
+
+Kissing on the Job:
+------------------
+
+    I go inside the café and Emily walks around the counter to kiss me.
+
+    It's a short, but nice kiss on the lips. And right here, in public, at her work place. I guess we are official, now.
+
+    "I've been missing you," she whispers to me as she pulls away. "No, sir, may I take your order?" She asks in a playful tone.
+
+Gifting to Get a Gift:
+---------------------
+
+    There is a message from Emily:
+
+    "Hey, Steve. I saw this book online and immediately thought of you. I got it for you. Hope you will like it!"
+
+    **
+
+    I walk into the café and Emily comes to me with a small package.
+    
+    "Hello, lover!" She tells me, quietly as she hands me the package. "I got you a little something!"
+
+    There is a cupcake inside the package.
+
+    I feel like Emily expects us to exchange gifts from time to time.
+    
+    Maybe I should get her something soon.
+
+Some more Gifts:
+---------------
+
+    I bring Emily a small box of chocolates.
+
+    "For me? Thanks! You are a darling!" She gives me a small peck on the lips and goes away with a bounce on her step.
+
+
+Asking for a Date:
+-----------------
+
+    "Steve," she tells me as she brings me a coffee. "I feel like it has been a while since we have last gone on a date."
+
+    "Yeah, I guess."
+
+    "Don't you want to go on another one?"
+
+    "Of course!"
+
+    **
+
+    "Do you want to go on a date tonight?" I ask Emily.
+
+    "I would love that!"
+
+    **
+
+    Emily and I go on a nice little date. She likes it and we kiss on her doorstep.
+
+    She invites me in and I know we will have sex.
+
+Not in the Mood for Adventurous Sex:
+-----------------------------------
+
+    We have a brief interruption in our kiss and I decide it's a good opportunity to ask for it.
+
+    "Em, don't you want to try something different?"
+
+    "Different? Different like what?" She asks, curious.
+
+    "Like a blowjob."
+
+    "I'm sorry, Steve," she says, with a pout. "I'm just not in the mood."
+
+    I guess I have to make her happier if I want to ask for something like that.
+
+    We kiss some more and, soon, she is on top of me.
+
+    Her pussy feels amazing as she rides me to a climax.
+
+Satisfied Enough for Adventurous Sex - Fellatio:
+-----------------------------------------------
+
+    We are kissing when I pull back and look deep into her eyes.
+
+    "Emily, I was thinking we could try somethign different today."
+
+    "Something different? What are you thinking about?"
+
+    "A blowjob, maybe."
+
+    "Hm... We have never done that. I'm willing to try!"
+
+    With that, she takes a deep breath and lowers herself. She looks deep into my eyes for a moment and then takes my cock into her mouth. It feels great.
+
+    She sucks on it a bit, then starts swirling her tongue around my shaft. She bobs her head and the feeling is just incredible.
+
+    I refrain from grabbing her head and pulling her down. I don't think she would have liked that.
+
+    "Warn me before you cum, okay?" She asks, as she pulls back for some air.
+
+    I nod in agreement and she goes back to sucking my cock.
+
+    I feel myself about to cum. It feels so good to have her mouth around my dick I just don't want it to stop. I don't warn her and feel the first spurt of jizz hitting her mouth.
+
+    Emily pulls away suddenly a look of disgust on her face.
+
+    "What? I told you to warn me!" She rushes to the bathroom and I can hear her brushing her teeth an instant later.
+
+    When she comes back, Emily makes it clear she is not at all happy with me and tells me to get out.
+
+    I wonder if I should have made a greater effort to warn her before I came.
+
+Satisfied Enough for Adventurous Sex - Titty Fuck:
+-------------------------------------------------
+
+    "Babe," I tell her, as I massage her breasts, "your breasts are just so amazing!"
+
+    "I'm happy you like them," she answers, her voice hoarse from the excitement.
+
+    She bites her lip and looks into my eyes as she grabs my cock and starts gently tugging on it in turn.
+
+    "I was wondering if you would be up to try something different?"
+
+    "What are you thinking?"
+
+    "Would you be willing to try giving me a titty-fuck?"
+
+    She looks a little shocked at the language. I don't usually talk to Emily like that. But I just don't know another name for it. 'Mammary stimulation'? No, that can't be it.
+
+    With a little shake of her head, she looks at me and laughs good naturedly.
+
+    "We could try..."
+
+    Emily guides me to sit on the edge of the be and, then, she kneels down in front of me.
+
+    She uses some lube to make her wonderful mounds slippery and then gets my manhood between her breasts.
+
+    She presses them together and, with some effort, starts bouncing up and down.
+
+    The stimulus is nice, but the sight of her is really amazing. I feel myself getting stiffer and lean back to better enjoy the spectacle.
+
+    "Is this nice? Are you liking it?"
+
+    She seems to need some encouragement. I do my best to keep her going.
+
+    "It feels great, babe! I'm just loving your little gift!"
+
+    "Gift is it?" She asks, playfully. "Enjoy it, then. It counts as your birthday gift!"
+
+    I want to joke back, but the sight of her is just too good. I focus on enjoying her ministrations.
+
+    "Do you like my tits?" The word seems unwieldy in her mouth. "Do you like seeing me pressing me big, round tits around your cock?"
+
+    "Yes!"
+
+    "Does it feel good to be pressed between my mammaries? Does it feel good slippery like this?"
+
+    "Oh, yes, Emily! Yes!"
+
+    "Warn me before you climax!" She warns me, accelerating her movement.
+
+    "I'm about to! I'm about to!" I announce, fearing I'm already too close to stop.
+
+    Emily deftly pulls back and gets a hand around my cock to jerk me to an orgasm.
+
+    "Oh, yeah! Ah!" I grunt in satisfaction.
+
+    She stands up and goes wash her hand before coming back into the bedroom with a smile.
+
+    "I hope you liked it, Steve!"
+
+    "It was great. We should do it again!"
+
+    "I don't know... It was worth a try, but I didn't enjoy it much."
+
+    Unable to argue further, I just let myself fall back into the bed.
+
+Getting an Invitation to Sleep Over after Sex:
+---------------------------------------------
+
+    "Do you want to stay the night?"
+
+    I think about it for a moment and nod.
+
+    "I would love it, Em!"
+
+    She jumps into bed and rests her head on my chest. We pull on the covers and soon I'm sleeping soundly.
+
+    I think she appreciates that I stayed over.
+
+
+She is so Happy that she Accepts to Repeat Adventurous Sex:
+----------------------------------------------------------
+
+    I sit down on the bed and take a good look at her.
+
+    "Wow, Emily! You always look amazing!"
+
+    "Thanks, Steve!" She says, genuinely delighted.
+
+    "I was wondering: would you be willing to do something for me?"
+
+    "What do you want, lover?"
+
+    "Would you like to try giving me a blowjob?"
+
+    She ponders the request for a moment and then nods.
+
+    "With everything you have been doing for me lately, I guess I can't say no," she says in an only half-joking tone.
+
+    With that, she gets down to her knees and gently kneeds my quickly stiffening cock. Emily looks up at me with a mischievous grin and brings her mouth to my cock, but instead of engulfing it at once, she gently blows on it. I grunt in frustration and she giggles. Then, satisfied with her teasing, she wraps her lips around the head of my dick and slowly slides it into her mouth.
+
+    Emily takes her time, focusing on give me good oral. She moves her head back and forth, at times sucking and playing with her tongue around my manhood. She sometimes tries to press it down her throat, but doesn't go very far before gagging and quickly gives up on that.
+
+    "Remember to warn me before you climax!" She reminds me sternly.
+
+    I sigh and nod. I want to make it last, so I relax back in the bed and try to, at the same time, focus on the feelings of her warm mouth and to think of something else instead of the sight of her pretty little face stuffed with my cock, to delay my climax. It doesn't work so well as I just can't the image of her from my mind.
+
+    "I'm close," I warn her, my breathing short.
+
+    She pulls back with a pop and starts franctically jerking on my cock to bring me over to a intense climax.
+
+    "Ah! Fuck!" I let out an unusual expletive.
+
+    She waits for me to recover and look down at her to shoot me one of her playful grins before getting up and heading to the bathroom to wash her hand.
+
+    "I hope you liked it," she says with a satisfied smile, clearly delighted of having such an effect on me.
+
+    I think she may get used to doing this if we do it often enough!
+
+Unhappy by Not Angry - Still wants a Date:
+-----------------------------------------
+
+    Emily sees me coming in and the smile she directs me is tight, not as happy and delighted as I'm used to.
+
+    "Hello, Steve," she greets me, somewhat perfunctorily.
+
+    I realize she is not too happy with me, but I'm not sure what I should do right now.
+
+    "I had planned a date for us today. Do you want to cancel?" I ask her frankly.
+
+    "Not at all. I would love to go on a date with you tonight, Steve." She does sound sincere, but I feel there is something I am not realizing.
+
+    **
+
+    You go on a date with Emily. She mellows out during the date and is actually great company. When we get to her place, though, she does not let me in.
+
+    With a kiss on the lips and a wave, she tells me goodbye.
+
+    Nothing is going to happen tonight, I guess.
+
+Unsatisfied in Bed - Not Enough Attention to Her:
+------------------------------------------------
+
+
+
+
+
+
+
+
+Make gentle love to her and she will be smitten. Comfortable with you, she will want to see you and make love more often. She will expect thrice-a-week meetings, once-a-week gifts (of small value), once-a-month dates. If she is very happy/satisfied, she will accept to try new sexy stuff once, like a blowjob, a titty-fuck, a 69 and even anal and a FFM threesome. She is curious about cunilingus, analingus, interracial, FMM threesomes, kissing a girl and ruining a handjob.
+*/

@@ -1,0 +1,28 @@
+::Younger Sister - Initialization
+<<nobr>>
+    <<set $youngerSister = new BaseCharacter("Lily", "female")>>
+    <<set $youngerSister.firstName = "Liliane">>
+    <<set $youngerSister.lastName = "Emerson">>
+    <<set $youngerSister.updateFunction = youngerSisterUpdate>>
+    <<set $youngerSister.relationships = {}>>
+    <<set $youngerSister.personality.submission = 10>>
+    <<set $youngerSister.personality.libido = 15>>
+    <<set $youngerSister.personality.liberated = 20>>
+    <<set $youngerSister.feelings.horny = 1>>
+    <<include "Younger Sister - Conversations - Initialization">>
+<</nobr>>
+
+::Younger Sister - Further Initialization
+<<nobr>>
+    <<set $youngerSister.relationships[$protagonist] = new Relationship($protagonist)>>
+    <<set $youngerSister.relationships[$protagonist].isRomantic = false>>
+    <<set $youngerSister.relationships[$protagonist].trust = 25>>
+    <<set $youngerSister.relationships[$protagonist].intimacy = 30>>
+    <<set $youngerSister.relationships[$protagonist].desire = 10>>
+    <<set $youngerSister.relationships[$protagonist].love = 25>>
+    <<set $youngerSister.relationships[$protagonist].angryThreshold = 5>>
+    <<set $youngerSister.relationships[$protagonist].respect = 25>>
+<</nobr>>
+
+::Younger Sister - Visit at Home
+<<goto "Younger Sister - At Home - Activities">>

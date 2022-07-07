@@ -1,0 +1,79 @@
+/*
+    # Cook - Food
+    # Waiters - Bar
+    # Guards - Security
+    # Servants - ???
+    # Maintenance - Cleaning (rooms)
+    # Promoters - Advertisement
+    # Masseuses - Services (Massages) + Sex Services
+    # Dancers - Entertainment
+    # Strippers - Entertainment + Sex Services
+    # Whores - Sex Services
+    # Slave hunters
+    # Slave tamers
+    # Slave trainers
+    # Pit Fighters - Entertainment + Security
+    # Farmhands - Productivity + Cleaning
+    # Cows - Productivity + Sex Services
+    # Ponies - Entertainment + Sex Services
+    # Pets - Entertainment + Sex Services
+
+    # Guests satisfaction
+    # Bar patrons satisfaction
+    # Strip club patrons satisfaction
+    # 
+
+
+    Funds
+        - 1000
+    Expenses
+        - Lin
+            - 50 per week.
+        - Ellen
+            - 200 per week.
+        - Protagonist
+            - 100 per week.
+        - Maintenance
+            - 250 per week.
+    Income
+        - Kali: 100 per day.
+        - Kali: as much as +50 a day in room service.
+    
+
+    1st guest is Kali.
+    2nd guest is Michael.
+    3rd guest is Ashley.
+    4th guest is Maria.
+
+    Lin can clean 2 rooms per day with skill clean 2.
+    Skill 1: 2 periods to clean 1 room.
+    Skill 2: 1 period to clean 1 room.
+    Skill 3: 1 period to clean 2 rooms.
+    Skill 4: 1 period to clean 3 rooms. +1 reputation to hotel.
+    Skill 5: 1 period to clean 5 rooms. +2 reputation to hotel.
+
+    Cooking:
+    Skill 1: Work in kitchen 1 period. +1 per day in room service per guest. Max 1 period. Max 2 guests per period.
+    Skill 2: Work in kitchen 1 period. +2 per day in room service per guest. Max 1 period. Max 3 guests per period.
+    Skill 3: Work in kitchen 1 period. +5 per day in room service per guest. Max 2 periods. Max 4 guests per period.
+    Skill 4: Work in kitchen 1 period. +8 per day in room service per guest. Max 2 periods. Max 4 guests per period.
+    Skill 5: Work in kitchen 1 period. +10 per day in room service per guest. Max 3 periods. Max 4 guests per period.
+*/
+
+::Hotel - Initialization
+<<nobr>>
+    <<set $hotel = {}>>
+    <<set $hotel.roomsToBeCleaned = 0>>
+    <<set $hotel.totalGuestRooms = 4>>
+    <<set $hotel.mealsToBeCooked = 0>>
+    <<set $hotel.dailyMeals = 0>>
+    <<set $hotel.weeklyExpenses = 600>>
+    <<set $hotel.maintenanceChores = 10>>
+<</nobr>>\
+
+::Hotel - Updates
+
+::Hotel - Room Cleaning
+<<run $progressDayToPart($nextDayPart)>>\
+<<set _roomsCleaned = roomsCleanedBySkill($protagonist.skills.cleaning)>>\
+It takes you several hours to clean _roomsCleaned _roomOrRooms.

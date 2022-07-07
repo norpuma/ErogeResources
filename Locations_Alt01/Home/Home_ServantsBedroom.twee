@@ -1,0 +1,27 @@
+::Home - Servant's Bedroom
+This bedroom is not too small. The bed in it is just a single, though. The noise from the appliances in the basement may make sleeping here a little less comfortable than in most of the house.
+
+[[Return|Home - Base]]
+
+::Home - Servant's Bedroom - Activities
+[[Search the room|Home - Servant's Bedroom - Activities - Search the room]]
+[[Watch daughter asleep|Home - Servant's Bedroom - Activities - Watch maid asleep]]
+
+::Home - Servant's Bedroom - Activities - Search the room
+<<set _nameForMaid = $protagonist.relationships[$maid].name>>\
+You look through _nameForMaid while she is not around. You feel a little guilty, but you rationalize that you have to care for your family's safety.
+
+/* TODO: Change this as she gets corrupted. */\
+You find a few magazines, her clothes, a suitcase and a small locked box. You wonder if there is any way you could open the box, but opening it may be crossing a line.
+
+[[Return|return]]
+
+::Home - Servant's Bedroom - Activities - Watch maid asleep
+/* TODO: Add image/picture. */\
+<<set _nameForMaid = $protagonist.relationships[$maid].name>>\
+You slowly slide the bedroom's door open and find _nameForMaid fast asleep. She looks safe and relaxed like that, a distinct change from her wound up appearance when she is awake.
+
+/* TODO: Change this to offer the option of pulling back the covers. */\
+You wonder how she looks under the covers, but don't dare pull those back. Maybe next time...
+
+[[Return|return]]

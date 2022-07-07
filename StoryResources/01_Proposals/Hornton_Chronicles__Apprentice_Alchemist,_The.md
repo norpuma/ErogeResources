@@ -1,0 +1,130 @@
+# Apprentice Alchemist
+- Alchemist gets a job at the college lab.
+- Alchemist is inspired to develop the mind-drugs.
+- Alchemist starts learning about the mind-drugs elements and using acquaintances as test subjects.
+- Alchemist uses mind-drugs on a college colleague.
+- Alchemist uses mind-drugs on a lab researcher.
+- Alchemist uses mind-drugs on the lab director.
+- Alchemist uses mind-drugs on his mother.
+- Alchemist uses mind-drugs on his sister.
+- College colleague becomes more confident and slutty. She starts dressing more provocatively and enjoying the attention of others.
+- College colleague becomes less concerned with "propriety" and starts having many dates.
+- College colleague gets a boyfriend, but she is too hungry for sex and can't resist cheating on her boyfriend.
+- College colleague has sex with Alchemist.
+- College colleague becomes more liberated and sex-curious, watching a lot of porn and camgirls.
+- College colleague becomes a camgirl.
+- College colleague does all kinds of sex with Alchemist.
+- College colleague does all kinds of perversions on the cam and becomes a lucrative camgirl.
+- College colleague becomes submissive to Alchemist, becoming exclusive to him and turning all her camgril profits to him.
+- College colleague becomes bisexual and helps recruit girls for the Alchemist.
+- College colleague becomes part of Alchemist's harem.
+- Alchemist lab researcher becomes more liberated and offers blowjobs at parties she joins.
+- Alchemist lab researcher becomes easily excited and masturbates at work.
+- Alchemist lab researcher has lots of one night stands.
+- Alchemist lab researcher becomes easily excited and liberated and offers the Alchemist blowjobs at work.
+- Alchemist lab researcher offers guys blowjobs during dates.
+- Alchemist lab researcher becomes a little submissive and becomes an accomplice to the Alchemist, helping him test formulas of the mind-drugs.
+- Alchemist lab researcher goes on some dates with the Alchemist and has wild perverted sex with him.
+- Alchemist lab researcher becomes bisexual and very attracted to the lab director.
+- Alchemist lab researcher uses mind-drugs on the lab director on her own and starts a lesbian affair with her.
+- Alchemist lab researcher becomes more submissive to Alchemist and helps blackmail the lab director.
+- Alchemist lab researcher helps turn the lab director into a sex slave to the Alchemist.
+- Alchemist lab researcher becomes part of the Alchemist's harem.
+- Alchemist lab director becomes more easily excited and masturbates more at home.
+- Alchemist lab director starts going on dates again after a messy divorce.
+- Alchemist lab director brings her daughter to work a few times.
+- Alchemist lab director has a drunk date with the Alchemist.
+- Alchemist lab director becomes suspicious of the Alchemist.
+- Alchemist lab director is unsuspectingly dosed with mind-drugs by lab researcher and becomes attracted to her.
+- Alchemist lab director starts a lesbian affair with her.
+- Alchemist lab director tries to turn lab researcher away from Alchemist's influence.
+- Alchemist lab director is blackmailed by lab researcher and the Alchemist and becomes his sex slave.
+- Alchemist lab director has all kinds of perverted sex with Alchemist.
+- Alchemist lab director becomes more submissive.
+- Alchemist lab director becomes part of the Alchemist's harem.
+- Alchemist mother watches movies with Alchemist more often.
+- Alchemist mother becomes less confident and more insecure. She mother's Alchemist at home, doing lots of small favors for him.
+- Alchemist mother decides she needs to be more flirty and accessible at work.
+- Alchemist mother is proud of Alchemist's success and rewards him with more autonomy and small favors.
+- Alchemist mother becomes less confident and asks for help with money.
+- Alchemist mother becomes more liberated and offers some co-workers sex favors.
+- Alchemist mother becomes more submissive and accepts to offer Alchemist sex.
+- Alchemist mother offers lots of teasing and sex favors to Alchemist during movies.
+- Alchemist mother becomes accepts to help corrupt sister.
+- Alchemist mother seduces sister during night when she sleeps in her bed.
+- Alchemist mother puts on lesbian shows with sister for Alchemist's benefit.
+- Alchemist mother becomes part of Alchemist's harem.
+- Alchemist sister becomes more trusting of the Alchemist and asks for his company and his opinions.
+- Alchemist sister allows Alchemist to step in when she is changing clothes or showering.
+- Alchemist sister becomes more confident and starts dating again after a messy breakup.
+- Alchemist sister becomes more liberated and slutty and dresses more provocatively and buys sexy lingerie.
+- Alchemist sister asks Alchemist opinion about her clothes.
+- Alchemist sister becomes more flirty in her personal life.
+- Alchemist sister teases the Alchemist, good naturedly, at home.
+- Alchemist sister becomes sad by being stood up by a date and goes on a date with Alchemist.
+- Alchemist sister has sex with Alchemist.
+- Alchemist sister becomes suspicious of Alchemist.
+- Alchemist sister has plenty of one night stands and teases guys on the web.
+- Alchemist sister has plenty of one night stands and teases guys on the web.
+- Alchemist sister watches movies with Alchemist and mother.
+- Alchemist sister teases during movies with Alchemist and mother.
+- Alchemist sister becomes more submissive and trusting of mother, sleeping in her bed a few nights.
+- Alchemist sister becomes bisexual and is seduced by mother when sleeping with her.
+- Alchemist sister puts on a lesbian show with mother when watching movies with Alchemist.
+- Alchemist sister becomes more submissive to him under mother's instructions.
+- Alchemist sister has all kinds of perverted sex with him.
+- Alchemist sister becomes part of Alchemist's harem.
+- Alchemist enjoys harem and with a perfected understanding of mind-drugs components, starts expanding.
+- Alchemist makes a big mistake. Doses the wrong person with mind-drugs and finds out there are severe side effects. Forced to flee and leave memory gaps in harem.
+
+# Some Scenes:
+- Present the Apprentice Alchemist's background.
+- Introduce the sister.
+- Introduce the mother.
+- Show what life is like. No friends at school. Chores at home (cleaning own bedroom once a week; washing dishes after dinner every other night). Nice family time at dinner. Movies with mother. Too lazy to cook dinner. Not much money (only ordering food on Sundays). Sister is nice, but not too close. Mother is nice and motherly, but busy and worried about work and money. Playing videogames for fun. Masturbating to porn for fun.
+- Find sister taking shower in bathroom (door locked) and fantasize about watching her.
+- Find mother changing clothes in her bedroom (door locked) and fantasize about watching her.
+- Introduce college colleague.
+- Forced, by mother, to look for a job to help at home.
+- Introduce lab director.
+- Introduce lab researcher.
+- Hear about sister being attracted by boy at school, but him not making any moves.
+- Hear about mother being invited to date by work colleague, but unsure if she should take it.
+- Make a mistake and be forced to work late in the lab.
+- Catch college colleague being awkward around boys.
+- Catch college colleague having a wardrobe malfunction and helping her.
+- Getting the inspiration to create the mind-drugs.
+- Volunteering to work late in the lab. Take advantage of the time to create the mind-drugs.
+
+# Requirements:
+- Town must have very low sexuality.
+- Alchemist must be good student 3 and have high Knowledge.
+- Alchemist must have low charm and have low Sociability.
+- Alchemist must be moderately dutiful and moderately lazy.
+- Alchemist must love sister and mother.
+- Alchemist must be a teenager.
+- Alchemist must be a student, jobless, dependent on mother and feel like mother is the home authority and he is subject to her authority.
+- Alchemist must be new in town. Alchemist must start with no friends.
+- Sister must love and respect the Alchemist but not be too intimate.
+- Sister must be a teenager and younger than the Alchemist.
+- Sister must be a student, jobless, dependent on mother and feel like mother is the home authority and she is subject to her authority.
+- Sister must be new in town. Alchemist must start with no friends.
+- Mother must love and respect the Alchemist and feel indebted to him.
+- Mother must have a moderate paying job and moderate professionalism.
+- Mother must feel like the provider to Alchemist and sister and feel like she is the home authority and that both Alchemist and sister are subject to it.
+- Mother must be new in town. Alchemist must start with no friends.
+- College colleage must be teenager, jobless, dependent on home provider, low charm and low sociability.
+- Lab director must be adult, moderate paying job and high professionalism. Live alone. Home provider and home authority. Moderate or worse charm and moderate or lower sociability. Slight liberated.
+- Lab researcher must be teenager, older than sister, student, slight paying job and moderate professionalism. Moderate or better charm and moderate or better sociability. Moderate Liberated.
+
+
+# Locations:
+- Alchemist's Home
+- Alchemist's Home - Alchemist Bedroom
+- Alchemist's Home - Sister Bedroom
+- Alchemist's Home - Mother Bedroom
+- Alchemist's Home - Bedroom
+- College Campus
+- College Campus Cafeteria
+- College Lab
+

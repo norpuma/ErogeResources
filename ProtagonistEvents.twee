@@ -1,0 +1,88 @@
+::First Day Wakeup [mcbedroom]
+You wake up in this stranger's bedroom. It takes some time before you remember you are in $bigSister.names.first's - your big sister's - bedroom. It is the first day of this new life of yours.
+
+You take a little time to prepare for the day and go outside to brave the world.
+
+[[Time for breakfast|Home - Kitchen - Landing]]
+
+::Morning Routine
+/* TODO: Create a morning routine list. */\
+You clean up, change and get ready for the day.
+
+<<include "Available Morning Events">>
+
+<<include "Available Morning Actions">>
+
+::Available Morning Events
+/*
+    - Standard breakfast.
+    - Nice Guy breakfast with mom.
+    - Jerk breafast with mom.
+    - Prepare breakfast for family.
+    - Clean kitchen before breakfast.
+    - 
+
+
+# Kitchen
+## Breakfast
+### Nice Breakfast with Mom
+### Sister Homework Last Minute Help
+### Corruptive Breakfast for Family
+### Clean Kitchen for Mom's Breakfast
+### Sister Winces After Spanking
+## Dinner
+### Sister Tells about School over Dinner
+### Mother Tells about Self over Dinner
+### Sister Teases in Skimpy Clothes
+### Under the Table Sister Blowjob
+### Invitation to Fuck Mom in Bedroom
+## Washing Dishes
+### No One Notices
+### Mom is Appreciative
+### Mom is Splashed with Water
+### Fixing the Garbage Disposal
+#### Mom Rewards Garbage Disposal Fix
+
+*/
+
+::Available Morning Actions
+
+::Standard Breakfast
+You take a quick breakfast and hurry out.
+
+::Nice Guy - Breakfast with Mom
+You find your step-mother in the kitchen and share a nice breakfast.
+
+<<speech $protagonist>>"Thanks for the breakfast, mom."<</speech>>
+
+<<if $stepMother.appreciation >= 10>>\
+    <<speech $stepMother>>"You are welcome. Now, hurry off."<</speech>>
+<<elseif $stepMother.appreciation >= 10>>\
+    <<speech $stepMother>>"Of course sweety, breakfast is the most important meal of the day!"<</speech>>
+<<else>>\
+    She looks at you and turns around without a word. She is still pretty cold towards you.
+<</if>>\
+
+/* TODO: Increase stepMother appreciation stat. */\
+
+::Nice Guy - New Normal - Prepare Breakfast for Family
+/* TODO: As their Corruption increases, cook naked and in chastity for Sister and Mother */\
+You go into the kitchen early and get busy preparing breakfast for everyone. No one shows any appreciation, but you know they are glad for your efforts.
+
+::Nice Guy - Prepare Breakfast for Family
+You go into the kitchen and you are the first one there.
+
+$stepMother.names.standard would probably appreciate an omelette. And $littleSister.names.standard doesn't each much more than some cereal, in the morning, but you can setup a nice table for them.
+
+Both women are delighted at finding everything set. They smile as they eat and voice their appreciation.
+
+/* TODO: Increase stepMother and littleSister appreciation stat. */
+/* TODO: Mark protagonist.preparedBreakfastForEveryone. */
+
+::Nice Guy - Step Mother - Protagonist should be Regular Breakfast Cook
+You get into the kitchen and find your step-mother there, seemingly waiting for you.
+
+<<speech $stepMother>>"That breakfast you did the other day was pretty nice. I was thinking you should be in charge of breakfast from now on," she suggests, without much preamble. "What do you think?"<</speech>>
+
+/* TODO: Give the option of being Jerk or Nice Guy */
+

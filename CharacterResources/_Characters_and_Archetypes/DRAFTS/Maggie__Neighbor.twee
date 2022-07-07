@@ -1,0 +1,48 @@
+/*
+    She is your neighbor. A young woman, happy and free. Living by herself. Going to college and working at a nearby café.
+
+    You and her are strangers as the game starts.
+
+    She is a ROMANTIC at heart. SWEET and MODEST.
+    She is a cutey, with only a few friends that try to make her go out.
+    She is studious and curious.
+
+    She is attracted to the latino barman at the club, but doesn't dare approach him. They have a lot in common, though, and he will eventually approach her.
+    She is uncomfortable with her co-worker at the café staring at her.
+    She is wouldn't admit she has the hots for her black neighbor, who goes to the same gym as she does. They don't have anything in common, but she finds him really hot (and would be up to fucking her).
+    A study budy from class would like to fuck her.
+    One of her teachers would like to fuck her.
+    Her boss, at the café, would like to fuck her.
+
+    She wants to be a politics journalist.
+    She currently has a blog about politics.
+    She is proud of her smarts, her morality(fairness), her niceness and her curiosity.
+    She is insecure about her writing skills, her sexiness and her money-making abilities.
+*/
+
+::Neighbor - Initialization
+<<nobr>>
+    <<set $neighbor = new BaseCharacter("April")>>
+    <<run $protagonist.setGender("female")>>
+    <<set $neighbor.body = new BodyDetails()>> /* Body details based on April Aniston */
+    <<set $neighbor.body.hairColorDescriptors = {group:"BLONDE", descriptors: ["blonde", "golden", "sandy"]}>>
+    <<set $neighbor.body.eyeColorDescriptors =  {group:"LIGHT_BLUE", descriptors: ["icy-blue", "baby-blue", "light blue", "sapphire"]}>>
+    <<set $neighbor.body.breastDescriptors = {cupSize: "B cup", shapeDescriptors: ["small", "modest", "perky"], nipples: "nubby little nipples"}>>
+    <<set $neighbor.body.vulvaDescriptors = {outerLips: "smooth outer lips", innerLips: "pink and short inner lips", clit: "hooded, small clit"}>>
+    <<set $neighbor.body.pubicHairDescriptor = "trimmed landing strip">>
+    <<set $neighbor.mind = {}>>
+    <<set $neighbor.mind.personality = new Personality()>>
+    <<set $neighbor.mind.personality.template = "ROMANTIC">>
+    <<set $neighbor.mind.personality.angerType = "HIDDEN">>
+    <<set $neighbor.mind.attitude = new Attitude()>>
+    <<set $neighbor.mind.attitude.niceness = "SWEET">>
+    <<set $neighbor.mind.attitude.confidence = "MODEST">>
+<</nobr>>
+
+::Neighbor - Relationships Initialization
+<<include "Neighbor to Protagonist Relationship Initialization">>
+
+::Neighbor to Protagonist Relationship Initialization
+<<nobr>>
+    <<set $neighbor.relationships[$protagonist.uniqueID] = new Relationship($protagonist.uniqueID)>>
+<</nobr>>

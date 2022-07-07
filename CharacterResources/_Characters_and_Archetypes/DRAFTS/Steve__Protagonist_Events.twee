@@ -1,0 +1,13 @@
+::Steve - Own Room - First Time
+<<set $protagonist.isAwareOfPaperwork = true>>\
+$protagonist.name goes to $protagonist.hisHer bedroom.
+
+It is a small, although well appointed bedroom. The bed is large and looks comfortable, the decor is spartan, but there are modern electronic amenities.
+
+On the room's main screen, there is a blinking message. A quick examination reveals it is paperwork for the hotel manegement. There are invoices, bills and reports.
+
+$protagonist.name looks at the work despondently. It looks like a lot of ungratifying work. Maybe $ellen.name can help.
+
+Anyway, it certainly doesn't need to be done right away.
+
+<<link "Continue" "Steve - Own Room - Options">><</link>>

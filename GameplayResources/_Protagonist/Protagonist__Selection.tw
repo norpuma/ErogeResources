@@ -1,0 +1,32 @@
+::Select a Protagonist
+    These are the characters that may become protagonists of this story - the candidates.
+    <ul>
+    <<for _cand range $protagonistCandidates>>\
+        <<set _linkText = _cand.baseCharacter.name + ": " + _cand.shortDescription>>\
+        <li> [[_cand.baseCharacter.name|Protagonist Presentation][$protagonistCandidate = _cand]]: _cand.shortDescription</li>
+    <</for>>\
+    </ul>
+
+::Protagonist Presentation
+    <<include $protagonistCandidate.shortIntroductionPassage>>
+
+    <<if $protagonistCandidate.extendedIntroductionPassage !== undefined>>\
+        [[Learn more about this candidate|$protagonistCandidate.extendedIntroductionPassage]]
+    <</if>>\
+    <<if $protagonistCandidate.destinyPassage !== undefined>>\
+        [[Learn about this candidate's destiny|Protagonist Destiny Inspection]]
+    <</if>>\
+
+    [[Select this candidate as the protagonist|$protagonistCandidate.storyStartPassage][$protagonist = new Protagonist($protagonistCandidate.baseCharacter)]]
+    
+    <<back>>
+
+::Protagonist Destiny Inspection
+    @@.outsideNarrator;You divine the destiny of $protagonistCandidate.baseCharacter.names.first $protagonistCandidate.baseCharacter.names.last.
+
+    <<set _HeShe = capitalizeFirstLetter($protagonistCandidate.baseCharacter.heShe)>>\
+    _HeShe is unware of it.@@
+
+    <<include $protagonistCandidate.destinyPassage>>
+
+    <<back>>

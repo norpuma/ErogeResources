@@ -1,0 +1,7 @@
+// This lists character Traits from Default Character Traits with their weights.
+// A character finds another Fit for a Long Term Relationship if they have crossed a given value when adding up Traits from this json which can be found in the character.
+{
+    "Disloyal": -10,
+    "Offensive": -10,
+    "Rich": 10
+}

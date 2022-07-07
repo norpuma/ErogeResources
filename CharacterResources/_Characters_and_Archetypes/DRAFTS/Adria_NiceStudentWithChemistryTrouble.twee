@@ -1,0 +1,191 @@
+/*
+
+Unaware of janitor.
+
+Seducing Adria - 
+
+Dominating Adria - 
+
+Humiliated by Adria - 
+
+Teach her some chemistry in the library.
+Make her more sexual.
+She starts masturbating.
+She starts watching porn on her phone.
+She gets a dildo as a gift.
+She flashes her tits.
+She flashes her pussy.
+She wears a buttplug.
+
+
+
+
+Stress
+Embarrassment
+Arousal/Horniness
+Pleasure/Satisfaction
+Orgasm Strength
+
+*/
+
+::Adria - Initialization
+<<nobr>>
+    <<set $adria = new BaseCharacter("Adria")>>
+    <<run $adria.setNames({firstName: "Adria", lastName: "Collins"})>>
+<</nobr>>\
+
+::Adria - Info
+$adria.name is a student at $school.formalName. She is 18 and a senior. A good student all her life, she has, recently, seen a decline in her grades. Particularly chemistry.
+
+$adria.name is not yet willing to share it with you, but her father, who divorced her mother several years ago, recently sent the family a poster card with him with his new family in christamas getup. He invited $adria.name to come meet her new sister and newborn little brother. That postercard shook $adria.name.
+
+::Adria - Introduction
+"Hello," the cute schoolgirl approaches your table at the library. "I'm $adria.name, $adria.firstName $adria.lastName. We spoke on the phone."
+
+"Hello, $adria.name," you answered. "Nice to meet you face to face." You wave towards a chair next to you and she comes around the table to sit.
+
+The two of you talk for a little bit and you find out that she is 18 and a senior at $school.formalName. She is a great student, but she is having some trouble with chemistry lately.
+
+She says she will need tutoring twice a week and that she will be available whenever you call her in the afternoon. You agree to a fee of $15 per lesson.
+
+::Adria - Talk
+<!-- This is a generic talk. More specific topics should be created. -->\
+"I wonder if it will be warm enough for the pool this weekend."
+---
+"I wonder if the weather in $otherTown.name is as good as it is here." <!-- This is the town to where her father moved to. -->
+---
+"I'm a little bit worried about the next test. I didn't do so great at the last one."
+---
+<<set _protagonistPreferredName = $adria.relationships[$protagonist].preferredAddress>> <!-- This will be either Mr Foster or Jake. -->\ 
+"You are being really helpful, _protagonistPreferredName. I'm starting to really understand the subject!"
+
+::Adria - Intimacy Steps
+You ask $adria.name about how things are going. She tries to say everything is alright, but you stay silent and that prompts her to talk some more. She admits things aren't as good at home. That she has had some words with her mother and it is because of her father.
+---
+
+---
+
+::Adria - Flirt Steps
+You receive $adria.name with a joke, which makes her smile and puts her at ease.
+
+<<set _protagonistPreferredName = $adria.relationships[$protagonist].preferredAddress>> /* This will be either Mr Foster or Jake. */\ 
+"Oh, _protagonistPreferredName, you are too much!"
+---
+You ask $adria.name about the weather in $otherTown.name. She seems surprised at first. Then, she remembers her comment the other day and laughs with you.
+---
+You make another joke, during the study session and as the both of you laugh, you touch her arm. She doesn't pull away and you see it as a good sign.
+---
+You receive $adria.name with a brief hug. The gesture seems to surprise her, but she doesn't pull away.
+---
+"Ciao, bella!" You say in a fake italian accent, before pulling $adria.name for a kiss on the cheek. She laughs and lets you do it.
+
+::Adria - Flirt
+* Make a joke and touch her arm as you laugh
+* Hug her
+* Kiss her cheek
+* Rub her shoulders
+* Kiss her lips
+* Flip up her skirt
+* Grab a tit
+
+::Adria - ?
+* Say you love her
+* Ask for her panties
+* Ask on a date
+
+* "Do you want to make out?" - Make out (with or without groping)
+* "You are looking so hot! Could you put on a show?" - Ask for a dance (with or without stripping)
+* "Could you take care of something for me?" - Ask for handjob/blowjob
+* "Do you want a little treat?" - Suggest cunnilingus
+* "Do you want in on this?" - Suggest threesome
+
+::Adria - Closeness
+* "Do you want to watch something?"
+* "Do you want to study?"
+* "I have a gift for you!"
+
+::Adria - Romance
+* "Do you want to go on a date?"
+* "Do you want me to draw you a bath?"
+
+::Adria - Command
+* "Cook for me!"
+* "Clean for me!"
+* "I want you to put on a show!" - Demand dance (with or without stripping)
+* "Come over here!" - Demand to grope her
+* "Spread your legs!" - Demand masturbation or that she accept fingering or cunnilingus
+* 
+
+::Adria - Sexual
+* Toys
+    * Wand
+    * Paddle
+    * Small buttplug
+    * Large buttplug
+* Oral
+    * Teasing cunnilingus
+    * Intense cunnilingus
+    * Lick cock
+    * Gentle fellatio
+    * Hard fellatio (skullfucking)
+    * Deepthroat
+    * Offer analingus
+    * Command analingus
+* Hand stuff
+    * Handjob
+    * Teasing fingering
+    * Gentle fingering
+    * Rough fingering
+    * Anal fingering
+* Vaginal
+    * Vaginal teasing
+    * Gentle vaginal
+    * Hard vaginal
+    * Rough vaginal
+* Anal
+    * Anal teasing
+    * Gentle anal
+    * Hard anal
+    * Rough anal
+* Climax
+    * Command her to climax
+    * Cum inside
+    * Cum on hand
+    * Cum on the floor
+    * Cum on tits
+    * Cum on face
+    * Cum in mouth
+    * Command her to swallow
+
+
+
+
+$adria.name feels closer to you and her resistance decreased.
+
+
+"It's just a handjob, _nameForHer. Don't you want to touch it?"
+
+She brought her hands to her mouth, shocked, at the sight of your cock. Maybe that was a little too fast for her.
+"N- no," she said, scared, without taking her eyes away from your cock.
+"Yes, I do," she said, huskily. She licked her lips in unconscious anticipation.
+
+
+
+"Look at this cock," you told her.
+
+In her entranced state, she looked down most emotions away, but there was still a faint expression of surprise to her eyes. Maybe she had never seen a cock before.
+
+"When you come out of the trance, you will want this cock. You will dream about it. You will think about it and it will get you curious and excited."
+
+
+
+"Look at this cock!" You commanded and, in her entranced state, she obeyed, lowering her eyes. "You will crave this cock. You will ache to have it, to touch it, to taste it, to have it inside of you. You will feel empty and incomplete until you have it inside of you!"
+
+"Oh, no!" She moaned, faintly. She could feel the desire taking hold of her and she was rightfully scarred of the effects of your command.
+
+
+
+"I just want to see your tits. There's not much to it."
+
+"There is... not... not much to it?" She finished with a question. Clearly, even in her entranced state, she was uncomfortable with the instruction.
+

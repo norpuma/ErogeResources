@@ -1,0 +1,58 @@
+::Amusement - Initialization
+<<nobr>>
+    <<set $lastTimePlaying = -1>>
+    <<set $lastTimeClimaxed = -1>>
+    <<set $randomPornPics = [
+        "101073_027.jpg",
+        "101073_071.jpg",
+        "Evelin Stone - 101478_042.jpg",
+        "Evelin Stone - 101478_055.jpg",
+        "Evelin Stone - 101478_056.jpg",
+        "Evelin Stone - 101478_067.jpg",
+        "Evelin Stone - 101478_071.jpg",
+        "Evelin Stone - 101478_152.jpg",
+        "Evelin Stone - 101478_162.jpg",
+        "Evelin Stone - 101478_184.jpg",
+        "Evelin Stone - 101478_188.jpg",
+        "Luna Corazon - 100227_025.jpg",
+        "Luna Corazon - 100227_034.jpg",
+        "Luna Corazon - 100227_035.jpg",
+        "Luna Corazon - 100227_072.jpg",
+        "Luna Corazon - 100227_143.jpg",
+        "Tina Kay - 100992_001.jpg",
+        "Tina Kay - 100992_029.jpg",
+        "Tina Kay - 100992_073.jpg",
+        "Chanel Preston - 100927_002.jpg",
+        "Chanel Preston - 100927_013.jpg",
+        "Chanel Preston - 100927_023.jpg",
+        "Chanel Preston - 100927_034.jpg",
+        "Chanel Preston - 100927_003.jpg",
+        "Chanel Preston - 100927_018.jpg",
+        "Chanel Preston - 100927_032.jpg"
+    ]>>
+<</nobr>>
+
+::Play Videogames
+<<if $lastTimePlaying >= $dayCount>>\
+    You already played videogames today. You are not in the mood for some more.
+<<else>>\
+    You play some videogames for a while. It is not very productive, but it helps balance your mood.
+
+    <<if $protagonist.happiness < 8>><<set $protagonist.happiness += 1>><<set $lastTimePlaying = $dayCount>><<run progressDayPart()>><</if>>\
+<</if>>\
+
+<<return>>
+
+::Jerk Off
+<<if $lastTimeClimaxed >= $dayCount>>\
+    You climaxed not long ago. You are not yet in the mood for some more randiness.
+<<else>>\
+    <<set _r = "<img src=\"img/RandomPornPics/" + randElem($randomPornPics) + "\" height=\"400\">">>\
+    _r
+    
+    You look for some sexy pictures online and some fresh new porn. You jerk off and feel better.
+
+    <<if $protagonist.happiness < 8>><<set $protagonist.happiness += 1>><<set $lastTimeClimaxed = $dayCount>><<run progressDayPart()>><</if>>\
+<</if>>\
+
+<<return>>

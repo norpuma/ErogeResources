@@ -1,0 +1,70 @@
+::Home - Den
+You have a den for the family to watch movies on a big tv or for someone to use the computer. There is a small desk on the side and the room can be used as an office. The couch in front of the tv is comfortable enough to sleep on.
+
+[[Return|Home - Base]]
+
+::Home - Den - Activities
+[[Watch a movie|Home - Den - Activities - Watch a movie]]
+[[Watch a movie with your daughter|Home - Den - Activities - Watch a movie with daughter]]
+[[Watch a movie with your wife|Home - Den - Activities - Watch a movie with wife]]
+[[Watch a movie with your wife and daughter|Home - Den - Activities - Watch a movie with wife and daughter]]
+[[Watch some porn on the computer|Home - Den - Activities - Watch some porn on the computer]]
+/* TODO: Once you are not allowed to sleep in the master bedroom anymore, add an option to sleep on the couch. */
+
+::Home - Den - Activities - Watch a movie
+/* TODO: Add image/picture, here. */\
+You watch a movie and relax. You wonder if you would have enjoyed it better with the right company.
+
+[[Return|return]]
+
+::Home - Den - Activities - Watch a movie with daughter
+/* TODO: Add image/picture, here. */\
+<<set _nameForDaughter = $protagonist.relationships[$daughter].name>>\
+<<set _titleForDaughter = $protagonist.relationships[$daughter].title>>\
+/* TODO: Add choices of movie type. Some make the daughter happier than others. It (terror) may also make her want company at night. */\
+/* TODO: Change her reaction after you can't give her gifts anymore. */\
+You watch a movie with your _titleForDaughter. She is really happy to have spent some time with you.
+
+@@.daughter;"Thank you for the movie, daddy! I had a lot of fun!"@@
+
+[[Return|return]]
+
+::Home - Den - Activities - Watch a movie with wife
+/* TODO: Add image/picture, here. */\
+<<set _nameForWife = $protagonist.relationships[$wife].name>>\
+<<set _titleForWife = $protagonist.relationships[$wife].title>>\
+/* TODO: Add choices of movie type. Some make the wife happier than others. It (romantic) may also make her want company at night. */
+/* TODO: Change her reaction after you can't give her gifts anymore. */\
+You watch a movie with your _titleForWife. She is really happy to have spent some time with you.
+
+@@.wife;"That was great, honey! We should do it again, soon!"@@
+
+[[Return|return]]
+
+::Home - Den - Activities - Watch a movie with wife and daughter
+/* TODO: Add image/picture, here. */\
+<<set _nameForDaughter = $protagonist.relationships[$daughter].name>>\
+<<set _titleForDaughter = $protagonist.relationships[$daughter].title>>\
+<<set _nameForWife = $protagonist.relationships[$wife].name>>\
+<<set _titleForWife = $protagonist.relationships[$wife].title>>\
+/* TODO: Add choices of movie type. Some make the daughter and wife happier than others. It may also make her want company at night. */\
+/* TODO: Change her reaction after you can't give her gifts anymore. */\
+You watch a movie with _nameForDaughter and _nameForWife. The three of you enjoy the time together and as you turn off the tv, each of them kiss on the cheek in turn.
+
+[[Return|return]]
+
+::Home - Den - Activities - Watch some porn on the computer
+/* TODO: Add image/picture, here. */\
+You turn on the computer and browse the net for a little, looking for your options of porn.
+
+/* TODO: Select your type of porn. */\
+/* TODO: Add image/picture, here. */\
+You watch some porn. Bouncing titties, twerking asses, close ups on cute pussies and enthusiastic girls moaning loudly as they get thoroughly fucked.
+
+/* TODO: Change this once you are in a cock cage. */
+It doesn't take you long to cum from the exciting scenes.
+
+It's a little ridiculous that you resort to porn with such a hot wife, but it felt good, so, who cares!
+
+[[Return|return]]
+

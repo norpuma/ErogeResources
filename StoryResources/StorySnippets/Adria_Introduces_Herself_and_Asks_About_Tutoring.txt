@@ -1,0 +1,8 @@
+::Adria - Introduction
+"Hello," the cute schoolgirl approaches your table at the library. "I'm $adria.name, $adria.firstName $adria.lastName. We spoke on the phone."
+
+"Hello, $adria.name," you answered. "Nice to meet you face to face." You wave towards a chair next to you and she comes around the table to sit.
+
+The two of you talk for a little bit and you find out that she is 18 and a senior at $school.formalName. She is a great student, but she is having some trouble with chemistry lately.
+
+She says she will need tutoring twice a week and that she will be available whenever you call her in the afternoon. You agree to a fee of $15 per lesson.

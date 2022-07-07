@@ -1,0 +1,24 @@
+{
+  "Target": {
+    "TargetID": "",
+    "Names": {"standard": ""},
+    "WasSeen": false,
+    "WasMet": false,
+    "WasIntroduced": false,
+    "Roles": [], // Roles in the relationship. There may be multiple roles, such as Aunt and Host.
+    "FormalHierarchyPosition": "", // One of: equal, vertical_superior, vertical_inferior.
+    "KnownTraits": [],
+    "TestResults": [],
+    "RespectElements": [],
+    "RevealedIntimateInformation": [],
+    "Interactions": []
+  },
+  "Character": {
+    "Roles": [], // Roles in the relationship. There may be multiple roles, such as Aunt and Host.
+    "FormalHierarchyPosition": "", // One of: equal, vertical_superior, vertical_inferior.
+    "Love": 0, // How much character wants to make target happy or unhappy
+    "RespectElements": [],
+    "RevealedIntimateInformation": []
+  },
+  "Arenas": []
+}

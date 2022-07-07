@@ -1,0 +1,107 @@
+::Ellen - Initialization
+<<nobr>>
+<<if $ellen eq undefined>>
+    <<set $ellen = {name:"the Administrator", firstName: "Elleanor", lastName: "Sweet", skills: {}, wasIntroduced: false}>>
+    <<set $ellen.skills.accounting = 3>>
+    <<set $ellen.taskDescription = "Nothing to do">>
+    <<set $characters.push($ellen)>>
+    <<set $employees.push($ellen)>>
+<</if>>
+<</nobr>>\
+
+::Ellen - Introduction
+<<set $ellen.wasIntroduced = true>>\
+<<set $ellen.nameForProtagonist = $protagonist.firstName>>\
+At the hotel's small lobby, behind a simple front desk, $protagonist.name finds an attractive blonde woman looking sharply at $protagonist.himHer. She looks like who $protagonist.heShe should talk to and seems to have been expecting $protagonist.himHer.
+
+@@.protagonist_talk;"Hello,"@@ $protagonist.heShe asks, uncertainly.
+
+@@.ellen_talk;"Good afternoon. You are $protagonist.firstName $protagonist.lastName, I presume."@@ After getting a surprised nod in reply, she continues. @@.ellen_talk;"I had been expecting you. I presume you are here to take over."@@
+
+@@.protagonist_talk;"I- Yes. I am. I mean, I hope to have your help. Afterall, you have experience running the place."@@
+
+@@.ellen_talk;"Indeed,"@@ she answers, raising an eyebrow. @@.ellen_talk;"I have been managing the $hotel.formalName for six years already. Your grandfather had been mostly absent for the last few years, due to his health."@@
+
+For a moment, the two of them look at each other straight in the eye, measuring themselves.
+
+@@.ellen_talk;"Actually, one of Mr $protagonist.lastName last decisions was to to buy an indentured servant."@@
+
+@@.protagonist_talk;"'<i>Indentured servant</i>'? You mean a <i>slave</i>?"@@ $protagonist.heShe asks, shocked.
+
+@@.ellen_talk;"She is a genetically engineered creation. She was meant to be property. She is not as much a slave as part of the hotel facilities,"@@ $ellen.name explains, calmly.
+
+@@.protagonist_talk;"Alright,"@@ $protagonist.name replies, not seeming entirely convinced.
+
+<<include "Ellen - Options">>
+
+<<link "Continue" "Main">><</link>>
+
+::Ellen - Look for
+<<if $ellen.wasIntroduced == false>>\
+    <<goto "Ellen - Introduction">>\
+<</if>>\
+\
+$protanist.name finds $ellen.name in the hotel lobby. She looks bored.
+
+<<include "Ellen - Options">>
+
+<<link "Continue" "Main">><</link>>
+
+::Ellen - Options
+<<link "Chat with $ellen.name." "Ellen - Talk">><</link>>
+<<link "Evaluate her." "Ellen - Evaluation">><</link>>
+/* She is not a SLAVE <<link "Train her" "Ellen - Training">><</link>> */\
+<<link "Give her a task for the $dayPart" "Ellen - Tasks">><</link>>
+<<link "Sex acts" "Ellen - Sex">><</link>>
+/* TODO:
+- Inspect her work.
+- Inspect her attire.
+-- Reward or punish her accordingly.
+*/\
+
+::Ellen - Talk
+<<link "Ask her about the hotel conditions." "Ellen - About Hotel Conditions">><</link>>
+<<link "Ask her about herself." "Ellen - About Herself">><</link>>
+<<if $protagonist.isAwareOfPaperwork == true>>\
+    <<link "Ask about paperwork." "Ellen - About Paperwork">>
+<</if>>
+
+::Ellen - About Hotel Conditions
+/* TODO: Update the conditions as the conditions change. Rooms may be cleared, the pool may be made usable, etc. */\
+@@.ellen_talk;"The $hotel.formalName is a small hotel in the outskirts of the $town.formalName. It is the only hotel in this part of town, though, which puts it in an enviable position.
+
+"The hotel currently has 12 guest rooms, of which only 4 are in usable conditions - non of those are suites. In addition to the lobby, we have an utilities room and a communal showers a kitchen and the servants' quarters - with 3 rooms.
+
+"We also have a bar, a pool and a basement, but none of those is in an usable condition."@@ $ellen.name sounds like she is reading from a brochure. No brochure would speak about rooms in unusuable conditions, though.
+
+<<linkreplace "\"What about the personel?\"">>\
+@@.ellen_talk;"There are three people working at the hotel, right now: the gen-gineered as a general servant, me as the manager and, presumably, you - I'm not sure in what capacity."@@
+<</linkreplace>>
+<<linkreplace "\"What about the guests?\"">>\
+@@.ellen_talk;"There are paying guests in rooms 1, 2, 3 and 4. They are all long term tennants."@@
+<</linkreplace>>
+
+<<return>>
+
+::Ellen - About Herself
+/* TODO: Repeat inquiries about Ellen should result in greater information.*/\
+@@.ellen_talk;"My name is $ellen.firstName $ellen.lastName. Everyone calls me $ellen.name, though. I have been at the $hotel.formalName for almost ten years, six of them as the manager."@@
+
+<<return>>
+
+::Ellen - About Paperwork
+@@.protagonist_talk;"Hello, $ellen.name. I noticed there is some paperwork piling up in my inbox. Would you know anything about that?"@@
+
+@@.ellen_talk;"Why, $ellen.nameForProtagonist, of course. That's everything you need to manage the hotel's accounts."@@
+
+@@.protagonist_talk;"Did my grandfather use to do the accounting?"@@
+
+@@.ellen_talk;"Acutally, no. He left it to me. However, as you are the new owner, I thought you would want to handle it."@@
+
+@@.protagonist_talk;"Would you mind doing it?"@@
+
+@@.ellen_talk;"I cand do it, if you prefer, of course. Just let me know."@@
+
+@@.protagonist_talk;"Alright. Thank you. I will let you know."@@
+
+<<link "Continue" "Ellen - Options">><</link>>

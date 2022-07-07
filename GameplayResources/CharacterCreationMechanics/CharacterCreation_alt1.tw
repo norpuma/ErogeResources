@@ -1,0 +1,144 @@
+::Protagonist Setup - In Character [background]
+<<include "Protagonist Setup - Form Initialization">>
+The phone rings several times, but no one picks up.
+
+An instant later, however, you get a text message.
+
+<i>"Hello. I am Penny Angler. My phone is not working properly and I cannot answer calls. I have been expecting a contact regarding the Dreams Hotel. Is this it?"</i>
+
+You send a quick reply, indicating you are, indeed, the person she was expecting to call.
+
+<i>"That's great!"</i> Reads the next message. <i>"I am expecting a call from a gentlman. Are you the man I have been expecting to call?"</i>
+
+<span id="level01_gender">
+<<set _default_msg = "You reply \"Yes.\"">>\
+<<set _alt_msg = "\"No. I am the <i>woman</i> you should have been expecting to call.\"">>\
+<<link _default_msg>><<set $msg = _default_msg>><<replace "#level01_gender">><<include "Protagonist Setup - In Character - Level 02 - Name"<</replace>><</link>>
+/*<<link _alt_msg>><</link>>*/\
+@@.unavailableChoice;_alt_msg@@
+</span>
+
+
+
+@@.girl_talk;"Hello,"@@ a female voice answers the phone. @@.girl_talk;"I was told to expect a call at around this time. Are you the man I have been expecting to call?"@@
+
+<span id="level01_gender">
+<<set _default_msg = "Yes, I am.">>\
+<<set _alt_msg = "No. I am the <i>woman</i> you should have been expecting to call.">>\
+<<link _default_msg>><<set $msg = _default_msg>><<replace "#level01_gender">><<include "Protagonist Setup - In Character - Level 02 - Name"<</replace>><</link>>
+/*<<link _alt_msg>><</link>>*/\
+@@.unavailableChoice;_alt_msg@@
+</span>
+
+::Protagonist Setup - In Character - Level 02 - Name
+<span id="level02_name">
+@@.protagonist_talk;$msg@@
+@@.girl_talk;"Good. Can you please confirm your name, then? Are you $protagonist.firstName?"@@
+<<set _default_msg = "That's right.">>\
+<<set _alt_msg = "No. You have the wrong name.">>\
+<<link _default_msg>><<set $msg = _default_msg>><<replace "#level02_name">><<include "Protagonist Setup - In Character - Level 03 - Physical Details">><</replace>><</link>>
+/*<<link _alt_msg>><</link>>*/\
+@@.unavailableChoice;_alt_msg@@
+</span>
+
+::Protagonist Setup - In Character - Level 03
+@@.protagonist;$msg@@
+
+@@.girl_talk;"Great. That is actually the name I had written down. My name is Penny Angler and I have the keys to the Dreams Hotel. The Hotel, previously owned by Abraham is now the property of Ms Sarah Carlson. From what I understand, you are to have the keys and to take responsibility of the place. Most papers for the transferrence of the deed have been filled, already. I can meet you in front of the hotel in an hour. Before that, however, I will need you to complete a last form with some of your information. Please, be as complete as possible. I have to run now. Bye!"@@
+
+@@.outsideNarrator;A form appears in your phone. Most of the fields have already been filled, however, you can just fix whatever is wrong and send it back to the woman before going out to meet her.@@
+
+[[Complete the form.|Protagonist Setup - In Character - The Form]]
+
+::Protagonist Setup - Form Initialization
+<<nobr>>
+    <<set $protagonistForm = {}>>
+    <<set $protagonistForm.firstName = "Jake">>
+    <<set $protagonistForm.lastName = "Foster">>
+    <<set $protagonistForm.gender = "male">>
+<</nobr>>
+
+::Protagonist Setup - In Character - The Form
+### Basics
+<u>Name:</u> $protagonistForm.firstName $protagonistForm.lastName
+
+<u>Gender:</u> $protagonistForm.gender
+
+/* TODO: Replace this with a radiobutton group with different age groups. */
+<u>Age:</u> 18
+
+<<include "Protagonist Setup - In Character - Relationship to Owner">>
+
+[[Continue to Physical Attributes.|Protagonist Setup - In Character - Physical Attributes]]
+
+::Protagonist Setup - In Character - Physical Attributes
+### Physical Attributes
+/* TODO: Replace this with a radiobutton group with different height groups depending on gender. */
+<u>Height:</u> Short.
+
+/* TODO: Replace this with a radiobutton group with different height groups depending on gender. */
+<u>Ethnic Group:</u> Caucasian.
+
+
+
+
+
+::Protagonist Setup - In Character - Relationship to Owner
+What is your relationship with the owner of the hotel?
+/*<label><<radiobutton "$protagonist.relationToOwner">>I am the owner.</label>
+<label><<radiobutton "$protagonist.relationToOwner">>I am the owner's son.</label>
+<label><<radiobutton "$protagonist.relationToOwner" checked>>I am the owner's nephew.</label>
+<label><<radiobutton "$protagonist.relationToOwner">>I am the owner's employee.</label>
+<label><<radiobutton "$protagonist.relationToOwner">>It's complicated.</label>*/\
+@@.unavailableChoice;I am the owner.@@
+@@.unavailableChoice;I am the owner's son.@@
+@@.unavailableChoice;I am the owner's nephew.@@
+<label><<radiobutton "$protagonist.relationToOwner">>I am the owner's employee.</label>
+<label><<radiobutton "$protagonist.relationToOwner">>It's complicated.</label>
+
+
+
+The Dreams Hotel is in terrible disrepair and looks more like a ruin than the glamorous pit of sin it once was. Abraham, the old owner, recently passed away and after an year of bureaucratic shenanigans, the deed went to Sarah Carlson, a school teacher. She may, however, get someone else to run the hotel for her.
+
+It remains to be seen who will be living in the hotel, at first.
+
+
+
+
+
+
+
+
+
+::Select a Protagonist
+    These are the characters that may become protagonists of this story - the candidates.
+    <ul>
+    <<for _cand range $protagonistCandidates>>\
+        <<set _linkText = _cand.baseCharacter.name + ": " + _cand.shortDescription>>\
+        <li> [[_cand.baseCharacter.name|Protagonist Presentation][$protagonistCandidate = _cand]]: _cand.shortDescription</li>
+    <</for>>\
+    </ul>
+
+::Protagonist Presentation
+    <<include $protagonistCandidate.shortIntroductionPassage>>
+
+    <<if $protagonistCandidate.extendedIntroductionPassage !== undefined>>\
+        [[Learn more about this candidate|$protagonistCandidate.extendedIntroductionPassage]]
+    <</if>>\
+    <<if $protagonistCandidate.destinyPassage !== undefined>>\
+        [[Learn about this candidate's destiny|Protagonist Destiny Inspection]]
+    <</if>>\
+
+    [[Select this candidate as the protagonist|$protagonistCandidate.storyStartPassage][$protagonist = new Protagonist($protagonistCandidate.baseCharacter)]]
+    
+    <<back>>
+
+::Protagonist Destiny Inspection
+    @@.outsideNarrator;You divine the destiny of $protagonistCandidate.baseCharacter.names.first $protagonistCandidate.baseCharacter.names.last.
+
+    <<set _HeShe = capitalizeFirstLetter($protagonistCandidate.baseCharacter.heShe)>>\
+    _HeShe is unware of it.@@
+
+    <<include $protagonistCandidate.destinyPassage>>
+
+    <<back>>

@@ -1,0 +1,159 @@
+/*
+
+    This is a very easy to influence and train slave.
+
+
+    I- I can't believe this is really happening.
+
+
+
+
+    This is your first slave. She has been recently acquired. She needs breaking in.
+
+    Your slave is broken in and comes at your summons. She still needs taming, before she can be trained.
+
+    You have a tame slave. You can train her and change her to your will.
+*/
+
+::Timid First Slave - Initialization
+<<nobr>>
+    <<set $timidFirstSlave = new BaseCharacter("Maggie", "female")>>
+    <<set $timidFirstSlave.originalFirstName = "Margareth">>
+    <<set $timidFirstSlave.originalLastName = "Buchner">>
+    <<set $timidFirstSlave.learnMore = "Timid First Slave - Learn More">>
+    <<set $timidFirstSlave.changeSlave = "Timid First Slave - Change Slave">>
+    <<set $timidFirstSlave.clothes = "wearing a plain white shirt and grey sweatpants; the clothes in which she arrived">>
+    <<set $timidFirstSlave.body = new Body(18, "female", true)>>
+    <<set $timidFirstSlave.body.size = "short and slim">>
+    <<set $timidFirstSlave.body.breasts = {clothed:"discreet", size: "modest", descriptors: ["perky"]}>>
+    <<set $timidFirstSlave.body.butt = {clothed:"round"}>>
+    <<set $timidFirstSlave.body.eyes = {color: "blue"}>>
+    <<set $timidFirstSlave.body.hair = {color: "blonde", style: "shoulder-length"}>>
+<</nobr>>
+
+::Timid First Slave - Further Initialization
+<<nobr>>
+    <<set $protagonist.relationships[$timidFirstSlave] = new Relationship($timidFirstSlave)>>
+    <<set $protagonist.relationships[$timidFirstSlave].desire = 10>>
+    <<set $protagonist.relationships[$timidFirstSlave].enslavementDay = 0>>
+<</nobr>>
+
+::Timid First Slave - Learn More
+[[Check your Notes|Timid First Slave - Notes]]
+[[File|Timid First Slave - Personal File]]
+[[Inspect her Personally|Timid First Slave - Inspection]]
+[[Talk to Her|Timid First Slave - Talk]]
+
+::Timid First Slave - Change Slave
+/* TODO: [Change her Assignments|Timid First Slave - Change her Assignments]] */
+/* TODO: [Change her Rules|Timid First Slave - Change her Rules]] */
+[[Change her Mind|Timid First Slave - Change her Mind]]
+[[Change her Body|Timid First Slave - Change her Body]]
+
+::Timid First Slave - Notes
+<<set _daysAsYourSlave = $calendar.gameDay - $protagonist.relationships[$timidFirstSlave].enslavementDay>>\
+<<if _daysAsYourSlave < 1 >><<set _daysAsYourSlave = "less than a day">>\
+<<else>><<if _daysAsYourSlave < 2 >><<set _daysAsYourSlave = "1 day">><</if>>\
+<<else>><<set _daysAsYourSlave = _daysAsYourSlave + " days">><</if>>\
+$timidFirstSlave.name has been your slave for _daysAsYourSlave.
+
+She is $timidFirstSlave.body.size. A $timidFirstSlave.age year-old $timidFirstSlave.ageGroup with $timidFirstSlave.hair.color hair and $timidFirstSlave.eyes.color eyes.
+
+She has $timidFirstSlave.body.breasts.size $timidFirstSlave.body.breasts.descriptors[0] breasts.
+
+/* TODO: Add more about her personality as it is learnt. */
+
+::Timid First Slave - Personal File
+<<set _daysAsYourSlave = $calendar.gameDay - $protagonist.relationships[$timidFirstSlave].enslavementDay>>\
+<<if _daysAsYourSlave < 1 >><<set _daysAsYourSlave = "less than a day">>\
+<<else>><<if _daysAsYourSlave < 2 >><<set _daysAsYourSlave = "1 day">><</if>>\
+<<else>><<set _daysAsYourSlave = _daysAsYourSlave + " days">><</if>>\
+$timidFirstSlave.name was born $timidFirstSlave.originalFirstName $timidFirstSlave.originalLastName $timidFirstSlave.age years ago.
+
+She was a student at the Finishing School when she was enslaved at 18. Her father and all his family were sold into slavery after the Storm disaster. She has not undergone any formal training before enslavement and when inspected, she was revealed not to be a virgin anymore.
+
+She was sold untamed and untrained to $protagonist.firstName $protagonist.lastName _daysAsYourSlave ago.
+
+She has no sisters or brothers.
+
+::Timid First Slave - Inspection
+<<set $slaveInFocus = $timidFirstSlave>>\
+You inspect your slave: $slaveInFocus.
+
+She stands before you $slaveInFocus.clothes.
+
+$slaveInFocus is a $slaveInFocus.ageGroup slave $slaveInFocus.body.size. She has a modest figure, with $slaveInFocus.body.breasts.clothed breasts and $slaveInFocus.body.butt hips under her clothes.
+
+Her skin is fair, her eyes $slaveInFocus.body.eyes.color and her hair $slaveInFocus.hair.color, framing a pretty face. She is wearing no makeup and has thin lips and a small nose.
+
+She avoids looking directly at you, as she is timid and does not trust you.
+
+[[More about her Rules|Timid First Slave - Rules - Check]]
+
+::Timid First Slave - Talk
+You ask about her.
+
+@@.timidFirstSlave;"I'm- I'm just a student, sir. I'm $timidFirstSlave.originalFirstName $timidFirstSlave.originalLastName - an 18 year-old girl. My father is Reed $timidFirstSlave.originalLastName."@@
+
+Without a word, you slap her - hard.
+
+@@.timidFirstSlave;"Sir! What- what did I do?"@@ She asks, tears in her eyes and hurt in her voice as she looks at you and rubs her cheek.
+
+@@.protagonist;"No, $timidFirstSlave.name. You are not,"@@ you explain to her in a level voice. @@.protagonist;"You are $timidFirstSlave.name, my slave. And the first thing you must learn is that I may hurt you at any time."@@
+
+She keeps looking at you, jaw gaping open, unable to answer and you leave her. Lessons need some time to sink in.
+
+--
+
+You ask about her.
+
+@@.timidFirstSlave;"I can't believe this is happening. I can't believe I was sold into slavery."@@
+
+@@.protagonist;"Listen, $timidFirstSlave.name, you have to accept your new condition. Slavery is your new reality and you can't escape from it. You should better accept it."@@
+
+@@.timidFirstSlave;"I do... I try to... It's... it's just so terrible."@@ She says, near tears.
+
+You leave her to think about your words. You hear sobbing before you are out of the room.
+
+--
+
+
+
+
+@@.timidFirstSlave;"I- I still can't believe that this is happening... I can't be a"@@
+
+/* TODO: Finish this. */\
+
+::Timid First Slave - Change her Rules
+<<include "Timid First Slave - Rules - Check">>
+<hr>
+<<include "Timid First Slave - Rules - Changes">>
+
+::Timid First Slave - Rules - Check
+$timidFirstSlave.name is under no speech rules. She may speak freely.
+
+$timidFirstSlave.name is consigned to her spartan quartes. She does not have freedom of the house. She cannot go out.
+
+$timidFirstSlave.name is allowed to wear casual clothes.
+
+She does not have to perform any work.
+
+She is allowed a standard ration of bland food.
+
+She is under no sex rules. She is allowed to masturbate at will and to climax normally.
+
+$timidFirstSlave.name is under no relationship rules. She may fraternize normally whenever she wants.
+
+::Timid First Slave - Rules - Changes
+/* TODO: Finish this. */
+
+::Timid First Slave - Change her Mind
+[[Break Her In|Timid First Slave - Break Her In]]
+[[Tame Her]]
+[[Train Her]]
+[[Change a Conviction]]
+[[Reprogram Her]]
+
+::Timid First Slave - Break Her In
+From the way she steps to the back of her cell and avoids looking into your face, you realize this is a timid slave. She will not be hard to break in.
+

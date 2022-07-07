@@ -1,0 +1,71 @@
+/*
+
+Rebel
+
+Doesn't care about getting caught smoking?
+Can be blackmailed?
+Should only be changeable with the magic power?
+
+
+She was a rebel for some time.
+She was sent to the counselor after some misbehaviors.
+The counselor wanted her as a oral slut (blowjobs). He got her an oral fixation. She feels a craving to have something in her mouth to suck on.
+The counselor had noticed her smoking and decided he found it sexy. To avoid problems with the previous janitor, he got her to offer a blowjob if caught smoking on school grounds by male staff.
+The principal caught her smoking a couple of times.
+The counselor actually changed her to make her more discreet.
+
+
+- Tell her to stop smoking
+- Tell her to show tits
+- Tell her to submit
+- Tell her to blowjob
+- Tell her to get fingering
+- Tell her to take dick
+- Tell her to accept anal
+- Tell her to go to your place
+
+
+# Caught smoking.
+  ## You were instructed to only trim the hedges behind the gym once a week and you did that on Monday. You go there looking for Gina and you aren't disappointed. There is the little punk smoking.
+  ## "Ms Valiant! Gina!"   "Oh, fuck!" She said, surprised, throwing her cigarette on the ground and stepping on it. After a moment, her fear turned to annoyance. "I guess you will want a blowjob too..." She asked, rollin her eyes.
+  ## She quickly crouched down and sighed, gesturing for you to approach.
+  ## She gives you a good blowjob, clearly experienced at it.
+  ## "You must promise to not tell anyone, though. And you can't have more than one a week!"
+  ## In spite of her previous warning, she DOES offer you a blowjob the next time you find her. She OFFERS.
+  ## You ask for more than a blowjob. "Hell, no! I don't even know why I'm offering as much as a blowjob! I don't care if you tell anyone!"
+
+# Tell her to stop smoking (hypno)
+  ## You put her in a light trance, but you notice she is still 
+  ## "But, sir, I feel like I should have something in my mouth!"
+
+
+*/
+
+::Gina - Initialization
+<<nobr>>
+    <<set $gina = new BaseCharacter("Gina")>>
+    <<run $gina.setNames({firstName:"Regina", lastName:"Valiant"})>>
+<</nobr>>\
+
+::Gina - Info
+$gina.name is a student at $school.formalName. She is 18 and a senior. She has a reputation as a bad girl and has been in and out of the principal's office since she was much younger.
+
+::Gina - First Glimpse
+You were instructed to only trim the hedges behind the gym once a week and you did that on Monday. You go there looking for Gina and you aren't disappointed. There is the little punk smoking.
+
+::Gina - Found Smoking - First Confrontation - Challenging
+
+::Gina - Found Smoking - First Confrontation - Conciliatory
+@@.protagonist;"Excuse me, miss, but should you really be doing that here, on school grounds?"@@ You ask the girl, trying to avoid a confrontation.
+
+@@.gina;"Oh, fuck!"@@ She says, surprised, throwing her cigarette on the ground and stepping on it.
+
+<<set _principalFormalName = $protagonist.relationships[$principal].politeAddress + $protagonist.relationships[$principal].lastName>>\
+@@.protagonist;"Uh, miss, I think _principalFormalName wouldn't like it if you were caught smoking around here," you say, in your most conciliatory tone.
+
+She looks at you with a somewhat confused expression, as if you were saying something really dumb. After a moment of silence, her expression changes to one of annoyance.
+
+@@.gina;"I guess you will want a blowjob too..."@@ She asked, rolling her eyes.
+
+::Gina - Found Smoking - First Blowjob
+

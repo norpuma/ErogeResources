@@ -1,0 +1,24 @@
+::Home - Secondary Bedroom
+You are in $daughter.room. It is decorated like a typical teenager's bedroom - a typical teenager with rich parents. There are posters on the walls, a queen-sized bed in the middle and a desk on the side.
+
+[[Return|Home - Base]]
+
+::Home - Secondary Bedroom - Activities
+[[Search the room|Home - Secondary Bedroom - Activities - Search the room]]
+[[Watch daughter asleep|Home - Secondary Bedroom - Activities - Watch daughter asleep]]
+
+::Home - Secondary Bedroom - Activities - Search the room
+You look around the room, not sure what you expect to find. Pot, maybe... cigarettes... or a dildo!
+
+/* TODO: Change this as she gets corrupted. And change your reaction to finding her undies as you become corrupted. */\
+<<set _nameForDaughter = $protagonist.relationships[$daughter].name>>\
+You find nothing of the sort. You find _nameForDaughter's books, clothes, shoes (lots of shoes) and her undies.
+
+[[Return|return]]
+
+::Home - Secondary Bedroom - Activities - Watch daughter asleep
+/* TODO: Add image/picture. */\
+<<set _nameForDaughter = $protagonist.relationships[$daughter].name>>\
+You find asleep in her bed. She looks like an angel, unworried and inocent, like that. You definitely have a beautiful daughter.
+
+[[Return|return]]

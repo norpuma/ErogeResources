@@ -1,0 +1,8 @@
+// This lists character Traits from Default Character Traits with their weights.
+// A character finds another desirable enough that they would Take Initiative if the character has crossed a given value when adding up Traits from this json which can be found in the character.
+{
+    // Add the character's preferred gender here. Either Male or Female.
+    "Attractive": 10,
+    "Charming": 10,
+    "Fit": 10
+}

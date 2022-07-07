@@ -1,0 +1,15 @@
+::Home - Kitchen
+You are in your kitchen. There is a large granite counter, a lot of modern implements and a small dinner table.
+
+[[Return|Home - Base]]
+
+::Home - Kitchen - Activities
+[[Ogle your maid at work|Home - Kitchen - Activities - Ogle maid at work]]
+
+::Home - Kitchen - Activities - Ogle maid at work
+/* TODO: Add image/picture, here. */\
+<<set _nameForMaid = $protagonist.relationships[$maid].name>>\
+<<set _titleForMaid = $protagonist.relationships[$maid].title>>\
+You pretend to be taking some notes on the kitchen table while blatantly staring at your _titleForMaid while she washes the dishes and otehrwise busies herself around the kitchen.
+
+[[Return|return]]

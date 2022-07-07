@@ -1,0 +1,37 @@
+::Home - Master Bedroom
+The master bedroom has plenty of room, even with the king-sized bed in the middle. There is a walk-in closed and a big glass door leading to a balcony. The only downside of this bedroom is that it isn't a suite, with its own bathroom.
+
+[[Return|Home - Base]]
+
+::Home - Master Bedroom - Activities
+[[Go to sleep (start next day)|Home - Master Bedroom - Activities - Go to sleep]]
+[[Have sex with your wife|Home - Master Bedroom - Activities - Try sex with wife]]
+/* TODO: Once you can't sleep in her bedroom anymore, add option to watch her asleep. */
+
+::Home - Master Bedroom - Activities - Go to sleep
+/* TODO: Add image/picture, here. */\
+/* TODO: Change descriptions if sleeping on bad bed or with cock cage or having lots of dreams. */\
+You go to sleep, plunging into oblivion. You have a dreamless night.
+
+You wake up refreshed and re-energized.
+
+[[Return|return]]
+
+::Home - Master Bedroom - Activities - Try sex with wife
+/* TODO: Add options for successfully having sex with wife. */\
+/* TODO: Change the description of how the wife rejects your advances once she is not as satisfied. */\
+<<set _nameForWife = $protagonist.relationships[$wife].name>>\
+<<set _titleForWife = $protagonist.relationships[$wife].title>>\
+You lean in and kiss your _titleForWife's neck. You caress her leg and slowly move your hand upwards. _nameForWife's perfume is great and you feel like having a great night of sex.
+
+Unfortunately, she tenses up while you are kissing her and gently pushes you away.
+
+@@.wife;"Not tonight, alright, baby? I have a terrible headache, tonight."@@
+
+Disappointed, you just kiss her hand and smile. @@.protagonist;"That's okay, babe. Maybe next time."@@
+
+You let it go for tonight. There is not much you can do. You just hope next time you will have a better chance.
+
+Maybe if she felt a little more indebted to you, she would make an effort.
+
+[[Return|return]]

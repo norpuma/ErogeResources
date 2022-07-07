@@ -1,0 +1,202 @@
+/*
+    - Change behavior steps:
+        - Soften hatred for activity/sex-act.
+        - Remove dislike for activity/sex-act.
+        - Add excitement with activity/sex-act.
+        - Add need for activity/sex-act.
+        - Add dislike.
+        - Induce hatred.
+
+    - Increase attraction to women.
+    - Increase attraction to men.
+    - Change behavior towards fellatio.
+    - Change behavior towards cunilingus.
+    - Change behavior towards analingus.
+    - Change behavior towards homo sex.
+    - Change behavior towards hetero sex.
+    - Change behavior towards exhibitionism.
+    - Change behavior towards voyeur.
+    - Change behavior towards cuckolding other.
+    - Change behavior towards being cuckolded by other.
+    - Change behavior towards sharing partner.
+    - Change behavior towards using strapon.
+    - Change behavior towards receiving strapon.
+    - Change behavior towards butt-play (finger-teasing, fingering, plug).
+    - Change behavior towards chastity.
+    - Change behavior towards hand-play (fingering, handjob; performing, receiving).
+    - Make dumber.
+    - Make smarter.
+    # Make her love the protagonist (someone else?).
+    # Make her profoundly respectful ("I love you daddy").
+    # Make her very obedient/submissive (fearful).
+    # Make her want to please at all costs (devoted).
+    # Make her like it rough.
+    # Make her get turned on by humiliation.
+    # Make her act like a virgin.
+    # Submissive personality
+    # Feisty personality
+    # Girlfriend experience
+    # Reluctant innocent
+    # Fearful and respectful slave
+    ## Enthusiastic nympho
+    ## Needy sex addict
+    ## Cum-taste addict
+    ## Vaginal stimulation addict
+    - Create climax trigger (physical stimulation, like anal; trigger word).
+    # Turn her into a puppy
+    # Make her accept/prefer a non-exclusive partner.
+    # Make her prefer/demand to be a non-exclusive partner.
+    # Change her casualness_to_sex: "ROMANTIC_SEX_ONLY", "COMMITED_SEX_ONLY", "CASUAL_SEX_OK", "CONVENIENCE_SEX_OK", "PAID_SEX_OK", "CASUAL_SEX_ONLY", "CONVENIENCE_SEX_ONLY", "PAID_SEX_ONLY" (Convenience Sex: Sex with a needy friend; sex for a few gifts or paid vaction. Basically, whoring without making it professional.)
+    # Create an addiction: to dicks, to fellatio (oral sex fixation), for contact with semen, for taste of semen, for anal sex (anal slut).
+    # Partner Traits: ARTISTIC_PARTNERS, TALENTED_PARTNERS, BLACK_PARTNERS, BALD_PARTNERS, FAT_PARTNERS, FIT_PARTNERS, PRETTY_FACED_PARTNERS, OLDER_PARTNERS, SMART_PARTNERS, VAPID_PARTNERS, ASIAN_PARTNERS, ADVENTUROUS_PARTNERS, OPTIMISTIC_PARTNERS, PUBLICLY_AGGRESSIVE_PARTNERS, ATTENTIVE_PARTNERS (attentive or generous: lots of gifts and time), BLONDE_PARTNERS, WHITE_PARTNERNS, CONFIDENT_PARTNERS, PUBLICLY_CONFIDENT_PARTNERS, PUBLICLY_CRUEL_PARTNERS (cruel or mean), DEVOTED_PARTNERS, DISCREET_PARTNERS (includes homossexuals not coming out), PRIVATELY_DOMINATING_PARTNERS, PRIVATELY_GENTLE_PARTNERS, PRIVATELY_INSECURE_PARTNERS, BUTCH_LESBIAN_PARTNER, MILITANT_LESBIAN_PARTNER, HORNY_PARTNER, PUBLICLY_NICE_PARTNERS, PRIVATELY_NICE_PARTNERS, PATIENT_PARTNERS, TALL_PARTNERS, SHORT_PARTNERS, ATHLETIC_PARTNERS (or sportsy), WEALTHY_PARTNERS, FAMOUS_PARTNERS, INFLUENTIAL_PARTNERS, PROTECTIVE_PARTNERS, INSECURE_PARTNERS (reluctant, but obedient), NON_JEALOUS_PARTNERS (wants to be able to flaunt her sexuality and use her sensuality), ROMANTIC_PARTNERS, PRIVATELY_SUBMISSIVE_PARTNERS, PUBLICLY_SUBMISSIVE_PARTNERS, STABLE_PARTNERS (money and/or job), PRIVATELY_DEPENDENT_PATNERS, PUBLICLY_DEPENDENT_PARTNERS, YOUNGER_PARTNERS, INEXPERIENCED_PARTNERS, EXPERIENCED_PARTNERS, SAME_AGE_PARTNERS
+    # Courting Turn-Ons: NON_SEXUAL_COMPLIMENTS, SEXUAL_COMPLIMENTS, PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), LIGHT_HUMILIATION, HEAVY_HUMILIATION, SUBMITTING, DOMINATING, HUMILIATING, BIG_DICKS, BIG_BREASTS, AFFECIONATE_GROPING, INCESTUAL_EXPOSURE (naked in front of family members; in degrees - a little flesh; boobs; full nakedness)
+    # Courting Turn-Offs: PAMPERING, SEXUAL_COMPLIMENTS, LIGHT_HUMILIATION (starting with name calling ("whore")), HEAVY_HUMILIATION
+    # Public Embarassments: SENSUALITY (lot of exposed skin), AFFECIONATE_GROPING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), EXPOSED_BREASTS, FULL_NUDITY, PAID_GROPING, PAID_NUDITY, LIGHT_HUMILIATION, HEAVY_HUMILIATION
+    # Partner public embarassments: # See "Partner Traits"
+    # Private Embarassments: WITNESSED_MASTURBATION (may be a taboo), WITNESSED_NUDITY, AFFECIONATE_SEX_IN_PRIVATE (intercourse may be a taboo), SEX_TOYS (may be a taboo), PAID_SEX, AFFECTIONATE_ANAL_SEX, ANTI_ATTRACTED_SEX (hetero for lesbians, lesbian for heteros), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, CUNNILINGUS, LIGHT_HUMILIATION, HEAVY_HUMILIATION, ASS_TO_MOUTH, SECOND_WOMAN_IN_BED
+    # During Sex Turn-Ons: SEXUAL_COMPLIMENTS, PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), WITNESSED_MASTURBATION, WITNESSING_SEXUALITY (a voyeur), CUNNILINGUS, FELLATIO, HER_BI_SEXUALITY, PAIN, LIGHT_HUMILIATION, HEAVY_HUMILIATION, SUBMITTING, DOMINATING, HUMILIATING, BIG_DICKS, BIG_BREASTS, BREAST_PLAY, IMPREGNATION, SEX_WITH_STRANGERS, PUSSY_JUICE_TASTING (if she is not attracted to women, will mean she will taste her own), ANAL_SEX (She will be excited by it. If not properly trained, it will painful and hard and she may not cum - still turned on by it. If trained, she will cum. If embarrassed by it, she will resist, although clearly exicted.), FETISH_SEX (including cosplay and role-play), SEX_TOYS, MONEY (turned on by thinking how much she will get / how much she is worth), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, ASS_TO_MOUTH, CREAMPIES, CUCKOLDING, BEING_CUCKOLDED
+    # partner_sexual_turn_on = [] # See "Partner Traits"
+    # During Sex Turn-Offs: WITNESSED_MASTURBATION, SEX_TOYS, AFFECTIONATE_SERVICE_SEX (non-intercourse sex, such as handjobs, blowjobs, etc.), ANAL_SEX, PAID_SEX, LIGHT_HUMILIATION (starting with name calling ("whore")), HEAVY_HUMILIATION, INCESTUAL_EXPOSURE, SEMEN (in a condom only, never touching skin), SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, PAIN, CUNNILINGUS, SUBMISSION, DOMINATION, ASS_TO_MOUTH
+    # Taboos: SEXUALITY (won't admit having sexual desires, even in private), SEXUAL_ACTIVITY (any kind, including handjobs or masturbation), MASTURBATION, WITNESSED_MASTURBATION, INTERCOURSE, SEX_TOYS, SERVICE_SEX (non-intercourse sex, such as handjobs, blowjobs, etc.), ANAL_SEX, LIGHT_HUMILIATION, HEAVY_HUMILIATION, PAID_SEX, FETISH_SEX, ANTI_ATTRACTED_SEX (hetero for lesbians, lesbian for heteros), INCESTUAL_EXPOSURE (naked in front of family members; in degrees - a little flesh; boobs; full nakedness), INCESTUAL_SEX, SEMEN (in a condom only, never touching skin), SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, PAIN, CUNNILINGUS, SUBMITTING, DOMINATING, ASS_TO_MOUTH, BEING_CUCKOLDED, CUCKOLDING
+
+
+
+
+    You force her to do it (e.g. suck your cock) so often, that she gets used to it. She isn't disgusted by the concept anymore.
+
+    You make it so gentle to her when you do it (e.g. suck your cock), that she does not dislike it anymore.
+    You brainwashed her so effectively (e.g. watching videos), that she can't dislike it (e.g. suck your cock) as much as she did before. It became somewhat commonplace to her.
+
+    You made her associate it (e.g. suck your cock) with pleasure with your method (e.g. smart clit piercing), so she feels excited at the thought of it.
+
+    You made her crave it (e.g. suck your cock). She is despondent when it is denied to her and eager to have it when you offer.
+
+
+
+    # Make her love the protagonist (someone else?).
+    # Make her profoundly respectful ("I love you daddy").
+    # Make her very obedient/submissive (fearful).
+    # Make her want to please at all costs (devoted).
+    # Make her like it rough.
+    # Make her get turned on by humiliation.
+    # Make her act like a virgin.
+    ## "But I- I don't want to be a virgin!"
+    # Submissive personality
+    ## "I'm not like that!"
+    ## "I will never submit!"
+    # Feisty personality
+    ## "But, Master, I don't want to ever defy you..."
+    # Girlfriend experience
+    ## "I will never love him!"
+    # Reluctant innocent
+    ## "I'm not like that!"
+    ## "I will never submit!"
+    # Fearful and respectful slave
+    ## "No, I won't! I won't submit to you or anyone!"
+    ## "Master, please don't make me obey him!"
+    ## Enthusiastic nympho
+    ## Needy sex addict
+    ## Cum-taste addict
+    ## Vaginal stimulation addict
+    # Make her straight.
+    ## "No, wait! I'm definitely a lesbian!"
+    ## "Don't make me like it, please! Don't make me like penises. They are disgusting!"
+    # Make her a lesbian.
+    ## "Don't make a lesbian, please!"
+    ## "But... I don't want to be a lesbian!"
+    ## "I don't want to be a lesbian, daddy! I love you!" She whines.
+    ## "A lesbian? Oh, gross!"
+    # Make her like anal.
+    ## "Please, don't make me like it like that!"
+    ## "Not like that! It's unnatural!"
+    # Make her cum with anal.
+    ## "Please, don't make me cum like that!"
+    ## "Please, don't make me cum like this! Ah- ah- oooooh!"
+    # Turn her into an exhibitionist (mild or intense)
+    ## "You want me to what?!"
+    ## "Oh, master, no! I will be a freak!"
+    ## "Master, you made me into a slut!" (little did she know she could ACTUALLY become a slut)
+    # Turn her into a puppy
+    ## "But I- I don't want to behave like a puppy..."
+    # Make her accept/prefer a non-exclusive partner.
+    # Make her prefer/demand to be a non-exclusive partner.
+    # Change her casualness_to_sex: "ROMANTIC_SEX_ONLY", "COMMITED_SEX_ONLY", "CASUAL_SEX_OK", "CONVENIENCE_SEX_OK", "PAID_SEX_OK", "CASUAL_SEX_ONLY", "CONVENIENCE_SEX_ONLY", "PAID_SEX_ONLY" (Convenience Sex: Sex with a needy friend; sex for a few gifts or paid vaction. Basically, whoring without making it professional.)
+    # Change her attraction to men.
+    # Change her attraction to women.
+    # Change her domination for men.
+    # Change her domination for women.
+    # Create an addiction: to dicks, to fellatio (oral sex fixation), for contact with semen, for taste of semen, for anal sex (anal slut).
+    # Partner Traits: ARTISTIC_PARTNERS, TALENTED_PARTNERS, BLACK_PARTNERS, BALD_PARTNERS, FAT_PARTNERS, FIT_PARTNERS, PRETTY_FACED_PARTNERS, OLDER_PARTNERS, SMART_PARTNERS, VAPID_PARTNERS, ASIAN_PARTNERS, ADVENTUROUS_PARTNERS, OPTIMISTIC_PARTNERS, PUBLICLY_AGGRESSIVE_PARTNERS, ATTENTIVE_PARTNERS (attentive or generous: lots of gifts and time), BLONDE_PARTNERS, WHITE_PARTNERNS, CONFIDENT_PARTNERS, PUBLICLY_CONFIDENT_PARTNERS, PUBLICLY_CRUEL_PARTNERS (cruel or mean), DEVOTED_PARTNERS, DISCREET_PARTNERS (includes homossexuals not coming out), PRIVATELY_DOMINATING_PARTNERS, PRIVATELY_GENTLE_PARTNERS, PRIVATELY_INSECURE_PARTNERS, BUTCH_LESBIAN_PARTNER, MILITANT_LESBIAN_PARTNER, HORNY_PARTNER, PUBLICLY_NICE_PARTNERS, PRIVATELY_NICE_PARTNERS, PATIENT_PARTNERS, TALL_PARTNERS, SHORT_PARTNERS, ATHLETIC_PARTNERS (or sportsy), WEALTHY_PARTNERS, FAMOUS_PARTNERS, INFLUENTIAL_PARTNERS, PROTECTIVE_PARTNERS, INSECURE_PARTNERS (reluctant, but obedient), NON_JEALOUS_PARTNERS (wants to be able to flaunt her sexuality and use her sensuality), ROMANTIC_PARTNERS, PRIVATELY_SUBMISSIVE_PARTNERS, PUBLICLY_SUBMISSIVE_PARTNERS, STABLE_PARTNERS (money and/or job), PRIVATELY_DEPENDENT_PATNERS, PUBLICLY_DEPENDENT_PARTNERS, YOUNGER_PARTNERS, INEXPERIENCED_PARTNERS, EXPERIENCED_PARTNERS, SAME_AGE_PARTNERS
+    # Courting Turn-Ons: NON_SEXUAL_COMPLIMENTS, SEXUAL_COMPLIMENTS, PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), LIGHT_HUMILIATION, HEAVY_HUMILIATION, SUBMITTING, DOMINATING, HUMILIATING, BIG_DICKS, BIG_BREASTS, AFFECIONATE_GROPING, INCESTUAL_EXPOSURE (naked in front of family members; in degrees - a little flesh; boobs; full nakedness)
+    # Courting Turn-Offs: PAMPERING, SEXUAL_COMPLIMENTS, LIGHT_HUMILIATION (starting with name calling ("whore")), HEAVY_HUMILIATION
+    # Public Embarassments: SENSUALITY (lot of exposed skin), AFFECIONATE_GROPING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), EXPOSED_BREASTS, FULL_NUDITY, PAID_GROPING, PAID_NUDITY, LIGHT_HUMILIATION, HEAVY_HUMILIATION
+    # Partner public embarassments: # See "Partner Traits"
+    # Private Embarassments: WITNESSED_MASTURBATION (may be a taboo), WITNESSED_NUDITY, AFFECIONATE_SEX_IN_PRIVATE (intercourse may be a taboo), SEX_TOYS (may be a taboo), PAID_SEX, AFFECTIONATE_ANAL_SEX, ANTI_ATTRACTED_SEX (hetero for lesbians, lesbian for heteros), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, CUNNILINGUS, LIGHT_HUMILIATION, HEAVY_HUMILIATION, ASS_TO_MOUTH, SECOND_WOMAN_IN_BED
+    # During Sex Turn-Ons: SEXUAL_COMPLIMENTS, PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), WITNESSED_MASTURBATION, WITNESSING_SEXUALITY (a voyeur), CUNNILINGUS, FELLATIO, HER_BI_SEXUALITY, PAIN, LIGHT_HUMILIATION, HEAVY_HUMILIATION, SUBMITTING, DOMINATING, HUMILIATING, BIG_DICKS, BIG_BREASTS, BREAST_PLAY, IMPREGNATION, SEX_WITH_STRANGERS, PUSSY_JUICE_TASTING (if she is not attracted to women, will mean she will taste her own), ANAL_SEX (She will be excited by it. If not properly trained, it will painful and hard and she may not cum - still turned on by it. If trained, she will cum. If embarrassed by it, she will resist, although clearly exicted.), FETISH_SEX (including cosplay and role-play), SEX_TOYS, MONEY (turned on by thinking how much she will get / how much she is worth), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, ASS_TO_MOUTH, CREAMPIES, CUCKOLDING, BEING_CUCKOLDED
+    # partner_sexual_turn_on = [] # See "Partner Traits"
+    # During Sex Turn-Offs: WITNESSED_MASTURBATION, SEX_TOYS, AFFECTIONATE_SERVICE_SEX (non-intercourse sex, such as handjobs, blowjobs, etc.), ANAL_SEX, PAID_SEX, LIGHT_HUMILIATION (starting with name calling ("whore")), HEAVY_HUMILIATION, INCESTUAL_EXPOSURE, SEMEN (in a condom only, never touching skin), SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, PAIN, CUNNILINGUS, SUBMISSION, DOMINATION, ASS_TO_MOUTH
+    # Taboos: SEXUALITY (won't admit having sexual desires, even in private), SEXUAL_ACTIVITY (any kind, including handjobs or masturbation), MASTURBATION, WITNESSED_MASTURBATION, INTERCOURSE, SEX_TOYS, SERVICE_SEX (non-intercourse sex, such as handjobs, blowjobs, etc.), ANAL_SEX, LIGHT_HUMILIATION, HEAVY_HUMILIATION, PAID_SEX, FETISH_SEX, ANTI_ATTRACTED_SEX (hetero for lesbians, lesbian for heteros), INCESTUAL_EXPOSURE (naked in front of family members; in degrees - a little flesh; boobs; full nakedness), INCESTUAL_SEX, SEMEN (in a condom only, never touching skin), SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, PAIN, CUNNILINGUS, SUBMITTING, DOMINATING, ASS_TO_MOUTH, BEING_CUCKOLDED, CUCKOLDING
+
+    
+    ## "You made me a slut!" She cried out.
+    
+    ## "You made me a whore!" She cried out.
+
+
+- Cumdump (at cum inside >= 10)
+- Cum Slut (at cum outside >= 10)
+- Professional Cocksucker (at blowjobs >= 10)
+- Nympho (at vaginal sex >= 10)
+- Buttslut (at anal sex >= 10)
+- Slick Hands (at handjobs >= 10)
+- Loyal (at obedience >= 10)
+- Exhibitionist (at exhibitionism >= 10)
+- Submissive (at submission >= 10)
+- Mega Slut (at sluttiness >= 10)
+- Foot Fetish (at footjob >= 10)
+- Pazuri Star (at boobjobs >= 10)
+- In Love (at affection >= 10)
+- Incestual (sister sex >= 10)
+- Lesbian (lesbian sex >= 10)
+- Bi-sexual Slut (lesbian sex >= 10 and hetero sex >= 10)
+- Face Sitter (at cunnilingus >= 10)
+
+
+    - Romantic (sweet or attentive or despondent)
+
+    Slaves with Romantic personalities are day-dreamers, poets and artists.
+    They believe life is fair and good and that you should be good.
+    They are often sweet to most people.
+    They are attentive lovers and partners, trying to make the other happy.
+    They can become despondent if their beliefs become shattered.
+*/
+
+::ADSF
+You go to the dungeon and find $elfMaid.name in a cell.
+
+<<set _linName = $protagonist.relationships[$elfMaid].targetName>>
+@@.protagonist;"Hello, _linName!"@@
+
+She looks up at you, fearfully.
+
+You quickly examine her and observe that:
+- She is yet naive and innocent.
+- She is not afraid of you.
+- She does not trust you.
+- She does not like you.
+- She does not hate you.
+- She believes herself to be a worthy individual.
+- She has a pretty, exotic, young face.
+- She has small, perky tits.
+- She sees nudity as wrong and shameful.
+- She sees sex as dirty and something to be avoided.
+- She has no sexual experience.
+
+::Lin - Command - New Protagonist Title
+@@.protagonist;"From now on, I expect you to call me _newTitle."@@
+
+@@.elfMaid;"But- but- _protagonistTitle, that is so lewd!"@@
+
+::
+
+

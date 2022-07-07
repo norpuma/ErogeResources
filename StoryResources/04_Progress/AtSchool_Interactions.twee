@@ -1,0 +1,44 @@
+/*
+    - Chances to be nice.
+      - Nice to cruel cheerleader girl.
+      - Nice to timid nerd girl.
+      - Nice to proud lesbian girl.
+      - Nice to nice cheerleader.
+      - Nice to timid goth.
+    - Chances to be aggressive.
+      - Aggressive to pranking student.
+      - Aggressive to disrespecting nerd.
+      - Aggressive to waiter/waitress doing a mistake.
+      - Bully someone.
+    - Chances to stand up.
+      - Stand up to bully.
+      - Stand up to pissed off principal in parking lot.
+      - Stand up to teacher humiliation.
+*/
+
+::Being Nice to Cruel Cheerleader - First Time
+You notice $cruelCheerleader.name is having trouble finding the passage in the book the teacher is reading.
+
+<span id="action">
+<<link "Indicate the passage to her">><<set $protagonist.reputations.niceGuy += 1>><<set $protagonist.relationships[$cruelCheerleader.id]
+</span>
+
+::Being Nice to Timid Nerd Girl - First Time
+You sit down at the first open space you find. You end up beside a nerdy girl with glasses. She looks actually cute under the glasses.
+/* TODO: Add an image/picture here. */\
+
+She turns in your direction a little surprised.
+
+<span id="action">\
+<<link "Introduce yourself">><<set $someVariable += 1>><<replace "#action">>\
+You introduce yourself to her and she smiles back.
+@@.nerdGirl_talk;"I'm $nerdGirl.name!"@@ Then she quickly looks away and avoids eye contact for the remainder of the class.
+<<link "Continue" "Somewhere Else">><</link>>
+<</replace>><</link>>
+<span id="ignoring">\
+<<link "Ignore her">><<set $someOtherVariable += 1>><<replace "#action">>\
+You ignore her and she quickly turns away to ignore you for the remainder of the class.
+<<link "Continue" "Somewhere Else">><</link>>
+<</replace>><</link>></span>
+
+::Being Nice to Nice Cheerleader

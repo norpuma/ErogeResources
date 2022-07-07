@@ -1,0 +1,54 @@
+# Winners:
+- Are demeaning to sap others' confidence
+- Are selfish
+- Only do things for others when they are to gain something (in the short or the long run)
+- Appear as rebels, bad boys, jerks and bitches
+- Are quick to point out others' flaws
+- Take advantage of others' weaknesses (including emotional weaknesses)
+- Push others to go beyond their misgivings
+- Don't care about the consequences to others
+- Always ask for something in return (unless they think they will win more by waiting a little)
+- Betray before they can be betrayed
+- Cheat and lie whenever it is convenient
+- Can be aggressive and even violent, especially when they are sure of doing so without consequences
+- Pick on those weaker than themselves
+- Can seem romantic, but are cold-hearted pragmatists in truth
+- Don't actually love anyone but themselves, but are skilled at pretending
+- Are more focused and dedicated becoming fit, smart and charming to further their goals
+- Display power
+- Display strength
+- Display cruelty
+- Display vanity
+- Win (eventually) when confronted to violence, aggressivity or challenging rivals
+# Alpha Actions:
+- Teasing
+- Insulting/Offending
+- Bringing up or insulting sensitive subjects or known weaknesses and issues of target
+- Resist temptation to gain upperhand/power
+- Choosing athletic passtimes (sports...)
+- Criticizing something target is actually proud of (including skillful sex acts)
+- Requiring compensation (for help, especially for requested help)
+- Blackmail
+- Prey on others' weaknesses
+- Play up own accomplishments and makes sure others recognize them
+- Rebel against authority in the presence of target(s)
+- Bullying another to display power
+- Abusing a moment of weakness (girl crying, confession of love, just after target punished by authority, small authority over target)
+- Insisting on a demand (or proceeding with an action) in spite of a partner's misgivings (inecurities, pain, taboos...)
+- Insisting on a demand in spite of being aware the consequences of the demand to the target (inability to deliver homework, appearing in public with sex-clothes or a cum covered face, disobeying authority...)
+- Making (or insisting on) "unreasonable" demands when target is in debt to them
+- Betraying loyalties
+- Betraying trust
+- Shamelessly lying to get an advantage
+- Shamelessly cheating to get an advantage
+- Being violent against a weakling/wimp to display power
+- Being violent against partner
+- Threatening with violence
+- Getting into a fight to display power
+- Bullying a weakling to display cruelty
+- Bullying a weakling to get an advantage
+- Lying about their feelings to get an advantage
+- Lying about their intentions to get an advantage
+- Feigning emotion (e.g.: tears) to get an advantage
+- Picking up partners at public places (bar, dance club...)
+- Winning a challenge against a rival

@@ -1,0 +1,347 @@
+Girl stats:
+
+Lust -> Horny/Sex Drive
+Love -> Loyalty/Jealousy
+Submission -> Taboos
+Anger
+Embarrassment
+Fear
+Confusion/Crazy/Stability
+
+Must be satisfied during sex to increase sex drive.
+You can rewire her to make her be stimulated by different things and increase her sex drive with different things.
+
+Love - 0 - Okay to see you in public places. Okay to see you happy.
+Love - 1 - Okay to see you in private places.
+Love - 2 - Likes to see you happy.
+Love - 3 - Dislikes seeing unhappy. Seeing you unhappy decreases her happiness.
+Love - 4 - Okay to see you in intimate places.
+Love - 5 - Wants to see you happy. Seeing you happy makes her happy.
+Love - 6 - Making you happy makes her happy. Not okay to see you happy about others.
+Love - 7 - Making you happy makes her happier than other things.
+Love - 8 - Not making you happy makes her unhappy - decreases her happiness. Needs to see you happy. Wants to be the only one to make you happy.
+Love - 9 - Can only be happy when makes you happy.
+Love - 10 - Painful not to see you happy. Desperate to see you happy.
+
+Authority/Respect - 0 - Sticks to her morals, tastes and taboos.
+Authority/Respect - 1 - Overcomes something that would make her annoyed.
+Authority/Respect - 2 - Overcomes something that would make her uncomfortable. (moderate pain)
+Authority/Respect - 3 - Overcomes something that would make her disgusted.
+Authority/Respect - 4 - Overcomes something that would make her embarrassed.
+Authority/Respect - 5 - Overcomes something that would make her angry. (greater pain)
+Authority/Respect - 6 - Overcomes something that would make her mortified.
+Authority/Respect - 7 - Overcomes something that would make her scream. (intense pain)
+
+Authority/Respect +6 - Army after opening fire; weapon pressed against body.
+Authority/Respect +5 - Police; strongly armed and proven violent criminals.
+Authority/Respect +4 - Doctor; parent; lawyer; armed criminals.
+Authority/Respect +3 - Boss; familiar adult over teenager; suspected violent person.
+Authority/Respect +2 - Labcoat; unfamiliar adult over teenager; physically stronger person.
+Authority/Respect +1 - Specialized professional.
+Authority/Respect +0 - Random stranger.
+Authority/Respect -1 - Teenager over adult.
+Authority/Respect -2 - Homeless person.
+
+Submission adds to everyone's authority/respect.
+
+Sex Drive defines how sexual the character is and at what level Horny usually stabilizes.
+    - This can be permanently changed by some factors.
+    # Libido/Sex Drive -5 to +5. -5 is completely frigid, -3 is frigid, -1 is cool, 0 is unusually stable, +1 is average, +2 is easily excitable, +3 is usually excited, +5 is uncontrollable 
+Horny indicates the pressure to find release.
+    - Will increase or decrease according to situations throughout the day and decrease or increase by 1 for each "time period" (usually 4 hours) towards Sex Drive.
+    - This value can only be temporarily changed.
+    - This may make a character distracted. He may lose "Focus" or "Willpower".
+    - A character exposed to lots of sexy situations will keep Horny higher than Sex Drive due to circumstances.
+    - A character exposed to lots of unsexy situations will keep Horny lower than Sex Drive due to circumstances.
+    - For most NPCs, Horny at any given scene will be determined by Sex Drive + random modifier + story modifiers.
+    # Horny -2: Disgusted. The thought of sex is disgusting.
+        # She is closed and dry. / He is flaccid and shrunk.
+    # Horny -1: Cool. The thought of sex seems uninteresting.
+        # She is closed. / He is flaccid.
+    # Horny SPECIAL: Pacified. They are unusually Focused and *easy to influence* (no Willpower?). This usually only happens after an intense orgasm and doesn't last for long.
+    # Horny 0: Sated/Satisfied. They are not thinking about sex at all. They are usually Happy and Focused at this point and a little less Excitable than usual, just after a climax.
+    # Horny 1: Content. They react to excitement with a smile, appreciating it, but not overpowered by it. Still not too excitable at this point, usually. She sometimes gets a distant stare. / He sometimes gets a distant stare.
+    # Horny 2: Tingly/Bubbling. At this point, sex often intrudes on their minds. They lose some Focus at this point.
+        # She bites her lower lip when daydreaming. / He sometimes gets a distracted smile.
+    # Horny 3: Tempted/Pressing. They are often thinking about sex at this point, having trouble Focusing on anything else.
+        # She is flushed. / Half-erection. He often adjusts his junk.
+    # Horny 4: Excited/Intense. They can barely pay attention to anything else. No Focus at all.
+        # She unconsciously brushes her nipples or her crotch. / Erection. He sometimes makes a little grunt and pulls on his trousers to accommodate his penis.
+    # Horny 5: Overexcited/EXTREME. They NEED release. No Focus at all.
+        # She masturbates if left alone; also, she finds some arousal with any stimulus to her breasts (or some secondary erogenous area; she may suck on a finger, for instance). / He has serious trouble concentrating and will masturbate at the first occasion. He will grunt at any contact with his erogenous zones, instinctively humping any contact.
+    # Horny 6: Craving/UNBEARABLE.
+        # She gets wet when giving blowjobs. / Some pre-cum starts leaking. He may have a premature ejaculation.
+Sex Urgency is relative to Horny. It 
+Excitability is added to any change to Horny
+    # -5 to +5. -5 is completely frigid, -3 is frigid, -1 is cool, 0 is unusually stable, +1 is average, +2 is easily excitable, +3 is usually excited, +5 is uncontrollable 
+Desire is always directed at a specific character (or a specific stimulus, like a fetish).
+    - When a sexual circumstance is implied by the target character, Horny is modified by Desire.
+    # Desire -5: Repulsed (cannot tolerate to look at character)
+    # Desire -3: Disgusted.
+    # Desire -1: Turn off.
+    # Desire 0: Indifferent. The same as for a doorknob.
+    # Desire 1: The same for any male.
+    # Desire 3+: Flushes in the target's presence.
+    # Desire 4+: When masturbating, she thinks of target.
+    # Desire 5+: She acts on her feelings. Trying to seduce the target. She uses innuendo and tries to seduce.
+    # Desire 7+: She admits her desire openly. If denied, she offers to "do stuff".
+    # Desire 8+: She will overcome her "embarrassments" to get more of the target.
+    # Desire 9+: She begs and humiliates herself for it. She may overcome a taboo.
+    # Desire 10+: She begs for anything, any kind of attention is good enough for her (anal, humiliation, etc).
+
+Stimulated indicates how close she is to an orgasm (climax_threshold).
+    - When sex starts, Horny is added to this value.
+    - The value reached when she *reaches* her orgasm indicates orgasm potency (which may exceed climax_threshold).
+    - This assumes a girl starts sex with Horny=3 and gets 3 points of stimulus before climaxing.
+    # Stimulated 1+: She is aware of erotic stimulation (physical or mental). / He is aware of erotic stimulation (physical or mental).
+    # Stimulated 2+: She feels a little moist. / He is unfolding.
+    # Stimulated 3+: She is flushed and her nipples ar hard. / Half-erection. He often adjusts his junk.
+    # Stimulated 4+: Her nether lips are partially open and glistening wet. She unconsciously brushes her nipples or her crotch. / Erection. He sometimes makes a little grunt and pulls on his trousers to accommodate his penis.
+    # Stimulated 5+: Her nether lips are partially open and glistening wet. Her panties get a wet spot. She masturbates if left alone; also, she finds some arousal with any stimulus to her breasts (or some secondary erogenous area; she may suck on a finger, for instance). / He has serious trouble concentrating and will masturbate at the first occasion. He will grunt at any contact with his erogenous zones, instinctively humping any contact.
+    # Stimulated 6+: She is wet enough to leak. Any sex act will further stimulate her. She gets wet when giving blowjobs. / Some pre-cum starts leaking. He may have a premature ejaculation.
+    # Stimulated 7+: She humps stuff is prevented from masturbating; also, she plays with her asshole when masturbating (or some third erogenous area; she may give herself pain (breast pinching, pussy slapping, etc.), for instance). / He is desperate for stimulus and a climax. He humps the air if prevented from touching himself. Leaks pre-cum continuously. Secondary erogenous zones (like nipples) may cause a climax if over-stimulated.
+    # Stimulated 8+: She craves sexual stimulus and will attempt to flee a scene to masturbate - if prevented from doing it, she may admit her craving. / Any sexual stimulus will cause a near immediate climax.
+    # Stimulated 9+: She is driven crazy by need and will beg for a chance of release. / He will do anything to get release. He is long past begging.
+    # Stimulated 10+: She can cum from almost any kind of stimulus (no need to touch pussy and; anal, humiliating words, breast stimulus, tasting cum...). / Unbearable. A creature of sex. Cannot think or do anything outside seeking release.
+Current Climax Threshold indicates the value of "Stimulated" must reach for a character to climax.
+    - It assumes they starts having sex at Horny=3 and gets 3 points of stimulus before climaxing.
+    - Willpower can temporarily increase this threshold.
+    - It can be permanently increased by different factors.
+
+
+Inhibitions
+    This is govered by "Liberated" below, but may also be controlled by Rules/Mores, Embarrassments and Taboos.
+    Unattracted gender interactions: -5
+    Witnesses (not intimate) besides partner (e.g. in public): -4
+    Unattractive person interactions: -3
+    Potential witnesses (not intimate) besides partner (e.g. in public): -2
+    Intimate witnesses besides partner: -2
+    Potential intimate witnesses besides partner: -1
+    Convenient: +1
+    In Lust: +2
+    Trusts: +2
+    Intimate: +1
+    In Love: +3
+    In Relationship: +4
+    By herself (no witnesses at all): +5
+    Married: +5
+Liberated - 0 - Doesn't think about sex or lewd things. Is simply unaware. Too innocent to care about being covered up.
+Liberated - 1 - Doesn't talk about sex or lewd things. Aware, but doesn't like broaching the subject. Careful never to expose herself, may wear very modest and covering clothes.
+Liberated - 2 - Might forget that some things shouldn't be shown off. (Leans over too far, grabs own tits, etc).
+Liberated - 3 - Says lewd things but won't follow through. Is teasing in her words, but not detailed and doesn't actually expose herself with her words. May show off her clothed body to tease.
+Liberated - 4 - Talks about sex, about her body, shows it off clothed. Likes being watched and feels like it's normal. Strikes sexy or suggestive poses, parades in skimpy clothes (like bikinis). Leans over to provoke others. Masturbates in private at night.
+Liberated - 5 - Kisses. Doesn't mind exposing parts of herself (flashing tits, ass or even pussy).
+Liberated - 6 - Doesn't mind being seen naked sometimes. Might ask to be touched by you or give you a handjob.
+Liberated - 7 - Engages in mutual masturbation, handjobs, or boobjobs.
+Liberated - 8 - Comfortable seeing you naked and being naked in front of you most of the time. Has sex (vanilla).
+Liberated - 9 - Masturbates in private during the day. 
+Liberated - 10 - Masturbates in public if they think they can get away with it.
+Liberated - 11 - Provocative or even slutty/whorish clothes.
+Liberated - 12 - Wears slutty clothing when they can, willing to have give handjobs, titjobs, or blowjobs.
+Liberated - 13 - Loves sex, servicing, and being a slut. Will let partner fuck them whenever they want. Okay with rough sex. Okay with exhibitionism. Okay with voyeurism. Okay with cum in mouth.
+Liberated - 14 - Will present for sex without asking, suck partner off unless they tell them no, and do anything if pratner promises to fuck them later. Okay with anal sex. Okay with cum swallowing.
+Liberated - 15 - Okay with degradation and humiliation.
+
+
+
+Embarrassment
+    - Too embarrassed to show skin
+    - Too embarrassed to accept kiss
+    - Too embarrassed to show lots of skin
+    - Too embarrassed to kiss in public.
+    - Too embarrassed to initiate kiss.
+    - Too embarrassed to be seen naked by lover.
+    - Too embarrassed to be seen naked by anyone.
+    - Too embarrassed to accept fondling.
+    - Too embarrassed to accept fondling in public.
+    - Too embarrassed to sex before marriage.
+    - Too embarrassed to sex outside relationship.
+    - Too embarrassed for anal.
+    - Too embarrassed for fellatio.
+    - Too embarrassed for cunnilingus.
+
+PROTAGONIST stats:
+    Pride - Too proud to do it. Too submissive to do it.
+    Moral - Too nice to do it. Too amoral to do it.
+    Daring - Too scared to do it. Too brave to do it.
+    Horny - Too horny to do it. Too satisfied to do it.
+    Love - You can't bear to make her sad. You NEED to make her happy.
+
+    Peep through a keyhole: Can't be too proud. Can't be too moral. Can't be too scared (low Daring). Horny adds to chance. -> Daring + Horny - Pride - Moral > threshold.
+    Introduce yourself: Can't be too submissive (low Pride). Can't be too scared (low Daring). Horny adds to chance. -> Daring + Pride + Horny > threshold.
+    Ask on a date: Can't be too submissive (low Pride). Can't be too scared (low Daring). Horny adds to chance. -> Daring + Pride + Horny > threshold.
+    Perform chores: Can't be too amoral (low Moral). Can't be too proud. Can't be too daring. Horny subtracts from chance. -> Moral - Daring - Pride - Horny > threshold.
+    Challenge to a match: Can't be too submissive (low Pride). Can't be too amoral (low Moral) (would need to cheat, in that case). Can't be too scared (low Daring). -> Pride + Moral + Daring > threshold.
+    Challenge to a rigged match: Can't be too submissive (low Pride). Can't be too moral. Can't be too scared (low Daring). -> Pride + Daring - Moral > threshold
+    Proposition for sex: Can't be too submissive (low Pride). Can't be too scared (low Daring). Horny adds to chance. -> Daring + Pride + Horny > threshold.
+
+
+
+Lili (starts at Love 3; Submission 1; Libido 1; Liberated 2)
+
+Allie (starts at Love -1; Submission 0; Libido 1; Liberated 4)
+
+Mom (starts at Love 3; Submission 0 (Respect -1); Libido 0 (orgasms locked?); Liberated 1)
+
+Alexa (starts at Love 2; Submission 0; Libido 1; Liberated 2)
+
+Nora (starts at Love -2; Submission -1; Libido 2; Liberated 2 (pretends; actually Liberated 4))
+
+Stephanie (starts at Love 1; Submission 0; Libido 2 (oral fixation); Liberated 3)
+
+Nikki (starts at Love 1; Submission 0; Libido 1; Liberated 2)
+
+
+
+
+
+Make lil'sister horny. At night, she masturbates.
+Make big'sister horny. At night, she masturbates.
+Make mother horny. At night, she masturbates.
+
+
+Scrying - First, only at home. Then, anywhere with an "anchor" (someone you know well or a place you may prepare).
+    -- Decyphering cameras: Livingroom, bathroom, kitchen, pool, Lili's bedroom, mom's bedroom, 
+Influence - First, only at specific places at home. Then, whenever you can get the person alone for a good amount of time.
+
+
+
+Scrying Lili:
+- Asleep.
+- Showering.
+- Changing in her bedroom.
+- Masturbating in bed.
+- Masturbating under the shower.
+- At school.
+- On a date.
+- Making out on a date.
+- Having sex on a date.
+- Being a submissive bitch to date.
+- Sleeping in mom's bed.
+- Masturbating while mom is sleeping on same bed.
+- Getting fingered by mom.
+- Licking mom.
+- Getting licked by mom.
+- Learning to kiss with Allie.
+- Learning to suck cock on Allie's dildo.
+- Learning to fuck with Allie's strap-on.
+- Taking Allie's strap-on in her ass.
+- Letting Allie lick her.
+- Letting Allie put on a show for her.
+- Making Allie humiliate herself for her.
+
+Influence Lili:
+- Horny Lili masturbates in her bedroom.
+- Horny Lili masturbates in the shower.
+- Horny Lili masturbates at school.
+- Horny Lili kisses a boy at a party.
+- Horny Lili invites a boy to a date.
+- Horny Lili offers to suck dick behind the bleachers.
+- Submissive Lili 
+
+
+
+
+Nora is your opponent:
+- Increases Stephanie's libido. Stephanie goes on Tinder dates and makes out on the first date.
+- Increase Stephanie's submission. Stephanie becomes less abrasive at work.
+- Remove Stepahnie's embarrassment. Stephanie teases at work.
+- Increase Stephanie's libido. Stephanie goes on Tinder dates and puts on on the first date.
+- Increase Stephanie's submission. On a disagreement, Stephanie begs forgiveness.
+- Remove Stephanie's embarrassment. Stephanie is practically naked at work.
+- Increase Stephanie's libido. Stephanie masturbates at work.
+- Increase Stepahnie's submissiveness. Stephanie can be ordered to strip at work.
+- Remove Stpehanie's embarrassment. Stephanie accepts lesbian sex with Nora.
+- Rewiring Stephanie. Stephanie is less interested in dates with males.
+- Rewiring Stephanie. Stephanie feels the need to lick pussy.
+- Rewiring Stephanie. Stephanie despises males and is willing to betray them.
+- Rewiring Stephanie. Stephanie hates males and wants to make them suffer.
+- Rewiring Stephanie. Stephanie is willing to take a strap-on.
+- Rewiring Stephanie. Stephanie takes strap-on anal and licks assholes.
+
+- Gain Danielle's trust. Danielle becomes stricter at home.
+- Gain Danielle's trust. 
+
+
+SY = Start Year
+SY -15 - Pater Familia marries mom. Seduced with Elixir. Lili is 3; Allie is 8; Protagonist is 6. Mom is 18.
+SY -14 - Pater Familia starts experimenting with Elixir on mom. Makes her love his children uncionditionally. Mom is 19.
+SY -8 - Pater Familia breaks up with mom and locks her orgasms. Mom moves into different town taking Lili and Allie with her. Lili is 10; Allie is 15; Protagonist is 13. Mom is 25.
+SY -3 - Protagonist goes to college. Lili is 15; Allie is 20; Protagonist is 18. Mom is 30.
+SY -3 - Pater Familia starts dealing with criminals. Uses Elixir on Nora to get a devoted lab assistant.
+SY -2 - Pater Familia has breakthrough. Starts earning big money and leading playboy life.
+SY -1 - Pater Familia moves into mansion. Gets teaching position at the lab. Starts using Elixir on Stephanie to get a new lab assistant.
+SY 0  - Accident breaks Nora away from Pater Familia's influence. Pater Familia realizes he is going to die and prepares his legacy. Tries to lock Nora's memories away (fails), resets Stephanie (but, inadvertedly leaves the oral fixation).
+SY 0  - Pater Familia dies.
+SY 0  - Nora steels some Elixir annotations from the lab.
+SY 0  - Nora gets the teaching position at the lab and meets Stephanie.
+SY 0  - Family moves into house. Lili is 18; Allie is 23; Protagonist is 21. Mom is 33.
+
+
+
+Study with Alexa:
+- Flash Tits (incentive for study)
+- 
+
+Play games with Jenny:
+- Flash Tits (reward for good gameplay)
+- Get naked
+- Handjob
+- Blowjob
+- Sex
+
+Date with Jenny:
+- Flash underwear/pussy (restaurant)
+- Fingers in pussy/masturbate
+- Blowjob (car ride; under the table)
+- Sex in bathroom
+- Pay for dinner with blowjob (waiter)
+
+
+
+
+
+
+
+BigBrother Opportunities (file:///H:/_EvaluatedGames/BigBrother/BigBrother0.13.0.007-Skunked/FormattedDialog.html):
+- Hidden Cams
+- Mentor (teaching Lisa about male anatomy)
+- Special Books (making Alice more of a slut)
+- Schoolmate (letting Lisa pursue her love life with schoolmate)
+- Schoolgirl (teaching Lisa school stuff)
+- Swimsuit (corrupting Lisa with a bikini)
+- Arachnophobia (controlling Alice with her fear of snakes)
+- Blog (helping Alice become a camgirl)
+- Party Girl (taking advantage of Alice when she gets drunk or comes home drunk)
+- Alpha (getting challenged by Eric)
+- Control (bdsm games between Mom and Eric)
+- Favorite Aunt (Kira)
+- Weed (negotiating with Kate, Alice's lover, regarding Alice)
+- Cunning Plan (with the help of Kira, turn Mom into a lesbian to better accept Alice and Kate's tryst)
+- Sacrifice (choose between Kira, Alice and Lisa, who to save from Eric)
+- Wallet (a way to get rid of Eric)
+- New Job (turning Mom into a pornstar with Kira's help)
+- Side Effect (taking Viagra for a pornshoot with Kira leads to a visit to the doctor)
+- Changing Roles (Alice and Lisa become involved in a BDSM game)
+- Hot Coffee (Vicky the barista)
+- Olivia (Olivia)
+
+LabRats 1 Plots:
+- Movies with Mom
+- Movies with the Girls
+- Lili thirsty at night
+- Mom confused at night
+- Lili taking a shower
+- Mom taking a shower
+- Alexa comes to study
+- Alexa at the café
+- Alexa as a labrat
+- Alexa trying out clothes at the mall
+- Stephanie playing tennis
+- Stephanie becoming a slut at the lab
+- Stephanie at the party
+- Nora at the social event
+- Nora alone at the lab
+
+The Tyrant Storylines:
+- 

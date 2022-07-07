@@ -1,0 +1,47 @@
+/*
+
+# Cindy
+    ## Female|Sub
+    ## Female (Babe)
+    ## Female/Het
+    ## Inspired by: Real Porn - Skyla Novea
+    -- Details: Librarian; should become your too-chaste girlfriend; romantic; entitled; 
+
+CINDY
+You have a girlfriend. You probably still love her and expect her to have remained faithful to you while you were away. She is not sexually liberated and she betrayed you somehow (not cheating, but... maybe spending your money).
+## Increasing "lovey-dovey" for girlfriend.
+# You used to fantasize "fucking" "girls" roughly. Now, you have so much respect for Cindy! You can't think of but making sweet, romantic love with her, with her as a woman.
+# You used to fantasize about threesomes. Now, you can't think you would need another woman besides Cindy!
+# You used to fantasize about a lot of women, pornstars, schoolmates, work colleagues... now, you can't imagine why you would want anyone besides Cindy!
+    -> Polite -> Respectful -> Genuinely interested in her affairs -> Common Interests -> Commmunal Activity -> Greater Intimacy -> Introduced to her friends -> Approval from her friends -> First Date -> First Kiss -> Wooing -> Second Date -> Second Kiss -> Thrid Date -> Movies -> Making Out -> Romantic Get Away -> Romantic Sex -> Romantic Gesture -> Gentle Sex -> Nice Gift -> Gentle Sex
+        -> Introduced to Troy -> Sex initiated by her -> Pissed off at Troy (he implies he has a big cock) -> Wilder Sex -> Fight with Troy (he traces the line of his big cock over his pants) -> (Secretly Making out at Troy) -> Party with Troy's Presence -> (Blows Troy) -> Trip with Troy -> (Secretly has sex with Troy) -> Troy and Her "caught" having sex
+        -> Troy trains her to deepthroat -> Troy stretches her pussy -> Troy trains her for anal
+
+
+*/
+
+::Cindy - Initial Description
+You enter the library and a cute librarian looks at you from beyond the counter. You smile back, glad for that kind of reception in town and walk around to familiarize yourself with the library.
+
+The girl from the frontdesk doesn't leave your mind, though. She was young, pretty and friendly. When you get back to the front, she smiles at you again and you feel like you could approach her.
+
+::Cindy - Polite Introduction
+@@.protagonist;"Hello,"@@ you introduce yourself. @@.protagonist;"I'm $protagonist.name. It's nice to meet you."@@
+
+@@.cindy;"Hello, $protagonist.name. You don't remember me, do you? I'm $cindy.firstName $cindy.lastName. We had English together as juniors at $school.name."@@
+
+@@.protagonist;"Oh, hello, $cindy.name!"@@ You reply, still not recognizing her, but not wanting to be indelicate.
+
+She laughs. @@.cindy;"You still don't recognize me. But that's okay. I guess I looked pretty different, back then, with the braces, the glasses adn the backbrace."@@
+
+@@.protagonist;"Yeah. I'm sorry,"@@ you apologize, trying to laugh too.
+
+$cindy.name and you talk a little bit. She asks for how long you have been back. She tells you she has been working at the library for less than a month. You tell her about planning to give chemistry classes in the library and she wishes you good luck.
+
+@@.cindy;"Well, try to drop by from time to time. It would be nice to catch up!"@@
+
+She waves at you as she has to go attend to a student with a question about the library.
+
+::Cindy - Unavailable - At Library
+$cindy.name seems to be too busy to talk at the moment.
+

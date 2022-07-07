@@ -1,0 +1,163 @@
+    Confident or Timid
+    Nice or Jerk
+    Physical or Cerebral
+    Knack for Electronics
+
+    --
+
+    After your father's death, you move back to the Clarity District of the Enclave.
+    
+    Your father had been a chemist working at the Health Center's research department and working as a member of the Council. He lived in a very big house near the Council which he left for you and your sisters. You found that your father also had a nice apartment near the Health Center. You wondered, for a time, if you should live in the house with your step-mother and your sisters or if you should try to live in the apartment, by yourself. The house would be rent free, but you would be under Angela's - your step-mother's - authority. Also, you feel like your father spent more time closer to his job in the Health Center, than in the big house.
+    
+    -- Living with Family
+    
+    You decide to go live with your folks. Family is important and you just feel like staying close to them.
+    
+    Angela did not give birth to you, but she helped raise you from when you were just six years old. Lily, your younger sister barely knew anyone else as a mother. Angela's always been strict, however and ever since Dad divorced her, she has become less patient. Still, she helped raise you and you believe that if you avoid pushing her buttons, you can get along really well.
+    
+    You have always gotten along well with Lily. She has always been a sweet child and you miss spending some time with her. Alice is something else entirely, though. Your older sister by two years, she has always teased you. After Dad divorced Angela, though, things became more strained. She was vicious in her barbs the last couple of times you met with her. You wonder how its going to be living under the same roof as her.
+    
+    **
+    
+    When you show up home, you are impressed by the size of the house Dad used to live in. It is truly impressive! Mom is at the door to get you. She gives you a hug and kisses your head before complaining about your hair. It feels just like home! Lily comes bouncing your way and throws herself in your arms. You are shocked at how much she has grown, though. She is eighteen already and you never realized she had grown from a girl into a woman, before now!
+    
+    @@.lily;"$protagonist.name! I'm so happy you are moving in back with us! The whole family will be back together!"@@
+    
+    You smile at her and kiss her cheek, trying to not let her see your sadness. The whole family back together, minus Dad...
+    
+    Feeling a little melancholy, you excuse yourself to go straight to your bedroom.
+    
+    Mom had told you, over the phone, that she had intended to convert the fourth bedroom in the house into an office for her. But she was happy enough to keep it empty so that you could install yourself in there.
+    
+    You looked around a bit and planned, but when you were about to unpack, Mom called you for dinner. Mom is in the kitchen and Lily is in the living room, watching something on her phone.
+    
+    **
+    
+    Your first few interactions will dictate the tone of your relationship with some characters. It's been a long time since you last lived with Angela. She has changed and so have you.
+    
+    [[Offer to help Mom set the table]] <- Nice
+    [[Talk to Lily about whatever she is watching]] <- Jerk
+    [[Tease Lily about whatever she is watching]] <- Confident
+    [[Tell Lily to go help Mom set the table]] <- Confident
+    
+    You offer to help Mom. She gratefully accepts, asking you to take the roast out of the oven while she sets up the table. You comply and take the dish to the living room, finding that she is watching something with Lily 
+   
+    **
+    
+    Now is the time to decide some of how you will interact at home. Are you more of a nice guy or a jerk? Are you a submissive or a dominant. And will Mom like you or despise you?
+    
+    -- Living by Self
+    
+    You take your things to your father's apartment. Living by yourself is going to be an adventure, but you have been ready for it for some time. In Temperance you were in the school's Lodgings, but you didn't much appreciate having to share the bedroom with someone else and the showers with another couple dozen students. Your father's place is just great! There are three bedrooms, a nice living room and the building even has its own pool. You put your stuff in one of the bedrooms and walk around, feeling as if your father just left the house a few minutes before and is ready to come back. It makes your heart ache for a time, but it also makes you feel closer to him.
+    
+    You feel hungry and realize you having nothing to prepare dinner, when the doorbell rings.
+    
+    @@.landlady;"Hello. You are $protagonist.name, I presume. Gerald's son, right?"@@
+    
+    @@.protagonist;"Huh? Yes. I am.@@
+    
+    @@.landlady;"Nice to meet you, $protagonist.name. I'm Charlotte Crow, your landlady."@@
+    
+    @@.protagonist;"Landlady? I thought my father owned this place,"@@ you tell her, surprised.
+    
+    @@.landlady;"Actually, it was a lease. The whole building is owned by Dr Bouchard, at the Council."@@
+    
+    @@.protagonist;"Oh! I didn't know that."@@
+    
+    @@.landlady;"I talked to Dr Bouchard, though, and he is willing to simply transfer your father's contract to you, $protagonist.name. It's just 450 by the end of each week. That includes amenities."@@
+    
+    450? That's more than you can easily get. Maybe if you get two jobs instead of one, you can keep living here. Or you could find some roommates. That would be worth checking out.
+    
+    @@.landlady;"So? Are you interested?"@@
+    
+    @@.protagonist;"Can I have a couple of days to think about it?"@@
+    
+    @@.landlady;"Actually, no. Dr Bouchard wanted me to resolve this issue today. So, I need you to decide right now. Either you are in or out. I hear that your family has another place in town, so you won't be on the streets if I have to throw you out."@@ She smiles at that, but you can see there isn't much kindness in there.
+    
+    You can either try to get two jobs and stay at the apartment living in your own terms, or you could look for roommates tomorrow and try to find people to share the value of the lease. Or you could just live with your step-mom and your sisters. But you were really enjoying the idea of living at your own place.
+    
+    You decide to stay and go down with Charlotte to sign the papers. It feels a little dire, but you also feel more like an adult than you ever have before. After that, you go buy some groceries, cook, eat and go to bed, feeling exhausted.
+    
+    --
+    
+    It feels a little surreal to still have to attend Finishing School. A couple of weeks ago, Dad was alive, you were in Temperance, working at a manufacturing plant and planning your future as a computer programmer, worried about getting laid, getting your degree and getting out of the Lodgings. Now you are in Clarity, a different District, your father passed away, you are closer to your family and, somehow, you still have to get your grades to complete Finishing School and will still soon need a new job.
+    
+    You head to school and find that a lot is alike between Districts. You have three teachers, you have a principal with annoying morning announcements, you have to take classes from 8:00 to 13:00. But there is something different too. People just seem... hotter, at this new school. There seems to be an undercurrent of tension in the air. You wonder if it is because so many people, here, are connected to the Council, the ruling body of the Enclave, on one level or another.
+    
+    You can barely remember the classes of your first day at this new school. Maybe tomorrow you will be less impressed by everything being so new and you will be able to pay closer attention to everything. Maybe you will even feel like less of an outsider, with everyone having their own cliques around here.
+    
+    **
+    
+    First day of school is over. You could head straight home, but you wonder. You don't feel like going straight home. You walk around a bit and find a nice, but simple place to eat. The Grease doesn't sound like a great place, but it has a killing burger and it is quite inexpensive. They are looking for someone to flip burgers, too. It's a lowly job, but it should help with your accounts. Maybe tomorrow you could apply for a job here. It's very close to a strip mall and you feel tempted to go there, but you really have to get your act together and unpack, so you head home after lunch. You walk, thinking if your dad ever ate at The Grease and if he walked that same path home you are taking.
+    
+    --
+    
+    450 a month is a lot to keep the apartment. You decide you definitely need to check if you can find some roommates to help share the burden. You look online and put up an urgent ad.
+    
+    A couple of hours later, you have someone ringing your doorbell.
+    
+    @@.bree;"Hello! Are you the guy with the ad?"@@ A nice looking blonde is standing at the other side of the door.
+    
+    @@.protagonist;"Hello, I'm $protagonist.name. Yes, I put up the ad looking for a roommate.@@
+    
+    @@.bree;"Nice to meet you, $protagonist.name! I'm Bree! Bree Colton," she smiles brightly and extends you a hand.
+    
+    @@.protagonist;"
+    
+    --
+    
+    
+    
+    **
+    
+    You still feel the loss of your dad. You should have spent more time with him. But he was away. He was in Clarity and you were in Temperance. Maybe if you got closer to his work, he was always just so obsessed by it. You should visit his place of work.
+    
+    
+    
+    
+    
+    Your step-mother just moved back here with your two-sisters, but you decide to go live on your own.
+    
+    You get a house for yourself.
+    
+    
+    
+    
+    
+    You go around your father's apartment. You meet Charlotte Crow, the landlady and find out that your father was leasing the apartment. He hadn't bought it. She tells you the lease was ready to be taken over by someone from the family and that your Mom, Angela, recently came in and took over the lease. She is renting the place to a few students. You ask about your father's stuff and Charlotte tells you your mother took some of it away, but most of the stuff was left in the apartment.
+    
+    Anxiety grabs you at the thought of your father's stuff being mishandled by some random tenants. You ask for the apartment's number and to be let in. Charlotte points you towards number #32.
+    
+    You ring the doorbell and a few instants later a tall, black, young man opens the door and greets you with a smile.
+    
+    @@.troy;"Hi! What is it?"@@
+    
+    @@.protagonist;"I'm sorry to bother you, but I am $protagonist.firstName $protagonist.lastName - but you can call me just $protagonist.name. I'm the owner's son and... well..."@@
+    
+    @@.troy;"Hey, man! You seem distraught. Come in!"@@
+    
+    Accepting, you walk in and look around. The place is well furnished and the apartment is big. You could have enjoyed living here.
+    
+    @@.troy;"So, tell me: what is bothering you?"@@ The young man asks. @@.troy;"By the way, I'm Troy - Lajoie."@@
+    
+    @@.protagonist;"My father lives- my father used to live here. This was his apartment. He passed away a little ago and..."@@
+    
+    @@.troy;"I'm sorry for your father's death, man. Seriously!"@@ He pats you on the shoulder.
+    
+    @@.protagonist;"I was- I wasn't living here with Dad and most of his stuff remained here."@@
+    
+    @@.troy;"Oh! I understand. Totally! If you ever want to come in and... I don't know. Just look around at stuff. It's no big deal. I mean, anything in the living room is fine and you are welcome to check out the stuff in my room. My roommates, though, may have their own thoughts about you visiting their rooms. Give me a few weeks and I'm sure I can make them come around, anyway."@@
+    
+    @@.protagonist;"Hey! Thanks, Troy! That's really very nice of you!"@@ You tell the guy, sincerely.
+
+    @@.troy;"No problem man!"@@
+
+    As you are about to leave, there is the sound of a key at the door and two girls step in carrying grocery bags. A hot blonde and a sexy brunette. In spite of yourself, you sigh, thinking that this could have been your life if you had decided to move into your father's apartment, instead of going to live with your Mom and sisters.
+    
+    
+    
+    
+    
+    
+    
+    She is lying on the bed, her legs spread, fingering her pussy while he slowly fucks her mouth. Her ass still looks a little stretched after his recent fucking of her hole.

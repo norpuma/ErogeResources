@@ -1,0 +1,45 @@
+::Hotel Teenage Girl - Initialization [script]
+    function initializeHotelTeenageGirl(){
+        if (State.variables.hotelTeenageGirl === undefined){
+            let char = new BaseCharacter("Kelly", "female", "LittleSisterStyle")
+            char.names.first = "Kelly"
+            char.names.last = $hotelOwnerFamilyName
+
+            char.body = new CharacterBody(char.gender, 18)
+
+            char.groomingAndStyle = new GroomingAndStyle("black", "long", false, false, false, "acceptable")
+
+            char.personality = new CharacterPersonality()
+            char.personality.prideOrShameElements = {"smart": 10, "nice": 20, "fitness<=10": -10, "nerd": -10, "wealth<=dependent": -10}
+            char.personality.dutiful = 20
+            char.personality.empathy = 10
+            char.personality.submission = 10
+            char.personality.smarts = 20
+            char.personality.courage = -10
+
+            char.resources.fitness = 10
+            char.resources.knowledge = 10
+            char.resources.charm = 10
+
+            char.mood = new CharacterMood()
+
+            char.relationships = {}
+
+            State.variables.hotelTeenageGirl = char
+        }
+    }
+    State.variables.characterInitializationFunctions.push(initializeHotelTeenageGirl)
+
+::Little Sister - Spanking Wakeup
+<<speech $littleSister>>"Bro?? ... $protagonist.names.first wake up you're going to be late for your first day!"<</speech>>
+
+You grumble a bit trying to emerge from your dreams 
+
+<<speech $littleSister>>"Come on!"<</speech>>
+
+She gives you a hard spanking to get you out from bed 
+
+<video src="resources/Characters/LittleSister/PlayfulSpanking.webm" autoplay loop></video>
+
+[[Teach her a lesson]]
+[[Ask mom for help]]

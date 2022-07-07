@@ -1,0 +1,484 @@
+Stats:
+    - Happy
+    - Worthiness-Traits, List of
+    - Characteristics
+    - Relationships
+        - Self-Worthiness-Traits, List of
+        - Others-Worthiness-Traits, List of
+    - Males: Time without erection after climax; self-control between stimulus and climax (longer is better).
+    - Females: Time between stimulus and climax (shorter is better); readiness (how much stimulus she needs to be wet and open, ready for rough); stamina (how long before she feels sore and doesn't want to have sex anymore).
+
+# Self-worth is how much character thinks they is important.
+    # Own (Self) Worthiness (list of Worthy and Unworthy Traits)
+# Others-worth is how much character thinks partner are important.
+    # Target Worthiness (list of Worthy and Unworthy Traits)
+
+# Intimacy:
+    # How much the character feels the other knows them and how much more they are willing to reveal.
+    # Interacts with Trust. The character will only reveal more about themselves if they trust the other.
+    # Intimacy 0+: Talks about impersonal and public-knowledge subjects. The weather or work (if it is not sensitive).
+    # Intimacy 1+: Talks about non-compromising feelings. Likes and dislikes.
+    # Intimacy 2+: Talks about self, origins, family, etc.
+    # Intimacy 4+: Reveals minor key knowledge.
+    # Intimacy 6+: Talks about feelings.
+    # Intimacy 7+: Reveals key knowledge.
+    # Intimacy 8+: Talks about sex life.
+    # Intimacy 9+: Confesses kinks and taboos.
+    # Intimacy 10+: Reveals major key knowledge.
+# Trust:
+    # How much the character believes the other will not betray or hurt them.
+    # Also, how much the character believes the other will keep their word. If Trust is high and Afraid is high, only the word is trusted, but not the intentions.
+    # Trust usually starts at 1.
+    # Trust 0: Doesn't believe anything said, is sure the other has bad intentions towards them and will act on those on the first occasion.
+    # Trust 1: Believes the other will behave in socially acceptable ways, at least for as long as there are witnesses nearby and that the other will keep their word if it is not bothersome to do so.
+    # Trust 2: Believes the other will behave in socially acceptable ways even if there are no other people around and that the other will keep their word out of principle.
+    # Trust 3: Believes the other will behave to keep a minor secret safe.
+    # Trust 4: Believes the other will not act against their interest.
+    # Trust 5: Believes the other will not act against them even if they have power over them and interest in doing so.
+# Afraid:
+    # Afraid is affected by "Able to hurt them" + "Capable of hurting them" (already hurt them) + "Interested in hurting them" + "Willing to hurting them" + "Already been hurt" (by others, possibly)
+
+
+
+
+
+Sex Drive defines how sexual the character is and at what level Horny usually stabilizes.
+    - This can be permanently changed by some factors.
+    # -5 to +5. -5 is completely frigid, -3 is frigid, -1 is cool, 0 is unusually stable, +1 is average, +2 is easily excitable, +3 is usually excited, +5 is uncontrollable 
+Horny indicates the pressure to find release.
+    - Will increase or decrease according to situations throughout the day and decrease or increase by 1 for each "time period" (usually 4 hours) towards Sex Drive.
+    - This value can only be temporarily changed.
+    - This may make a character distracted. He may lose "Focus" or "Willpower".
+    - A character exposed to lots of sexy situations will keep Horny higher than Sex Drive due to circumstances.
+    - A character exposed to lots of unsexy situations will keep Horny lower than Sex Drive due to circumstances.
+    - For most NPCs, Horny at any given scene will be determined by Sex Drive + random modifier + story modifiers.
+    # Horny -2: Disgusted. The thought of sex is disgusting.
+        # She is closed and dry. / He is flaccid and shrunk.
+    # Horny -1: Cool. The thought of sex seems uninteresting.
+        # She is closed. / He is flaccid.
+    # Horny SPECIAL: Pacified. They are unusually Focused and *easy to influence* (no Willpower?). This usually only happens after an intense orgasm and doesn't last for long.
+    # Horny 0: Sated/Satisfied. They are not thinking about sex at all. They are usually Happy and Focused at this point and a little less Excitable than usual, just after a climax.
+    # Horny 1: Content. They react to excitement with a smile, appreciating it, but not overpowered by it. Still not too excitable at this point, usually. She sometimes gets a distant stare. / He sometimes gets a distant stare.
+    # Horny 2: Tingly/Bubbling. At this point, sex often intrudes on their minds. They lose some Focus at this point.
+        # She bites her lower lip when daydreaming. / He sometimes gets a distracted smile.
+    # Horny 3: Tempted/Pressing. They are often thinking about sex at this point, having trouble Focusing on anything else.
+        # She is flushed. / Half-erection. He often adjusts his junk.
+    # Horny 4: Excited/Intense. They can barely pay attention to anything else. No Focus at all.
+        # She unconsciously brushes her nipples or her crotch. / Erection. He sometimes makes a little grunt and pulls on his trousers to accommodate his penis.
+    # Horny 5: Overexcited/EXTREME. They NEED release. No Focus at all.
+        # She masturbates if left alone; also, she finds some arousal with any stimulus to her breasts (or some secondary erogenous area; she may suck on a finger, for instance). / He has serious trouble concentrating and will masturbate at the first occasion. He will grunt at any contact with his erogenous zones, instinctively humping any contact.
+    # Horny 6: Craving/UNBEARABLE.
+        # She gets wet when giving blowjobs. / Some pre-cum starts leaking. He may have a premature ejaculation.
+Sex Urgency is relative to Horny. It 
+Excitability is added to any change to Horny
+    # -5 to +5. -5 is completely frigid, -3 is frigid, -1 is cool, 0 is unusually stable, +1 is average, +2 is easily excitable, +3 is usually excited, +5 is uncontrollable 
+Desire is always directed at a specific character (or a specific stimulus, like a fetish).
+    - When a sexual circumstance is implied by the target character, Horny is modified by Desire.
+    # Desire -5: Repulsed (cannot tolerate to look at character)
+    # Desire -3: Disgusted.
+    # Desire -1: Turn off.
+    # Desire 0: Indifferent. The same as for a doorknob.
+    # Desire 1: The same for any male.
+    # Desire 3+: Flushes in the target's presence.
+    # Desire 4+: When masturbating, she thinks of target.
+    # Desire 5+: She acts on her feelings. Trying to seduce the target. She uses innuendo and tries to seduce.
+    # Desire 7+: She admits her desire openly. If denied, she offers to "do stuff".
+    # Desire 8+: She will overcome her "embarrassments" to get more of the target.
+    # Desire 9+: She begs and humiliates herself for it. She may overcome a taboo.
+    # Desire 10+: She begs for anything, any kind of attention is good enough for her (anal, humiliation, etc).
+
+Stimulated indicates how close she is to an orgasm (climax_threshold).
+    - When sex starts, Horny is added to this value.
+    - The value reached when she *reaches* her orgasm indicates orgasm potency (which may exceed climax_threshold).
+    - This assumes a girl starts sex with Horny=3 and gets 3 points of stimulus before climaxing.
+    # Stimulated 1+: She is aware of erotic stimulation (physical or mental). / He is aware of erotic stimulation (physical or mental).
+    # Stimulated 2+: She feels a little moist. / He is unfolding.
+    # Stimulated 3+: She is flushed and her nipples ar hard. / Half-erection. He often adjusts his junk.
+    # Stimulated 4+: Her nether lips are partially open and glistening wet. She unconsciously brushes her nipples or her crotch. / Erection. He sometimes makes a little grunt and pulls on his trousers to accommodate his penis.
+    # Stimulated 5+: Her nether lips are partially open and glistening wet. Her panties get a wet spot. She masturbates if left alone; also, she finds some arousal with any stimulus to her breasts (or some secondary erogenous area; she may suck on a finger, for instance). / He has serious trouble concentrating and will masturbate at the first occasion. He will grunt at any contact with his erogenous zones, instinctively humping any contact.
+    # Stimulated 6+: She is wet enough to leak. Any sex act will further stimulate her. She gets wet when giving blowjobs. / Some pre-cum starts leaking. He may have a premature ejaculation.
+    # Stimulated 7+: She humps stuff is prevented from masturbating; also, she plays with her asshole when masturbating (or some third erogenous area; she may give herself pain (breast pinching, pussy slapping, etc.), for instance). / He is desperate for stimulus and a climax. He humps the air if prevented from touching himself. Leaks pre-cum continuously. Secondary erogenous zones (like nipples) may cause a climax if over-stimulated.
+    # Stimulated 8+: She craves sexual stimulus and will attempt to flee a scene to masturbate - if prevented from doing it, she may admit her craving. / Any sexual stimulus will cause a near immediate climax.
+    # Stimulated 9+: She is driven crazy by need and will beg for a chance of release. / He will do anything to get release. He is long past begging.
+    # Stimulated 10+: She can cum from almost any kind of stimulus (no need to touch pussy and; anal, humiliating words, breast stimulus, tasting cum...). / Unbearable. A creature of sex. Cannot think or do anything outside seeking release.
+Current Climax Threshold indicates the value of "Stimulated" must reach for a character to climax.
+    - It assumes they starts having sex at Horny=3 and gets 3 points of stimulus before climaxing.
+    - Willpower can temporarily increase this threshold.
+    - It can be permanently increased by different factors.
+
+
+Ideally, men have a high Climax Threshold and a low Refraction period, being able to quickly have an erection again.
+Ideally, women have a low Climax Threshold.
+Both benefit from high Stamina.
+
+
+How long before next 
+
+Refraction
+
+
+
+
+    self.has_romantic_feelings = False # This is romantic, not merely sexual.
+
+    # Love is an indication of how much and how often the character wants to see the target happy and how much she feels she should be responsible for it.
+    ## Love for: has no (has no desire of seeing the target happy), has very little, has little, has some, has much, is deeply in (feels a deep need to make the target happy herself).
+    self.love = 1 # 0 to 5
+
+    # Hatred is an indication of how much the character wants to see the target suffer.
+    ## Hatred of: has no, has very little, has a little, has some, has much, is deeply.
+    self.hatred = 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+init python :
+    class Special_Girl( Character_Base ):
+        def __init__(self, short_name , label_prefix , first_name, last_name, intimate_name=""):
+            Character_Base.__init__( self, short_name = short_name , label_prefix = label_prefix , first_name=first_name , last_name=last_name , intimate_name=intimate_name )
+            self.body = SpecialGirlBody()
+            self.personality = Personality()
+            self.attitude = Attitude()
+            self.general_feelings = General_Feelings()
+            self.preferences = Preferences()
+            self.sexual_profile = Sexual_Profile()
+            self.sexual_experience = Sexual_Experience()
+            self.relationships = Relationships()
+            self.professional_abilities = {} # {Profession : Skill level from 0 to 10}
+            self.abilities = Abilities()
+            self.schedule_update_callable = ""
+
+    class SpecialGirlBody(object):
+        def __init__(self):
+            self.age = 25
+            self.birth_week = 30
+            self.age_group = age_group_from_age(self.age)
+            self.health = 8 # 0 to 10
+            self.fitness = 4 # 0 to 10; 0 is someone with atrophied muscles; 10 is an accomplished marathon runner.
+            self.stamina = 6 # 0 to 10; recharges with fitness (+1/5 per hour and resets to fitness+2 after a night-long sleep).
+            # TINY, PETITE, SHORT, SHORT_AND_STACKED, STUMPY, AVERAGE_SIZED, STRETCHY, TALL, BIG, AMAZON
+            self.height_group = "AVERAGE_SIZED"
+            # THIN, SLIM, ATHLETIC, FIT, AVERAGE, ROUNDED, VOLUPTUOUS, CHUBBY, FAT
+            self.size_group = "AVERAGE"
+            # WHITE (white, creamy, pale, fair), CARAMEL (caramel, tanned, café-au-lait, latina hue), OLIVE (olive, mediterranean, magrebin), DARK (dark, brown, shaded, chocolate-colored), BLACK (black, night-hued, deep, coffee-colored)
+            # coppery?
+            self.skin_group_descriptors = ["caramel", "tanned", "café-au-lait", "latina-hued"]
+            # pixie cut, chanel cut, ear-long, jaw-length, should-length, middle-of-the-back, to her butt long
+            self.hair_length_descriptors = ["shoulder-length"]
+            # BLACK (black, raven, night-colored), DARK_BROWN (dark brown, dark, chestnut), LIGHT_BROWN (fair, light, ), BLONDE (blonde, golden, sandy), WHITE_BLONDE (platinum, champagne, icy), RED_HEAD (coppery, strawberry, fiery)
+            self.hair_color_descriptors = ["black", "raven", "night-colored"]
+            # wavy, curly, in cornrows, straight, silky
+            self.hair_quality_descriptors = ["wavy"]
+            # gorgeous, pretty, cute, innocent, young-looking, average-looking, ordinary, plain, unattractive, ugly, hideous
+            self.face_quality_descriptor = "pretty"
+            # DARK (dark, mysterious, night-colored), LIGHT_BROWN (light-brown, hazel, honey-colored), YELLOW (golden, amethyst-colored), LIGHT_BLUE (icy-blue, baby-blue, light blue), DARK_BLUE (sapphire, lake-blue, dark blue), GREEN (emerald, shiny green, jade-colored), PURPLE (purple, exotic, lavender)
+            self.eye_color_descriptors = ["dark", "mysterious black", "night-colored"]
+            # small nose, button nose, proud nose, high cheekbones, dimpling cheeks, cute chin, perfect skin
+            self.face_descriptors = ["small nose"]
+            # small mouth, broad mouth, pouty lips, beestung lips, thin lips
+            self.mouth_descriptors = ["broad mouth"]
+            # ALWAY START WITH CUP SIZE. [AA cup, nonexistant, flat], [A cup, tiny, mosquito bites], [B cup, small, modest, perky], [C cup, perky, round, torpedo-shaped], [D cup, round, perky, proud, big, heavy], [DD cup, heavy, saggy, round, teardrop-shaped], [E cup, heavy, big, saggy, udders], [F cup, enormous, saggy, very heavy, udders].
+            # ADD NIPPLES LAST. Hard, pointy, timid, puffy, inverted, pencil-eraser, timid.
+            self.breast_descriptors = ("C cup", ["perky", "round"], "timid nipples") # ALWAY START WITH CUP SIZE. ADD NIPPLES LAST.
+            # short, long, thin, athletic, strong, dancer's, athlete's, runners, gazelle's, toned
+            self.legs_descriptors = []
+            # flat, modest, toned, round, plump, bubble-shaped, hard, impressive, advantaged, big
+            self.butt_descriptors = ["round", "toned"]
+            # thin outer lips, timid inner lips, long inner lips, frilly inner lips, dark inner lips, pink outer, dark outer lips, smooth outer lips, meaty outer lips, hooded small clit, hooded immodest clit, big clit, exposed clit.
+            self.vulva_descriptors = ("smooth outer lips", "pink and short inner lips", "hooded, small clit") # OUTER LIPS, INNER LIPS, CLIT
+            # bald, trimmed landing strip, wild bush, neat triangle, small patch, heart-shaped
+            self.pubic_hair_descriptor = "trimmed landing strip"
+            # piercings
+            # make-up
+            # tattoos
+
+    class Personality(object):
+        def __init__(self):
+            # Sanity: broken; unhinged; peculiar; collected; stable; sane.
+            self.sanity = "STABLE"
+            # Self-Image: Little Girl, Innocent Girl, Inexperienced Teenager, Bratty Teenager, Industrious Teenager, Timid Teenager, Timid Young Woman, Bratty Young Woman, Industrious Young Woman, Independent Young Woman, Professional (with profession X), Sexy Mom, Overwhelmed Mom, Dedicated Mom, Hard-Working Mom, Little Princess, Bratty Princess, Timid Princess, Adores Princess, Adored Queen, Powerful Queen, Terrible Queen, Adoring Bitch/Pet, Timid Bitch/Pet, Fearful Bitch/Pet, Reluctant Bitch/Pet, Resisting Bitch/Pet, Adoring Servant, Submissive Servant, Reluctant Servant, Contrary Servant, Fearful Servant, Resigned Slave, Enthusiastic Slave, Enthusiastic Girlfriend/Wife, Adoring Girlfriend/Wife, Bitchy Girlfriend/Wife, Domineering Girlfriend/Wife
+            self.self_image = "Independent Young Woman"
+            self.sense_of_self = 7 # A value between 0 (no sense of self) and 10 (very strong sense of self)
+            # brilliant, bright, smart, canny, clever, sharp, foolish, slow, dull, ignorant, stupid, feebleminded
+            self.smarts = "SHARP"
+            # Cynic: distrustful, comforted by betrayal
+            # Idealist: trusting, more sensible to betrayal and mistreatment
+            self.cynic_or_idealist = "IDEALIST"
+            # fearless, daring, tough, cautious, fearful, cowardly
+            self.courage = "CAUTIOUS"
+            # Materialist: prefers material gifts (clothes, jewelry, shoes, accessories)
+            # Hedonist: prefers pleasures (drinks, foods, accommodations, activities)
+            # Spiritual: prefers emotions (compliments, encouragements, praise, oaths/vows, demonstrations of sacrifice)
+            self.materialist_or_hedonist_or_spiritual = "MATERIALIST"
+            # Hidden: pretends that everything is fine and betrays on first opportunity - backstabbing.
+            # Cold: keeps her composure with small demonstrations of displeasure in actions, glares and words - spiteful.
+            # Screaming: full of verbal abuse and loud words - harpy.
+            # Destructive: breaks objects, throws things, tries to hurt at a distance or financially - whirlwind.
+            # Aggressive: tries to physically hurt.
+            self.anger_type = "COLD"
+            # bossy, commanding, inspiring, natural leader, exemplary follower, quiet follower
+            # bitchy, entitled, belligerant, low self-esteem, distracted, daydreamer
+            # Expressive/Inexpressive (about her displays of emotion)
+            # Passion: Cool/Passionate (about the intensity of her feelings)
+            self.additional_qualities = []
+            # madly jealous, strong jealousy, standard jealousy, little jealousy, no jealousy
+            self.jealousy = "STANDARD_JEALOUSY"
+            # Common elements of confidence are "APPEARANCE" , "MONEY" , "SKILL" (often a specific skill, like dancing or playing the guitar) , "SMARTS" , "STATUS".
+            # Appearing in one list does not preclude appearing in another. E.g. a person may be publicly vain about their appearance and privately insecure about it.
+            self.public_vanities = []
+            self.private_vanities = []
+            self.public_insecurities = []
+            self.private_insecurities = []
+            # Common cravings are "APPROVAL" (usually from a specific person or group), "ATTENTION", "MONEY", "STATUS", "SEX" , a specific object (e.g. a new car), a specific recognition (e.g. literature prize, being published in the local newspaper, beauty queen title, prom queen, etc).
+            self.cravings = []
+            
+    class Attitude(object):
+        def __init__(self):
+            # sweet, nice, amiable, polite, cool, aloof, mean, cruel
+            self.niceness = "COOL"
+            # presumptuous, arrogant, smug, humble, modest, shy, timid, meek
+            self.confidence = "SMUG"
+            # reclusive, withdrawn, reserved, cool, cordial, expansive, outgoing, gregarious
+            self.sociability = "CORDIAL"
+            # contrary, discordant, independent, inconsistent, insecure, reluctant, pliable, acquiescent, resigned, tame, docile, submissive, obsequious, servile
+            # "BELIGERANT": She will fight any order and make it clear, also will try to find a way out if compelled.
+            # "INDEPENDENT": She will not accept orders and will defy them on the first opportunity if compelled. 
+            # "INSECURE": Will be mistrustful of orders and but will not question them openly. Has a chance to try to avoid them if instructed.
+            # "RELUCTANT_SERVITUDE": She will ask for reprieves, but will not disobey. She will voice her preferences.
+            # "SUBSERVIENT": She will accept anything. She will cry and beg if it is against her personality.
+            # "LIMITLESS_SERVITUDE": She will accept anything. If it goes against her personality, she will take it with good grace to please you. If it is aligned with her personality, she will be eager.
+            self.servitude = "INDEPENDENT"
+            
+    class General_Feelings(object):
+        def __init__(self):
+            # melancholic, pessimistic, depressed, dejected, sad, content, happy, cheerful, delighted, optimistic, ecstatic
+            self.max_happy = 10
+            self.happy = 8 # A value between 0 and 10
+            # is brimming with, is full of, has some, has depleted, is lacking, has no 
+            self.max_willpower = 10
+            self.willpower = 8 # 0 to 10
+            # carefree, anxious, shaken, aghast, frightened, panicked, terrified
+            self.min_fear = 0
+            self.max_fear = 6
+            self.fear = 0 # 0 to 6
+
+    class Preferences(object):
+        def __init__(self):
+            # Liking: Loves, Cherishes, Likes, Enjoys, Accepts, Despises, Dislikes, Scorns, Hates
+            # allowance (also income), accommodations (house and/or bedroom), assignment (also job).
+            self.situation_likings = {"ALLOWANCE" : "ACCEPTS",
+                            "ACCOMMODATIONS" : "ACCEPTS",
+                            "ASSIGNMENT" : "ACCEPTS"}
+            # Liking: Loves, Cherishes, Likes, Enjoys, Accepts, Despises, Dislikes, Scorns, Hates
+            # Colors: red, pink, blue, black, purple, yellow, green, animal print
+            # Fashion: shoes, jewelry, dress, necklace, earrings, purse
+            # Foodstuff: beer, juice, wine, sweets, chocolates, dinner
+            # Activities: dinner out, movies, theater play, a walk, conversation, relaxing massage, a concert
+            # Consummables: flowers, perfume, chocolates, sweets, beer, juice, wine
+            # Art: books, music
+            self.gifts_likings = {}
+            # Partner Traits: PHYSICALLY_STRONG_PARTNERS, BLACK_PARTNERS, BALD_PARTNERS, FIT_PARTNERS, OUT_OF_SHAPE_PARTNERS, PRETTY_FACED_PARTNERS, OLDER_PARTNERS, SMART_PARTNERS, VAPID_PARTNERS, ASIAN_PARTNERS, ADVENTUROUS_PARTNERS, OPTIMISTIC_PARTNERS, PUBLICLY_AGGRESSIVE_PARTNERS, ATTENTIVE_PARTNERS (attentive or generous: lots of gifts and time), BLONDE_PARTNERS, WHITE_PARTERNS, CONFIDENT_PARTNERS, PUBLICLY_CONFIDENT_PARTNERS, PUBLICLY_CRUEL_PARTNERS (cruel or mean), DEVOTED_PARTNERS, DISCREET_PARTNERS (includes homosexuals not coming out), PRIVATELY_DOMINATING_PARTNERS, PRIVATELY_GENTLE_PARTNERS, PRIVATELY_INSECURE_PARTNERS, BUTCH_LESBIAN_PARTNER, MILITANT_LESBIAN_PARTNER, HORNY_PARTNER, PUBLICLY_NICE_PARTNERS, PRIVATELY_NICE_PARTNERS, PATIENT_PARTNERS, TALL_PARTNERS, SHORT_PARTNERS, ATHLETIC_PARTNERS (or sportsy), WEALTHY_PARTNERS, FAMOUS_PARTNERS, INFLUENTIAL_PARTNERS, PROTECTIVE_PARTNERS, INSECURE_PARTNERS (reluctant, but obedient), NON_JEALOUS_PARTNERS (wants to be able to flaunt her sexuality and use her sensuality), VERY_JEALOUS_PARTNERS (extremely jealous or possessive), ROMANTIC_PARTNERS, PRIVATELY_SUBMISSIVE_PARTNERS, PUBLICLY_SUBMISSIVE_PARTNERS, STABLE_PARTNERS (money and/or job), PRIVATELY_DEPENDENT_PATNERS, PUBLICLY_DEPENDENT_PARTNERS, YOUNGER_PARTNERS, INEXPERIENCED_PARTNERS, EXPERIENCED_PARTNERS, SAME_AGE_PARTNERS, POOR_PARTNERS (financially struggling), PRIVATELY_CRUEL_PARTNERS, STRUTTING_PARTNERS (proud of their appearance or status and showing it), EXOTIC_PARTNER (black, latino, white, poorer, richer), CREATIVE_PARTNERS, SENSITIVE_PARTNERS, ARTISTIC_PARTNERS
+            # Packages: Masculine (strong, horny, aggressive), Physical (tall, strong, athletic, fit), Powerful (very good looking, money, influence, status), Strong (confident), Weak (insecure or Dependent)
+            self.partner_requirements = []
+            self.partner_preferences = []
+            self.partner_dislikes = []
+            self.partner_prohibitions = []
+            # "DEMANDS_EXCLUSIVE_PARTNER", "PREFERS_EXCLUSIVE_PARTNER", "PREFERS_NON_EXCLUSIVE_PARTNER", "DEMANDS_NON_EXCLUSIVE_PARTNER"
+            self.partners_exclusivity_in_a_relationship = "DEMANDS_EXCLUSIVE_PARTNER"
+            # "DEMANDS_TO_BE_EXCLUSIVE", "PREFERS_TO_BE_EXCLUSIVE", "PREFERS_TO_BE_NON_EXCLUSIVE", "DEMANDS_TO_BE_NON_EXCLUSIVE"
+            self.her_exclusivity_in_a_relationship = "PREFERS_TO_BE_NON_EXCLUSIVE"
+            # Some Turn-Ons may also embarrassments simultaneously. This is not contradictory.
+            # Courting Turn-Ons: NON_SEXUAL_COMPLIMENTS, SEXUAL_COMPLIMENTS, PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), LIGHT_HUMILIATION, HEAVY_HUMILIATION, BEING_A_DOM_TO_PARTNER, BEING_A_SUB_TO_PARTNER, HUMILIATING, BIG_DICKS, BIG_BREASTS, AFFECIONATE_GROPING, INCESTUAL_EXPOSURE (naked in front of family members; in degrees - a little flesh; boobs; full nakedness)
+            self.courting_turn_ons = []
+            # Courting Turn-Offs: PAMPERING, SEXUAL_COMPLIMENTS, LIGHT_HUMILIATION (starting with name calling ("whore")), HEAVY_HUMILIATION
+            self.courting_turn_offs = []
+            # Public Embarrassments: SENSUALITY (lot of exposed skin), AFFECIONATE_GROPING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), EXPOSED_BREASTS, FULL_NUDITY, PAID_GROPING, PAID_NUDITY, LIGHT_HUMILIATION, HEAVY_HUMILIATION
+            self.public_embarassments = []
+            self.partner_public_embarassments = [] # See "Partner Traits"
+            # Private Embarrassments: WITNESSED_MASTURBATION (may be a taboo), WITNESSED_NUDITY, AFFECIONATE_SEX_IN_PRIVATE (intercourse may be a taboo), SEX_TOYS (may be a taboo), PAID_SEX, AFFECTIONATE_ANAL_SEX, ANTI_ATTRACTED_SEX (hetero for lesbians, lesbian for heteros), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, DOING_CUNNILINGUS, RECEIVING_CUNNILINGUS, LIGHT_HUMILIATION, HEAVY_HUMILIATION, ASS_TO_MOUTH, SECOND_WOMAN_IN_BED , SECOND_MAN_IN_BED, FETISH_SEX
+            self.private_embarassments = []
+
+    class Sexual_Profile(object):
+        def __init__(self):
+            # sex_drive replenishes horny
+            self.sex_drive = 1 # -5 to +5. -5 is completely frigid, -3 is frigid, -1 is cool, 0 is unusually stable, +1 is average, +2 is easily excitable, +3 is usually excited, +5 is uncontrollable nympho
+            # Horny 1+: She sometimes gets a distant stare.
+            # Horny 2+: She bites her lower lip when daydreaming.
+            # Horny 3+: She is flushed.
+            # Horny 4+: She unconsciously brushes her nipples or her crotch.
+            # Horny 5+: She masturbates if left alone; also, she finds some arousal with any stimulus to her breasts (or some secondary erogenous area; she may suck on a finger, for instance).
+            # Horny 6+: She gets wet when giving blowjobs.
+            # Horny 7+: She humps stuff is prevented from masturbating; also, she plays with her asshole when masturbating (or some third erogenous area; she may give herself pain (breast pinching, pussy slapping, etc.), for instance).
+            # Horny 8+: She craves sexual stimulus and will attempt to flee a scene to masturbate - if prevented from doing it, she may admit her craving.
+            # Horny 9+: She is driven crazy by need and will beg for a chance of release.
+            # Horny 10+: She can cum from almost any kind of stimulus (no need to touch pussy and; anal, humiliating words, breast stimulus, tasting cum...).
+            # disgusted, cool, sated, tingly, tempted, excited, craving
+            self.horny = 1 # 0 to 10.
+            # "ROMANTIC_SEX_ONLY", "COMMITED_SEX_ONLY", "CASUAL_SEX_OK", "PAID_SEX_OK", "CASUAL_SEX_ONLY", "PAID_SEX_ONLY"
+            self.casualness_to_sex = "ROMANTIC_SEX_ONLY"
+            self.attracted_to_men = 3 # -5 to +5. Negatives are frigid to repulsed, 0 is indifferent, positives are attracted. +5 is a nympho.
+            self.attracted_to_women = -2 # -5 to +5. Negatives are frigid to repulsed, 0 is indifferent, positives are attracted. +5 is a nympho.
+            # During Sex Turn-Ons: SEXUAL_COMPLIMENTS, PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), WITNESSED_MASTURBATION, WITNESSING_SEXUALITY (a voyeur), DOING_CUNNILINGUS, RECEIVING_CUNNILINGUS, FELLATIO, HER_BI_SEXUALITY, PAIN, LIGHT_HUMILIATION, HEAVY_HUMILIATION, BEING_A_DOM_TO_PARTNER, BEING_A_SUB_TO_PARTNER, HUMILIATING_PARTNER, BIG_DICKS, BIG_BREASTS, BREAST_PLAY, IMPREGNATION, SEX_WITH_STRANGERS, PUSSY_JUICE_TASTING (if she is not attracted to women, will mean she will taste her own), ANAL_SEX (She will be excited by it. If not properly trained, it will painful and hard and she may not cum - still turned on by it. If trained, she will cum. If embarrassed by it, she will resist, although clearly excited.), FETISH_SEX (including cosplay and role-play), SEX_TOYS, MONEY (turned on by thinking how much she will get / how much she is worth), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, ASS_TO_MOUTH, CREAMPIES, CUCKOLDING, BEING_CUCKOLDED, EXOTIC_LOCATION (in public, on a yacht, in a plane, on top of a building, on a beach)
+            self.sex_acts_turn_ons = []
+            # Common Packages:
+            ## Daddy complex: "OLDER_PARTNERS", "PROTECTIVE_PARTNERS" or "DOMINATING_PARTNERS", "CONFIDENT_PARTNERS"
+            self.partner_sexual_turn_on = [] # See "Partner Traits"
+            # During Sex Turn-Offs: WITNESSED_MASTURBATION, SEX_TOYS, AFFECTIONATE_SERVICE_SEX (non-intercourse sex, such as handjobs, blowjobs, etc.), ANAL_SEX, PAID_SEX, LIGHT_HUMILIATION (starting with name calling ("whore")), HEAVY_HUMILIATION, INCESTUAL_EXPOSURE, SEMEN (in a condom only, never touching skin), SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, PAIN, DOING_CUNNILINGUS, RECEIVING_CUNNILINGUS,  BEING_A_DOM_TO_PARTNER, BEING_A_SUB_TO_PARTNER, ASS_TO_MOUTH
+            self.sex_acts_turn_offs = []
+            # Taboos: SEXUALITY (won't admit having sexual desires, even in private), SEXUAL_ACTIVITY (any kind, including handjobs or masturbation), MASTURBATION, WITNESSED_MASTURBATION, INTERCOURSE, SEX_TOYS, SERVICE_SEX (non-intercourse sex, such as handjobs, blowjobs, etc.), ANAL_SEX, LIGHT_HUMILIATION, HEAVY_HUMILIATION, PAID_SEX, FETISH_SEX, ANTI_ATTRACTED_SEX (hetero for lesbians, lesbian for heteros), INCESTUAL_EXPOSURE (naked in front of family members; in degrees - a little flesh; boobs; full nakedness), INCESTUAL_SEX, SEMEN (in a condom only, never touching skin), SEMEN_TASTING, PUSSY_JUICE_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, PAIN, DOING_FELLATIO, DOING_CUNNILINGUS, RECEIVING_CUNNILINGUS, DOING_ANALINGUS, RECEIVING_ANALINGUS, BEING_A_DOM_TO_PARTNER, BEING_A_SUB_TO_PARTNER, ASS_TO_MOUTH, BEING_CUCKOLDED, CUCKOLDING
+            self.taboos = []
+            self.submission_domination_for_women = 0 # -5 to +5. Negatives represent submission, positives are domination.
+            self.submission_domination_for_men = -2 # -5 to +5. Negatives represent submission, positives are domination.
+            # Addictions: MASTURBATION, PORN, SEXUAL_STIMULATION (any kind of contact with partner, including handjobs), TASTE_OF_CUM, ANAL (She simply needs it - may not be turned on by it, may be ashamed by it, but will still seek it.)
+            self.addictions = []
+
+    class Sexual_Experience(object):
+        def __init__(self):
+            # A count of significant experiences.
+            self.kissing = 2 # 0 - never tried; 1 - tried a couple of times; 2 - kissed a lot; 3 - kissed several partners; 4 - kissed men and women.
+            self.fellatio = 1 # 0 - never heard of it; 1 - familiar with it, never performed; 2 - performed a couple of times (unskilled); 3 - understands how it works; 4 - skilled (plays with balls, wiggles tongue, gags); 5 - very skilled (teabags, deepthroats).
+            self.cunnilingus = 1 # 0 - never heard of it; 1 - familiar with it, never performed; 2 - performed a couple of times (unskilled); 3 - understands how it works; 4 - skilled (uses tongue, lips, fingers and teeth, teases thighs, outer lips, inner lips, hood, clit and asshole); 5 - very skilled.
+            self.analingus = 1 # 0 - never heard of it; 1 - familiar with it, never performed; 2 - performed a couple of times (unskilled); 3 - understands how it works; 4 - skilled; 5 - very skilled.
+            self.masturbation = 2 # 0 - never heard of it; 1 - familiar with it, never performed; 2 - gets off with a little effort; 3 - gets off easily (intimately familiar with self); 4 - can put on a show while getting off; 5 - can fist herself (requires fingering 4).
+            self.handjob_experience = 1 # 0 - never heard of it; 1 - familiar with it, never performed; 2 - gets others off with a little effort; 3 - gets others off easily (intimately familiar with penis); 4 - can irresistibly get other off.
+            self.fingering_experience = 1 # 0 - never heard of it; 1 - familiar with it, never performed; 2 - gets others off with a little effort; 3 - gets others off easily (intimately familiar with vagina, including clit, canal and g-spot); 4 - can do fisting.
+            self.breast_play = 1 # 0 - no understanding of breast erotica; 1 - can massage, pinch, suck and nipple for teasing purposes (self and others); 2 - can stimulate a penis with breasts (requires D breasts or larger); 3 - can put on a show performing mammary intercourse (sensual lubrication of breasts, suck on it between swings).
+            self.vaginal_experience = 3 # 0 - familiar with it, never performed; 1 - plays with self, perhaps with a dildo, no actual sex with a partner; 2 - first time only (usually awkward and painful); 3 - missionary only; 4 - a handful of positions; 5 - takes it rough; 6 - double penetration (also requires anal 6).
+            self.anal_experience = 1 # 0 - never heard of it; 1 - familiar with it, never performed; 2 - first time only (usually awkward and painful); 3 - handful of times, still very uncomfortable; 4 - experienced, can do it right with a patient partner, knows how to handle it afterwards; 5 - very experienced, knows how to prepare for it, can take it rough; 6 - double penetration (also requires vaginal 6).
+            self.sensual_body_language_experience = 1 # 0 - has no notion of sensuality; 1 - clumsily executes sensual poses; 2 - can draw the eye with her body language; 3 - can heat blood with her body language; 4 - oozes sensuality even when standing still.
+            self.bondage_experience = 0 # 0 - has no familiarity with bondage; 1 - can stay bound for a time without getting hurt and knows how to work a rope; 2 - knows many of the standard display positions (to take or to command taken); 3 - is flexible and has a keen eye for ropes and positions; 4 - can make rope-play very stimulating from either side of the knots.
+            self.acting_experience = 1 # 0 - guileless; 1 - can lie (fakes orgasms to someone who doesn't pay attention); 2 - can fake interest (fakes orgasms to someone not intimate); 3 - can fake happiness/anger (fakes orgasms to someone intimate); 4 - can convincingly pretend to be someone else (roleplay) (fakes orgasms even if not at all excited); 5 - can fake excitement (fakes orgasms if in pain or under taboo).
+            ## To improve "Exposure", remove embarrassment for nudity in public.
+            ## To improve "free use" remove her partner preferences.
+            ## To improve "orgasm" make her more sensitive and teach her how to masturbate.
+            ## To improve "strumpet acceptance" remove embarrassments and change turn-ons/turn-offs/taboos before changing her self-image.
+
+
+    def age_group_from_age(age):
+        # Possible age groups are teen, young woman, milf, cougar
+        if age < 20:
+            return "AGE_TEEN"
+        elif age < 28:
+            return "AGE_YOUNG_WOMAN"
+        elif age < 45:
+            return "AGE_MILF"
+        else :
+            return "AGE_COUGAR"
+
+    def age_group_descriptor_from_age_group(age_group):
+        if age_group is "AGE_TEEN":
+            return "teenager"
+        elif age_group is "AGE_YOUNG_WOMAN":
+            return "young woman"
+        elif age_group is "AGE_MILF":
+            return "MILF"
+        elif age_group is "AGE_COUGAR":
+            return "cougar"
+        else :
+            return "PROGRAMMING_ERROR_MISSING_DESCRIPTOR_FOR_AGE_GROUP"
+
+
+    # Sanity: broken; unhinged; peculiar; collected; stable; sane.
+    # Self-Image (Little Girl, Teenager, Young Woman, Professional, Mom, Princess, Bitch/Pet, Servant, Slave)
+    # Sense of Self/Pride
+    
+    # Smart: dense; dumb; average intelligence; intelligent; intelectually gifted.
+        # brilliant, smart, bright, canny, sharp, clever
+        # dull, foolish, ignorant, stupid, slow, feebleminded
+        # brilliant, bright, smart, canny, clever, sharp, foolish, slow, dull, ignorant, stupid, feebleminded
+    # Niceness: sweet; nice; entitled; bitchy; cruel.
+        # nice, cordial, friendly, kind, lovely, amiable, gracious, pleasant, polite, seemly, winsome
+        # aloof, cool, disagreeable, mean, unfriendly, unsociable, nasty, unmannerly
+        # sweet, nice, amiable, polite, cool, aloof, mean, cruel
+    # Confidence: arrogant; confident; timid.
+        # haughty, imperious, proud, pompous, presumptuous, pretentious, smug, bragging, conceited, contemptuous, disdainful, insolent, proud, supercilious
+        # humble, modest, shy, timid, unsure, meek, servile, unconceited
+        # presumptuous, arrogant, smug, humble, modest, shy, timid, meek
+    # Cinic/Idealist
+        # Cinic: distrustful, comforted by betrayal
+        # Idalistic: trusting, more sensible to betrayal and mistreatment
+    # Courage:
+        # fearless, daring, tough, cautious, fearful, cowardly
+    # Introvert/Extravert
+        # introvert, reserved, reclusive, shy, introspective, collected, cool, quiet, withdrawn, bashful, demure, secretive, solitary
+        # warm, approachable, communicative, cordial, expansive, extrovert, extroverted, outgoing, friendly, genial, gregarious, sociable
+        # reclusive, withdrawn, reserved, cool, cordial, expansive, outgoing, gregarious
+    # Materialist/Hedonist/Spiritual
+        # Materialist: prefers material gifts (clothes, jewelry, shoes, accessories)
+        # Hedonist: prefers pleasures (drinks, foods, accommodations, activities)
+        # Spiritual: prefers emotions (compliments, encouragements, praise, oaths/vows, demonstrations of sacrifice)
+    # Anger: Cold, verbal (lashing out), physical (throwing things), long lasting, short lasting, fiery
+        # Hidden: pretends that everything is fine and betrays on first opportunity - backstabbing.
+        # Cold: keeps her composure with small demonstrations of displeasure in actions, glares and words - spiteful.
+        # Screaming: full of verbal abuse and loud words - harpy.
+        # Destructive: breaks objects, throws things, tries to hurt at a distance or financially - whirlwind.
+        # Aggressive: tries to physically hurt.
+    # Servitude: beligerant; indepedent; insecure; reluctant; subservient; limitlessly serving
+        # self-sufficient, independent, insecure, pliable, acquiescent, resigned, docile, reluctant, submissive, obsequious, servile, 
+        # disobedient, domineering, contrary, headstrong, insubordinate, discordant, inconsistent, 
+        # domineering, 
+        # contrary, discordant, indepedent, inconsistent, insecure, reluctant, pliable, acquiescent, resigned, tame, docile, submissive, obsequious, servile
+            # "BELIGERANT": She will fight any order and make it clear, also will try to find a way out if compelled.
+            # "INDEPENDENT": She will not accept orders and will defy them on the first opportunity if compelled. 
+            # "INSECURE": Will be mistrustful of orders and but will not question them openly. Has a chance to try to avoid them if instructed.
+            # "RELUCTANT_SERVITUDE": She will ask for reprieves, but will not disobey. She will voice her preferences.
+            # "SUBSERVIENT": She will accept anything. She will cry and beg if it is against her personality.
+            # "LIMITLESS_SERVITUDE": She will accept anything. If it goes against her personality, she will take it with good grace to please you. If it is aligned with her personality, she will be     # bossy, commanding, inspiring, natural leader, exemplary follower, quiet follower
+    # Jealousy: madly jealous, strong jealousy, standard jealousy, little jealousy, no jealousy
+    # bitchy, entitled, belligerant, low self-esteem, distracted, daydreamer
+    # Expressive/Inexpressive (about her displays of emotion)
+    # Passion: Cool/Passionate (about the intensity of her feelings)
+    # Sex-drive (replenishes horny)
+    # Submission/Domination (for preferred sex, for other sex, for protagonist)
+ 
+     # Happy
+        # melancholic, pessimistic, depressed, dejected, sad, content, happy, cheerful, delighted, optimistic, ecstatic
+        # Cheerful, delighted, ecstatic, contented, satisfied
+    # Horny
+        # disgusted, cool, sated, tingly, tempted, excited, craving
+    # Willpower
+        # is brimming with, is full of, has some, has depleted, is lacking, has no 
+    # Fear
+        # carefree, anxious, shaken, aghast, frightened, panicked, terrified
+    # Liking: Loves, Cherishes, Likes, Enjoys, Accepts, Despises, Dislikes, Scorns, Hates
+      ## Allowance
+      ## accommodations
+      ## Slave life
+      ## Brothel life
+      ## Assignment
+    
+    # Gifts
+      ## relaxing massage, beverage, food, clothes, jewelry...
+    # Overfed / Underfed
+    
+    # Relationships
+        ## Friends
+        ## Enemies
+        ## Loves
+        ## Lusts
+    # Feeling for master
+    # Feeling for protagonist
+    
+    # Perception of master or protagonist:
+    ## Role: Geoler; Torturer; Trainer; Friend; Confidant; Master; Daddy; Lover; Boyfriend; Husband; Director ...
+    ## Public name for
+    ## Private name for
+    ## Intimate to: extremely, very, quite, not very, little, not at all.
+    ## Fear of: has no, has very little, has little, has some, is very, is extremely.
+    ## Trust in: has no, has very little, has little, has some, is very, is extremely.
+    ## To influence: challenging, very hard, hard, easy, very easy, trivial.
+    ## Desire for: has no, has very little, has little, has some, has much, has a lot of.
+    ## Love for: has no, has very little, has little, has some, has much, is deeply in.
+    ## Hatred of: has no, has very little, has a little, has some, has much, is deeply.
+    ## Owed/Indebted: owes a great lot, owes hers quite a lot, owes her some, owes her a little, a little indebted, somewhat indebted, quite indebted, very indebted
+    ## Submission/Domination towards: extremely dominant, very dominant, quite dominant, a little dominant, a little submissive, quite submissive, very submissive, extremely submissive
+

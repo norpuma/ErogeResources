@@ -1,0 +1,64 @@
+::Job - Initialization
+<<nobr>>
+<<set $surveillance = {}>>
+<<set $surveillance.shiftPay = 100>>
+<<set $surveillance.skill = 1>>
+<<set $surveillance.imagePerSkill = {
+    1: "Security_2x2_01.jpg",
+    2: "Security_3x3.gif",
+    3: "Security_4x4.png"
+}>>
+<</nobr>>
+
+::Job - Work One Shift in Surveillance
+<<run progressDayPart()>>\
+<<set _img = "<img src=\"img/Security/" + $surveillance.imagePerSkill[$surveillance.skill] + "\" height = 400>">>
+_img
+<<set _random = random(99)>>\
+<<if _random <= 30>>\
+<<include "Job - Surveillance Job Routine Break">>
+<<else>>\
+<<set $protagonist.happiness -= 2>>\
+You work a very boring 4-hour shift watching over the dozen cameras of a couple of sites. Nothing interesting happens.
+
+You get $ $surveillance.shiftPay in your account, though.<<set $money += $surveillance.shiftPay>>
+<</if>>\
+
+<<return>>
+
+::Job - Surveillance Job Routine Break
+<<set _random = random(5)>>\
+<<switch _random>>\
+    <<case 0>>\
+        <<set $protagonist.happiness -= 1>>\
+        For a moment, during your shift, you thought you saw someone walking around just beyond camera range, but, in the end, it was too regular. Just some shadows.
+
+        A boring shift, as usual.
+
+        You get $ $surveillance.shiftPay in your account, though.<<set $money += $surveillance.shiftPay>>
+    <<case 1>>\
+        <<set $protagonist.happiness -= 1>>\
+        At some point, during your shift, a couple of teenagers jump the fence and start to make out behind a fence. The girl was kind of hot, so it was a little less of a boring work shift.
+        
+        You still got $ $surveillance.shiftPay in your account, though.<<set $money += $surveillance.shiftPay>>
+    <<case 2>>\
+        <<set $protagonist.happiness -= 1>>\
+        Someone had an accident in front of one of the cameras. You were poised to call the facility and alert them, but you saw help come in in time at the location. Nothing much to do.
+
+        You still got $ $surveillance.shiftPay in your account, though.<<set $money += $surveillance.shiftPay>>
+    <<case 3>>\
+        <<set $protagonist.happiness -= 1>>\
+        You spent most of the shift watching a bird build a nest within range of one of the cameras. It was kind of fascinating, at first, but eventually it became boring. In the end, a strong gust of wind blew the nest away and all was for naught.
+
+        You still got $ $surveillance.shiftPay in your account, though.<<set $money += $surveillance.shiftPay>>
+    <<case 4>>\
+        <<set $protagonist.happiness -= 1>>\
+        A plastic bag blown by the wind danced for over 20 minutes, in front of the camera. It was entertaining, but didn't last long.
+
+        You still got $ $surveillance.shiftPay in your account, though.<<set $money += $surveillance.shiftPay>>
+    <<case 5>>\
+        <<set $protagonist.happiness -= 1>>\
+        Some woman parked a car within range of the camera. She then proceeded to change clothes and apply makeup. You got to see her in her bra. It was grainy as hell, but it helped brake the routine.
+
+        You still got $ $surveillance.shiftPay in your account, though.<<set $money += $surveillance.shiftPay>>
+<</switch>>

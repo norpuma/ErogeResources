@@ -1,0 +1,91 @@
+::StoryCaption
+<<if $gameStarted == true>>\
+    <<set _dayOfWeek = Calendar__dayOfWeek()>><<set _dayPeriod = Calendar__period()>><<set _hornyDescriptor = Protagonist__hornyDescriptorFromValue()>>\
+    <div id="now">_dayOfWeek - _dayPeriod<br> Day $calendar.day</div>\
+    <div id="helpss">
+    <p class="title stats2">Stats: <<link "+">><<updateLeftsideMenuDisplay $leftsideMenuController.expandableAreas.STATS>><</link>></p>\
+    <hr><<if $leftsideMenuController.showStats == true>>\
+    <<include "Leftside Menu - Stats">>
+    <</if>>\
+    <p class="title girlsloc">Girl's location: <<link "+">><<updateLeftsideMenuDisplay $leftsideMenuController.expandableAreas.GIRL_LOCATIONS>><</link>></p>\
+    <hr><<if $leftsideMenuController.showGirlLocations == true>>\
+    <<include "Leftside Menu - Girl Locations">>
+    <</if>>\
+    <p class="title fasttravel">Fast travel: <<link "+">><<updateLeftsideMenuDisplay $leftsideMenuController.expandableAreas.FAST_TRAVEL>><</link>></p>\
+    <hr><<if $leftsideMenuController.showFastTravel == true>>\
+    <<include "Leftside Menu - Fast Travel">>
+    <<else>>
+    <</if>>\
+    </div>\
+<</if>>
+<nav id="story-menu">\
+    <<if $gameStarted == true>>\
+        [[Progress]]
+
+        [[Cheat]]
+    <</if>>
+    [[Credits]]
+
+    <<link "Save">><<script>>UI.saves()<</script>><</link>>
+
+    <<link "Restart">><<script>>UI.restart()<</script>><</link>>
+
+</nav>
+
+::Leftside Menu - Stats
+    ''Intelligence:'' $protagonist.int
+    ''Strength:'' $protagonist.str
+    ''Horny:'' $protagonist.feelings.horny - _hornyDescriptor
+    ''Money:'' $protagonist.money
+
+::Leftside Menu - Girl Locations
+    <strong>Jade:</strong> $jade.loc
+    <strong>Lucy:</strong> $lucy.loc
+    <strong>Kate:</strong> $kate.loc
+    <strong>Mom:</strong> $mom.loc
+    <strong>Sister:</strong> $sis.loc
+    <strong>Teacher:</strong> $teacher.loc
+
+::Leftside Menu - Fast Travel
+    [[Park]]
+    [[University]]
+    [[House]]
+
+::Leftside Menu - Widgets [widget]
+<<widget "now">>
+\<<= Calendar__dayOfWeek() - Calendar__period()<br> Day $calendar.day>>
+<</widget>>
+<<widget "updateLeftsideMenuDisplay">>
+    <<silently>>
+    <<if $args[0] !== undefined>>
+        <<run LeftsideMenuController__toggle($args[0])>>
+        <<replace "#story-caption">><<include "StoryCaption">><</replace>>
+    <</if>>
+    <</silently>>
+<</widget>>
+
+::Leftside Menu - Controller [script]
+window.LeftsideMenuController = class {
+    constructor(){
+        this.expandableAreas = {STATS:1, GIRL_LOCATIONS: 2, FAST_TRAVEL: 3}
+        this.showStats = false
+        this.showGirlLocations = false
+        this.showFastTravel = false
+    }
+}
+
+window.LeftsideMenuController__toggle = function(field){
+    switch(field){
+        case State.variables.leftsideMenuController.expandableAreas.STATS:
+            State.variables.leftsideMenuController.showStats = ! State.variables.leftsideMenuController.showStats
+            break
+        case State.variables.leftsideMenuController.expandableAreas.GIRL_LOCATIONS:
+            State.variables.leftsideMenuController.showGirlLocations = ! State.variables.leftsideMenuController.showGirlLocations
+            break
+        case State.variables.leftsideMenuController.expandableAreas.FAST_TRAVEL:
+            State.variables.leftsideMenuController.showFastTravel = ! State.variables.leftsideMenuController.showFastTravel
+            break
+    }
+}
+
+State.variables.leftsideMenuController = new LeftsideMenuController()

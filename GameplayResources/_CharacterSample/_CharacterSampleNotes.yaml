@@ -1,0 +1,41 @@
+Notes indicate elements that may be added to a Protagonist's notes concerning a Location, Character or Item. Notes can be checked on the Notes system.
+---
+Start:
+  - <Fundamental Fragment> <Job Fragment>
+  - <Likes Fragment>
+  - Fundamental Fragment:
+    - "${CharacterObject}.name - ${CharacterObject}.names.first ${CharacterObject}.names.last - is a <Age Fragment>young woman from the Enclave."
+  - Age Fragment:
+    - "${CharacterObject}.Body.Age years old "
+  - Job Fragment:
+    - "She is a teacher at the District's Finishing School."
+  - Likes Fragment:
+    - "She likes to dance at the night club for dates and flowers for gifts."
+---
+Emily Thompson is a 22 years old young woman from the Enclave. She is an English teacher at the District's Finishing School.
+Emily likes to dance at the night club for dates and flowers for gifts.
+
+She lives at 13, Oak Street, in the District. She shares a home with William Kerring, another teacher at the Finishing School.
+
+Emily has an amiable personality and some people take advantage of that.
+
+She is liked by some students, but her class is often quite chaotic as she usually doesn't reign students in with discipline. Emily needs someone to teach her how to be more of a disciplinarian.
+
+---
+William does not help as much at home as Emily would like, but she doesn't confront him about that.
+
+William started spending more time with Emily. They had several dinners together. William also brought Emily flowers after she told him she liked them.
+
+William taught her a little about discipline. After that, during detention, Emily scolded a student and she behaved for the remainder of the period. Emily loved that taste of discipline.
+
+William told Emily, assertively, that they should go out. Emily complied and actually had a great night.
+
+
+
+
+---
+Emily became friends with Sonya Valdez, a priestess at the Temple of Ishtar.
+
+Sonya convinced Emily to use a stronger hand at school.
+
+Sonya convinced Emily to confront William about not helping enough at home.

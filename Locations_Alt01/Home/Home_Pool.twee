@@ -1,0 +1,51 @@
+::Home - Pool
+You are by the pool on the big wooden deck outside.
+
+There are lounge chairs and a table with a big umbrella, in addition to your great pool.
+
+The disused kennel is visible from here.
+
+[[Return|Home - Base]]
+
+::Home - Pool - Activities
+[[Sunbath|Home - Pool - Activities - Sunbath]]
+[[Swim|Home - Pool - Activities - Swim]]
+[[Watch you daughter sunbathing|Home - Pool - Activities - Watch Daughter Sunbath]]
+[[Watch wife sunbathing|Home - Pool - Activities - Watch Wife Sunbath]]
+[[Clean the pool|Home - Pool - Activities - Pool cleaning]]
+
+::Home - Pool - Activities - Sunbath
+You take some time to tan on the deck. You certainly look better with a tan.
+
+[[Return|return]]
+
+::Home - Pool - Activities - Swim
+You swim a feel laps, feeling fitter after it.
+
+[[Return|return]]
+
+::Home - Pool - Activities - Watch Daughter Sunbath
+/* TODO: Add image/picture. */\
+<<set _nameForDaughter = $protagonist.relationships[$daughter].name>>\
+You find _nameForDaughter working on her tan. You take some time to admire how hot she looks in a bikini, sunbathing on the edge of the pool.
+
+She doesn't notice you and you decide it's better that way.
+
+[[Return|return]]
+
+::Home - Pool - Activities - Watch Wife Sunbath
+/* TODO: Add image/picture. */\
+<<set _nameForWife = $protagonist.relationships[$wife].name>>\
+You find _nameForWife working on her tan. You are kind of amazed that you are actually married to such a hot woamn. She looks great in a bikini.
+
+She doesn't notice you and you decide you should approach her at some other time.
+
+[[Return|return]]
+
+::Home - Pool - Activities - Pool cleaning
+/* TODO: Change this once you no longer have a job. */\
+Clean the pool? You? No! You are too important for that.
+
+But you should definitely see about getting someone to clean it for you.
+
+[[Return|return]]

@@ -1,0 +1,33 @@
+{
+    "Polite": 0
+    , "Offensive": 0
+    , "Arrogant": 0
+    , "Humble": 0
+    , "Nice": 0
+    , "Jerk": 0
+    , "Sociable": 0
+    , "Anti_social": 0
+    , "Independent": 0
+    , "Dependent": 0
+    , "Moral": 0
+    , "Amoral": 0
+    , "Generous": 0
+    , "Selfish": 0
+    , "Empathetic": 0
+    , "Cruel": 0
+    , "Liberated": 0
+    , "Uptight": 0
+    , "Smart": 0
+    , "Dull": 0
+    , "Jealous": 0
+    , "Easy_going": 0
+    , "Irascible": 0
+    , "Melancholic": 0
+    , "Entertaining": 0
+    , "Boring": 0
+    , "Courageous": 0
+    , "Cautious": 0
+    , "Confident": 0
+    , "Timid": 0
+    , "Ambitious": 0
+}

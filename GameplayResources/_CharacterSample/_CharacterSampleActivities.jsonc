@@ -1,0 +1,174 @@
+{
+    "Activities": [
+        {
+            "Identifier": "SleepTillMorning",
+            "Tags": ["Sleep"],
+            "Schedule": {
+                "Times": [
+                    {
+                        "Days": "Sunday..Saturday",
+                        "StartHours": "0..5",
+                        "MinimumDuration": 1,
+                        "StandardDuration": 6,
+                        "EndTime": "6"/*, The following are all default values:
+                        "EndTimeFunction": "",
+                        */
+                    }
+                ]/*, The following are all default values:
+                "Priority": 0,
+                "IsAppointment": false,
+                "CanRepeatOnSameDay": false,
+                "AddToPlanConditions": "",
+                "AddToPlanConditionalFunction": "",
+                "SkippedDuringPlanningFunction": "",
+                "Participants": "" */
+            },
+            "Location": "${characterObject}.bedroom",
+            "ShortDescription": "${characterObject}.name is asleep in ${characterObject}.hisHer bed.",
+            "OstensiveObservationDescription": "${characterObject}.name is asleep in ${characterObject}.hisHer bed."/*, The following are all default values:
+            "ShortDescriptionCallable": "",
+            "OstensiveObservationDescriptionCallable": "",
+            "UnseenInspectionDescription": "",
+            "UnseenInspectionDescriptionCallable": "",
+            "Interactions": "",
+            "ConditionalFunction": "",
+            "SetupFunction": "",
+            "AftermathFunction": "",
+            "PlannedConsequenceFunction": "",
+            "SkippedFunction": ""
+            */
+        },
+        {
+            "Identifier": "SleepTillMidnight",
+            "Tags": ["Sleep"],
+            "Schedule": {
+                "Times": [
+                    {
+                        "Days": "Sunday..Saturday",
+                        "StartHours": "22..23",
+                        "MinimumDuration": 1,
+                        "StandardDuration": 2
+                    }
+                ],
+                "IsAppointment": true
+            },
+            "Location": "${characterObject}.bedroom",
+            "ShortDescription": "${characterObject}.name is asleep in ${characterObject}.hisHer bed.",
+            "OstensiveObservationDescription": "${characterObject}.name is asleep in ${characterObject}.hisHer bed."
+        },
+        {
+            "Identifier": "DanceClass",
+            "Tags": ["Class"],
+            "Schedule": {
+                "Times": [
+                    {
+                        "Days": "Tuesday",
+                        "StartHours": 16,
+                        "MinimumDuration": 1
+                    },
+                    {
+                        "Days": "Thursday",
+                        "StartHours": 16,
+                        "MinimumDuration": 1
+                    }
+                ],
+                "IsAppointment": true,
+                "AddToPlanCondition": "${characterObject}.startedDanceClasses == true"
+            },
+            "Location": "DanceStudio",
+            "ShortDescription": "${characterObject}.name is attending a dance class.",
+            "OstensiveObservationDescription": "${characterObject}.name is dancing as ${characterObject}.hisHer teacher watches attentively.",
+            "AftermathFunction": "${characterPrefix}_danceClassAttenanceAndDanceSkillUpgrade()",
+            "Appointment": true
+        },
+        {
+            "Identifier": "PhoneWithMarcy",
+            "Tags": [],
+            "Schedule":         {
+                "Times": [
+                    {
+                        "Days": "Monday..Thursday",
+                        "StartHours": "13..19",
+                        "MinimumDuration": 1,
+                        "StandardDuration": 3
+                    }
+                ],
+                "Priority": 2,
+                "CanRepeatOnSameDay": true,
+                "AddToPlanConditions": "${characterObject}.relationships[${marcy}].intimacy >= 3",
+                "SkippedDuringPlanningFunction": "${characterPrefix}_skippedPhoneWithMarcyDuringPlanning()",
+                "Participants": "${marcy}"
+            },
+            "Location": "${characterObject}.bedroom",
+            "ShortDescription": "${characterObject}.name is on the phone.",
+            "OstensiveObservationDescription": "${characterObject}.name is on the phone, in her bedroom, talking to a friend.",
+            "AftermathFunction": "${characterPrefix}_updatePrioritypWithMarcyToIntimacy()"
+        },
+        {
+            "Identifier": "Suntanning",
+            "Tags": [],
+            "Schedule": {
+                "Times": [
+                    {
+                        "Days": "Monday..Friday",
+                        "StartHours": "13..15",
+                        "MinimumDuration": 1,
+                        "StandardDuration": 2
+                    },
+                    {
+                        "Days": "Saturday, Sunday",
+                        "StartHours": "10..11",
+                        "MinimumDuration": 1,
+                        "StandardDuration": 2
+                    },
+                    {
+                        "Days":"Saturday, Sunday",
+                        "StartHours":"13..15",
+                        "MinimumDuration": 1,
+                        "StandardDuration": 2
+                    }
+                ],
+                "Priority": 1,
+                "CanRepateOnSameDay": true,
+                "SkippedDuringPlanningFunction": "incrementActivityPlanningPriority()"
+            },
+            "Location": "${characterObject}.home.pool",
+            "ShortDescription": "${characterObject}.name is suntanning.",
+            "OstensiveObservationDescription": "${characterObject}.name is soaking in the sun, by the pool."
+        },
+        {
+            "Identifier": "Daydreaming",
+            "Tags": ["Default"],
+            "Schedule": {
+                "Times": [
+                    {
+                        "Days": "Sunday..Saturday",
+                        "StartHours": "0..23"
+                    }
+                ],
+                "Priority": "${INFINITE}",
+                "CanRepateOnSameDay": true
+            },
+            "Location": "${characterObject}.bedroom",
+            "ShortDescription": "${characterObject}.name is idling time away daydreaming.",
+            "OstensiveObservationDescription": "${characterObject}.name is in ${characterObject}.hisHer bedroom, distractedly daydreaming."
+        },
+        {
+            "Identifier": "Teaching",
+            "Tags": ["Job"],
+            "Schedule": {
+                "Times": [
+                    {
+                        "Days": "Monday..Friday",
+                        "StartHours": "8..9",
+                        "EndTime": "19"
+                    }
+                ],
+                "IsAppointment": false
+            },
+            "Location": "Enclave|Enlightenment_District|Maddison_Road|Finishing_School|Classroom_01",
+            "ShortDescription": "${characterObject}.name is teaching at work.",
+            "OstensiveObservationDescription": "${characterObject}.name is teaching a class."
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+/* Jake cannon story
+ */
+
+::Initialization - Wallflower Story Characters
+<<nobr>>
+<<set $town = { name: "Corption" } >>
+<<set $school = { name: "Waller's High School" } >>
+<<set $boringProfessor = { name: "Mr Fust", firstName: "Edmund", lastName: "Fust" } >>
+<<set $niceCheerleader = { name: "Nikki", firstName: "Nichole", lastName: "Samson" } >>
+<<set $evilTeacher = { name: "Ms Caville", firstName: "Shondra", lastName: "Caville" } >>
+<<set $wallflower = { name: "Jake", firstName: "Jacob", lastName: "Foster" } >>
+<<set $protagonist = { name: $wallflower.name, firstName: $wallflower.firstName, lastName: $wallflower.lastName } >>
+<<set $principal = { name: "Principal Naver", firstName: "Chanel", lastName: "Naver" } >>
+<<set $bbcArcology = { name: "Arcology X-2", shortName: "X-2" } >>
+<<set $femdomArcology = { name: "Arcology X-3", shortName: "X-3" } >>
+<<set $bitchyCheerleader = { name: "Jess", firstName: "Jessica", lastName: "Elworth" } >>
+<<set $bully = { name: "Chuck", firstName: "Charles", lastName: "Emmett" } >>
+<<set $gothGirl = { firstName: "Allison", lastName: "Peterson" } >>
+<</nobr>>\
+
+::Wallflower - Start
+<<include "Initialization - Wallflower Story Characters">>\
+\
+/* First day at school, introduction. */\
+
+!!!Introduction - First Day at a New School
+
+You finally go back to school. There is an eerie feeling to the mostly empty building. There are not enough people in @@.hint;$town.name@@ to fill the school with people, especially since they decided to put everyone under 18 in a different school. And yet... the familiarity of the halls, of the lockers, even the scent of the place gives you a strange sense of normalcy in this new, upside-down world you now live in.
+
+You step into the class room and find that there are already nine other people there.
+
+All your life you have been a wallflower. Someone who usually observed from afar rather than getting involved. This, however, may be your opportunity to reinvent yourself.
+
+... Or, maybe, you should first step back and understand the situation better first.
+
+/* TODO: Decision on whom to observe or whom to approach */\
+\
+You decide that you'd rather watch a little, right now.
+
+A gorgeous brunette with amazing eyes is leaning on the back to face the classroom. She is speaking animatedly and seems to be basking in the attention of most of her classmates. She clearly feels like she should be the queen bee around here and with her looks you can hardly fault her. She acts as if fawning and adoration are her due. From the conversation, you glean that her name is Jess.
+
+You easily find out that the athletic looking black guy with the bright smile by the window is called Dwayne. He seems confident and at ease speaking loudly and drawing attention to himself. You guess he must have no trouble attracting girls.
+
+<<nobr>>/*
+You enter the classroom and there are people there already. You do as usual and find a corner where you won't be noticed and discreetly observe other people before class starts. From your observation of behavior and conversations you are able to put names and some labels to the students.
+
+There is Dwayne, tall, strong black guy with and dazzling smile and a clearly outgoing personality.
+
+Alec is a timid, nerdy-looking guy with what looks like an inclination to people watch too. He seems to have a feverish mind, often scribbling notes on his phone. Scrawny, wearing glasses, skittish, he looks like a bully's preferred prey. He is making sure to stay close to Madison, seeming to think they have some kind of relationship.
+
+The beautiful girl in front of the class, basking in all the attention is Jess. She clearly feels like the queen bee and expects the fawning and adoration as her due. She seems to expect everyone to look at her and, with her looks, you can understand her. She shoots some vicious stares around, though, which somewhat intimidate you. You wouldn't mind sitting closer to her if you had the chance as you doubt she would notice you long enough to point her sharp wit and vitriol in your direction.
+
+Sitting on the other side of the room, probably to avoid overshadowing Jess, is Katherine, the rich girl. She seems amused at the social dynamics in class and tries to come out as if above it all. With the money she is displaying, I wonder, though, why she hasn't found a place in one of the Free Cities yet.
+
+Madison wears glasses and little make up, but it is clear there is a very pretty girl hiding there. She doesn't seem very confident, but is not looking to get into anyone's favor either. She brought extra books to class, books I don't think anyone asked her to bring. She and Alec are sitting very close to each other and seem to share some intimacy.
+
+Valentina seems to be the one coming the farthest away to be in $town.name. She drinks in every sight and you notice how she tries to clearly enunciate every word. She is very pretty, but doesn't seem confident enough to set herself as an opponent for either Jess nor Katherine popularity. She seems content with a second, or even a third place, though.
+
+Sitting close to the door and constantly checking something on her phone, Beth seems to be another nerd - maybe the kids that didn't WANT to come to school were able to stay away? Anyhow, she seems the most disinterested in whatever is going on in class. She looks like she has more pressing business elsewhere.
+
+You probably wouldn't 
+
+*/<</nobr>>\
+
+----
+
+!!!First Class - New School, Boring Old Teacher
+
+Before you can learn anything else, an old man with a white beard steps into the classroom.
+
+@@.boringProfessor_talk;"Sit down. Sit down, please! I am $boringProfessor.firstName $boringProfessor.lastName, your teacher this morning and..."@@
+
+You have a mostly boring class this morning. In spite of your excitement at being in $town.name and having a bunch of new classmates, including several very pretty girls, you can't help at being disappointed at how mundane and uninteresting the class can be.
+
+----
+
+/* Chance meeting with nice cheerleader on your way to school. */\
+!!! $niceCheerleader.name - A Chance Encounter
+
+You are on your way to school when you notice one of your classmates walking ahead of you. For a moment you consider stepping up to her and introducing yourself, but you realize that may be a little too bold for you. You content yourself with admiring her derriere when she stumbles and falls down.
+
+In a gentlemanly reflex, you bend down to pick her books and offer a hand. She looks terribly embarrassed as she takes your hand, but she manages a bright, sincere smile. @@.niceCheerleader_talk;"Oh, thank you! I'm- I'm so embarrassed!"@@ She blushes prettily. @@.niceCheerleader_talk;"Hey, don't you go to $school.name? I think I saw you there yesterday!"@@ You can barely remember seh noticed you. Usually no one notices you.
+
+@@.wallflower_talk;"Oh, yeah. You are right, I go to $school.name too."@@
+
+@@.niceCheerleader_talk;"Well, thank you once again. Ah, by the way, I'm $niceCheerleader.name."@@
+
+@@.protagonist_talk;"Ah- it was nothing. I'm-"@@ Before you can finish your sentence, though, she interrupts you.
+
+@@.niceCheerleader_talk;"Oh, no! Look at the time! We have to hurry! Come on!"@@ She gathers her backpack and hurries down the way to school.
+
+You are about to follow her when you notice when of the papers from her backpack got flew out and you go pick it up. A gust of wind blows it further down the path and you end up spending a couple of minutes comically running after the paper.
+
+/* Getting in late to evil teacher's class. */\
+\
+When you finally get to school you are chagrined to find out that everyone is already in class and there is a teacher lecturing. To add insult to injury, she is talking about how intolerant she is about tardiness.
+
+Mortified, you knock on the door and ask to be allowed in. The teacher turns in your direction with a clear expresion of dissatisfaction.
+
+@@.evilTeacher_talk;"Come in and sit down. You are allowed in today, but  you will go to the principal right after class, do you understand me?"@@
+
+@@.wallflower_talk;"Yes, Miss..."@@ You agree, in a faint voice.
+
+You spend most of the class in silence, avoiding looking at anyone. It seems you caused a bad impression on your first contact with the teacher - Miss $evilTeacher.lastName you find out, during the class.
+
+----
+
+!!!To the Principal - For the First Time
+
+You wait outside the principal's office nervously shifting your weight from foot to foot. You were told she has been warned of your visit and that you should wait outside until she calls you in.
+
+After several minutes, the door opens and some girl rushes by you. Was she crying?
+
+@@.principal_talk;"Mr $protagonist.lastName,"@@ Principal $principal.lastName calls from within.
+
+You step inside gingerly and find that the principal is younger - and definitely prettier - than you had expected.
+
+@@.principal_talk;"So, what do we have here? Another boy thinking education is unimportant? Dismissive of our institution?"@@
+
+You would like to tell her you have a lot of respect for the school, but you decide you'd better stay silent.
+
+@@.principal_talk;"Nothing to say, huh? Well, Ms $evilTeacher.lastName told me you were disruptive in her class. I must tell you that in are very strict with discipline, here in $school.name. After all, $town.name is a very small community and everyone must respect each other. If we have people working against our own, we have no chance to succeed. Not with $bbcArcology.name and $femdomArcology.name looming at our flanks."@@
+
+She gets distracted there for a moment, worried at the thought of the giant Free Cities so close to our little town.
+
+She seem to wait for an answer from you. Before you tan decide what to say, she lets out a heavy sigh and looks at you tiredly, before finishing:
+
+@@.principal_talk;"Well, I hope it doesn't happen again, $protagonist.name. You should be advised, though, that I gave Ms $evilTeacher.lastName discretionary power to give out whatever punishment she deems appropriate, up to and including corporal punishment."@@ There is a twist to her mouth as she says that last. You want to think it was an expression of displeasure, but you aren't quite so sure.
+
+Ms $principal.lastName dismisses you and you hurry out of her office.
+
+----
+
+!!!Bullies Everywhere
+
+It's been several days already and you realize you haven't talked to anyone at school, except for $niceCheerleader.name and that barely counted as a conversation.
+
+Maybe you should try to go over and introduce yourself to someone. You are looking around, tyring to find who looks the least threatening, when $bully.firstName $bully.lastName steps up to you and gets into your face.
+
+@@.bully_talk;"Hey, jerk off! What are you looking at? Are you perving on one of the girls? Girls don't like that, you know?"@@
+
+@@.wallflower_talk;"No- no. I- I was just-"@@
+
+@@.bully_talk;"Are you saying I'm a liar? I'm not a liar! I notice how you look at the girls! You make them uncomfortable!"@@
+
+@@.wallflower_talk;"I'm sorry. I-"@@
+
+@@.bully_talk;"Shut your mouth! I don't want to hear any of your pervert's excuses. Now, I think I should punish you for creeping out the girls, but... I guess if you wanted to give me some money to buy them something nice in your name for make up for your pervy ways, I may let it slide."@@
+
+Worriedly, you try to think how much you have in your pockets. The world had moved mostly to electronic currency before the Collapse. But there are no more bank institutions, not outside the Free Cities, at least. So, everyone in $town.name has to carry cash. You fish your wallet with trembling fingers and are about to see how much you have when $bully.name grabs the wallet and shuffles inside. He pulls out all the cash in there and throws the wallet over his shoulder.
+
+/* TODO: Decrease cash amount, here. */\
+\
+@@.bully_talk;"This will barely cover it. But I will let it slide... today! Now, scamper away and don't let me catch you giving any of the girls one of your creepy-pervy looks again!"@@
+
+Scared, you actually rush away. Only later you realize you left your wallet behind.
+
+----
+
+!!!A First Glance Upskirts
+
+You try to pay attention in class, but it is $boringTeacher.lastName's class again and you are fighting to stay awake. Your pen falls to the floor and you have to bend down to pick it up.
+
+[img[images/PantiesUnderSkirt03.gif]]
+
+@@.sexy;That's when you notice you can see up some of the girls' uniform skirts from your position. $bitchyCheerleader.name has amazing, tanned, smooth legs and she is, surprisingly, wearing white cotton panties - you would have imagined a lingerie, red g-string, yourself.@@
+
+You feel really turned on by the sight and keep thinking about it throughout the class.
+
+The skirts are part of the uniform and most of the girls are in them everyday. You feel tempted to try the pen trick more times at another time.
+
+----
+
+!!!$niceCheerleader.name - Finding Out Some More
+
+Cheerleader! The nice girl you met on your way to school - $niceCheerleader.name - is a cheerleader. Well, she used to be. In the new world order, $school.name in $town.name does not have enough students for any kind of sports team, let alone a cheerleading squad.
+
+In her previous town, though, $niceCheerleader.firstName $niceCheerleader.lastName was a cheerleader. You found her online and, looking at her, you wonder how you hadn't realized that before. She has a beautiful face and a tight, athletic body.
+
+It doesn't matter that she was nice to you. It doesn't matter that she sometimes crosses gazes with you at school. People like her and people like you don't interact. You barely live in the same planet.
+
+@@.bully_talk;"Get out, perv!"@@ $bully.name appears in front of you out of nowhere and tosses your juice on your lap. @@.bully_talk;"Hey! Look at me! I saw how you were staring at $niceCheerleader.name. I'm sure she doesn't like that. Get out of here, now! You are not allowed in the cafeteria anymore!"@@
+
+As you pick up your food tray and try to figure out who you are going to clean your soaked pants, you finish your previous thought. <i>And people like $niceCheerleader.firstName $niceCheerleader.lastName definitely don't eat in the same room.</i>
+
+---
+
+!!!$niceCheerleader.name - More than a Chance Encounter
+
+You are taking out the trash when you notice on the lawn, across from your place, $niceCheerleader.name, the girl from school, smiling at you and waving.
+
+It takes you more than a second to realize you are not having a stroke, but that a pretty girl like $niceCheerleader.name noticed you, is smiling at you and expect you to smile back. When you finally wave bac, she bursts into laughter.
+
+You were resigning yourself to one more time in your life when a beautiful girl played a cruel trick on you, when she crosses the lawn and comes talk to you.
+
+@@.niceCheerleader_talk;"Hi there, neighbor!"@@
+
+@@.wallflower_talk;"H- Hi... neighbor...?"@@ You finish, very uncertain.
+
+@@.niceCheerleader_talk;"I hadn't realized you lived across from my place!"@@
+
+@@.wallflower_talk;"I do?"@@
+
+@@.niceCheerleader_talk;"Of course you do, silly! I'm on that house there! The one with the blue roof!"@@ She helpfully points at a house just across the street.
+
+@@.niceCheerleader_talk;"Well, I guess we will bump into each other more often, now!"@@
+
+----
+
+!!!$niceCheerleader.name - Common Ground
+
+$niceCheerleader.name seems to be a nice girl, actually. Beautiful, yes, athletic, popular and, for some unfathomable reason, she still thinks it is worth being nice to a nobody like you.
+
+That's it. A beautiful girl, that doesn't despise you, and that happens to go to your school and be your neighbor. You were on the computer just now, when you went to close the curtains to prevent the sunlight from blinding you as it reflects off your computer screen - exactly the reason why you always keep the curtains drawn. And, to your surprise, $niceCheerleader.name was at her window, that looks into yours, at that exact same time. She saw you, she waved and she called you over.
+
+Your palms feel sweaty and you are sure you are trembling as you ring the doorbell at her house. It $niceCheerleader.name only a minute to come answer, as if she was eager to receive you. Her bright smile makes you think she is actually glad for your presence.
+
+@@.niceCheerleader_talk;"Hello, $protagonist.name!"@@
+
+@@.wallflower_talk;"H- Hi, $niceCheerleader.name..."@@
+
+@@.niceCheerleader_talk;"I saw what you were doing at your computer earlier!"@@ Nervous beyond reason, you are unable to remember what you were just doing, you just pray to the gods that it wasn't porn. @@.niceCheerleader_talk;"So, you like Freedom Scourge 4 too?"@@
+
+@@.wallflower_think;Oh, fuck! It was just computer games!@@ You think, relieved.
+
+@@.niceCheerleader_talk;"I love FS4, too. I thought I would never get to play with anyone else, though, the the Internet down and everything. But I was wondering... Would you want to play?"@@
+
+@@.wallflower_think;"What?! She is really asking me? And she is <b>uncertain</b> how I will answer? Fuck! I never tho-"@@
+
+@@.wallflower_talk;"Yes! I would love to play!"@@ You answer before your winding thought process got the better of you <b>once again</b>.
+
+@@.niceCheerleader_talk;"Oh, wow! Seriously? That's great! You should ring me, then, whenever you want to play! If I'm not at practice, I will love to play. I'm kind of addicted, you know!"@@ She finishes with a cute little laugh.
+
+You end up bringing your computer to her place and playing for several hours before going back home.
+
+----
+
+If there is one person with less of a social life than you it must be $gothGirl.firstName $gothGirl.lastName. You decide 

@@ -1,0 +1,18 @@
+::Steve - Hotel Management - Initialization
+<<nobr>>
+    <<set $hotelManagement = {totalIncome: 0, incomeSources: {}, totalExpenses: 0, expenseSources: {}, reserve: 1000}>>
+    <<set $hotelManagement.accounting = {completePercentage: 0.0, firstTimeDone: false}>>
+    <<set $steve.managementSkill = 0>>
+<</nobr>>\
+
+::Steve - Hotel Accounting
+<<link "Do it alone.">><</link>>
+<<link "Ask for $ellen.name's help.">><</link>>
+<<link "Let $ellen.name do it.">><</link>>
+
+::Steve - Hotel Accounting - Progress
+$steve.name spends some time doing accounting for the hotel.
+
+::Steve - Hotel Accounting - Result
+
+::Steve - Hotel Accounting - Balance

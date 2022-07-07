@@ -1,0 +1,13 @@
+::Characters - Steven - Notes
+$steven.names.first $steven.names.last is an assistant principal and a teacher at the $town.name Finishing School.
+
+$steven.name is $steven.body.age years old.
+
+$steven.name has a young wife, $emily.name, he married a few months ago before moving to $town.name.
+
+$steven.name lives with his wife, <<link "$emily.name" "Characters - Emily - Notes">><</link>>, and her daughter, <<link "$sarah.name" "Characters - Sarah - Notes">><</link>>.
+
+$steven.name has a younger brother, $steven.brother.name, who is also his business associate. $steven.name is a silent partner is some enterprise of his brother, but he knows next to nothing of the business.
+
+$steven.name was raised with a comfortable lifestyle as part of a well-to-do family. He is used to material comfort and just expect to have them.
+$steven.name values praise and status more than material comforts.

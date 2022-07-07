@@ -1,0 +1,147 @@
+/*
+
+    This storyline highlights:
+    - You play as the bellboy and become a wimp.
+    - You get friendzoned by Lin.
+
+    - Lin is turned on by Troy.
+    - You protect Lin. She is grateful and helpful and nice, but not at all attracted to you.
+    - Lin acts friendly, but you end up friendzoned by her. You watch as she becomes Mike's submissive bitch. She does not become his personal slave because he wants to own the hotel.
+
+    - Troy is friendly to you, but at dick at heart.
+    - Troy quickly decides to show you how much of a wimp you are.
+
+    - Bob starts a little dominant, treats you well, but becomes submissive to Ellen.
+    - Mike, the investor, gains more and more power, becoming the dominant master of the hotel. He is challenged by Ellen, but wins in the end. He makes Lin his submissive bitch.
+    - Lin acts friendly, but you end up friendzoned by her. You watch as she becomes Mike's submissive bitch. She does not become his personal slave because he wants to own the hotel.
+    - Kali acts like a bitch, but she is forced to take a job as a maid (or, maybe, delivery girl) and ends up submitting to Mike.
+
+    - LATER: Bring in the mother (or step-mother), maybe, and make her very strict and end up caging your penis.
+
+
+
+
+Young man + Lin + Befriending:
+    - You learn her name.
+        - Closeness: 1
+    - You exchange some stories about cleaning rooms (requires: clean rooms 3 times). (reward: she smiles)
+        - Closeness: 2
+    - You go clean a room with her. She tells you it is not always nice to clean rooms (she doesn't say but is remembering a client pawing her). (reward seeing her panties while she cleans)
+        - Closeness: 4
+    - You find her trying to cook. (OPTION: shoot her confidence down)
+        - Closeness: 5
+        - Submission: 1
+    - You help her practice cooking. Essentially tasting bad food. (reward: she slips and flashes her panties again)
+        - Closeness: 6 OR Submission: 3
+    - You get her a book for her. (reward: she opens up some more and tells you not everyone treats her nicely. Flashback to a client pawing at her ass and tits over her clothes)
+        - Closeness: 7
+    - You get some ingredients for her. She is really grateful and tells you you are a real friend (friendzone if you haven't kissed her). (reward: she becomes comfortable with you and tells you so - you can, now, watch her washing herself)
+        - Closeness: 8
+    - You learn about the kind of guy she likes. (reward: information on how to influence her)
+        - Closeness: 9
+    - You get a chance to protect her from a client intent on cornering her to rape her. (reward: seeing her in torn clothes)
+        - Closeness: 10
+    - You learn that she is privy to some of the secrets of the hotel and she is willing to share them with you. (reward: info or blackmail material on Ellen)
+        - Closeness: 11
+    - You get a chance to tell her how to react to customers. (reward: hindering or helping BBC domination agenda)
+        - Closeness: 12
+    - You get a chance to tell her how to react to new employee training. (reward: hindering or helping femdom agenda)
+        - Closeness: 13
+    - You learn about a guy she fancies.
+        - Closeness: 14
+    - You learn, from her, about an offer to buy the hotel. (reward: hindering the hotel take over)
+        - Closeness: 15
+    - You hear about her sexual experiences (either with customers or the guy she likes). (reward: imagining her having sex)
+        - Closeness: 16
+
+Young man + Lin + Romancing:
+    - You tell her she is beautiful.
+        - Love: 1
+    - You tell her she is beautiful wearing anything - or nothing at all. (when she complains about her her maid uniform) (reward: she poses sexily for you)
+        - Love: 2
+        - Attraction: 1
+    - You take her out to the café. You may order expensive stuff.
+    - She tells you how she has no sexual feelings. She is actually not sexually mature until she has some pheromone to activate her sexuality (this is done on purpose for gengineered people). You ask her if she would like to have those feelings and, after thinking for a bit, she does.
+    - You get her sexual activating pheromones.
+    - You talk about romance. She tells you she has only ever kissed a girl and that she is a virgin. (reward: imagine her kissing a girl)
+        * REQUIRES: Closeness >= 5
+        - Love: 3
+    - You show her some porn. She is surprised, but excited. (reward: brief porn scenes)
+        - Attraction: 2
+    - You take her out to the café. At the end of the night, you kiss her.
+    - You show her your cock. She shows you her pussy. (reward: seeing her pussy)
+        * REQUIRES: Closeness >= 6
+        - Attraction: 3
+    - You let her touch your cock. You get a handjob. (reward: handjob)
+        - Attraction: 4
+        - Love: 4
+    - You get to finger her. (reward: fingering her)
+        - Attraction: 5
+        - Love: 5
+    - You encourage her to taste you. (reward: blowjob)
+    - You get her tipsy with alcohol and the two of you make out. You decide to have sex with her or not. (reward: making out and, maybe, sex)
+    - She comes to you curious about sex and the two of you make love.
+    - She becomes a lusty girl, often interested in sex play (handjobs, fingering, blowjobs and, eventually, sex)
+    - You show her some more porn. You include lesbian scenes among what is shown.
+    - You recall her experience kissing a girl and induce her to think about it more often.
+    - You encourage her to kiss a girl again. She likes it.
+    - You encourage her to kiss have sex with a girl.
+    - You show her some more porn. You include anal among what is shown.
+    - You suggest anal sex. She agrees.
+    - You suggest a threesome. She agrees.
+
+
+*/
+
+::Initializations - Bellboy and Gengineered Starting Slave
+<<nobr>>
+    <<set $newHotelOwner = new BaseCharacter("Bob")>>
+    <<set $stepfather = $newHotelOwner>>
+    <<set $femdomManager = new BaseCharacter("Ellen")>>
+    <<set $bitchyTenant = new BaseCharacter("Kali")>>
+    <<set $elfMaid = new BaseCharacter("Lin")>>
+    <<set $councilmanTenant = new BaseCharacter("Mike")>>
+    <<set $swimInstructor = new BaseCharacter("Troy")>>
+<</nobr>>\
+
+::Start - Bellboy and Gengineered Starting Slave
+After months wandering the broken wasteland that the world has become, you finally arrived at the Pride Enclave.
+
+It was a bastion of civilization amid the ruins, a place protected from the demons where humanity had a chance of surviving and, maybe, even thriving.
+
+Looking for a place to stay, you found the Dreams Hotel in Tower 4 and were surprised to discover that your step-father, $stepfather.name, had become the manager there one week before.
+
+You had a good relationship with him and the two of you were glad to find one another in Pride. You asked for a job and $stepfather.name was happy enough to get you a position as a bellboy at Dreams. The place was seriously understaffed and even with no experience you would be of great help.
+
+The next day, you met $femdomManager.name, a woman who had been with the hotel for several years and had plenty of managing experience. She was a little cold and seemed sore that $stepfather.name was in charge, instead of her. You found it hard not to stare at her breasts. You barely listen when she explains that women may not own property in the Enclave.
+
+$femdomManager.name sends you to the bedrooms to clean them up. The hotel has few patrons and has been having few for some time, but there is always work to do.
+
+You meet $elfMaid.name at the rooms. She is a genetically engineered person - a gengineered - that looks like a young elf maiden. She is shy, but a nice person. You learn that the gengineered do not have citizen rights in the Pride Enclave. She is effectively a slave at the Dreams Hotel.
+
+You meet $councilmanTenant during the day. A smug older man that has rented a room at the hotel for several years already. He is friendly, but arrogant and it is somewhat difficult to endure how superior he acts.
+
+At the end of the day, after having dinner with your step-father, you learn that you have to share an employees' bedroom with $swimInstructor.name, another male hotel employee, he is a swim instructor (and poolboy). He acts friendly, but he is, also, very smug.
+
+You learn that the hotel has plenty of areas, but they are mostly in disuse, like the bar.
+
+**
+
+You become friends with $elfMaid.name. She is friendly and sweet. You slowly get through her shyness to learn a little bit more about her.
+
+You step into the communal bathroom and surprise $elfMaid.name taking a shower. You learn that the room is not closing properly.
+
+Your step-father - the hotel manager - asks you to fix one of the communal bathroom doors and you bring him the masterkey afterwards.
+
+You are asked to go collect the pay from $bitchyTenant.name. She tells you to fuck off. You learn that she has been using a room for a week without paying and you suspect she does not have the money.
+
+$stepfather.name punishes $elfMaid with a spanking because she allowed $bitchyTenant.name to get a room without proper verification, one evening when $femdomManager.name was absent. $elfMaid.name cries, but she believes wholeheartedly that she deserved that.
+
+You have dinner next to $councilmanTenant.name and learn that he is part of the Enclave council and is insterested in investing in the hotel.
+
+In the evening, $swimInstructor.name complains that he has to clean the pool and invites you to join him at a local bar. The bar ends up not being so local, but you have a nice evening with him, ogling some pretty girls.
+
+**
+
+You come closer to $elfMaid.name. You watch her being spanked again by $femdomManager.name for making a poor job at cleaning one of the rooms. She cries, but accepts it, even though she thinks the judgement was a little unfair.
+

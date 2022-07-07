@@ -1,0 +1,48 @@
+::Home - Bathroom
+You are in your house's big bathroom. It is very spacious, with lots of marble and glass.
+
+[[Return|Home - Base]]
+
+::Home - Bathroom - Activities
+[[Pee|Home - Bathroom - Activities - Pee]]
+[[Shower|Home - Bathroom - Activities - Shower]]
+
+::Home - Bathroom - Activities - Pee
+/* TODO: Change this once you are in a cock cage. You have to sit down. */\
+You take a leak, enjoy the release and watching your urine splash on the expensive ceramic.
+
+[[Return|return]]
+
+::Home - Bathroom - Activities - Shower
+You take a good, nice shower. You relax under the strong hot water and, later, dry yourself on a very soft towel.
+
+[[Return|return]]
+
+::Home - Bathroom - Activities - Watch Wife's Shower
+/* TODO: Add image/picture, here. */\
+<<set _nameForWife = $protagonist.relationships[$wife].name>>\
+<<set _titleForWife = $protagonist.relationships[$wife].title>>\
+You watch as your _titleForWife washes. She looks great under the water, her skin glistening, her long her damp and plastered against her back. You enjoy the sight of her lathering up and sliding her hands ove rher smooth skin.
+
+She has her eyes closed and a little smile on her face, making you think she is enjoying it almost as much as you are.
+
+[[Return|return]]
+
+::Home - Bathroom - Activities - Watch Daughter's Shower
+/* TODO: Add image/picture, here. */\
+<<set _titleForDaughter = $protagonist.relationships[$daughter].title>>\
+You can't help but feel a little guilty as you watch. The sight of your _titleForDaughter under the shower, however, is mesmerizing. Her young, firm body, her breasts, her round little butt.
+
+She is a sight to behold and you find yourself aroused as you watch.
+
+[[Return|return]]
+
+::Home - Bathroom - Activities - Watch Maid's Shower
+/* TODO: Add image/picture, here. */\
+<<set _nameForMaid = $protagonist.relationships[$maid].name>>\
+<<set _titleForMaid = $protagonist.relationships[$maid].title>>\
+It's nice to see _nameForMaid relaxing a little. Usually so prim and proper, so tight, under the shower she looks like any other - beautiful - young woman, relaxed and savoring the feeling of hot water on her naked, enticing flesh.
+
+[[Return|return]]
+
+

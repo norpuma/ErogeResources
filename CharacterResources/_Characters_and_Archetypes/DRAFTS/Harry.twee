@@ -1,0 +1,201 @@
+::Harry Build [script]
+var harry = new BaseCharacter("Harry", "male")
+harry.names.setName("first", "Harry", "Harry's")
+harry.names.setName("last", "Morris", "Morris'")
+
+harry.body = new CharacterBody(38)
+
+harry.personality = new CharacterPersonality()
+harry.personality.morality = 30 // Level 2, Sufficiently, Okay, Slightly
+harry.personality.moralConviction = 10 // Level 1, Insufficiently, Not, Insignificantly
+harry.personality.dutiful = 20 // Level 2, Sufficiently, Okay, Mildly
+harry.personality.empathy = 20 // Amiable. Likes to see others happy.
+harry.personality.submission = 20
+harry.personality.libido = 10 // Harry has not been subjected to the libido limiting drugs of Hornton at the start of the game. He has a higher libido than most people in Hornton.
+harry.personality.liberated = 40
+harry.personality.sociability = 10
+harry.personality.smarts = 20 // clever OR 30 = Level 2, Sufficiently, Okay, Slightly
+harry.personality.courage = -10 // fearful
+harry.personality.angerLoudness = 10 // screaming
+harry.personality.prideAndShameElements = {}
+harry.personality.prideAndShameElements["smart"] = 20
+harry.personality.prideAndShameElements["rich"] = 20
+harry.personality.prideAndShameElements["weak"] = -10
+harry.personality.prideAndShameElements["coward"] = -10
+harry.personality.prideAndShameElements["old"] = -10
+// harry.personality.outlook = new characterOutlook()
+// - Happy or Sad Map
+// - Calm or Angry Map
+// - Safe or Scarred Map
+// - Excited or Bored Map
+// - Horny or Disgusted Map
+// - Stimulated or Tired Map
+// - Entitled or Indebted Map
+// - Embarrassed or Reassured Map
+// - Goals and Anxieties
+// - Desires and Dreads
+// - Respect Map
+// - Preferences Map
+// - Morality Map
+harry.attitude = new CharacterAttitude()
+harry.attitude.smugness = 20 // Condescending.
+harry.attitude.niceness = 10
+harry.attitude.sociability = 30
+harry.attitude.irascibleThreshold = 40
+harry.attitude.melancholyThreshold = 20
+// harry.attitude.actionMaps = new CharacterAttitudeActions()
+// - Polite or Offensive Actions
+//     * Thresholds (numeric values)
+//     * Going Up Requirements per Threshold (use AND and OR)
+//     * Going Down Requirements per Threshold (use AND and OR)
+//     * Point Map (lists traits and modifiers to approach thresholds)
+//     * Action Map per Threshold (standard actions)
+// - Deferential or Commanding Actions
+// - Pampering or Hurting Actions
+// - Seeking or Avoiding Actions
+// - Attracting or Repelling Actions
+// - Investigating or Ignoring Actions
+// - Revealing or Hiding Actions
+// - Sexually Generous or Selfish Actions
+
+// - Cruelty Actions
+// - Civilized Interactions
+// - Seduction Actions
+// - Sex Actions (by levels: Making Out, Vaginal Penetration, Oral, etc.)
+
+
+
+
+
+::Harry Build - Second Pass [script]
+harry.brother = new BaseCharacter("Lorne", "male")
+harry.brother.names.setName("first", "Lorne", "Harry's")
+harry.brother.names.setName("last", "Morris", "Morris'")
+
+
+
+let relationship = new CharactersRelationship(emily)
+harry.addRelationship(relationship)
+relationship.kind = "marriage"
+relationship.title = "marriage" // As in "Don't you care for our marriage?"
+//- Goals and Anxieties
+//- Desires and Dreads
+//- Morality Map
+//- Obedience
+relationship.feelings = new CharacterRelationshipFeelings() // These are things the character themself feel regarding the other in the relationship.
+relationship.feelings.selfTitle = "husband" // How the character refers to themself in the relationship. As in "I'm your husband".
+relationship.feelings.isRomantic = true
+relationship.feelings.isSexual = true
+relationship.feelings.isCommited = true
+relationship.feelings.isExclusive = false // Harry does not, actually, act as if he was exclusive in the relationship. He is willing to cheat. // Whether the character treats the relationship as exclusive. This, mostly, applies to romantic relationships and/or sexual.
+// relationship.feelings.trustAndFearElements = {}
+// relationship.feelings.loveAndHatredElements = {}
+// relationship.feelings.entitlementAndDebtElements = {}
+relationship.feelings.envyThreshold = 30
+// relationship.feelings.envyAndPityElements = {}
+relationship.feelings.jealousyThreshold = 30
+// relationship.feelings.jealousyAndSecurityElements = {}
+relationship.target = new CharacterRelationshipTargetModel() // These are things the character believes about the other part in the relationship.
+relationship.target.title = "wife" // How the character refers to the other part in the relationship. As in "You are my wife".
+relationship.target.isRomantic = true
+relationship.target.isSexual = true
+relationship.target.isCommited = true
+relationship.target.isExclusive = true // Whether the character believes the other treats the relationship as exclusive. This, mostly, applies to romantic relationships and/or sexual.
+// relationship.target.intimacyElements = {}
+// relationship.target.superiorAndInferiorElements = {}
+// relationship.target.usefulAndBurdenElements = {}
+// ### Consistency
+// - Happy or Sad Elements
+// - Calm or Angry Elements
+// - Safe or Scarred Elements
+// - Excited or Bored Elements
+// - Horny or Disgusted Elements // At the midpoint the character is just "cold"
+// - Stimulated or Tired Elements
+// - Engaged or Disinterested Elements
+// - Emboldened or Humiliated Elements
+// - Intimidated or Humbled Elements
+// - Embarrassed or Reassured Elements
+
+let relationship = new CharactersRelationship(sarah)
+harry.addRelationship(relationship)
+relationship.kind = "parental-filial"
+relationship.kind = "" // As in "Don't you care for our marriage?"
+//- Goals and Anxieties
+//- Desires and Dreads
+//- Morality Map
+//- Obedience
+relationship.feelings = new CharacterRelationshipFeelings() // These are things the character themself feel regarding the other in the relationship.
+relationship.feelings.selfTitle = "step-father" // How the character refers to themself in the relationship. As in "I'm your husband".
+relationship.feelings.isRomantic = false
+relationship.feelings.isSexual = false
+relationship.feelings.isCommited = true
+relationship.feelings.isExclusive = false // Whether the character treats the relationship as exclusive. This, mostly, applies to romantic relationships and/or sexual.
+// relationship.feelings.trustAndFearElements = {}
+// relationship.feelings.loveAndHatredElements = {}
+// relationship.feelings.entitlementAndDebtElements = {}
+relationship.feelings.envyThreshold = 30
+// relationship.feelings.envyAndPityElements = {}
+relationship.feelings.jealousyThreshold = 30
+// relationship.feelings.jealousyAndSecurityElements = {}
+relationship.target = new CharacterRelationshipTargetModel() // These are things the character believes about the other part in the relationship.
+relationship.target.title = "step-daughter" // How the character refers to the other part in the relationship. As in "You are my wife".
+relationship.target.isRomantic = false
+relationship.target.isSexual = false
+relationship.target.isCommited = true
+relationship.target.isExclusive = false // Whether the character believes the other treats the relationship as exclusive. This, mostly, applies to romantic relationships and/or sexual.
+// relationship.target.intimacyElements = {}
+// relationship.target.superiorAndInferiorElements = {}
+// relationship.target.usefulAndBurdenElements = {}
+// ### Consistency
+// - Happy or Sad Elements
+// - Calm or Angry Elements
+// - Safe or Scarred Elements
+// - Excited or Bored Elements
+// - Horny or Disgusted Elements // At the midpoint the character is just "cold"
+// - Stimulated or Tired Elements
+// - Engaged or Disinterested Elements
+// - Emboldened or Humiliated Elements
+// - Intimidated or Humbled Elements
+// - Embarrassed or Reassured Elements
+
+let relationship = new CharactersRelationship(catharina)
+harry.addRelationship(relationship)
+relationship.kind = "professional"
+relationship.kind = "" // As in "Don't you care for our marriage?"
+//- Goals and Anxieties
+//- Desires and Dreads
+//- Morality Map
+//- Obedience
+relationship.feelings = new CharacterRelationshipFeelings() // These are things the character themself feel regarding the other in the relationship.
+relationship.feelings.selfTitle = "vice principal" // How the character refers to themself in the relationship. As in "I'm your husband".
+relationship.feelings.isRomantic = false
+relationship.feelings.isSexual = false
+relationship.feelings.isCommited = true
+relationship.feelings.isExclusive = true // Whether the character treats the relationship as exclusive. This, mostly, applies to romantic relationships and/or sexual.
+// relationship.feelings.trustAndFearElements = {}
+// relationship.feelings.loveAndHatredElements = {}
+// relationship.feelings.entitlementAndDebtElements = {}
+relationship.feelings.envyThreshold = 30 // Harry DOES have reasons to be envious of Catharina. Especially due to her status as principal.
+// relationship.feelings.envyAndPityElements = {}
+relationship.feelings.jealousyThreshold = 30
+// relationship.feelings.jealousyAndSecurityElements = {}
+relationship.target = new CharacterRelationshipTargetModel() // These are things the character believes about the other part in the relationship.
+relationship.target.title = "boss" // How the character refers to the other part in the relationship. As in "You are my wife".
+relationship.target.isRomantic = false
+relationship.target.isSexual = false
+relationship.target.isCommited = true
+relationship.target.isExclusive = true // Whether the character believes the other treats the relationship as exclusive. This, mostly, applies to romantic relationships and/or sexual.
+// relationship.target.intimacyElements = {}
+// relationship.target.superiorAndInferiorElements = {}
+// relationship.target.usefulAndBurdenElements = {}
+// ### Consistency
+// - Happy or Sad Elements
+// - Calm or Angry Elements
+// - Safe or Scarred Elements
+// - Excited or Bored Elements
+// - Horny or Disgusted Elements // At the midpoint the character is just "cold"
+// - Stimulated or Tired Elements
+// - Engaged or Disinterested Elements
+// - Emboldened or Humiliated Elements
+// - Intimidated or Humbled Elements
+// - Embarrassed or Reassured Elements

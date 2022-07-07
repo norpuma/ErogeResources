@@ -1,0 +1,75 @@
+/*
+
+    Phil, her brother:
+    - Eager to please
+    - Easy to manipulate
+    - Wimp
+    - Loser
+    - Pervert
+
+    If, one day, she is mad and lashes out at Phil and he doesn't react, she sees him as non-confrontational. As weak. He is seen as inferior.
+    If she pranks him and he reacts weakly, he is seen as weak. He is seen as inferior.
+    If he seems very eager to please and already seen as weak, he is seen as more inferior.
+    If he does whatever she asks of him, she starts testing how far he will go. He will be seen as subservient and, then, as worthy of being cruel to.
+    If he is caught peeping, he is seen as a pervert.
+    If he is caught masturbating, he is seen as a pervert.
+    If he is caught acting sexual towards a family member, he is seen as a pervert.
+    
+*/
+
+
+::Older Sister - Initialization
+<<nobr>>
+    <<set $olderSister = new BaseCharacter("Allie", "female")>>
+    <<set $olderSister.firstName = "Alice">>
+    <<set $olderSister.lastName = "Emerson">>
+    <<set $olderSister.updateFunction = olderSisterUpdate>>
+<</nobr>>
+
+::Older Sister - Visit at Home
+<<switch $olderSister.activity>>\
+    <<case "Idling">>\
+        <<goto "Older Sister - Visit at Home - Idling">>
+        <<break>>\
+    <<case "Sunbathing">>\
+        <<goto "Older Sister - Visit at Home - Sunbathing">>
+        <<break>>\
+    <<case "TV">>\
+        <<goto "Older Sister - Visit at Home - TV">>
+        <<break>>\
+    <<case "Sleeping">>\
+        <<goto "Older Sister - Visit at Home - Sleeping">>
+        <<break>>\
+<</switch>>\
+
+::Older Sister - Visit at Home - Idling
+$olderSister.name is sitting at her computer in her room. She looks focused and you think she will be pissed if you interrupt her.
+
+/* TODO: Add hub options for sex choices. */\
+You decide not to risk it.
+
+::Older Sister - Visit at Home - Sunbathing
+You find $olderSister.name working on her tan by the pool.
+
+<<run progressToNextTimeSlice()>>\
+You walk up to her and strike a conversation. She must have been mellowed by the weather and the relaxation. She isn't actually a bitch to you for the afternoon.
+
+::Older Sister - Visit at Home - TV
+The light of the TV draws you to the afternoon. $olderSister.name likes to lazy about the living room late at night.
+
+You silently sit down beside her so as not to disturb her.
+
+<<run $olderSister.goTo($home)>><<set $olderSister.activity("Sleeping")>>\
+She doesn't seem to appreciate your company, though, and soon leaves for her bedroom.
+
+::Older Sister - Empty Bedroom Visit
+It's the messier bedroom in the house. $olderSister.name is proud of her free spirited nature and is always trying on different outfits. You have clothes thrown about the room as if a tornado came through the room.
+
+You could around, but you would need time to find anything in that mess.
+
+::Older Sister - Visit at Home - Sleeping
+/* TODO: Add image. */
+You find $olderSister.name sprawled on her bed. She usually comes in late and sleeps until close to noon.
+
+/* TODO: Add nigh creeping options. */\
+You don't dare disturb her.

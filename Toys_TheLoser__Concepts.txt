@@ -1,0 +1,137 @@
+
+You were a nice guy and a loser, when the demon showed up and offered you a chance for power.
+You spent an two years away and are coming back to town.
+
+You have a girlfriend. You probably still love her and expect her to have remained faithful to you while you were away. She is not sexually liberated adn she betrayed you somehow (not cheating, but... maybe spending your money).
+You have a younger sister. She always acted nice to you, but she actually takes advantage of you by playing the innocent card.
+You have a friend who is honest and actually loyal to you. She is hot, though, and a lesbian. She has the hots for your girlfriend and if she is offered a chance for power, she will betray you to have the girlfriend.
+
+
+
+# Tamed
+# Trained
+# Loving
+# Horny
+
+You try sex with girlfriend.
+    # If Loving and Horny enough, she will do it.
+    # If just Loving, she will do it, but will not really be interested.
+You try fellatio with girlfriend.
+    # If Loving and Horny enough, she will do it.
+    # If just Loving, she will do it, but will feel disgusted. Love will decrease.
+
+
+
+You can influence a girl.
+You can ask about their day.
+You can try to approach or dominate them.
+
+Intrigue
+Approach
+Fascinate
+Intimate
+Satisfy
+Dominate
+
+
+# Your girlfriend just after a time apart.
+# Your ex-girlfriend.
+# Your female manager.
+# Your nice co-worker.
+# Your bitchy co-worker.
+# Your lesbian nice co-worker.
+# Your judgemental MILF neighbor.
+# Your nice young neighbor.
+# Girlfriend's sister.
+# Your motherly aunt.
+# Your nice young cousin.
+# Your bitchy cousin.
+
+# Your male supervisor.
+# Your male fit co-worker.
+# Your male neighbor.
+# The local gym-teacher, ex-girlfriend's current boyfriend.
+# The car dealership owner, ex-girlfriend's previous boyfriend.
+# The barman, girlfriend's ex boyfriend.
+# Your jerk of an uncle.
+# Nerdy young male neighbor.
+
+
+
+Each character has a few convictions (governed by Integrity).
+Each character has a few qualities (that govern Confidence).
+Each character has things that make them proud (increases Confidence).
+Each character has things that make them insecure (decreases Confidence).
+
+Each character has things that make them happy.
+Each character has things that make them scared.
+Each character has things that make them angry.
+Each character has things that make them stimulated.
+Each character has things that make them embarrassed.
+
+
+
+Proud of their bodies, girls wear revealing clothes and may become exhibitionists.
+Proud of their minds, people are more willing to confront others.
+
+Exhibitionism
+Handjob
+Fingering
+Fellatio
+Cunilingus
+Vaginal
+Rough
+Analingus
+Anal
+Pegging
+
+Voyeurism
+
+Climaxes:
+- Masturbation
+- With partner only
+- Hold back for partner
+- Under partner supervision
+- With partner's authorization
+
+
+
+
+## Her willingness to have sexual interactions with:
+# Male Partners
+- Never
+- Romantic only
+- Fun
+- Necessity (may include paid)
+- Convenience (may include paid)
+# Female Partners
+- Never
+- Romantic only
+- Fun
+- Necessity (may include paid)
+- Convenience (may include paid)
+# Groups
+- Never
+- Romantic only
+- Fun
+- Necessity (may include paid)
+- Convenience (may include paid)
+
+
+
+- Cumdump (at cum inside >= 10)
+- Cum Slut (at cum outside >= 10)
+- Professional Cocksucker (at Blowjobs >= 10)
+- Nympho (at vagainal sex >= 10)
+- Buttslut (at anal sex >= 10)
+- Slick Hands (at handjobs >= 10)
+- Loyal (at Obedience >= 10)
+- Exhibitionist (at Exhibitionism >= 10)
+- Submissive (at submission >= 10)
+- Mega Slut (at Sluttiness >= 10)
+- Foot Fetish (at footjob >= 10)
+- Pazuri Star (at boobjobs >= 10)
+- In Love (at Affection >= 10)
+- Incestual (sister sex >= 10)
+- Lesbian (lesbian sex >= 10)
+- Bi-sexual Slut (lesbian sex >= 10 and hetero sex >= 10)

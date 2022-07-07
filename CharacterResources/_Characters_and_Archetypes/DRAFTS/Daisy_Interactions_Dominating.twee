@@ -1,0 +1,201 @@
+/*
+
+Older man + Lin + Dominating:
+    - Inspect her.
+    - Explain that you will submit her to obedience tests.
+    - Demand that she clean your room.
+    - Overwatch her cleaning. (reward: see panties)
+    - Spank her. (reward: see panties)
+    - Demand a blowjob. She refuses. Punish her for it.
+    - Test her focus making her clean while being distracted. (reward: grope her)
+    - Inspect her naked body. (reward: see her naked)
+    - Observe her in the shower.
+    - Demand a blowjob. Observe how bad she is at it.
+    - Make her watch porn to learn how to suck cocks and act seductively. She has no reaction to it. Learn that she has not been sexually activated.
+    - Take pictures of her naked.
+    - Force her to take the pheromones.
+    - Make her work as a waiter.
+    - Force her to masturbate. She climaxes.
+    - Use a vibrator on her to test her body's new responses to sexual stimulus.
+    - Make her cum repeatedly with finger stimulus.
+    - Make her watch porn. See her react.
+    - Demand a blowjob. She obeys. If she has taken a double dose of the pheromones, she gets wet.
+    - Fuck her.
+    - Fuck her in the ass.
+    - Train her to be an exhibitionist.
+    - Offer her to guests.
+
+
+
+
+    # Harem Hotel stats
+    * Obedience - Spanking, petting, taking off clothes in kitchen, cleaning bedroom, wearing dildo and buttplug, blowjob in kitchen
+    * "Lust" (horniness) - too many days without a climax, bedroom bdsm teasing, dungeon games
+    * Sluttiness - bedroom sex
+    * Exhibitionism - café training
+    * Submission - dungeon training
+    * Footjobs - "apron scenes"
+    * Handjobs - bedroom
+    * Blowjobs - kitchen, dungeon, "apron scene"
+    * Vaginal Sex - bedroom, bdsm teasing, dungeon, "apron scene"
+    * Anal Sex - bedroom, bdsm teasing, dungeon, shower
+    * - Cumdump (at cum inside >= 10)
+    * - Cum Slut (at cum outside >= 10)
+    * - Professional Cocksucker (at Blowjobs >= 10)
+    * - Nympho (at vagainal sex >= 10)
+    * - Buttslut (at anal sex >= 10)
+    * - Slick Hands (at handjobs >= 10)
+    * - Loyal (at Obedience >= 10)
+    * - Exhibitionist (at Exhibitionism >= 10)
+    * - Submissive (at submission >= 10)
+    * - Mega Slut (at Sluttiness >= 10)
+    * - Foot Fetish (at footjob >= 10)
+
+
+
+* image:lbclean1-lbclean8: Make her clean the kitchen with her tongue (while wearing ropes).
+    - Either she is very submissive and feels very humiliated.
+    - Or she sees herself as subhuman and this is no more than she deserves.
+* image:lbhorse1-lbhorse5: Torture her on the horse.
+* image:lbspank1-lbspank2: Spank her.
+* image:lbt1-lbt6: She talks to Android.
+* iamge:lbt11-lbt19: She is naked and servicing with Android in her room.
+
+
+
+- Make her feel subhuman.
+- Make her see herself as subhuman and that she should be sold or discarded if not performing properly.
+- 
+
+
+
+
+She is naturally submissive and has some chemical enhancers that make her feel rewarded after being used and abused.
+It is just stronger than her.
+She may be taken away by someone more dominant.
+
+It is easy for Mike to turn her into his submissive slut.
+
+*/
+
+
+::Lin - Evaluate her Cooking
+<<switch $lin.cookingScenes.progress>>
+<<case 0>>
+    <<set $lin.cookingScenes.progress = 1>>
+    <<set $lin.cookingScenes.lastSceneDate = $dayCount>>
+    @@.protagonist_talk;"$lin.name, how is your cooking?"@@
+
+    @@.lin_talk;"Ehm- I don't really know how to cook, $lin.titleForProtagonist."@@
+
+    @@.protagonist_talk;"Well, you will have to learn. The guests will spend more money if we can offer food as room service."@@
+
+    @@.lin_talk;"I- Very well, $lin.titleForProtagonist. I will try."@@
+
+    <<link "Continue" "Lin - Options">><</link>>
+<<case 1>>
+    <<if $lin.cookingScenes.lastSceneDate >= $dayCount>>
+        @@.protagonist_talk;"$lin.name, how is the cooking going?"@@
+
+        @@.lin_talk;"I'm sorry, $lin.titleForProtagonist. I haven't had any progress, yet. We just talked about this not too long ago... Maybe, tomorrow."@@
+
+        @@.protagonist_talk;"Alright. But remember this is important!"@@
+
+        <<link "Continue" "Lin - Options">><</link>>
+    <<else>>
+        <<set $lin.cookingScenes.progress = 2>>
+        @@.protagonist_talk;"$lin.name, how is the cooking going?"@@
+
+        @@.lin_talk;"I'm learning a few things, $lin.titleForProtagonist. Would you care to try my cooking?"@@
+
+        @@.protagonist_talk;"Yes, that would be good."@@
+
+        $lin.name boils an egg and fries some bacon. The egg is okay, but it is just a boiled egg. The bacon is burned beyond being eddible.
+        <span id="case_1_reaction_options">
+        <<link "\"You are doing great! Keep at it!\"">><<replace "#case_1_reaction_options">>\
+            @@.protagonist_talk;"You are doing great! Keep at it!"@@
+
+            She smiles gratefully and goes back to her activities. She looks content.
+
+            /* RE-EVALUTE if this should be kept.
+            <<set _tempAffection = $lin.affection+1>>\
+            @@.hints;$lin.name's Affection was raised to _tempAffection.@@
+
+            <<set _tempHappiness = $lin.happiness+1>>\
+            @@.hints;$lin.name's Happiness was raised to _tempHappiness.@@
+
+            <<set _tempConfidence = $lin.confidence+1>>\
+            @@.hints;$lin.name's Confidence was raised to _tempConfidence.@@
+            */\
+            <<set _tempBefriended = $lin.befriended+1>>\
+            @@.hints;$lin.name's Affection was raised to _tempBefriended.@@
+
+            <<link "Continue" "Lin - Options">><<set $lin.befriended = _tempBefriended>>/* RE-EVALUTE if this should be kept.<<set $lin.affection = _tempAffection>><<set $lin.happiness = _tempHappiness>><<set $lin.confidence = _tempConfidence>>*/<</link>>
+        <</replace>>\
+        <</link>>\
+        <<link "\"The food was terrible! You absolutely need to improve!\"">><<replace "#case_1_reaction_options">>\
+        @@.protagonist_talk;"The food was terrible! You absolutely need to improve!"@@
+
+        @@.lin_talk;"Oh! I'm- I'm- I'm very sorry, $lin.titleForProtagonist..."@@ She stammers, clearly very embarrassed. @@.lin_talk;"I will- apply myself, I promise."@@
+
+        /* RE-EVALUTE if this should be kept.
+        <<set _tempConfidence = $lin.confidence-1>>\
+        @@.hints;$lin.name's Confidence was lowered to _tempConfidence.@@
+
+        <<set _tempHappiness = $lin.happiness-1>>\
+        @@.hint;$lin.name's Happiness was lowered to _tempHappiness.@@
+
+        <<set _tempObedience = $lin.obedience+1>>\
+        @@.hint;$lin.name's Obedience was raised to _tempObedience.@@
+
+        @@.hint;$lin.name will clearly apply herself more.@@
+        */\
+        <<set _tempDominated = $lin.dominated+1>>\
+        @@.hints;$lin.name's Submission was raised to _tempDominated.@@
+
+        <<link "Continue" "Lin - Options">><<set $lin.dominated = _tempDominated>>/* RE-EVALUTE if this should be kept.<<set $lin.confidence = _tempConfidence>><<set $lin.happiness = _tempHappiness>><<set $lin.obedience = _tempObedience>><<$lin.cookingScenes.incentivized = true>><</link>>
+        <</replace>>\
+        <</link>>\
+    <</if>>\
+<<default>>
+@@.lin_talk;"I can't talk about cooking anymore, $lin.titleForProtagonist..."@@
+<</switch>>
+
+::Lin - Evaluate her Cleaning
+
+::Lin - Reward Her
+/* Pat her head. */
+/* Praise her. */
+/* Offer her a gift. */
+
+/* For good cleaning. */
+/* For good cooking. */
+/* For being a nice person. */
+/* For sexy interaction. */
+/* For her obedience. */
+
+/* Spank her. */
+/* Fuck her. */
+/* Give her an orgasm - fingering, toys, fucking. */
+
+::Lin - Punish Her
+/* Berate her. */
+/* Spank her. */
+
+/* For bad cleaning. */
+/* For bad cooking. */
+/* For sexy interaction. */
+/* For her disobedience. */
+/* For protagonist's saddistic pleasure. */
+
+::Lin - Sexy Interactions
+/* Show panties. */
+/* Take off uniform. */
+/* Take off panties. */
+/* Hand panties over. */
+/* Show pussy. */
+/* Get naked. */
+/* Blow job. */
+
+
+

@@ -1,0 +1,48 @@
+/*
+    - She will test the protagonist.
+    - 
+
+    # Begging.
+    # Requesting ("Could we/I/you...").
+    # Offering ("Do you want...")
+    # Suggesting ("You should...").
+    # Inviting ("Do you want to...").
+    # Commanding.
+    # Acting (without waiting for consent).
+    # Establishing rule.
+    # Punishment.
+    # Rewarding.
+
+    Submitting, Befriending, Romancing and Dominating + Corrupting
+*/
+
+::Lin - Interactions - Initialization
+<<nobr>>
+    <<set $lin.cookingScenes = {progress: 0, lastSceneDate: 0, incentivized: 0}>>
+<</nobr>>\
+
+/*
+    Go on a date. Needs intimacy (and attracition, after first one).
+    Kiss her. Needs intimacy and satisfaction.
+    Start sex. Needs excitement.
+    Command her (take off clothes, start training, prepare for sex, etc.). Needs submission.
+    Pay her as a whore. Needs whoring.
+
+*/
+
+::Lin - Interactions - Find
+
+::Lin - Interactions - Spy on Her
+
+::Lin - Interactions - Talk
+
+::Lin - Interactions - Go on Date
+
+::Lin - Interactions - Kiss
+
+::Lin - Interactions - Sex Start
+
+::Lin - Interactions - Command
+
+::Lin - Interactions - Use Whore
+

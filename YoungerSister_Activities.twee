@@ -1,0 +1,448 @@
+::Younger Sister - At Home - Activities
+<<if isWeekend() == false>>\
+    <<goto "Younger Sister - At Home - Weekday Activities">>
+<<else>>\
+    <<goto "Younger Sister - At Home - Weekend Activities">>
+<</if>>\
+
+::Younger Sister - At Home - Weekday Activities
+<<switch getTimeSliceFromTime()>>
+    <<case "MORNING">>\
+        <<goto "Younger Sister - At Home - Weekday Morning Activities">>
+        <<break>>\
+    <<case "AFTERNOON">>\
+        <<goto "Younger Sister - At Home - Weekday Afternoon Activities">>
+        <<break>>\
+    <<case "EVENING">>\
+        <<goto "Younger Sister - At Home - Weekday Evening Activities">>
+        <<break>>\
+    <<case "NIGHT">>\
+        <<goto "Younger Sister - At Home - Weekday Night Activities">>
+        <<break>>\
+    <<case "MIDDLE_OF_NIGHT">>\
+        <<goto "Younger Sister - At Home - Weekday Middle of the Night Activities">>
+        <<break>>\
+<</switch>>
+
+::Younger Sister - At Home - Weekend Activities
+<<switch getTimeSliceFromTime()>>
+    <<case "MORNING">>\
+        <<goto "Younger Sister - At Home - Weekend Morning Activities">>
+        <<break>>\
+    <<case "AFTERNOON">>\
+        <<goto "Younger Sister - At Home - Weekend Afternoon Activities">>
+        <<break>>\
+    <<case "EVENING">>\
+        <<goto "Younger Sister - At Home - Weekend Evening Activities">>
+        <<break>>\
+    <<case "NIGHT">>\
+        <<goto "Younger Sister - At Home - Weekend Night Activities">>
+        <<break>>\
+    <<case "MIDDLE_OF_NIGHT">>\
+        <<goto "Younger Sister - At Home - Weekend Middle of the Night Activities">>
+        <<break>>\
+<</switch>>
+
+::Younger Sister - At Home - Weekend Morning Activities
+    <<goto "Younger Sister - At Home - Weekday Morning Activities">>
+
+::Younger Sister - At Home - Weekday Morning Activities
+/* TODO: Add chance of her pretending to be sick to skip school. */\
+[[Find her when she is taking a shower.|Younger Sister - At Home - Taking Shower]]
+[[Find her when she is taking her breakfast.|Younger Sister - At Home - Breakfast]]
+<<if isWeekend() == false>>\
+    [[Find her when she is getting ready for school.|Younger Sister - At Home - Getting Ready for School]]
+    [[Wait for her to go to school.|Younger Sister - At Home - Went to School]]
+<<else>>\
+    [[Find her when she is getting ready to go out.|Younger Sister - At Home - Getting Ready to Go Out]]
+    [[Wait for her to go out.|Younger Sister - At Home - Went Out]]
+<</if>>
+
+::Younger Sister - At Home - Weekend Afternoon Activities
+    <<goto "Younger Sister - At Home - Weekday Afternoon Activities">>
+
+::Younger Sister - At Home - Weekday Afternoon Activities
+[[Find her having lunch.|Younger Sister - At Home - Lunch]]
+<<if isWeekend() == false>>\
+    [[Find her doing her chores.|Younger Sister - At Home - Doing Dishes]]
+<<else>>\
+    [[Find her doing her chores.|Younger Sister - At Home - Doing Chores]]
+<</if>>\
+[[Find her studying.|Younger Sister - At Home - Studying by Herself]]
+[[Find her by the pool.|Younger Sister - At Home - By the Pool]]
+[[Find her in her bedroom.|Younger Sister - At Home - In Her Bedroom]]
+[[Wait for her to go out.|Younger Sister - At Home - Went Out]]
+
+::Younger Sister - At Home - Weekend Evening Activities
+    <<goto "Younger Sister - At Home - Weekday Evening Activities">>
+
+::Younger Sister - At Home - Weekday Evening Activities
+[[Find her having dinner with the family.|Younger Sister - At Home - Dinner with Family]]
+[[Find her studying with mom.|Younger Sister - At Home - Studying with Mom]]
+[[Find her talking with mom.|Younger Sister - At Home - Discussing with Mom]]
+[[Find her taking a bath.|Younger Sister - At Home - Bath]]
+[[Wait for her to go out.|Younger Sister - At Home - Went Out]]
+
+::Younger Sister - At Home - Weekend Night Activities
+    <<goto "Younger Sister - At Home - Weekday Night Activities">>
+
+::Younger Sister - At Home - Weekday Night Activities
+[[Find her asleep.|Younger Sister - At Home - Sleeping]]
+
+::Younger Sister - At Home - Weekend Middle of the Night Activities
+    <<goto "Younger Sister - At Home - Weekday Middle of the Night Activities">>
+
+::Younger Sister - At Home - Weekday Middle of the Night Activities
+[[Find her asleep.|Younger Sister - At Home - Sleeping]]
+
+::Younger Sister - At Home - Taking Shower
+You find $youngerSister.name in the bathroom, taking a shower.
+
+/* TODO: Add option to get caught peeping. */\
+/* TODO: Add option to go check her on a video camera. */\
+/* TODO: Add option to go inside. */\
+[[Peep on her.|Younger Sister - At Home - Taking Shower - Peeping Through Keyhole]]
+[[Nevermind.|Younger Sister - At Home - Taking Shower - Leave Her Be]]
+
+::Younger Sister - At Home - Taking Shower - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+You can hear her beyond the door. It seems that she will still take a while.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Taking Shower - Peeping Through Keyhole
+<<run progressToNextTimeSlice()>>\
+You peep through the keyhole and catch a glimpse of $youngerSister.name.
+
+@@.sexy_scene;You see a momentary flash of glistening skin under the cascading water, a slim shoulder of pale skin, a moment of rounded hips. You can smell the fresh scent of her soap and can almost taste the water. Being so close to a naked $youngerSister.name turns you on more than you would care to admit.@@
+
+After a few moments, though, you become afraid someone could surprise you standing in the hall and spying into the bathroom. You sneak away, a flutter in your heart and a tightness in your pants.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Breakfast
+You find $youngerSister.name in the kitchen, taking her breakfast.
+
+She looks up at you and gives you a little wave with her spoon as she finishes her cereal.
+
+/* TODO: Add option to spike her cereal. */\
+[[Offer a compliment.|Younger Sister - At Home - Breakfast - Compliment Her][progressToNextTimeSlice()]]
+[[Start a conversation.|Younger Sister - Conversations - Topics]]
+[[Take your own breakfast.|Younger Sister - At Home - Breakfast - Join Her][progressToNextTimeSlice()]]
+
+::Younger Sister - At Home - Breakfast - Compliment Her
+/* TODO: Check if we should boost her confidence. */\
+<<run $youngerSister.relationships[$protagonist].modify("intimacy", 1, 30)>>\
+<<run $youngerSister.relationships[$protagonist].addPositiveImpression(new Impression("appreciative", 1, 1))>>\
+@@.protagonist_talk;"Good morning, sis! Ready to conquer the world?"@@
+
+$youngerSister.name offers you a beautiful smile as she answers: @@.youngerSister_talk;"You bet!"@@ She raises her cereal bowl at you in a gesture of camaraderie.
+
+She is certainly a delight in the morning.
+
+[[Continue.|Younger Sister - At Home - Breakfast - Join Her]]
+
+::Younger Sister - At Home - Breakfast - Join Her
+You sit down and take your own breakfast, sharing the table with her in companionable silence.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Getting Ready for School
+You find $youngerSister.name in her bedroom, getting ready to go to school.
+
+She has the door locked, but you know she is inside.
+
+/* TODO: Add option to get caught peeping. */\
+/* TODO: Add option to go check her on a video camera. */\
+/* TODO: Add option to go inside. */\
+[[Peep on her.|Younger Sister - At Home - Getting Ready for School - Peeping Through Keyhole]]
+[[Nevermind.|Younger Sister - At Home - Getting Ready for School - Leave Her Be]]
+
+::Younger Sister - At Home - Getting Ready for School - Peeping Through Keyhole
+<<run progressToNextTimeSlice()>>\
+You peep through the keyhole and catch a glimpse of $youngerSister.name.
+
+@@.sexy_scene;You can see her chosing the panties she will wear and looking at herself in the mirror. She gets out of your field of view for a moment and, when she comes back, she is wearing her school shirt and her parties, with no bottoms. You feel a wave at excitement as she checks herself on the mirror, before putting on her skirt. You can see her shapely legs and the curvature of her nice, round buttocks.@@
+
+With your heart pounding in your chest, you look around, afraid that someone may find you in the hall, spying through a keyhole. You think you may have heard something and quickly skitter away.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Getting Ready for School - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+Realizing there is not much for you to do here, you move away.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Went to School
+<<run $youngerSister.goTo($finishingSchool)>>
+It doesn't take long before $youngerSister.name leaves the house and goes to school.
+
+/* TODO: Add option to follow her to school. */\
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Getting Ready to Go Out
+You find $youngerSister.name in her bedroom, getting ready to go out.
+
+She has the door locked, but you know she is inside.
+
+/* TODO: Add option to get caught peeping. */\
+/* TODO: Add option to go check her on a video camera. */\
+/* TODO: Add option to go inside. */\
+[[Peep on her.|Younger Sister - At Home - Getting Ready to Go Out - Peeping Through Keyhole]]
+[[Nevermind.|Younger Sister - At Home - Getting Ready to Go Out - Leave Her Be]]
+
+::Younger Sister - At Home - Getting Ready to Go Out - Peeping Through Keyhole
+<<run progressToNextTimeSlice()>>\
+You peep through the keyhole and catch a glimpse of $youngerSister.name.
+
+@@.sexy_scene;As you watch, you can see her passing by the narrow field of view you have. At some point, she rushes by with her blouse open, but you can't see much. Then, she stops right in your line of sight wearing only a bra to look at herself in the mirror. Your mouth goes dry at the sight of her nice little mounds encased in the flimsy lingerie. She seems dissatisfied with her modest chest size, pushing her breasts together and pushing them up to give herself more of a cleavage and you have to swallow hard the lump in your throat at that sexy sight.@@
+
+Even though the view is so tantalizing, you feel a real concern that someone may come into the corridor and find you peeping. So you get back up, trying to accomodate the discomfort in your crotch as you walk away.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Getting Ready to Go Out - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+Realizing there is not much for you to do here, you move away.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Went Out
+It doesn't take long before $youngerSister.name leaves the house.
+
+/* TODO: This could, maybe, not work in the evening! */
+/* TODO: Add option to follow her to the mall. - At the mall, looking at clothes. */\
+/* TODO: Add option to follow her to the beach. - At the beach, looking for company. */\
+/* TODO: Add option to follow her to the movies. */\
+[[Go to your room.|Protagonist - Room Activities]]
+[[Go into her bedroom.|Younger Sister - Empty Bedroom Visit]]
+
+::Younger Sister - At Home - Lunch
+You find $youngerSister.name in the kitchen, having lunch.
+
+She is fidgeting with her phone as she distractedly eats her food. She has a half-empty glass of orange juice with her.
+
+/* TODO: Add option to spike her juice. */\
+[[Offer a compliment.|Younger Sister - At Home - Lunch - Compliment Her][progressToNextTimeSlice()]]
+[[Start a conversation.|Younger Sister - Conversations - Topics]]
+[[Take your own breakfast.|Younger Sister - At Home - Lunch - Leave Her Be][progressToNextTimeSlice()]]
+
+::Offer a compliment.|Younger Sister - At Home - Lunch - Compliment Her
+/* TODO: Check if we should boost her confidence. */\
+<<run $youngerSister.relationships[$protagonist].modify("intimacy", 1, 30)>>\
+<<run $youngerSister.relationships[$protagonist].addPositiveImpression(new Impression("appreciative", 1, 1))>>\
+@@.protagonist_talk;"Oh, wow, $youngerSister.name! Your hair looks great today!"@@
+
+@@.youngerSister_talk;"Thanks, $protagonist.name," she answers, with a shy blush. But you notice how there is a smile at the corner of her mouth and how she discreetly - albeit proudfully - flicked her hair.
+
+After that, you make a plate of your own and go outside to eat lunch on the deck.
+
+[[Continue.|Home - Landing]]
+
+::Take your own breakfast.|Younger Sister - At Home - Lunch - Leave Her Be
+You make a plate of your own and go outside eat on the deck.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Doing Dishes
+You find $youngerSister.name in the kitchen, washing the dishes from lunch.
+
+She seems bored and a little annoyed.
+
+/* TODO: Add option to do the dishes in her place. */\
+/* TODO: Add option to distract her. */\
+/* TODO: Add option to tease her and increase her submission. */\
+/* TODO: Add option to fuck her. */\
+<<run progressToNextTimeSlice()>>\
+You go back to find her a couple of times and realize she will take long to complete her task as she is getting distracted and procastinating. You decide to talk to her at another time.
+
+::Younger Sister - At Home - Doing Chores
+You find $youngerSister.name doing her chores and helping keep the house clean.
+
+She seems bored and a little annoyed.
+
+/* TODO: Add option to do the chore in her place. */\
+/* TODO: Add option to distract her. */\
+/* TODO: Add option to tease her and increase her submission. */\
+[[Start a conversation.|Younger Sister - Conversations - Topics]]
+[[Nevermind.|Younger Sister - At Home - Doing Chores - Leave Her Be]]
+
+::Younger Sister - At Home - Doing Chores - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+She check on her a couple of times and she looks too busy to interrupt. You let her be.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Studying by Herself
+/* TODO: Add image. */\
+$youngerSister.name is at her bedroom desk, studying hard, surrounded by books.
+
+/* TODO: Add option to offer to help her study. */\
+[[Start a conversation.|Younger Sister - Conversations - Topics]]
+[[Nevermind.|Younger Sister - At Home - Studying by Herself - Leave Her Be]]
+
+::Younger Sister - At Home - Studying by Herself - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+She looks really busy and you decide it would be better not to disturb her.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - By the Pool
+You find $youngerSister.name by the pool.
+
+[[Wait of her to be swimming.|Younger Sister - At Home - By the Pool - Swimming]]
+[[Wait of her to be sunbathing.|Younger Sister - At Home - By the Pool - Sunbathing]]
+
+::Younger Sister - At Home - By the Pool - Swimming
+She dives into the pool and takes a couple of laps with perfect strokes.
+
+She notices you by the edge of the pool and swims closer.
+
+/* TODO: Add option to join her in the pool. */\
+[[Start a conversation.|Younger Sister - Conversations - Topics]]
+[[Ogle her in her swimsuit.|Younger Sister - At Home - By the Pool - Swimming - Ogling]]
+[[Leave her be.|Younger Sister - At Home - By the Pool - Swimming - Leave Her Be]]
+
+::Younger Sister - At Home - By the Pool - Swimming - Ogling
+<<run progressToNextTimeSlice()>>\
+You go to the table on the deck and find a chair with the right angle. As you pretend to play with your phone, you often peek in her direction.
+
+@@.sexy_scene;You admire $youngerSister.name in the pool. In a swimsuit, she shows her breat legs and slim figure. While she is swimming you can't stop glancing at her firm buttocks and whenever she stops you admire her modest, but still very nice cleavage.@@
+
+Before your excitement at the sight of your half naked sister becomes too evident, you decide to discreetly leave the pool area.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - By the Pool - Swimming - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+You smile at her and wave, before leaving her to swim some more.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - By the Pool - Sunbathing
+She lies down on a lounge chair and finds a good position to comfortably let the sun wash over her.
+
+/* TODO: Add option to offer to spread some tan lotion on her. */\
+[[Start a conversation.|Younger Sister - Conversations - Topics]]
+[[Ogle her in her swimsuit.|Younger Sister - At Home - By the Pool - Sunbathing - Ogling]]
+[[Leave her be.|Younger Sister - At Home - By the Pool - Sunbathing - Leave Her Be]]
+
+::Younger Sister - At Home - By the Pool - Sunbathing - Ogling
+<<run progressToNextTimeSlice()>>\
+You sit on the edge of the pool, with your feet in the water, across from where she is lounging. This gives you a perfect view and you can pretend to just be enjoying the coolness of the pool in a hot day.
+
+@@.sexy_scene;$youngerSister.name is enjoying the sun with closed eyes and barely notices you ogling her. You can admire her skin glistening under the sunlight, her exposed legs with their soft-looking skin, her chest rising and falling as she relaxes and tans. She looks amazing and you can't deny a strong temptation to just reach out and touch her, but you keep it under control.@@
+
+In spite of the great view, the somewhat static situation eventually starts to bore you and you get up and go find something else to do.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - By the Pool - Sunbathing - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+She seems too comfortable and relaxed to interrupt and you leave her to her activity.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - In Her Bedroom
+You find $youngerSister.name in her room.
+
+/* TODO: Check if all options can be used both in weekday afternoons and evenings. Also if all of them make sense in the weekend at any time. */\
+/* TODO: Add option to have her looking for her phone charger. */\
+/* TODO: Add option to have her talking with Mom. */\
+/* TODO: Add option for her trying to entertain herself. "Lying down, looking up at the ceiling, bored." */\
+/* TODO: Add option to invite her to watch something on the computer with you. */\
+/* TODO: Add hub options for sex choices. */\
+<img src="img/Characters/Sister_Lily/Lily_Casual.png" align="right" height=600>\
+She is lazily fiddling with her phone.
+
+@@.youngerSister_talk;"Hey bro, what's up?"@@
+
+[[Start a conversation.|Younger Sister - Conversations - Topics]]
+[[Nevermind.|Younger Sister - At Home - In Her Bedroom - Leave Her Be]]
+
+::Younger Sister - At Home - In Her Bedroom - Leave Her Be
+@@.protagonist;"Oh, not much. I was, actually, just passing by."@@
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Dinner with Family
+You find $youngerSister.name having dinner with the family.
+
+You decide sit down at the table and to join the family.
+
+/* TODO: Add option for dinner conversations. */\
+/* TODO: Add option to provoke her. To establish dominance. */\
+/* TODO: Add option to manipulate her into fighting with her sister. */\
+/* TODO: Add option to manipulate her into pissing off Mom. */\
+<<run progressToNextTimeSlice()>>\
+After a while you are done and excuse yourself as everyone goes their own way.
+
+::Younger Sister - At Home - Studying with Mom
+You find $youngerSister.name at the dinner table, sitting with $mother.title who is helping her study.
+
+$mother.title seems to be having trouble explaining the subject to $youngerSister.name.
+
+/* TODO: Add option to ogle at their cleavages. */\
+/* TODO: Add option to get caught ogling at their cleavages. */\
+/* TODO: Add option to offer to teach younger sister. */\
+<<run progressToNextTimeSlice()>>\
+Feeling somewhat bored, you leave them at the lessons.
+
+::Younger Sister - At Home - Discussing with Mom
+You find $youngerSister.name in the living room in a heated conversation with $mother.title.
+
+/* TODO: Add option to listen to the conversation. */\
+<<run progressToNextTimeSlice()>>\
+They both seem too angry for you to feel safe sticking around. You come back a couple of times, but they are still at it, so you give up on talking with your $youngerSister.title for the moment.
+
+::Younger Sister - At Home - Bath
+You find $youngerSister.name in the bathroom, taking a bath.
+
+/* TODO: Add option to peep on her. */\
+/* TODO: Add option to get caught peeping. */\
+/* TODO: Add option to go check her on a video camera. */\
+/* TODO: Add option to go inside. */\
+[[Peep on her.|Younger Sister - At Home - Bath - Peeping Through Keyhole]]
+[[Nevermind.|Younger Sister - At Home - Bath - Leave Her Be]]
+
+::Younger Sister - At Home - Bath - Peeping Through Keyhole
+You try to peep at her, but you find that you do not have a good angle to the bathtub.
+
+Maybe you will have better luck another time or at a different time.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Bath - Leave Her Be
+<<run progressToNextTimeSlice()>>\
+You can hear her beyond the door. It seems that she will still take a while.
+
+[[Continue.|Home - Landing]]
+
+::Younger Sister - At Home - Sleeping
+You find $youngerSister.name sleeping in her bedroom.
+
+/* TODO: Add night creeping options. */\
+/* TODO: Add option of finding her thirsty. */\
+/* TODO: Add option to find her door locked. */\
+<<include "Younger Sister - At Home - Sleeping - Leave Her Be">>
+
+::Younger Sister - At Home - Sleeping - Leave Her Be
+You decide not to disturb her sleep.
+
+You find $youngerSister.name sleeping peacefully. She looks very innocent like that.
+
+::Younger Sister - At Home - Sleeping - Locked Door
+/* TODO: Add link to this. */\
+/* TODO: Add option of having a key to open the door. */\
+The door is locked, so there isn't much you cand do here, right now.
+
+::Younger Sister - Empty Bedroom Visit
+/* TODO: Add option for her having her door locked. */\
+/* TODO: Add option for searching her room and finding something interesting. */\
+$youngerSister.name's bedroom is a typical teenager's. She has posters, she has some stuffed animals and a few unfinished projects on shelves.
+
+She is very organized, though. You decide not to touch anything, lest she notice.
+
+

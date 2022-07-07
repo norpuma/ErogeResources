@@ -1,0 +1,141 @@
+/*
+- Tori needs help?
+- Tori quests?
+- Tori sexy?
+- Tori sex?
+*/
+::Tori - Initialization
+<<nobr>>
+<<set $tori = { name: "Tori", firstName: "Tori", lastName: "Black", hasMet: false, firstImpression: null }>>
+<</nobr>>
+
+::Tori - Meeting
+<<set $situation.isLeavingPossible = false>>\
+You sit besides a cute brunette with amazing features near the door to the class.
+
+She looks at you seeming to measure and weight and ending up undecided.
+
+<span id="meeting">\
+<<link "Introduce yourself">><<replace "#meeting">><<include "Tori - Meeting - Introducing Yourself">><<include "Tori - Meeting Ended">><</replace>><</link>>
+<<link "Ask what she is looking at">><<replace "#meeting">><<include "Tori - Meeting - Introducing Yourself">><<include "Tori - Meeting Ended">><</replace>><</link>>
+<<link "Ask if she likes what she sees">><<replace "#meeting">><<include "Tori - Meeting - Introducing Yourself">><<include "Tori - Meeting Ended">><</replace>><</link>>
+<<link "Tell her to mind her own business">><<replace "#meeting">><<include "Tori - Meeting - Introducing Yourself">><<include "Tori - Meeting Ended">><</replace>><</link>>
+</span>
+
+::Tori - Meeting - Introducing Yourself
+<<set $tori.firstImpression = "too nice">>\
+@@.protagonist_talk;"Hello! I'm $protagonist.name. Nice to meet you!"@@ You say, extending your hand.
+
+To your surprise and dismay, she sniffs at your hand and offers you only a sneer. She seems to have decided that you are contemptible.
+
+Later, during class, you learn that her name is @@.tori_talk;$tori.name@@.
+
+::Tori - Meeting - Challenging
+<<set $tori.firstImpression = "dangerous">>\
+@@.protagonist_talk;"So? What are you looking at?"@@ You ask her, rather aggressively.
+
+The girl moves back a little bit, clearly surprised by your challenge.
+
+@@.tori_talk;"Ehm... nothing..."@@ She answers, avoiding looking at you.
+
+She seems somewhat intimidated and does not look in your direction until the end of the class.
+
+When someone addresses her, you learn that her name is @@.tori_talk;Tori@@.
+
+::Tori - Meeting - Vain
+<<set $tori.firstImpression = "confident">>\
+@@.protagonist_talk;"So? Do you like what you see?"@@ You ask, teasingly, looking at her sideways.
+
+For an instant she seems surprised and amused, but she quickly changes her expression for one of disdain.
+
+@@.tori_talk;"Hardly..."@@ During class, you notice her shooting you some sideways glances and containing a small smile.
+
+When someone addresses her, you learn that her name is @@.tory_talk;$tori.name@@.
+
+::Tori - Meeting - Dismissive
+<<set $tori.firstImpression = "enemy">>\
+You face her aggressively and ask: @@.protagonist_talk;"What? You should mind your own business!"@@
+
+She seems taken aback and quickly looks away. Then, she looks back in your direction.
+
+@@.tori_talk;"I wasn't doing anything! YOU mind your own business."@@ Just after she has spoken, you see her blush. You are under the impression she is more embarrassed by her childish retort than by having spoken back to you.
+
+During class you often notice her fuming and saying something under her breath, as if she is replaying the exchange back in her head.
+
+When someone addresses her, you learn that her name is @@.tori_talk;Tori@@.
+
+::Tori - Meeting Ended
+<<set $situation.isLeavingPossible = true>>\
+<<set $tori.hasMet = true>>\
+<br>
+Before long, classes end and you can go back home.
+
+<<link "Go home" "Apartment - Choices">><</link>>
+
+::Tori - Assignment Partners - Start
+Just after the class starts, the teacher place all of you, students, in pairs. It so happens that you end up paired with Tori.
+
+<<switch $tori.firstImpression>>\
+<<case "too nice">>\
+She barely tries to hide a dismissive little smile. She does not seem to think much of you. She waits for you to go sit next to her for the assignment.
+<<case "dangerous">>\
+She looks up surprised at the teacher's announcement. After a couple of seconds, she starts standing up to go sit next to you, but seems to lose her nerve and sits back down. Eventually, you go sit next to her and see her cringe.
+<<case "confident">>\
+She looks in your direction at the teacher's announcement. She seems intrigued, but manages to quickly hide it. After a few seconds, she takes a deep breath, collects her things and comes sit next to you.
+<<case "enemy">>\
+She looks up at the teacher when she hears the pairings. She, then, looks in your direction with a grimace. After a few seconds, she collects her things angrily and comes sit down next to you.
+<</switch>>\
+
+After some additional explanation, the teacher leaves the room, announcing she will be back a little later for the results.
+
+<<link "Ask her to join you in doing the assignment">><</link>>
+<<link "Ask her to help you in doing the assignment">><</link>>
+<<if $protagonist.qualities.smart neq undefined>>\
+<<link "Do the work all by yourself to try to please her">><</link>>
+<<link "Do the work all by yourself to diminish her">><</link>>
+<</if>>
+<<link "Tell her to the assignment by herself">><</link>>
+
+::Tori - Assignment Partners - Share the load
+<<switch $tori.firstImpression>>\
+<<default>>\
+She looks at you seriously, then shrugs and checks her notes to do the assignment with you.
+
+The two of you finish it in no time. She seems quite pleased at the result.
+<</switch>>\
+
+::Tori - Assignment Partners - Assistance requested
+<<switch $tori.firstImpression>>\
+<<default>>\
+She makes a moue, but, after an instant, she shrugs and checks her notes to do the assignment with you.
+
+The two of you finish it in no time. She seems quite pleased at the result.
+<</switch>>\
+
+::Tori - Assignment Partners - Solo work to please her
+<<switch $tori.firstImpression>>\
+<<default>>\
+$tori.name sees you start by yourself. She seems to wait for you to call her to join, but once she realizes you are doing it by yourself, she just looks over your shoulder a couple of times, checking your work, while fiddling with her phone for most of the time.
+
+It takes you almost the entire class period to finish the assignment by yourself, but you manage to. $tori.name points out a couple of your errors, but doesn't say more than that about the work.
+<</switch>>\
+
+::Tori - Assignment Partners - Solo work to diminish her
+<<switch $tori.firstImpression>>\
+<<default>>\
+$tori.name sees you start by yourself. She seems to wait for you to call her to join.
+
+@@.protagonist_talk;"I don't need you for this,"@@ you tell her dismissively. @@.protagonist_talk;"Go... play with your phone or something."@@
+
+@@.tori_talk;"What? No, I-"@@
+
+@@.protagonist_talk;"Seriously, you are just wasting my time. Go away."@@ And, before she can recover her wits at your shocking dismissal, you add, with a wave of your hands, @@.protagonist_talk;"Shoo!"@@
+
+It takes you almost the entire class period to finish the assignment by yourself, but you manage to. $tori.name walked away after a little, then came back, trying to look like she didn't care, but she clearly did. She was not at all comfortable with how your partnership was handled.
+<</switch>>\
+
+::Tori - Assignment Partners - Offloading the work to her
+<<switch $tori.firstImpression>>\
+<<default>>\
+???
+<</switch>>\

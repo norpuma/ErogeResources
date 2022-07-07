@@ -1,0 +1,84 @@
+# Physical Traits: Fitness-Strong, Fitness-Fit, Fitness-Out_of_Shape, Fitness-Very_Out_of_Shape, Fitness-Athletic, Ethnicity-Black, Ethnicity-Latino, Ethnicity-Asian, Ethnicity-Caucasian, Ethnicity-Exotic*, Appearance-Pretty_Face, Appearance-Bald, Appearance-Blond, Appearance-Brunette, Appearance-Redhead, Fashion-Butch_Lesbian, Fashion-Very_Masculine*, Age-Younger, Age-Older, Age-Same_Age_Group, Age-Teen, Age-Young_Adult, Age-Adult, Age-Mature, Age-Old, Height-Tall, Height-Short, Attributes-Big_Dick, Attributes-Big_Breasts, Attributes-Notable_Butt.
+
+# Personality Traits: Intelligence-Smart, Intelligence-Vapid, Attitude-Adventurous, Attitude-Optimistic, Attitude-Patient, Attitude-Sporty, Attitude-Protective, Niceness-Aggressive_in_Public, Niceness-Cruel_in_Public*, Niceness-Nice_in_Public, Niceness-Nice_in_Private, Niceness-Cruel_in_Private, Niceness-Aggressive_in_Private, One_on_One-Suffocating, One_on_One-Dedicated*, One_on_One-Devoted, One_on_One-Romantic, Confidence-Confident, Confidence-Confident_in_Public, Confidence-Insecure_in_Private, Confidence-Insecure*, Flamboyance-Discreet, Flamboyance-Strutting*, Flamboyance-Vain*, Dominance-Dominating_in_Private, Dominance-Submissive_in_Private, Dominance-Submissive_in_Public, Behavior-Male_Stereotype*, Behavior-Militant_Lesbian, Behavior-Militant_Feminist, Behavior-Humble, Sex_Related-Often_Horny, Sex_Related-Flirty, Sex_Related-Sex_Obsessed, Sex_Related-Pervert, Sex_Related-Sexual_Deviant, Sex_Related-Coy, Sex_Related-Explicit*, Jealousy-Non_Jealous*, Jealousy-Very_Jealous*, Talking-Entertaining, Talking-Argumentative, Talking-Tongue_Tied, Talking-Silent, Talking-Persuasive, Talking-Smooth, Experience-Inexperienced, Experience-Experienced, Quality-Creative, Quality-Sensitive, Quality-Artistic, Quality-Professionally_Talented, Quality-Good_Listener, Quality-Pays_Attention_to_What_is_Said, Quality-Fashion_Attentive, Autonomy-Dependent_in_Private, Autonomy-Dependent_in_Public, Autonomy-Independent_in_Public, Autonomy-Independent_in_Private.
+
+# Social: Wealth-Wealthy, Wealth-Independent, Wealth-Stable*, Wealth-Dependent, Wealth-Poor*, Status-Famous, Status-Influential, Status-Exotic*, Status-Professionally_Accomplished.
+
+# Accomplishments: Actions-Persuaded, Actions-Protected, Actions-Helped_with_Tech, Actions-Amused.
+
+# Note: One_on_One-Dedicated* (attentive or generous: lots of gifts and time), Niceness-Cruel_in_Public* (cruel or mean), (includes homosexuals not coming out), Confidence-Insecure* (reluctant, but obedient), Jealousy-Non_Jealous* (character wants to be able to flaunt her sexuality and use her sensuality), Jealousy-Very_Jealous* (extremely jealous or possessive), Wealth-Stable* (money and/or job), Wealth-Poor* (financially struggling), Flamboyance-Strutting* (proud of their appearance or status and showing it), Flamboyance-Vain* (very concerned about their appearance), Ethnicity-Exotic* (to the character or the local society: black, latino, caucasian), Status-Exotic* (to the character or the local society: poorer, richer), Fashion-Very_Masculine* (big mustache or strong beard, hairy chest, etc.), Behavior-Male_Stereotype* (a little bad mannered (burping, truculent), a little sexist, also applies to butch lesbians), Sex_Related-Explicit* (often seen as vulgar), Attitude-Realistic* (actually, most people consider pessimistic people, realistic. They sometimes prefer them to optimists, which they think do not face reality).
+
+
+
+# Intrinsic Qualities: Fitness-Strong, Ethnicity-Black, Ethnicity-Latino, Ethnicity-Asian, Ethnicity-Caucasian, Ethnicity-Exotic*, Appearance-Pretty_Face, Age-Younger, Age-Older, Age-Same_Age_Group, Height-Tall, Height-Short, Attributes-Big_Dick, Attributes-Big_Breasts, Attributes-Notable_Butt.
+
+# Tested Identity Qualities: Intelligence-Smart, Intelligence-Vapid, Attitude-Adventurous, Attitude-Optimistic, Attitude-Realistic*, Attitude-Patient, Attitude-Sporty, Niceness-Aggressive_in_Public, Niceness-Cruel_in_Public*, Niceness-Nice_in_Public, Niceness-Nice_in_Private, Niceness-Cruel_in_Private, Confidence-Confident, Confidence-Confident_in_Public, Confidence-Insecure_in_Private, Confidence-Insecure*, Flamboyance-Discreet, Flamboyance-Strutting*, Flamboyance-Vain*, Dominance-Dominating_in_Private, Dominance-Submissive_in_Private, Dominance-Submissive_in_Public, Behavior-Male_Stereotype*, Behavior-Militant_Lesbian, Behavior-Militant_Feminist, Behavior-Humble, Sex_Related-Often_Horny, Sex_Related-Flirty, Sex_Related-Sex_Obsessed, Sex_Related-Pervert, Sex_Related-Sexual_Deviant, Sex_Related-Coy, Sex_Related-Explicit*, Jealousy-Non_Jealous*, Jealousy-Very_Jealous*, Talking-Entertaining, Talking-Argumentative, Talking-Tongue_Tied, Talking-Silent, Talking-Persuasive, Talking-Smooth, Quality-Creative, Quality-Sensitive, Quality-Artistic, Quality-Professionally_Talented, Quality-Good_Listener, Quality-Pays_Attention_to_What_is_Said, Quality-Fashion_Attentive, Autonomy-Dependent_in_Private, Autonomy-Dependent_in_Public, Autonomy-Independent_in_Public, Autonomy-Independent_in_Private.
+
+# Tested Transitory Qualities: Fitness-Fit, Fitness-Out_of_Shape, Fitness-Athletic, Appearance-Bald, Appearance-Blond, Appearance-Brunette, Appearance-Redhead, Fashion-Butch_Lesbian, Fashion-Very_Masculine*, Age-Teen, Age-Young_Adult, Age-Adult, Age-Mature, Age-Old, One_on_One-Suffocating, One_on_One-Dedicated*, One_on_One-Devoted, One_on_One-Romantic, Experience-Inexperienced, Experience-Experienced, Wealth-Wealthy, Wealth-Independent, Wealth-Stable*, Wealth-Dependent, Wealth-Poor*, Status-Famous, Status-Influential, Status-Exotic*, Status-Professionally_Accomplished.
+
+# Accomplishments: Actions-Persuaded, Actions-Protected, Actions-Helped_with_Tech, Actions-Amused, Other_Sexual-Excited, Other_Sexual-Willing_to_do_Oral, Other_Sexual-Great_at_Oral, Intercourse-Gave_Pleasure, Intercourse-Gave_Great_Pleasure.
+
+
+
+
+# Default Likes: Appearance-Pretty_Face, Quality-Good_Listener, Fitness-Fit, One_on_One-Dedicated*.
+
+
+
+
+# There should be TEST scenes in which one character (NPC) can test another (Protagonist) for qualities.
+# Scenes probably depend on the kind of character.
+
+
+
+
+# Courting Public Actions:
+## Compliments-Non_Sexual, Compliments-Sexual, Compliments-Smart, Compliments-Smooth, Compliments-Crude, Gifts, Invitations-Sexual_Exposure, Invitations-To_Act_Dominant, Invitations-Public_Sex, Social-Light_Humiliation, Social-Heavy_Humiliation, Behavior-Dominant_Acting_Partner, Behavior-Submissive_Acting_Partner, Behavior-Star_Struck_Acting_Partner, Innuendo-Invitation_to_Sex, Innuendo-Big_Dick_Suggestion, Innuendo-Pointing_Out_Big_Breasts, Innuendo-Pointing_Out_Notable_Butt, Innuendo-Muscles_Suggestion, Invitation-To_Act_Teasingly, Invitation-To_Act_Slutty, Invitation-To_Seduce_Other, Boasting-Of_Smartness, Boasting-Of_Power, Boasting-Of_Influence, Boasting-Of_Sexual_Prowess, Demonstration-Of_Wealth, Demonstration-Of_Power, Demonstrations-Of_Smartness, Demonstrations-Of_Niceness, Demonstration-Of_Influence, Demonstration-Of_Intelligence, Demonstration-Of_Confidence, Demonstration-Of_Humbleness
+
+# Courting Private Actions:
+# Performing or Receiving or Witnessing or Exposing
+## Teasing-Stripping, Teasing-Describing_Sex, Invitation-Nakedness, Invitation-Sex, Invitation-Partially_Clothed_Sex
+
+# During Sex Turn-Ons: PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), WITNESSED_MASTURBATION, WITNESSING_SEXUALITY (a voyeur), DOING_CUNNILINGUS, RECEIVING_CUNNILINGUS, FELLATIO, HER_BI_SEXUALITY, PAIN, LIGHT_HUMILIATION, HEAVY_HUMILIATION, BEING_A_DOM_TO_PARTNER, BEING_A_SUB_TO_PARTNER, HUMILIATING_PARTNER, BIG_DICKS, BIG_BREASTS, BREAST_PLAY, IMPREGNATION, SEX_WITH_STRANGERS, PUSSY_JUICE_TASTING (if she is not attracted to women, will mean she will taste her own), ANAL_SEX (She will be excited by it. If not properly trained, it will painful and hard and she may not cum - still turned on by it. If trained, she will cum. If embarrassed by it, she will resist, although clearly excited.), FETISH_SEX (including cosplay and role-play), SEX_TOYS, MONEY (turned on by thinking how much she will get / how much she is worth), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, ASS_TO_MOUTH, CREAMPIES, CUCKOLDING, BEING_CUCKOLDED, EXOTIC_LOCATION (in public, on a yacht, in a plane, on top of a building, on a beach)
+# BEING_A_DOM_TO_PARTNER, BEING_A_SUB_TO_PARTNER, BIG_DICKS, BIG_BREASTS, NOTABLE_BUTT, IMPREGNATION, SEX_WITH_STRANGERS, FETISH_SEX (including cosplay and role-play), SEX_TOYS, EXOTIC_LOCATION (in public, on a yacht, in a plane, on top of a building, on a beach)
+    
+# During Sex Actions:
+# Performing or Receiving or Witnessing or Exposing
+## Talking-Crudeness, Talking-Roleplaying, Talking-Light_Humiliation, Talking-Heavy_Humiliation, Talking-Self_Humiliation, Talking-Sexual_Compliments, Talking-Power_Compliments, Talking-About_Money, Talking-About_Devotion, Talking-About_Fidelity, Talking-About_Gifts, Behavior-Dominant_Towards_Partner, Behavior-Dominant_Towards_Other, Behavior-Submissive_Towards_Partner, Behavior-Submissive_Towards_Other, Behavior-Suggesting_Acts, Behavior-Demanding_Acts, Behavior-Forcing_Acts, Act-Cunnilingus, Act-Climaxing, Act-Vaginal_Penetration, Act-Anal_Penetration, Act-Spanking, Act-Restraining_Partner, Act-Fellatio, Act-Titjob, Act-Slow_Sex, Act-Fast_Sex, Act-Rough_Sex, Act-Deepthroat, Act-Analingus, Act-Semen_Covering, Act-Semen_Swallowing, Pain-Inflicting, Pain-Suffering, Act-Breast_Play, Act-Creampie
+
+# During Sex Situations:
+## One_on_One-Having_Nakedness_Observed, One_on_One-Observing_Nakedness, One_on_One-Having_Sex, One_on_One-Observing_Sex, Public-Having_Nakedness_Observed, Public-Observing_Nakedness, Public-Having_Sex_Observed, Public-Observing_Sex, One_on_One-Having_Masturbation_Observed, One_on_One-Observing_Masturbation, Exclusivity-Performing_Cuckolding, Exclusivity-Being_Cuckolded, Exclusivity-Publicly_Performing_Cuckolding, Exclusivity-Having_Parnter_Observing_Cuckolding, Exclusivity-Publicly_Being_Cuckolded, One_on_One-Deviant_Sexuality_Observed*, 
+
+
+
+# Notes: One_on_One-Deviant_Sexuality_Observed (bi-sexuality, roleplaying, submissiveness, other)
+
+
+
+
+
+
+
+
+
+
+
+
+# Female high school student teen:
+# Male high school student teen:
+# Female office worker babe:
+# Male office worker young adult:
+# Female office worker MILF:
+# Male office worker adult:
+# Female unemployed MILF:
+# Male unemployed adult:
+# Female unemployed babe:
+# Male unemployed young adult:
+
+
+
+
+
+
+
+

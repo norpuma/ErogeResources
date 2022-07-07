@@ -1,0 +1,167 @@
+{
+    "Measuring_Others": {
+        // These are rules the character uses to measure others they interact with.
+        "Cruelty_Demonstrations": {
+            // Rules to measure another's cruelty.
+            "Standard_Tests": {}
+            , "Tests": []
+        }
+        , "Empathy_Demonstrations": {
+            // Rules to measure another's empathy.
+            "Standard_Tests": {}
+            , "Tests": []
+        }
+        , "Hatred_Demonstrations": {
+            // Rules to measure another's hatred.
+            "Standard_Tests": {}
+            , "Tests": []
+        }
+        , "Love_Demonstrations": {
+            // Rules to measure another's love.
+            "Standard_Tests": {"Is_Family": 10}
+            , "Tests": []
+        }
+        , "Morality_Demonstrations": {
+            // Rules to measure another's morality.
+            "Standard_Tests": {}
+            , "Tests": []
+        }
+        , "Power_Demonstrations": {
+            // Rules to measure another's power.
+            // Demonstrations of power: Status, Money, Strength, Popularity
+            "Standard_Tests": {"Is_Criminal": 10, "Is_Public_Authority": 20}
+            , "Tests": []
+        }
+        , "Smarts_Demonstrations": {
+            // Rules to measure another's smarts.
+            "Standard_Tests": {}
+            , "Tests": []
+        }
+        , "Trustworthiness_Demonstrations": {
+            // Rules to measure another's trustworthiness.
+            "Standard_Tests": {"Is_Family": 10}
+            , "Tests": []
+        }
+
+        
+        , "Useful_Elements": {} // Things that make the other useful: Skilled, Wealthy, Generous, Has Car, Older
+        , "Attractive_Elements": {} // Things that make the other attractive: Fit, Tall, Male, Big Dick, Black
+        , "Exciting_Elements": {} // Things that make the other exciting: Male, Tall, Black, Poor, Violent
+        , "Disgusting_Elements": {} // Things that make the other disgusting: Male, Asian, Slave
+
+        , "Respect_Elements": {
+            // Things that make the other worthy of respect: Smart, Strong, Doctor, Police Officer, Teenager
+            "Power_Demonstrations": {
+                "First_Step_Score": 20
+                , "Last_Step_Score": 60
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 10
+            }
+            , "Smarts_Demonstrations": {
+                "First_Step_Score": 20
+                , "Last_Step_Score": 60
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 10
+            }
+            , "Standard_Tests": {"Is_Age_Group_Teenager": -10, "Is_Poor_By_Comparison": -10, "Is_Older_By_Comparison": 10, "Is_Younger_By_Comparison": -10, "Is_Criminal": -10, "Is_Public_Authority": 20}
+            , "Tests": []
+        }
+        , "Safety_Elements": {
+            // Things that make the character believe the other can and will protect them.
+            "Hatred_Demonstrations": {
+                "First_Step_Score": 20
+                , "Last_Step_Score": 50
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": -10
+            }
+            , "Love_Demonstrations": {
+                "First_Step_Score": 10
+                , "Last_Step_Score": 30
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 20
+            }
+            , "Power_Demonstrations": {
+                "First_Step_Score": 20
+                , "Last_Step_Score": 60
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 10
+            }
+            , "Smarts_Demonstrations": {
+                "First_Step_Score": 20
+                , "Last_Step_Score": 60
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 10
+            }
+            , "Standard_Tests": {}
+            , "Tests": []
+        }
+        , "Fear_Elements": {
+            // Things that make the character afraid of the other: Violent, Male, Strong...
+            "Cruelty_Demonstrations": {
+                "First_Step_Score": 20
+                , "Last_Step_Score": 30
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 10
+            }
+            , "Hatred_Demonstrations": {
+                "First_Step_Score": 0
+                , "Last_Step_Score": 50
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 10
+            }
+            , "Morality_Demonstrations": {
+                "First_Step_Score": 10
+                , "Last_Step_Score": 30
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 20
+            }
+            , "Power_Demonstrations": {
+                "First_Step_Score": 20
+                , "Last_Step_Score": 50
+                , "Score_Divider_Determining_Step": 10
+                , "Gain_Per_Step": 10
+            }
+            , "Standard_Tests": {}
+            , "Tests": []
+        }
+
+        , "Satisfaction_Elements": {} // Things that make the character satisfied: Funny, Complimentary, Submissive, Generous, Good Gifter, Generous Gifter
+        , "Good_Company_Elements": {} // Things that make the other good company: Funny, Complimentary, Submissive, Generous, Good Gifter, Generous Gifter, Timid, Trustworthy, Intimate
+        , "Love_Elements": {} // Things that make the other worthy of love: Mother, Trustworthy
+
+        , "Safe_and_Secure_Elements": {}
+        , "Admiration_Elements": {}
+        , "Gratitude_Elements": {}
+        , "Mood_Elements": {}
+        , "Enjoyment_Elements": {}
+
+        , "Civil_Interaction_Threshold": {
+            "Trust": 0 // How much the character believes the other will not betray or hurt them.
+            , "Fear": 0
+            , "Intimacy": 0 // How much the character thinks they know the other.
+            , "Respect": 0 // 
+            , "Love": 0
+            , "Gratitude": 0
+            , "Mood": 0
+            , "Tests": []
+        }
+        , "Makeout_Threshold": {
+            "Trust": 0
+            , "Fear": 0
+            , "Intimacy": 0
+            , "Love": 0
+            , "Respect": 0
+            , "Gratitude": 0
+            , "Mood": 0
+            , "Exciting": 0
+            , "Disgusting": 0
+            , "Attractive": 0
+            , "Tests": []
+        }
+        , "Take_Initiative_Threshold": {}
+        , "Sex_Theshold": {}
+        , "Long_Term_Commitment_Threshold": {}
+        , "Regular_Secret_Threshold": {}
+        , "Satisfaction_Threshold": {}
+    }
+}

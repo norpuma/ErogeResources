@@ -1,0 +1,241 @@
+SCHOOL COUNSELOR
+
+# Harold "Harry" Platter
+  ## Role: M - School Counselor Guy
+  ## Gender: Male.
+  ## References: History: ???. Personality: Diabolical Dr Diggler's Diggler. Appearance: ???.
+  ## Age: 23.
+  ## Status at start of game: Recently arrived.
+  ## School Role: School Counselor.
+  ## Personality: ???
+  ## Notes: Alpha, Foil. Feels like he was often a loser before coming to the District - too nice, too accomodating, too timid. He had little sexual experience and used to losing girls to other people (males and females). Gains access to the Hypno Lights. Slowly becomes a very corrupt soul. Programs a lot of the women in the game. Receives his sister at his home.
+  ## Canon: Bends Punk Teen (Gina)'s mind. Learns of Principal MILF (Catherina)'s intentions. Bends the mind of a hot girl (). Bends the mind of a teacher (). Loses control of the Hypno Lights (to the new janitor or to BBC Conspirator (???Gardner?)).
+    ### Progress: 
+    ### Femdom Wins: 
+    ### BBC Wins: 
+  ## Activities:
+    ### Morning: Working at the High School in the morning. ???
+    ### Afternoon: ???
+    ### Evening: ???
+    ### Night: ???
+  ## Lives at: Lodgings.
+  ## Works at: Finishing School - Education Center. @Newfound Lane.
+  ## Studies at: None.
+  ## Links: ???
+  ## Fucks: ???
+  ## Sexual relationships at start: None.
+  ## Sexual relationships at end: Owner of Cleanup Girl Babe. Owner of Young Maid Teen. Owner of Wakening-Dominant Councilor's Wife MILF. Owner of Principal MILF. Owner of Corruptible Schoolgirl Teen. Owner of Innocent Schoolgirl Teen.
+
+  ## Personality: 
+  ## Notes: 
+  ## Canon: 
+    ### Progress: 
+    ### Femdom Wins: 
+    ### BBC Wins: 
+  ## Activities: 
+  ## Lives at: 
+  ## Works at: 
+  ## Studies at: 
+  ## Relationships:
+    ### 
+      #### Wishes: 
+  ## Goals: 
+  ## Romantic Ideal: 
+  ## Exciting Ideal: 
+  ## Ideal Submissive: 
+  ## Idealized Self: 
+  ## Dark Reflection: 
+  ## Corruption elements: 
+  ## Turn-ons: 
+  ## Turn-offs: 
+  ## Fucks: 
+
+
+
+-- School Counselor
+- Struggling Seducer (making the right choice, fucks a few girls and can get a long term relationship with one or two of them)
+- Blackmailer Dominant
+- Hypnotic Reshaper Dominant
+- Reluctant Loser (loses many girls to other men in spite of making a lot of effort to get a girl)
+- Conformed Wanker (manages not to become a slave, but never even tries to get a girl, just spies on them and masturbates)
+
+
+
+# Presentation:
+This is a sex game of powerplay (domination/submission) set in some post-apocalyptic future.
+
+Click to continue to a SEX game or close the app to quit.
+
+# Introduction:
+You have heard that it was a golden age before the End. Humans ruled the planet and everything made sense. But something happened and the world was overrun by demons, civilization broke down and human rule only exists, now, in small, protected, self-sufficient Enclaves.
+
+You have come to the $district.formal_name of the $enclave.formal_name and you have the chance to start a new life.
+
+# The Enclave:
+$enclave.name - or, more formally, the $enclave.formal_name - is a small community divided into a handful of districts. Society, here, is very strict and people can only rarely leave their home districts. There is a world beyond the Enclave, but it is a wild place fraught with danger and roamed by demons. People very rarely go out.
+
+All parents of young children and people below 18 years old are kept in the Foundation District where they spend several years undergoing "education and indoctrination" - adults and children alike, although they are taught different classes.
+
+# Character Introduction:
+You are $protagonist.first_name $protagonist.last_name - or just $protagonist.name for most. You are 23 years old.
+
+You recently moved to the $district.formal_name and got a job as a school counselor. It was all arranged by proxy and you have not yet met anyone at your new job or your new life.
+
+# Workplace Introduction (School):
+In the $enclave.formal_name, people are considered minors until they turn 21 and only if they have completed their Foundation school and Finishing school studies. Foundation School is completed at the Foundation District. Here, at the $district.formal_name their is a Finishing school and there is where you are going to serve as a counselor. The district is very structured and there is a part of the town called the Education Center, where the Finishing School is found.
+
+As instructed, you arrive at nine and find a woman waiting for you at the school's entrance.
+
+    ## TODO: Show image of hot principal.
+
+@@.principal;"Hello, Mr $protagonist.last_name. I am $principal.first_name $principal.last_name, the school principal."@@ $principal.name is a tall redhead with a proud bearing and a serious attitude. She offers you a friendly smile, but you get the impression that she is all business.
+
+@@.protagonist;"Hi! It's a pleasure to meet you, Principal $principal.last_name. You can call me $protagonist.name, I don't stand on formality."@@
+
+She smiles back at your words and nods, accepting your suggestion. She takes a step to the side, freeing the way into the school building and gestures in invitation.
+
+@@.principal;"Please, follow me. I would like to give you a quick tour of our school."@@
+
+You nod and follow her as she walks down the hall.
+
+@@.principal;"As you have noticed, we don't have too big a structure here at the Finishing School. We only have about fifty students attending, at any given time. We have five classrooms, but most of the time only three are in use."@@
+
+    ## TODO: Show image of porn or CW classroom with lots of hot students.
+
+@@.principal;"In this class we have the freshmen - most of them are eighteen years old - studying math with $mathTeacher.mr_or_ms $mathTeacher.first_name $mathTeacher.last_name."@@
+
+    ## TODO: Show image of another porn or CW classroom with lots of hot students.
+
+@@.principal;"Here we have our sophomres - aged nineteeen - taking a history class with $historyTeacher.mr_or_ms $historyTeacher.first_name $historyTeacher.last_name."@@
+
+You pass three other classrooms, all seemingly empty, as $principal.name leads you down the hall and to a bend.
+
+@@.principal;"The empty classrooms are reserved for special projects. When the District's Council mandates some Re-Education classes for some citizens, those can be used as well. The seniors are, currently, in one of our labs."@@
+
+She turns the corner and you see three other doors before a stairway.
+
+    ## TODO: Show image of por or CW school science lab with lots of hot students.
+
+@@.principal;"The twenty years old students are our seniors and they are in the chemistry lab with $chemistryTeacher.mr_or_ms $chemistryTeacher.first_name $chemistryTeacher.last_name. We have two other multi-purpose labs here."@@
+
+She points to the stairs and continues:
+
+@@.principal;"Down here we have the machine rooms for the boiler and the climatization systems. We don't need to go there. We are going up, though."@@
+
+    ## TODO: Show image of underskirt peek.
+
+She climbs a floor and gestures down a hall.
+
+@@.principal;"On this floor, we have the teacher's lounge on the right, my office to the left and four extra offices down the hall. You will get the chance to meet the staff later. In addition to the teachers you saw in the classrooms, we have $schoolCleaner.name providing cleaning services. Since we are a small school, everyone helps with cleaning and maintenance, though."@@
+
+She walks down the hall and opens the third door on the right.
+
+@@.principal;"My office is that first one on the left. Teachers don't have fixed offices. When there is a need for quiet and privacy, they use one of the empty offices. Your activities counseling students, however, will require privacy, so you get your own office as well."@@
+
+    ## TODO: Show image of cute girl with cleaning implements. A gengineered.
+
+$principal.name knocks on the door and opens it. A young woman carrying a bucket and some cleaning implements comes out and goes down the hall without saying a word.
+
+@@.principal;"The room used by the previous counselor suffered a small accident and I asked $schoolCleaner.name to open this one up. I understand it was closed since before I came to $enclave.name, but I think it is serviceable."@@
+
+She steps inside and you follow her, finding a small room, with an empty bookshelf, a plain desk and three chairs - two in front and one behind the desk. There is dusty, enclosed smell to the room and $principal.name walks up to a grimy window looking outside and opens it to let in fresh air.
+
+@@.protagonist;"Was that...?"@@ You ask, pointing outside with your thumb.
+
+@@.principal;"$schoolCleaner.name? Yes. Pay her no mind. She is a gengineered, but she does a good job around here. She stays out of the way, most of the time, but you can summon her with the internal system. I will show you how, later."@@
+
+You have heard of the gengineered, but you don't remember much about that. Planning to look up the information about that later, you look around and find that, except for the smell, it is quite a nice office. You don't have much of a view, though. Outside the window you find your view is blocked by a square building with no windows.
+
+@@.principal;"Ah, yes,"@@ she says, noticing where you are looking. @@.principal;"Here you have our depot. Supplies are kept there, as well as the janitor's cleaning implements and a lot of old school projects. You probably won't need to go there at all."@@
+
+The comment - the interdiction, probably - piqued your curiosity, but you hold back from asking anything on the subject.
+
+@@.protagonist;"Thank you, Principal $principal.last_name. Is there anything else?"@@
+
+@@.principal;"Yes. A few more things: Classes start at eight and you are expected to be available to the students from start of classes to five o'clock. Also, I should show you how to log into the school system. You can see contacts for the staff, there, and when a student is sent your way or requests some time with you, you will be able to access their files from the system."@@
+
+She gives you some simple instructions.
+
+# Additional School Tour Questions:
+
+@@.protagonist;"Before you go, can I ask you a few questions?"@@
+
+@@.principal;"Of course. What do you want to know?"@@
+
+@@.protagonist;"What kind of classes do we teach here?"@@
+
+@@.principal;"Ah, yes. You aren't used to our system. Well, students take moral and civics classes as well as academic classes the District Council judges appropriate at any given quarter. Currently we are teaching chemistry, english, math and history - in addition to moral and civics, of course.@@
+
+You remember you saw a couple of cute girls in cheerleader outfits in one of the classes, but you don't want to ask about that directly.
+
+    ## TODO: Show image of porn or just hot cheerleaders.
+
+@@.protagonist;"What about Phys-Ed? Does the school have any sports teams?"@@
+
+@@.principal;"Oh, of course. $schoolCoach.first_name $schoolCoach.last_name is our PE teacher as well as the coach for the Archangel's - our local team. We also have a cheerleader program. PE classes are taught at the Recreation Center, however. It is very close and the students just go there on foot. We have the sports arena, a gym, a park where students practice track and a communal pool there. In case of accidents - we had one two weeks ago - students are taken to the Health Center by fast car. There is no school nurse, medical attention is provided there. You can get there easily too. It is less than five minutes down Freeland Street."@@
+
+@@.protagonist;"Ah, thank you. That was quite informative."@@
+
+# School Staff:
+
+You check the school staff and find that the school has no fixed curriculum, except for the "Morals and Civics" class , taught by $civicsTeacher.mr_or_ms $civicsTeacher.first_name $civicsTeacher.last_name. Each quarter, the District's Council decides what is the Finishing School's curriculum, depending on "the projected future demands of the District" and shortcomings observed in the monthly evaluation of the students.
+
+Currently, the teachers are:
+
+    ## TODO: Show image of hot principal, here.
+
+    $principal.first_name $principal.last_name, the principal and english teacher.
+
+    ## TODO: Show image of teacher, here.
+
+    $historyTeacher.first_name $historyTeacher.last_name, the history teacher.
+
+    ## TODO: Show image of teacher, here.
+
+    $chemistryTeacher.first_name $chemistryTeacher.last_name, the chemistry teacher.
+
+    ## TODO: Show image of teacher, here.
+
+    $mathTeacher.first_name $mathTeacher.last_name, the math teacher.
+
+    ## TODO: Show image of jerk teacher.
+
+    $schoolCoach.first_name $schoolCoach.last_name, PE instructor and coach of the Archangel's.
+
+    ## TODO: Show image of cute girl with cleaning implements. A gengineered.
+
+    $schoolCleaner.name the gengineered in charge of cleaning and maintaining the school.
+
+You decide to open a file for each of them in your notebook.
+
+# Storylines:
+    ## Hypnotic lights switch.
+    ## Gina, the smoker punk chick.
+    ## Pride Lesbian Teacher.
+    ## Uptight Science Teacher.
+    ## Timid Teacher MILF.
+    ## Jerk High School Coach.
+    ## Principal MILF.
+
+
+# Hypnotic lights switch.
+# Gina, the smoker punk chick.
+  ## Steps of mind-bending:
+    ### Make her lift her blouse
+    ### Make her accept being naked around him.
+    ### Make her suck his cock.
+    ### Make her used to sucking cock. (a constant desire to suck cock)
+    ### Make her offer her pussy.
+    ### Take her asshole.
+    ### Completely dominate her (her priorities do not matter).
+# Pride Lesbian Teacher.
+# Uptight Science Teacher.
+# Timid Teacher MILF.
+# Jerk High School Coach.
+# Principal MILF.
+  ## Steps to seduction:
+    ### Learn that she wants to feel powerful (she feels she has no power in her professional position).
+    ### Give her an opportunity to be powerful, abusing a student (ideally Nikki). For complete success, she should *know* that she owes the students submissiveness to you, but should not be confronted by it during her climatic scene.
+  ## Steps to domination:
+    ### Learn that she wants to feel powerful (she feels she has no power in her professional position).
+    ### Place her in a compromising position and rob her of all power, showing her that the power she craves is actually held by you.

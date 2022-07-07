@@ -1,0 +1,67 @@
+::Hotel Teenage Boy - Initialization [script]
+    function initializeHotelTeenageBoy(){
+        if (State.variables.hotelTeenageBoy === undefined){
+            let char = new BaseCharacter("Jake", "male")
+            char.names.first = "Jacob"
+            char.names.last = $hotelOwnerFamilyName
+
+            char.body = new CharacterBody(char.gender, 18)
+
+            char.groomingAndStyle = new GroomingAndStyle("brown", "short", false, false, false, "acceptable")
+
+            char.personality = new CharacterPersonality()
+            char.personality.prideOrShameElements = {"smart": 20, "nice": 10, "fitness<=20": -10, "fitness<=10": -10, "nerd": -10, "wealth<=dependent": -10}
+            char.personality.dutiful = 20
+            char.personality.empathy = 10
+            char.personality.submission = 10
+            char.personality.smarts = 20
+            char.personality.courage = -10
+
+            char.resources.fitness = 0
+            char.resources.knowledge = 20
+            char.resources.charm = 0
+
+            char.mood = new CharacterMood()
+
+            char.relationships = {}
+
+            State.variables.hotelTeenageBoy = char
+        }
+    }
+    State.variables.characterInitializationFunctions.push(initializeHotelTeenageBoy)
+
+::Jacob - Presentation
+Jacob has a loser body and a loser personality. It would require something completely out of the ordinary to make him into a winner.
+
+Jacob is an 18 year old. He must go to Finishing School.
+
+Jacob is nice and polite. He cares about other people and avoids confrontation.
+
+This teenage boy is out of shape. He is skinny and gangly, doesn't dress well and, overall, doesn't take care of his body or his appearance. Jacob also has a small cock and little stamina.
+
+[!] Should Jacob move into the Dreams Hotel?
+
+::Jacob - Character creation
+<<nobr>>
+    <<set jacob = new Character("Jacob", "male")>>
+
+    <<set jacob.body = new CharacterBody(jacob.gender, 18)>>
+
+    <<set jacob.groomingAndStyle = new GroomingAndStyle("brown", "short", false, false, false, "poor")>>
+
+    <<set jacob.personality = new CharacterPersonality(jacob.toString())>>
+    <<set jacob.personality.prideOrShameElements = {"smart": 20, "nice": 10, "fitness<=20": -10, "fitness<=10": -10, "nerd": -10, "wealth<=dependent": -10}>>
+    <<set jacob.personality.dutiful = 20>>
+    <<set jacob.personality.empathy = 10>>
+    <<set jacob.personality.submission = 10>>
+    <<set jacob.personality.smarts = 20>>
+    <<set jacob.personality.courage = -10>>
+
+    <<set jacob.resources.fitness = 0>>
+    <<set jacob.resources.knowledge = 20>>
+    <<set jacob.resources.charm = 0>>
+
+    <<set jacob.mood = new CharacterMood()>>
+
+    <<set jacob.relationships = {}>>
+<</nobr>>\

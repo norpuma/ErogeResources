@@ -1,0 +1,123 @@
+Events:
+    - Decide to live with family
+    - House rules:
+        * No closed doors.
+        * No "funny stuff" (no sex or masturbation).
+        * Everyone helps at home: 4 tasks per week.
+        * Students must be good students (no evaluation below 75%).
+        * Angela contributes part of her wages to home expenses, so everyone contributes part of their wages to home expenses.
+    - No vagabonds
+    - Peep on showering Lily
+    - Peep on showering Angela
+    - Peep on showering Alice
+    - Peep on sleeping Lily
+    - Peep on sleeping Angela
+    - Peep on sleeping Alice
+    - Study with Lily
+    - Movies with Angela
+    - Movies with Alice
+    - Pool with Alice
+    - Pool with Lily
+    - Pool with Angela
+    - Yoga with Angela
+    
+    - Caught peeping shower
+    - Caught peeping sleep
+    - Bad grades
+
+    - Alice has fears
+    - Alice comes home drunk
+    - Alice wants a dress
+    - Alice brings a boyfriend home
+    - Alce wants to fuck with boyfriend
+    - Alice fucks with a girl
+    
+    - 
+
+
+
+    -- Living with Family
+    
+    You decide to go live with your folks. Family is important and you just feel like staying close to them.
+    
+    Angela did not give birth to you, but she helped raise you from when you were just six years old. Lily, your younger sister barely knew anyone else as a mother. Angela's always been strict, however and ever since Dad divorced her, she has become less patient. Still, she helped raise you and you believe that if you avoid pushing her buttons, you can get along really well.
+    
+    You have always gotten along well with Lily. She has always been a sweet child and you miss spending some time with her. Alice is something else entirely, though. Your older sister by two years, she has always teased you. After Dad divorced Angela, though, things became more strained. She was vicious in her barbs the last couple of times you met with her. You wonder how its going to be living under the same roof as her.
+    
+    **
+    
+    When you show up home, you are impressed by the size of the house Dad used to live in. It is truly impressive! Mom is at the door to get you. She gives you a hug and kisses your head before complaining about your hair. It feels just like home! Lily comes bouncing your way and throws herself in your arms. You are shocked at how much she has grown, though. She is eighteen already and you never realized she had grown from a girl into a woman, before now!
+    
+    @@.lily;"$protagonist.name! I'm so happy you are moving in back with us! The whole family will be back together!"@@
+    
+    You smile at her and kiss her cheek, trying to not let her see your sadness. The whole family back together, minus Dad...
+    
+    Feeling a little melancholy, you excuse yourself to go straight to your bedroom.
+    
+    Mom had told you, over the phone, that she had intended to convert the fourth bedroom in the house into an office for her. But she was happy enough to keep it empty so that you could install yourself in there.
+    
+    You looked around a bit and planned, but when you were about to unpack, Mom called you for dinner. Mom is in the kitchen and Lily is in the living room, watching something on her phone.
+    
+    **
+    
+    Your first few interactions will dictate the tone of your relationship with some characters. It's been a long time since you last lived with Angela. She has changed and so have you.
+    
+    [[Offer to help Mom set the table]] <- Nice
+    [[Talk to Lily about whatever she is watching]] <- Jerk
+    [[Tease Lily about whatever she is watching]] <- Confident
+    [[Tell Lily to go help Mom set the table]] <- Confident
+    
+    You offer to help Mom. She gratefully accepts, asking you to take the roast out of the oven while she sets up the table. You comply and take the dish to the living room, finding that she is watching something with Lily 
+   
+    **
+    
+    Now is the time to decide some of how you will interact at home. Are you more of a nice guy or a jerk? Are you a submissive or a dominant. And will Mom like you or despise you?
+    
+    **
+
+    You come back home and open the door to find Angela waiting for you in the living room, an angry scowl on her face.
+
+    @@.angela;"So, you are finally home!"@@ She stands up and crosses her arms, anger flashing in her eyes. @@.angela;"School has been over for a long time and it's only now that you are getting home! What kind of place do you think this is?"@@
+
+    @@.protagonist;"I- Uhm... you expected me to come home earlier?"@@ You ask, genuinely intrigued.
+
+    <<set _protagonistName = $angela.relationships[$protagonist].nameForTarget>>\
+    @@.angela;"I certainly did. This is not a hotel, this is not a place where we suffer vagabonds. I expect you to come straight home from school, yes, _protagonistName. You have no reason to be traipsing around town!"@@
+
+    [[Confront her]] <- Confident
+    [[Say you are sorry]] <- Nice
+    [[Ignore her]] <- Confident + Jerk
+
+    **
+
+    You go to your room and unpack. You set up the place to your taste and take a good look.
+    
+    Yes, it is starting to feel like home!
+
+    You are still contemplating your new place when Mom opens the door and knocks on the open frame.
+
+    <<set _protagonistName = $angela.relationships[$protagonist].nameForTarget>>\
+    @@.angela;"Hey, _protagonistName, I'd like to talk to you."@@
+
+    * No closed doors.
+    * No "funny stuff" (no sex or masturbation).
+    * Everyone helps at home: 4 tasks per week.
+    * Students must be good students (no evaluation below 75%).
+    * Angela contributes part of her wages to home expenses, so everyone contributes part of their wages to home expenses.
+
+    **
+
+    Angela is under the shower, do you check it out?
+
+    Lily is under the shower, do you check it out?
+
+    Alice is under the shower, do you check it out?
+
+    Everyone is asleep.
+    Do you check on a sleeping Angela?
+    Do you check on a sleeping Lily?
+    Do you check on a sleeping Alice?
+    Do you check out a porn website?
+
+    **
+

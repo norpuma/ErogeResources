@@ -1,0 +1,44 @@
+::GoodGuy - Initialization [script]
+    function initializeDefault(){
+        if (State.variables.protagonist === undefined){
+            let char = new BaseCharacter("Luke", "male", "guy")
+            char.names.first = "Lucas"
+            char.names.last = "Arbor"
+            char.body = new CharacterBody(19)
+            char.horny = 1
+
+            protagonist = new Protagonist(char)
+            State.variables.protagonist = protagonist
+        }
+    }
+
+    State.variables.characterInitializationFunctions.push(initializeDefault)
+
+::Protagonist - Setup
+''What's your name?''
+<<textbox "$protagonist.names.first" `$defaultProtagonist.names.first` "autofocus">>
+
+''Family income:''
+* <label><<radiobutton "$familybackground" "high">>Rich family</label>
+* <label><<radiobutton "$familybackground" "low" checked>>Poor family</label>
+
+''In school, you were a rather:''
+* <label><<radiobutton "$protagonist.int" 3>>Good student</label>
+* <label><<radiobutton "$protagonist.int" 1 checked>>Bad student</label>
+''And someone''
+* <label><<radiobutton "$protagonist.cha" 3>>Popular</label>
+* <label><<radiobutton "$protagonist.cha" 1 checked>>Invisible</label>
+
+''Do you like sports ?''
+* <label><<radiobutton "$protagonist.str" 4>>Yes</label>
+* <label><<radiobutton "$protagonist.str" 1 checked>>No</label>
+
+''Eye color'' :
+* <label><<radiobutton "$protagonist.eyes" "blue">>blue</label>
+* <label><<radiobutton "$protagonist.eyes" "green" checked>>green</label>
+* <label><<radiobutton "$protagonist.eyes" "black" checked>>Black</label>
+
+''Hair color :''
+* <label><<radiobutton "$protagonist.hair" "blond">>blond</label>
+* <label><<radiobutton "$protagonist.hair" "brown" checked>>brown</label>
+* <label><<radiobutton "$protagonist.hair" "black" checked>>Black</label>

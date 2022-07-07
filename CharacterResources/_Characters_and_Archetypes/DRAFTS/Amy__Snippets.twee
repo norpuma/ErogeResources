@@ -1,0 +1,106 @@
+/*
+    Routine:
+    - Go to school
+    - After school
+    - Study
+    - Entertainment
+*/
+::Amy - Initialization
+<<nobr>>
+<<set $amy = {name:"Amy", firstName: "Amanda", lastName: "Rose"}>>
+<</nobr>>
+
+
+::Amy - Look For - Routine
+<<switch $dayPart>>
+    <<case "morning">>
+        <<goto "Amy - Look For - Routine - Morning">>
+    <<case "afternoon">>
+        <<goto "Amy - Look For - Routine - Afternoon">>
+    <<case "evening">>
+        <<goto "Amy - Look For - Routine - Evening">>
+    <<case "night">>
+        <<goto "Amy - Look For - Routine - Night">>
+    <<case "deadOfNight">>
+        <<goto "Amy - Look For - Routine - DeadOfNight">>
+<</switch>>
+
+::Amy - Look For - Routine - Morning
+/*
+    In the morning:
+    - Amy may masturbate before going to school.
+    - Amy may decide to skip schoool to try to seduce her brother.
+    - Amy may go masturbate in a bathroom stall at school.
+    - Amy may tease a male student at school.
+    - Amy may feel turned on by a female student at school.
+    - Amy may make out with a female student at school.
+    - Amy may blow a male student at school.
+    - Amy may smoke behind the bleachers at school.
+*/\
+<<run progressDayPart()>>\
+<<include "Amy - Routine - Getting out of Bed">>
+
+School is close enough that she can get there walking.
+
+A little later, $amy.name is at school. She dutifully takes class, though she sometimes gets a distracted, faraway look.
+
+It is rather boring watching her here, but her defenses, here, are too high to allow any kind of influence.
+
+<<link "Continue" "New Day Part">><</link>>
+
+::Amy - Routine - Getting out of Bed
+<<if isWeekDay()>>\
+    <<if $amy.sex_drive + $amy.horny >= 8>>
+    <<else>>
+        $amy.name prepares for school. She gets out of bed, changes and takes a quick breakfast.
+    <</if>>
+<<else>>
+    $amy.name wakes up late. She lazily enjoys her bed until she stretches with a loud, pleased moan and gets out of bed.
+    
+    She takes a nice breakfast and idles time in the living room at her phone, until it is time for lunch.
+<</if>>
+
+::Amy - Look For - Routine - Afternoon
+<<run progressDayPart()>>\
+<<random _random = random(2)>>\
+<<switch _random>>\
+    <<case 0>>\
+        $amy.name is participating in the ecology club. She does not seem to have friends, here, as much as study partners.
+
+        She is focused and her defenses are too high to allow any kind of influence.
+    <<case 1>>\
+        $amy.name is participating in the fashion club. Although some people here seem to be frivolous, she is clearly taking the activities seriously.
+
+        She is focused and her defenses are too high to allow any kind of influence.
+    <<case 2>>
+        $amy.name is walking around at the mall. She doesn't seem to have a specific aim, mostly just people watching and enjoying the shop displays.
+
+        Her defenses are too high in a public place like this to allow any kind of influence.
+<</switch>>\
+
+<<link "Continue" "New Day Part">><</link>>
+
+::Amy - Look For - Routine - Evening
+<<run progressDayPart()>>\
+$amy.name is studying at home. She is only partially focused as it seems the homework is not too demanding for her.
+
+Her partial focus is still too much of a barrier to allow any kind of influence.
+
+<<link "Continue" "New Day Part">><</link>>
+
+::Amy - Look For - Routine - Night
+<<run progressDayPart()>>\
+$amy.name is watching some videos on her phone.
+
+She is distracted and relaxed. It seems like the perfect opportunity to exhert some influence over her.
+
+<<link "Continue" "New Day Part">><</link>>
+
+::Amy - Look For - Routine - DeadOfNight
+<<run progressDayPart()>>\
+$amy.name is asleep. She seems to be dreaming something pleasant as there is a small smile on her lips and she sometimes mumbles something incomprehensible.
+
+A dreamstate is too much of a barrier to allow any kind of influence.
+
+<<link "Continue" "New Day Part">><</link>>
+

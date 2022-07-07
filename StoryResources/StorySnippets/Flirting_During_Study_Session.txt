@@ -1,0 +1,28 @@
+::Adria - Flirt Steps
+You receive $adria.name with a joke, which makes her smile and puts her at ease.
+
+<<set _protagonistPreferredName = $adria.relationships[$protagonist].preferredAddress>> /* This will be either Mr Foster or Jake. */\ 
+"Oh, _protagonistPreferredName, you are too much!"
+---
+You ask $adria.name about the weather in $otherTown.name. She seems surprised at first. Then, she remembers her comment the other day and laughs with you.
+---
+You make another joke, during the study session and as the both of you laugh, you touch her arm. She doesn't pull away and you see it as a good sign.
+---
+You receive $adria.name with a brief hug. The gesture seems to surprise her, but she doesn't pull away.
+---
+"Ciao, bella!" You say in a fake italian accent, before pulling $adria.name for a kiss on the cheek. She laughs and let you do it.
+
+::Adria - Flirt
+* Make a joke and touch her arm as you laugh
+* Hug her
+* Kiss her cheek
+* Rub her shoulders
+* Kiss her lips
+* Flip up her skirt
+* Grab a tit
+
+::Adria - ?
+* Say you love her
+* Ask for her panties
+* Ask on a date
+

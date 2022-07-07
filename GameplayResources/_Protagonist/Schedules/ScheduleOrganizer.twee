@@ -1,0 +1,49 @@
+::Protagonist - Schedule Visualization
+Your schedule for the week is as follows:
+/*
+    Monday:                             Tuesday:                                   Wednesday:                                 Thursday:                                  Friday:                             Saturday:
+    00-07   Sleep at Home               00-07   Sleep at Home                      00-07   Sleep at Home                      00-07   Sleep at Home                      00-07   Sleep at Home               00-10   Sleep at Home
+    07-08   Morning Preparations        07-08   Morning Preparations               07-08   Morning Preparations               07-08   Morning Preparations               07-08   Morning Preparations        10-12   Play videogames
+    08-10   Teach Class - Relaxed       08-10   Prepare Lessons at School          08-10   Teach Class - Relaxed              08-10   Hall Monitor                       08-10   Teach Class - Relaxed
+    10-12   Teach Class - Relaxed       10-12   Prepare Lessons at School          10-12   Teach Class - Relaxed              10-12   Hall Monitor                       10-12   Teach Class - Relaxed
+            ---                                                                                                                                                                                              
+    12-14   Lunch at Home               12-14   Lunch at Home                      12-14   Lunch at Home                      12-14   Lunch at Home                      12-14   Lunch at Home               12-14   Lunch at Home
+            ---                                                                                                                                                                                              
+    14-16   Take Class - Relaxed        14-16   Take Class - Relaxed               14-16   Take Class - Relaxed               14-16   Take Class - Relaxed               14-16   Take Class - Relaxed        14-16   Walk in the Park
+    16-18   Take Class - Relaxed        16-18   Take Class - Relaxed               16-18   Take Class - Relaxed               16-18   Take Class - Relaxed               16-18   Take Class - Relaxed        16-18   House Chores
+            ---                                                                                                                                                                                              
+    18-19   Dinner at Home              18-19   Dinner at Home                     18-19   Dinner at Home                     18-19   Dinner at Home                     18-19   Dinner at Home              18-19  Dinner at Home
+    19-20   Home Chores - Relaxed       19-20   Home Chores - Relaxed              19-20   Home Chores - Relaxed              19-20   Home Chores - Relaxed              19-20   Home Chores - Relaxed       19-20  
+    20-22   Study                       20-22   Study                              20-22   Study                              20-22   Study                              20-22   Study                       
+    22-23   Play videogames             22-23   Online Chatrooms                   22-23   Online Chatrooms                   22-23   Online Chatrooms                   22-23   Online Chatrooms            
+    23-24   Sleep at Home               23-24   Sleep at Home                      23-24   Sleep at Home                      23-24   Sleep at Home                      23-24   Sleep at Home               
+
+    Total Study Points      = 6         Total Study Points      = 6                Total Study Points      = 6                Total Study Points      = 6                Total Study Points      = 6         Total Study Points      = 6         
+    Total Relaxation Points = 1         Total Relaxation Points = 1                Total Relaxation Points = 1                Total Relaxation Points = 1                Total Relaxation Points = 1         Total Relaxation Points = 1         
+    Total Fitness Points    = 0         Total Fitness Points    = 0                Total Fitness Points    = 0                Total Fitness Points    = 0                Total Fitness Points    = 0         Total Fitness Points    = 0         
+    Total Knowledge Points  = 0         Total Knowledge Points  = 0                Total Knowledge Points  = 0                Total Knowledge Points  = 0                Total Knowledge Points  = 0         Total Knowledge Points  = 0         
+    Total Charm Points      = 0         Total Charm Points      = 0                Total Charm Points      = 0                Total Charm Points      = 0                Total Charm Points      = 0         Total Charm Points      = 0         
+
+Menial Job: $ 10/hour (teach classes, hall monitor, prepare classes)
+Take Class: 1 study/hour
+  - Focused: -1 relax/hour +1 study/hour
+Home Chores: 1 chore/hour
+Study at Home: 1 study/hour
+Play videogames: 1.5 relax/hour
+Online Chatroom: 1 charm/hour
+Walk in the Park: 0.5 fit/hour
+Oversleep: 1 relax/hour
+Prepare class: 3 classes/2 hours
+    - Hard class
+    - Fun class
+
+Resources:
+- Money
+- Study
+- Chores
+- Willpower
+- Knowledge
+- Fitness
+- Charm
+- 
+*/

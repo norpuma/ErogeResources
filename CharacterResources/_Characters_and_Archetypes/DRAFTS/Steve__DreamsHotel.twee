@@ -1,0 +1,19 @@
+::Steve - Initialization
+<<nobr>>
+<<if $steve eq undefined>>
+    <<set $steve = {name:"Steve", firstName: "Steve", lastName: "Chambers", skills: {} }>>
+    <<set $steve.skills.accounting = 0>>
+    <<set $steve.skills.cleaning = 0>>
+    <<set $steve.skills.cooking = 0>>
+    <<set $steve.skills.fighting = 0>>
+    <<set $steve.skills.seducing = 0>>
+    <<set $steve.skills.serving = 0>>
+    <<set $steve.skills.entertaining = 0>>
+    <<set $steve.skills.talking = 0>>
+    <<set $steve.skills.commanding = 0>>
+    <<set $steve.stamina = 0>>
+    <<set $steve.refraction = 0>>
+    <<set $steve.cockSize = 0>>
+    <<set $steve.sexperience = 0>>
+<</if>>
+<</nobr>>\

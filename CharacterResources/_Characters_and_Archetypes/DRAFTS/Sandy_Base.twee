@@ -1,0 +1,141 @@
+/*
+    Sandy is a 23 year old young woman.
+    She is an average sized, average weight, milky skinned, dark and long haired, pretty woman. (Sarah Shevon)
+    She has green eyes, pouty lips and modest breasts.
+    She runs to keep in shape, but she dislikes it.
+    She has a lot of energy, but prefers to channel it to understand people and manipulate them. She spends time studying and perfecting herself.
+    She is a keen observer of people.
+    Her hobbies include singing (mostly to herself), writing (erotica, mostly) and reading.
+    She moved into town to escape a father that could actually manipulate and dominate her. She learned a lot from him and somewhat fears him.
+    She had few liberties growing up and few friends (her father kept her isolated and controlled), that is why she keeps to herself and has mostly solitary hobbies.
+    She enjoys going to clubs to people-watch. Also, she goes to those to *hunt* for sex partners.
+    She is studying medicine to exercise psychiatry.
+    She is curious about magic.
+    She is driven and smart and morally flexible. She has gained some contacts that can deal in *magic* for her.
+    She has tried pussy and cock and prefers cock. But she found that she is mostly turned on by feeling dominant.
+
+    Sandy is smart, a cynic, tough and spiritual woman.
+    She is aloof, arrogant and reserved.
+
+    She would prefer more material pleasures, but she is willing to do with less to get more power over people.
+
+    She is only interested in casual sex, afraid of feeling "caught" (imprisoned) if she got into a relationship.
+    She learned sex like she learned most other things. She is great at it because she applies herself to it.
+    She is a great kisser (having manipulated a few female friends into practicing with her and teaching her from their experiences).
+    She has some practice with fellatio (but not that much), a little more with cunnilingus and none with analingus.
+    She is only okay at masturbating. She gets a lover almost whenever she wants.
+    She has *great* handjob experience. She finds it helps her manipulate men. The same with fingering (besides, it is easier to learn).
+    She has limited experience with breast play. Besides, her breasts are small.
+    She has good experience with vaginal penetration (using strapons) and can actually give a male some pointers.
+    She has some experience with penetrating asses, but she intends to get great at it. She has almost no experience with anal, herself. She finds it demeaning and only tried to learn what it felt like.
+    She has limited bondage experience (not interest in submitting), but a LOT of acting experience.
+
+    She has a healthy libido/sex drive and not much stimulus during her day.
+
+    Her average day does not make her happy, nor upset.
+
+    She has no brothers and sisters, but she has a few friends (whom she thinks of as chess pieces) and a single female young protege whom she genuinely likes (whom she sometimes calls "little sister").
+
+    ** Regarding her roommate:
+    She feels some intimacy. She allowed herself to reveal some likes and dislikes.
+    She has some Trust. Believes the other will behave in socially acceptable ways even if there are no other people around and that the other will keep their word out of principle.
+    She has little desire for him. A little less than for most men.
+    She has very little love for him and very little hatred as well.
+    She finds him lazy, weak and useful.
+
+
+
+* Basic interactions are:
+- Learn more about her.
+- Change her.
+- Enjoy her.
+- Please her.
+* All of the above will be capped by current stats and storylines based on the character themself, the protagonist and other characters.
+* Requirements to influence (may be a combination of those):
+- Relationship changes (such as Intimacy, Worthiness, Love or Fear).
+- Feelings change (such as Happiness, Horniness or Willpower).
+- Skills (such as Dominant Personality or Seductive Personality or Hypnosis).
+- Resources (such as Willpower or Drug Vials).
+
+
+STEPS
+- Learn more about her (???what?) (this is not learnt by talking with her.)
+- Demand wardrobe change.
+    -- She does, while mouthing off.
+- Break her spirit to TAME her. (???what action? Something after learning more about her.)
+- Learn more about her (???what?) (this is not learnt by talking with her.)
+- Break her spirit to TAME her. (???what action? Something after learning more about her.)
+- Be nice to her. (???doing what?)
+    -- She opens up as a consequence and tells you something. (???reveals what?)
+- Break her spirit some more.
+    -- She becomes respectful.
+- Demand nudity.
+    -- Get exposed breasts.
+    -- It breaks her further.
+
+- 
+
+
+
+
+    Hello, dipshit! // Wanker, asswipe, moron, idiot
+    Hello, loser... // creep.
+    Hello, name. // there, roomate
+    Hello, roomie. // you, short-name
+    Hello, darling. // love, sweetie
+    Hello, tiger. // you
+    Hello, lover. // hotstuff
+    Hello, sir. // Mr name.
+    Hello, master. // my owner
+    Hello, pussydestroyer. // assfucker
+
+    What do you want?
+    What is it?
+    What may I do for you?
+    How my I serve you?
+
+    Are you here to humiliate yourself?
+    Are you here to be more pathetic?
+    Are you here for me?
+    Are you here to hurt me?
+    Are you here to fuck me?
+
+    How stupid are you?
+        I will never do anything with you!
+    Are you crazy?
+        I will not do it!
+    Who do you think I am?
+        I can't do it!
+    A- alright.
+    If you say so.
+    As you wish.
+    Yes, sir.
+
+
+    She looks you straight in the eye as she puts a hand over your cock.
+    She grabs you firmly and squeeze a little bit.
+
+    She sits on the edge of the bed and gingerly touches your cock.
+    She rubs it lightly.
+
+    She kneels down and puts a hand gently over your cock.
+    She caresses it lovingly.
+*/
+
+::Sandy - Initialization
+<<nobr>>
+    <<set $sandy = new Character("Sandy", "Sandra", "Tompkins")>>
+    <<set $sandy.uniqueID = uniqueCharacterID($sandy.name)>>
+    <<set $sandy.toString = function() { return $sandy.uniqueID }>>
+    <<run $sandy.setGender("female")>>
+    <<set $sandy.age = 23>>
+    <<set $sandy.ageGroup = "YoungAdult">>
+    <<set $sandy.talkStyleClass = "sandy_talk">>
+    <<set $sandy.relationships = {}>>
+<</nobr>>
+
+::Sandy - Profile
+<<set _roommate = $sandy.relationships.roommate>>\
+$sandy.name is a young woman who recently moved into town. She shares a nice house with _roommate.name.
+
+::Sandy - Personal Activities

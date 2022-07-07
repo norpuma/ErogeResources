@@ -1,0 +1,111 @@
+Look at you, down there! You are ridiculous! You are a pathetic, subservient - subHUMAN - creature. Now you know it. Now you accept it. But you didn't always see yourself like that.
+
+I want you to entertain me. I want you to remind me how you came to be here, in this state.
+
+First, tell me, when this all started how old were you?
+- I was a teenager. I was 18.
+- I was a young man. I was 25.
+- I was a mature man. I was 38.
+
+In those private moments, when you can dream, when you can indulge in some baseless fantasies. What do you dream of?
+- Pussy! I dream of pussy!
+
+Do I detect a nervous tone in your voice? Don't you DARE lie to me! Do you drea of pussy or do you dream of her rubber dick, of her using it on you?
+- I dream of pussy. Only of pussy, I swear (disable pegging).
+- I- I sometimes- I dream of that too...
+
+You are a worm. You are inferior. Almost any creature is your superior. What is the group at the top, though?
+- B- Black men. Black men with big black cocks.
+- Mistresses. Superior women are at the top.
+
+Who should we talk about first, then?
+- Becky, a teenager.
+- Courtney, a young woman
+- Nela, a mature woman
+- Tyrone, a black man
+
+And, at the time, who did you see her as?
+- She was family.
+- We were in a relationship.
+- We were in a professional relationship.
+- We barely knew one another.
+
+Who did you have your eyes on, at the time?
+- Dannie (name her)
+
+When it all started, were you in a relationship?
+- N- No, I was single.
+- I- I- I... I was in a relationship, yes.
+
+Where did this story start?
+- At home
+- At school
+- At work
+
+
+
+AFTER INTRO:
+- $ protagonist.age == 18
+    - protagonist.submissive_desire == pussy
+        - protagonist.supreme_superiors == BBC
+        - protagonist.supreme_superiors == Femdom
+        
+        - story.main_location == home
+            - protagonist.main_relationship == nice_cousin_or_sister{teen; family; sweet}
+            - protagonist.main_relationship == evil_cousin_or_sister{teen; family; bitchy}
+            - protagonist.main_relationship == girlfriend{teen; relationship}
+            - protagonist.main_relationship == house_maid{teen; professional}
+            - protagonist.main_relationship == neighbor{teen; virtual_unknown}
+            - protagonist.main_relationship == nice_cousin_or_sister{young_adult; family; nice}
+            - protagonist.main_relationship == evil_cousin_or_sister{young_adult; family; bitchy}
+            - protagonist.main_relationship == nice_step_mom_or_aunt{mature; family; nice}
+            - protagonist.main_relationship == evil_step_mom_or_aunt{mature; family; bitchy}
+        - story.main_location == school
+            - Becky + Family + Sweet = timid nerd
+            - Becky + Family + Bitchy = cheerleader
+            - Becky + Professional = bully
+        - story.main_location == workplace
+        
+        
+        - Courtney + Family + Nice = cousin or sister
+        - Courtney + Family + Bitchy = cousin or sister
+        - Courtney + Professional = young teacher
+        - Courtney + Barely = barista
+        
+        - Nela + Family + Nice = step-mom or aunt
+        - Nela + Family + Bitchy = step-mom or aunt
+        - Nela + Professional = teacher or principal
+        - Nela + Barely + Nice = friend's mom or neighbor
+        - Nela + Barely + Bitchy = crush's mom
+        
+        - Tyrone + Family = cousin moving into town, into home and into school OR uncle
+        - Tyrone + Professional = Teacher or bully
+        - Tyrone + Barely = school star athlete or mom's/aunt's new boyfriend
+    - protagonist.submissive_desire == strapon
+        - protagonist.supreme_superiors == BBC
+        - protagonist.supreme_superiors == Femdom
+- $ protagonist.age == 25
+    - protagonist.submissive_desire == pussy
+        - protagonist.supreme_superiors == BBC
+        - protagonist.supreme_superiors == Femdom
+    - protagonist.submissive_desire == strapon
+        - protagonist.supreme_superiors == BBC
+        - protagonist.supreme_superiors == Femdom
+- $ protagonist.age == 38
+    - protagonist.submissive_desire == pussy
+        - protagonist.supreme_superiors == BBC
+        - protagonist.supreme_superiors == Femdom
+    - protagonist.submissive_desire == strapon
+        - protagonist.supreme_superiors == BBC
+        - protagonist.supreme_superiors == Femdom
+
+
+
+
+
+Nowadays, who owns you? Tell me.
+
+- A- A black man.
+- Mistress. Mistress owns me.
+- I'm- I must obey whoever commands me. I'm freeuse.
+

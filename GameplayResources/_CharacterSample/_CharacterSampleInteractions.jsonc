@@ -1,0 +1,28 @@
+
+{
+    "Interactions": [
+        {
+            "Identifier": "Compliments",
+            "Conditions": "",
+            "ConditionalFunction": "${characterPrefix}_compliments_interaction_possible_check",
+            "Presence": "required", // Must be one of "required", "allowed", "not_required", "not_allowed".
+            "TriggerText": "Compliment ${characterObject}.name.",
+            "InteractionLabel": "${characterPrefix}_Compliments",
+            "InteractionTextAndFunction": ""
+        },
+        {
+            "Identifier": "Talk",
+            "TriggerText": "Talk to ${characterObject}.name.",
+            "Presence": "required",
+            "ConditionalFunction": "",
+            "InteractionLabel": "${characterPrefix}_Talk"
+        },
+        {
+            "Identifier": "Phone_Message",
+            "TriggerText": "Send ${characterObject}.name a text.",
+            "Presence": "not_allowed",
+            "ConditionalFunction": "${characterPrefix}_phone_message_interaction_possible_check",
+            "InteractionLabel": "${characterPrefix}_Phone_Message"
+        }
+    ]
+}

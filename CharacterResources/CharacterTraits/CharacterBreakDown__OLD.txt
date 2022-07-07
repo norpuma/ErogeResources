@@ -1,0 +1,1051 @@
+Stats:
+    - Happy
+    - Worthiness-Traits, List of
+    - Characteristics
+    - Relationships
+        - Self-Worthiness-Traits, List of
+        - Others-Worthiness-Traits, List of
+    - Males: Time without erection after climax; self-control between stimulus and climax (longer is better).
+    - Females: Time between stimulus and climax (shorter is better); readiness (how much stimulus she needs to be wet and open, ready for rough); stamina (how long before she feels sore and doesn't want to have sex anymore).
+
+# Self-worth is how much character thinks they is important.
+    # Own (Self) Worthiness (list of Worthy and Unworthy Traits)
+# Others-worth is how much character thinks partner are important.
+    # Target Worthiness (list of Worthy and Unworthy Traits)
+
+Willpower
+Health
+
+
+# Personality:
+# Mood:
+## Overall:
+* These indicate the character's overall mood. They are formed by elements that decay over time.
+- Happy or Sad Elements
+- Calm or Angry Elements
+- Safe or Scarred Elements
+- Excited or Bored Elements
+- Horny or Disgusted Elements // At the midpoint the character is just "cold"
+- Stimulated or Tired Elements
+## Reactions:
+* These indicate how the character feels in a particular situation. They all reset at the end of the scene.
+- Engaged or Disinterested Elements
+- Emboldened or Humiliated Elements
+- Intimidated or Humbled Elements
+- Embarrassed or Reassured Elements
+# Relationship:
+## Mood:
+### Overall:
+* These indicate changes to the character's mood when they interact with the target of the relationship. They are formed by elements that decay over time.
+- Happy or Sad Elements
+- Calm or Angry Elements
+- Safe or Scarred Elements
+- Excited or Bored Elements
+- Horny or Disgusted Elements // At the midpoint the character is just "cold"
+- Stimulated or Tired Elements
+### Reactions:
+* These set Reactions to the character's Mood when they interact with the target of the relationship. They are formed by elements that decay over time.
+-- Engaged or Disinterested Elements
+-- Emboldened or Humiliated Elements
+-- Intimidated or Humbled Elements
+-- Embarrassed or Reassured Elements
+## Feelings
+- Is Romantic
+- Is Committed
+- Is Exclusive Romantic
+- Trust or Fear Elements
+- Love or Hatred Elements
+- Entitlement or Debt Elements
+- Envy or Pity Elements
+- Jealousy or Security Elements
+## Target Model
+- Is Romantic
+- Is Committed
+- Is Exclusive Romantic
+- Intimacy
+- Superior or Inferior Elements
+- Useful or Burden Elements
+### Consistency
+- Happy or Sad Elements
+- Calm or Angry Elements
+- Safe or Scarred Elements
+- Excited or Bored Elements
+- Horny or Disgusted Elements // At the midpoint the character is just "cold"
+- Stimulated or Tired Elements
+- Engaged or Disinterested Elements
+- Emboldened or Humiliated Elements
+- Intimidated or Humbled Elements
+- Embarrassed or Reassured Elements
+
+
+
+
+
+Attraction - Indifference - Revulsion
+Love - Indifference - Spite
+Submission - Rebellion - Dominance
+
+# Age Groups:
+- 18-20 - Teenager      - Girl    - Boy
+- 21-24 - Young Adult   - Hottie  - Hunk
+- 25-30 - Adult         - Babe    - Beefcake
+- 31-45 - Mature Adult  - MILF    - Silver Fox
+- 46... - Old           - Crone   - Geezer
+
+# Main Archetype Traits:
+## Gender__Female
+## Gender__Male
+## AgeGroup__Teenager
+## AgeGroup__Young_Adult
+## AgeGroup__Adult
+## AgeGroup__Mature
+## Confidence_Attitude__Timid
+## Confidence_Attitude__Confident
+## Confidence_Attitude__Proud
+## Confidence_Attitude__Arrogant
+## Confidence_Attitude__Superior
+## Confidence_Attitude__Submissive
+## Confidence_Feeling__Insecure
+## Confidence_Feeling__Confident
+## Confidence_Feeling__Inferior
+## Confidence_Feeling__Superior
+## Confidence_Feeling__Influenceable
+## Innocence__Innocent
+## Innocence_Attitude__Teasing
+
+## Attitude__Sweet
+## Attitude__Falsely_Sweet
+## Attitude__Nice
+## Attitude__Falsely_Nice
+## Attitude__Teasing
+## Attitude__Good_Natured
+## Attitude__Bitchy
+## Attitude__Sullen
+## Attitude__Aggressive
+## Attitude__Melancholic
+## Attitude__Manipulative
+## Attitude__Provocateur
+## Attitude__Uptight
+## Attitude__Falsely_Uptight
+## Attitude__Liberated
+## Attitude__Motherly
+## Attitude__Lazy
+## Attitude__Dreamer
+## Attitude__Strict
+## Attitude__Bully
+## Attitude__Vain
+## Attitude__Cold
+## Attitude__Judgemental
+## Attitude__Rebel
+## Attitude__Loner
+## Attitude__Professional
+## Attitude__Falsely_Professional
+## Attitude__Unprofessional
+## Attitude__Weak
+## Attitude__Jerk
+## Attitude__Bratty
+## Morality__Good_Natured
+## Morality__Evil
+## Morality__Well_Intentioned
+## Morality__Selfish
+## Morality__Cruel
+## Morality__Influenceable
+## Morality__Dreamer
+## Morality__Opportunistic
+## Morality__Professional
+## Morality__Unprofessional
+## Money__Poor
+## Money__Rich
+## Money__Well_to_Do
+## Smarts__Smart
+## Smarts__Vapid
+## Scheming
+## Focused
+## Strict_Educator
+## Magically_Manipulative
+## Irresistible_Charmer
+## Good_Looking
+## Wimp
+## Alpha
+## Lucky
+## Criminal
+## Drug_Dealer
+## Bad_Boy
+## Cute
+## Outcast
+## Sensual
+## Athlete
+## Bad_Student
+## Bad_Student_Trying_to_Improve
+## Sycophant_Follower
+## Horny
+## Powerful
+## Popular
+## Nerdy
+## Overconfident
+## Wallflower
+## Creepy
+## Femdom
+## Intent_on_Corrupting_Families
+## Company_Owner_Daughter
+## Hot
+## Reasonable
+## Ambitious
+## Trustworthy
+## Fit
+## Hung
+## Hotel_Guest
+## 
+## Job__Student
+## Job__Unemployed
+## Job__Too_Good_for_Job
+## Job__Heiress
+## Job__Menial_Job
+## Job__Dreamer
+## Job__Maid
+## Job__Vanity_Job
+## Job__Average_Job
+## Job__School_Staff
+## Job__Boss
+## Job__Company_Owner
+## Job__Office_Worker
+## Job__Secretary
+## Job__Driver
+## Job__Security
+## Job__Doorman
+## Job__Manager
+## Job__Hotel_Attendant
+
+
+
+# DESIRE THRESHOLDS:
+  ## Disgusted
+  ## Civilized Interaction Made Impossible
+  ## Making Out
+  ## Taking Initiative
+  ## Sex
+  ## Secret Relationship
+  ## Public Relationship
+  ## Long Term Relationship
+  ## Losing Control
+
+# TRAITS:
+  ## Traits can be OBSERVED or TESTED for.
+  ## Traits can be PHYSICAL, PERSONALITY, SOCIAL (status or standing) or HISTORIC (the character has done it in the past).
+    ### Most Obvious Traits are only obvious once the character is met face to face. Over an Internet chatroom or a phone conversation they may not be.
+  ## Traits can be OBVIOUS, VERIFIABLE (test once and be certain that it exists) and those are either INTRINSIC (once verified, they are unlikely to change) or TRANSITORY (can be tested several times and can change over time).
+    ### Characters (usually NPCs) test other characters (usually Protagonists) to find if they have certain Verifiable or Testable Traits.
+    ### Some Verifiable Traits may take more than a single test to verify (such as Smart or Adventurous).
+    ### A Trait, once observed, verified or tested may change Trust (so that the character will reveal more and become and increase Intimacy), Attraction and/or Respect.
+  ## Traits can be TRAINABLE, CONCEALABLE, FAKEABLE.
+  ## Traits can be SCALABLE (e.g.: age or height), meaning that one value precludes some others. Scalable Traits are also COMPARABLE (e.g.: "smarter", "taller"). When a Trait is sought or avoided by a character, it may be relative (such as "smarter" or "taller").
+  ## Any Trait may be a reason for Pride (positive or negative).
+  ## Traits may be governed by attributes (Pride, Fitness, Empathy, etc.).
+  ## A list of traits can be found below:
+    ### TRAIT__STRONG: Physical; Verifiable-Transitory (changes only after serveral weeks or momentous events, such as a car accident). OBS: Strong is a matter of demonstrations, while Muscled is a matter of appearance. Fit is more related to stamina than physical strength.
+    ### TRAIT__MUSCLED: Physical; Obvious. OBS: Strong is a matter of demonstrations, while Muscled is a matter of appearance. Fit is more related to stamina than physical strength.
+    ### TRAIT__FIT: Physical; Verifiable-Transitory (can change every week). Associated with Fit or Fitness attribute. OBS: Strong is a matter of demonstrations, while Muscled is a matter of appearance. Fit is more related to stamina than physical strength.
+    ### TRAIT__OUT_OF_SHAPE: Physical; Verifiable-Transitory (can change every week). Associated with Fit or Fitness attribute.
+    ### TRAIT__VERY_OUT_OF_SHAPE: Physical; Obvious. OBS: this often means fat. Associated with Fit or Fitness attribute.
+    ### TRAIT__BLACK_ETHNICITY: Physical; Obvious-Intrinsic.
+    ### TRAIT__LATINX_ETHNICITY: Physical; Obvious-Intrinsic.
+    ### TRAIT__ASIAN_ETHNICITY: Physical; Obvious-Intrinsic.
+    ### TRAIT__CAUCASIAN_ETHNICITY: Physical; Obvious-Intrinsic.
+    ### TRAIT__GORGEOUS_FACE: Physical; Obvious-Intrinsic.
+    ### TRAIT__ATTRACTIVE_FACE: Physical; Obvious-Intrinsic.
+    ### TRAIT__ORDINARY_FACE: Physical; Obvious-Intrinsic.
+    ### TRAIT__UGLY_FACE: Physical; Obvious-Intrinsic.
+    ### TRAIT__HIDEOUS_FACE: Physical; Obvious-Intrinsic.
+    ### TRAIT__BALD_HAIR: Physical; Obvious-Transitory. OBS: in some cases this will be Verifiable. Transitory because a character may shave their head.
+    ### TRAIT__BLOND_HAIR: Physical; Obvious-Transitory. OBS: Hair can be easily dyed.
+    ### TRAIT__DARK_HAIR: Physical; Obvious-Transitory. OBS: Hair can be easily dyed.
+    ### TRAIT__RED_HAIR: Physical; Obvious-Transitory. OBS: Hair can be easily dyed.
+    ### TRAIT__STYLED_HAIR: Physical; Obvious-Transitory. OBS: characters with bald Trait may still have styled hair with careful shaving and a beard.
+    ### TRAIT__LARGE_BREASTS: Physical; Obvious-Transitory.
+    ### TRAIT__SMALL_BREASTS: Physical; Obvious-Transitory.
+    ### TRAIT__SHAPELY_BUTT: Physical; Obvious-Transitory.
+    ### TRAIT__BIG_PENIS: Physical; Verifiable-Transitory.
+    ### TRAIT__SMALL_PENIS: Physical; Verifiable-Transitory.
+    ### TRAIT__TEEN: Physical; Obvious-Transitory. Associated with Age attribute.
+    ### TRAIT__YOUNG_ADULT: Physical; Obvious-Transitory. Associated with Age attribute.
+    ### TRAIT__ADULT: Physical; Obvious-Transitory. Associated with Age attribute.
+    ### TRAIT__MATURE: Physical; Obvious-Intrinsic. Associated with Age attribute.
+    ### TRAIT__OLD: Physical; Obvious-Intrinsic. Associated with Age attribute.
+    ### TRAIT__TALL: Physical; Obvious-Intrinsic.
+    ### TRAIT__SHORT: Physical; Obvious-Intrinsic.
+    #*** Ethnicity/Exotic: Physical; Obvious; *this is in reference to the character or the local society, so, it may mean black, latino, asian or even caucasian.
+    ### TRAIT__STYLISH: Physical; Verifiable-Intrinsic. This Trait identifies someone who dresses well.
+    ### TRAIT__WELL_DRESSED: Physical; Obvious-Transitory. This Trait identifies someone who is *currently* well dressed.
+    ### TRAIT__CARELESS_DRESSER: Physical; Verifiable-Intrinsic.
+    ### TRAIT__UNKEMPT: Physical; Obvious-Transitory. This Trait identifies someone who doesn't take care of their appearance: bad hair, bad beard, bad clothes.
+    ### TRAIT__GOOD_SMELL: Physical; Verifiable-Transitory.
+
+    #*** Status/Exotic: Social; Verifiable; *this is in relation to the character or the local society (e.g. poorer, richer).
+    ### TRAIT__WEALTHY: Social; Verifiable-Transitory.
+    ### TRAIT__ECONOMICALLY_SELF_SUFFICIENT: Social; Verifiable-Transitory.
+    ### TRAIT__ECONOMICALLY_STABLE: Social; Verifiable-Transitory. This Trait usually represents money and/or job stability.
+    ### TRAIT__ECONOMICALLY_DEPENDENT: Social; Verifiable-Transitory. This Trait represents someone who depends on someone else to sustain them, usually a parent or other family member.
+    ### TRAIT__POOR: Social; Verifiable-Transitory. Financially struggling.
+    ### TRAIT__FAMOUS: Social; Obvious-Transitory.
+    ### TRAIT__TREND_SETTER: Social; Verifiable-Transitory. This is someone who is influential, who has influence over a category of people.
+    ### TRAIT__POWERFUL: Social; Verifiable-Transitory. This Trait represents social power, usually coming from a place of authority, or simply authority over a small group of people (such as school students).
+    ### TRAIT__PROFESSIONALLY_ACCOMPLISHED: Social; Verifiable-Transitory. This Trait represents someone who is recognized, at least among their peers, as an accomplished ofr very successful professional.
+    ### TRAIT__CRIMINAL: Social; Verifiable-Transitory. This Trait represents social status (or stigma). Being proven innocent - or convincing someone of their innocence - can remove this Trait.
+    ### TRAIT__SLAVE_TRADE_PROFESSIONAL: Social; Verifiable-Transitory. This Trait is attributed to slave hunters, slave trainers or slave salespeople.
+    ### TRAIT__SLAVE_OWNER: Social; Verifiable-Transitory.
+    ### TRAIT__SLAVE: Social; Verifiable-Transitory.
+
+
+    ### TRAIT__SECRET_CUCKOLD: Historic; Verifiable-Transitory. This Trait is gained by a character when someone discovers they are a cuckold, but the information is not widespread.
+    ### TRAIT__SECRET_CHEATER: Historic; Verifiable-Transitory. This Trait is gained by a character when someone discovers they are a cheater, but the information is not widespread.
+    ### TRAIT__PUBLIC_CUCKOLD: Historic; Verifiable-Intrinsic. This Trait is gained when the information that someone is a cuckold becomes widespread.
+    ### TRAIT__PUBLIC_CHEATER: Historic; Verifiable-Intrinsic. This Trait is gained when the information that someone is a cheater becomes widespread.
+
+    # Age/Younger: Physical; Obvious.
+    # Age/Older: Physical; Obvious.
+    # Age/Same_Age_Group: Physical; Obvious.
+    # Height/Taller: Physical; Obvious.
+    # Height/Shorter: Physical; Obvious.
+    
+    # Intelligence/Smart: Personality; Verifiable.
+    # Intelligence/Vapid: Personality; Verifiable.
+    # Intelligence/Naive: Personality; Verifiable.
+    # Intelligence/Gullible: Personality; Verifiable.
+    # Intelligence/Weak_Willed: Personality; Verifiable.
+    # Outlook/Adventurous: Personality; Verifiable.
+    # Outlook/Optimistic: Personality; Verifiable.
+    # Outlook/Realistic: Personality; Verifiable; *actually, most people consider pessimistic people, realistic and they sometimes prefer them to optimists, which they think do not face reality.
+    # Outlook/Conformist: Personality; Verifiable.
+    # Outlook/Rebel: Personality; Verifiable.
+    # Outlook/Materialist: Personality; Verifiable.
+    # Outlook/Hedonist: Personality; Verifiable.
+    # Outlook/Spiritualist: Personality; Verifiable.
+    # Sex_Related/Often_Horny: Personality; Verifiable.
+    # Sex_Related/Sex_Obsessed: Personality; Verifiable.
+    # Sex_Related/Pervert: Personality; Verifiable.
+    # Sex_Related/Sexual_Deviant: Personality; Verifiable.
+    # Jealousy/Non_Jealous: Personality; Verifiable; *when looking for this Trait, a character wants to be able to flaunt their sexuality and use their sensuality.
+    # Jealousy/Very_Jealous: Personality; Verifiable; *extremely jealous or possessive.
+    # Quality/Creative: Personality; Verifiable.
+    # Quality/Sensitive: Personality; Verifiable.
+    # Quality/Artistic: Personality; Verifiable.
+    # Quality/Professionally_Talented: Personality; Verifiable.
+    # Quality/Good_Listener: Personality; Verifiable.
+    # Quality/Pays_Attention_to_What_is_Said: Personality; Verifiable.
+    # Quality/Fashion_Attentive: Personality; Obvious.
+    # Quality/Appearance_Conscientious: Personality; Obvious.
+    # Empathy/Caring: Personality; Verifiable.
+    # Empathy/Uncaring: Personality; Verifiable.
+
+    # Attitude/Patient: Personality; Verifiable.
+    # Attitude/Sportsy: Personality; Verifiable.
+    # Attitude/Protective: Personality; Verifiable.
+    # Attitude/Daring: Personality; Verifiable.
+    # Attitude/Polite: Personality; Verifiable.
+    # Attitude/Offensive: Personality; Verifiable.
+    # Attitude/Demeaning: Personality; Verifiable.
+    # Attitude/Curious: Personality; Verifiable.
+    # Attitude/Nosy: Personality; Verifiable.
+    # Attitude/Innocent: Personality; Verifiable.
+    # Attitude/Charms_Resistant: Personality; Verifiable. *Someone able to resist the actor's charms.
+    # Niceness/Aggressive_in_Public: Personality; Verifiable.
+    # Niceness/Cruel_in_Public: Personality; Verifiable; *cruel or mean.
+    # Niceness/Nice_in_Public: Personality; Verifiable.
+    # Niceness/Nice_in_Private: Personality; Verifiable.
+    # Niceness/Cruel_in_Private: Personality; Verifiable.
+    # Niceness/Aggressive_in_Private: Personality; Verifiable.
+    # One_on_One/Suffocating: Personality; Verifiable.
+    # One_on_One/Dedicated: Personality; Testable; *attentive or generous (e.g. lots of gifts and time).
+    # One_on_One/Devoted: Personality; Testable.
+    # One_on_One/Romantic: Personality; Verifiable.
+    # One_on_One/Careless: Personality; Verifiable.
+    # One_on_One/Cold: Personality; Verifiable.
+    # Confidence/Confident: Personality; Verifiable. *both in public and in private
+    # Confidence/Insecure: Personality; Verifiable; *reluctant, but obedient.
+    # Confidence/Confident_in_Public: Personality; Verifiable.
+    # Confidence/Insecure_in_Private: Personality; Verifiable.
+    # Flamboyance/Discreet: Personality; Verifiable; *includes homosexuals not coming out.
+    # Flamboyance/Strutting: Personality; Obvious; *proud of their appearance or status and showing it.
+    # Flamboyance/Vain: Personality; Verifiable; *very concerned about their appearance.
+    # Dominance/Dominating_in_Private: Personality; Verifiable.
+    # Dominance/Submissive_in_Private: Personality; Verifiable.
+    # Dominance/Submissive_in_Public: Personality; Verifiable.
+    # Sex_Related/Flirty: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Sex_Related/Coy: Personality; Verifiable.
+
+    # Behavior/Male_Stereotype: Personality; Verifiable; *a little bad mannered (burping, truculent), a little sexist, and this may also applies to butch lesbians.
+    # Behavior/Sexist: Personality; Verifiable.
+    # Behavior/Slavery_Supporter: Personality; Verifiable.
+    # Behavior/Untrustworthy: Personality; Verifiable.
+    # Behavior/Trust_Betrayer: Historic; Verifiable.
+    # Behavior/Uncouth: Personality; Obvious. * bad mannered, lacking in social graces and finesse.
+    # Behavior/Militant_Lesbian: Personality; Obvious.
+    # Behavior/Militant_Feminist: Personality; Obvious.
+    # Behavior/Humble_in_Public: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Behavior/Humble_in_Private: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Behavior/Courageous: Personality; Verifiable.
+    # Behavior/Coward: Personality; Verifiable.
+    # Behavior/Dominant: Personality; Verifiable.
+    # Behavior/Generous: Personality; Verifiable.
+    # Behavior/Helpful: Personality; Verifiable.
+    # Behavior/Seductive: Personality; Verifiable. *good at showing their qualities, especially sexual ones.
+    # Behavior/Star_Struck: Personality; Verifiable.
+    # Behavior/Submissive: Personality; Verifiable.
+    # Behavior/Teasing: Personality; Verifiable. *hints at sexy but denies; "just a tease"
+
+    # Talking/Entertaining: Personality; Verifiable.
+    # Talking/Argumentative: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Tongue_Tied: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Silent: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Persuasive: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Smooth: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Crude: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Boastful: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Experience/Inexperienced: Personality; Verifiable.
+    # Experience/Experienced: Personality; Verifiable.
+    # Autonomy/Dependent_in_Private: Personality; Verifiable.
+    # Autonomy/Dependent_in_Public: Personality; Verifiable.
+    # Autonomy/Independent_in_Public: Personality; Verifiable.
+    # Autonomy/Independent_in_Private: Personality; Verifiable.
+
+
+    # Sex_Related/Sexually_Unsatisfying: Historic; Verifiable.
+    # Sex_Related/Oral_Sex_Skilled: Historic; Verifiable.
+    # Sex_Related/Sexually_Satisfying: Historic; Verifiable.
+    # Sex_Related/Sexually_Challenging: Historic; Verifiable. *challenges the actor sexually, making them push their boundaries
+    
+    # Quality/Protector: Historic; Verifiable.
+    # Quality/Useful: Historic; Verifiable.
+    # Quality/Useless: Historic; Verifiable.
+    # Quality/Complimentary: Historic; Verifiable.
+    # Quality/Sharp_Tongued: Historic; Verifiable. *Smart_Insults and/or Convinced_with_Arguments
+    # Quality/Smooth_Tongued: Historic; Verifiable. *Smooth_Compliments and/or Convinced_with_Arguments
+    # Quality/Frequent_Gifter: Historic; Verifiable. *gives many gifts
+    # Quality/Great_Gifter: Historic; Verifiable. *gives preferred gifts
+    # Quality/Provider: Historic; Verifiable. *gives expensive gifts and/or takes on expensive dates
+    # Quality/Smooth_Tongued: Historic; Verifiable. *Smooth_Compliments and/or Convinced_with_Arguments
+    # Quality/Violent: Historic; Verifiable.
+    # Quality/Fearsome: Historic; Verifiable.
+    # Quality/Skilled: Historic; Verifiable. *must be associated with some specific skill (videogames, guitar, massage, cooking, etc.)
+
+# PROMPTS:
+  ## Prompts are ways a character (the prompter) can try to have another (the actor) take an Action.
+  ## A Prompt may be for an actor to act directionless or it may direct the action against a target (which may be the actor themself, the prompter or a third party).
+    ### Begging.
+    ### Requesting ("Could we/I/you...").
+    ### Offering ("Do you want...")
+    ### Suggesting ("You should...").
+    ### Inviting ("Do you want to...").
+    ### Commanding.
+    ### Acting (without waiting for consent).
+  ## A prompt will have one of the following results:
+    ### Want
+    ### Comply
+    ### Resist
+    ### Complain
+    ### Protest
+    ### Resist (may underperform)
+
+# REACTIONS:
+  ## Being exposed to Traits can cause Reactions.
+  ## Performing Actions can cause Reactions.
+  ## Witnessing Actions can cause Reactions.
+  ## Being Prompted to take Actions can cause Reactions.
+  ## Being the target of Actions can cause Reactions.
+  ## Reactions do not excluse each other (a character may be disgusted and stimulated by someting at the same time).
+  ## Reactions may be changes to Feelings, Relationship and even Personality (consider Pride, Preferences and Convictions).
+  ## A list of Reactions can be found below:
+    ### Disgust (strong disgust causes feelings of sickness and throwing up)
+    ### Embarrassment (sense of humiliation)
+    ### Sexual stimulus (excitement or cooling down)
+    ### Hatred (angry as temporary hatred)
+    ### Love
+    ### Amusement
+    ### Respect stimulus (approval or disapproval)
+    ### Satisfaction stimulus (approval or disapproval)
+    ### Happiness stimulus (delights or upsets)
+    ### Need (as in addiction)
+    ### Intimate (intimacy increase)
+    ### Debt (indebted or entitled)
+    ### Worthiness (worthier or unworthier)
+    ### Fear (afraid or safe)
+    ### Health (harmed/hurt or healed)
+
+# (Upsetting) Angry, Upset / Happy
+# (Satisfying) Dissatisfied / Satisfied with interactor
+# (Scary) Scarred / Calm
+# (Tempting) Desirous / Disgusted
+# (Exciting) Horny / Cold
+# (Stimulating) Stimulated / Bored
+# (Humiliating) Humiliated / Proud
+# (Hurting) Hurt / Healthy
+# (Engaging) Disinterested / Engaged
+# (Embarrassing) Embarrassed / Emboldened
+
+
+
+
+# To determine *want*:
+## Check how liberal the act seems to be.
+## Check how liberal the character is.
+## Check mood.
+## Check level of relationship.
+## Check if the interactor is stimulating (LibidoElements with Horny components associated with the interactor).
+## Check if the act is a turn on (or a turn off) (LibidoElements with Horny components associated with the act).
+## Check if the act WILL BE stimulating (or repulsive) (LibidoElements with Stimulating components associated with the act).
+## Check circumstances (in public, with witnesses, etc.).
+## Check if the act will make the actor happy (if it is something they like). Check if the act will make the actor unhyappy (if it is something they dislike).
+## Check how amoral the act seems to be.
+## Rules: They think it is wrong (ethics, social mores, taboos) (moral CONVICTIONS).
+## Un-Happiness: They will get unhappy/upset by doing it.
+## Embarrassment: They have a strong taboo against it (shame CONVICTIONS).
+## Contempt/Spite: They think it will make whoever is making the demand happy and they want them unhappy.
+
+
+# To determine accept:
+## Check if interactor is Begging/Requesting
+## Check if interactor is Suggesting
+## Check if interactor is Commanding
+## Check if interactor is Acting
+
+
+# To determine accept Begging/Requesting: # Interactor is saying "Please, if you would, could you do X" / "I would like you to do X"
+## Check *want*.
+## Check empathy.
+## Check satisfaction with interactor.
+## Check gratitude to interactor.
+## Check love for interactor.
+## Check compensation (promises).
+
+# To determine accept Suggesting: # Interactor is saying "I think it would be a good idea to do X"
+## Check *want*.
+## Check trust for interactor.
+## Check respect for interactor.
+
+# To determine accept Commanding: # Interactor is saying "I [command you to/demand that you] do X"
+## Check *want*.
+## Check trust for interactor.
+## Check respect for interactor.
+## Check fear of interactor.
+## Check gratitude for interactor.
+## Check threats (promises): physical pain; blackmail.
+## Check compensation (promises): monetary payment; addiction fulfillment.
+
+# To determine Acting: # Interactor is not saying anything, just expecting the character to not resist.
+## Check *want*.
+## Check trust for interactor.
+## Check respect for interactor.
+## Check fear of interactor.
+## Check gratitude for interactor.
+## Check threats (promises).
+
+
+# ACTIONS:
+  ## Some Actions are Events (meaning they may be repeated and their effects are not long lasting) or they may be Accomplishments (it only matters if they happen once and their effects are usually long lasting). This may change from character to character.
+  ## Characters may want to Perform, Receive, Witness or Expose Actions.
+  ## Actions cause reactions.
+  ## Reactions may be new states of feelings and changes in relationship and even changes to personality (like preferences, pride and convictions).
+  ## Reactions may be dictated by witnesses, by the state of a relationship (friendship, family, courting, partners, engaged, married), by circumstances (in a public place, during foreplay, during sex), by the actor's current directionless feelings (mood, scarred, stimulated, etc.) and directed feelings to the target (satisfaction, respect, desire).
+  ## A list of Actions can be found below:
+    ### ACTION__???: .
+
+
+    # Convinced_with_Arguments
+
+
+    # Compliments/Non_Sexual
+    # Compliments/Sexual
+    # Compliments/Smart
+    # Compliments/Smooth
+    # Compliments/Crude
+    # Insult/Childish
+    # Insult/Sexual_Slur
+    # Insult/Strongly_Offensive
+    # Insult/Smart
+    # Gifts/Expensive
+    # Gifts/Inexpensive
+    # Gifts/Preferred
+    # Gifts/Hated
+    # Date/Expensive
+    # Date/Inexpensive
+    # Date/Preferred
+    # Date/Hated
+    # Social/Light_Humiliation
+    # Social/Heavy_Humiliation
+    # Boasting/Of_Humbleness
+    # Boasting/Of_Influence
+    # Boasting/Of_Niceness
+    # Boasting/Of_Power
+    # Boasting/Of_Sexual_Prowess
+    # Boasting/Of_Smartness
+    # Boasting/Of_Wealth
+    # Demonstration/Of_Confidence
+    # Demonstration/Of_Humbleness
+    # Demonstration/Of_Influence
+    # Demonstration/Of_Niceness
+    # Demonstration/Of_Power
+    # Demonstration/Of_Sexual_Prowess
+    # Demonstration/Of_Smartness
+    # Demonstration/Of_Wealth
+    # Teasing/Describing_Sex
+    # Teasing/Dirty_Talking
+    # Teasing/Stripping
+    # Dominance/Act_without_Consent
+    # Dominance/Command_Action
+    # Dominance/Ignore_Request
+    # Generosity/Offering
+    # Generosity/Offering_Expensive_Gift
+    # Generosity/Paying_Communal_Expense
+    # Submission/Begging
+    # Submission/Obeying_Command
+
+    # Sexual/Kissing
+    # Sexual/Groping
+    # Sexual/Exposure
+    # Sexual/Handjob
+    # Sexual/Titjob
+    # Sexual/Fingering
+    # Sexual/Fellatio
+    # Sexual/Cunnilingus
+    # Sexual/Analingus
+    # Sexual/Vaginal_Penetration
+    # Sexual/Semen_Covering
+    # Sexual/Semen_Swallwoing
+    # Sexual/Semen_Deposit (mouth, vagina, anus)
+    # Sexual/Pussy_Juice_Tasting
+    # Sexual/Anal_Penetration
+    # Sexual/On_Top
+    # Sexual/On_Bottom
+    # Sexual/Toys
+    # Sexual/Bondage
+    # Sexual/To_Climax
+    # Sexual/Slow_Sex
+    # Sexual/Fast_Sex
+    # Sexual/Rough_Sex
+    # Sexual/Deepthroat
+
+
+    # ???/Paid_Sex
+    # ???/Pain
+    # ???/Roleplaying
+    # ???/Self_Humiliation
+    
+
+
+
+
+
+non-attracted, anti-attracted
+within relationship, outside relationship
+
+
+
+    # Invitations/Sexual_Exposure
+    # Invitations/To_Act_Dominant
+    # Invitations/Public_Sex
+    # Invitation/Nakedness
+    # Invitation/Initiating_Sex
+    # Invitation/Partially_Clothed_Sex
+    # Invitation/To_Act_Teasingly
+    # Invitation/To_Act_Slutty
+    # Invitation/To_Seduce_Other
+    
+    # Innuendo/Invitation_to_Sex
+    # Innuendo/Big_Dick_Suggestion
+    # Innuendo/Pointing_Out_Big_Breasts
+    # Innuendo/Pointing_Out_Great_Ass
+    # Innuendo/Muscles_Suggestion
+
+
+
+# During Sex Turn-Ons: PAMPERING, SEXUAL_EXPOSURE (others aware of her masturbating or having sex), WITNESSED_MASTURBATION, WITNESSING_SEXUALITY (a voyeur), DOING_CUNNILINGUS, RECEIVING_CUNNILINGUS, FELLATIO, HER_BI_SEXUALITY, PAIN, LIGHT_HUMILIATION, HEAVY_HUMILIATION, BEING_A_DOM_TO_PARTNER, BEING_A_SUB_TO_PARTNER, HUMILIATING_PARTNER, BIG_DICKS, BIG_BREASTS, BREAST_PLAY, IMPREGNATION, SEX_WITH_STRANGERS, PUSSY_JUICE_TASTING (if she is not attracted to women, will mean she will taste her own), ANAL_SEX (She will be excited by it. If not properly trained, it will painful and hard and she may not cum - still turned on by it. If trained, she will cum. If embarrassed by it, she will resist, although clearly excited.), FETISH_SEX (including cosplay and role-play), SEX_TOYS, MONEY (turned on by thinking how much she will get / how much she is worth), INCESTUAL_EXPOSURE, INCESTUAL_SEX, SEMEN_TASTING, SEMEN_COVERING (in degrees: belly/back/stomach; breasts/buttocks; face), SEMEN_SWALLOWING, ASS_TO_MOUTH, CREAMPIES, CUCKOLDING, BEING_CUCKOLDED, EXOTIC_LOCATION (in public, on a yacht, in a plane, on top of a building, on a beach)
+
+    
+# During Sex Actions:
+# Performing or Receiving or Witnessing or Exposing
+## Talking-Crudeness, Talking-Roleplaying, Talking-Light_Humiliation, Talking-Heavy_Humiliation, Talking-Self_Humiliation, Talking-Sexual_Compliments, Talking-Power_Compliments, Talking-About_Money, Talking-About_Devotion, Talking-About_Fidelity, Talking-About_Gifts, Behavior-Dominant_Towards_Partner, Behavior-Dominant_Towards_Other, Behavior-Submissive_Towards_Partner, Behavior-Submissive_Towards_Other, Behavior-Suggesting_Acts, Behavior-Demanding_Acts, Behavior-Forcing_Acts, Act-Cunnilingus, Act-Climaxing, Act-Vaginal_Penetration, Act-Anal_Penetration, Act-Spanking, Act-Restraining_Partner, Act-Fellatio, Act-Titjob, Act-Slow_Sex, Act-Fast_Sex, Act-Rough_Sex, Act-Deepthroat, Act-Analingus, Act-Semen_Covering, Act-Semen_Swallowing, Pain-Inflicting, Pain-Suffering, Act-Breast_Play, Act-Creampie
+
+# During Sex Situations:
+## One_on_One-Having_Nakedness_Observed, One_on_One-Observing_Nakedness, One_on_One-Having_Sex, One_on_One-Observing_Sex, Public-Having_Nakedness_Observed, Public-Observing_Nakedness, Public-Having_Sex_Observed, Public-Observing_Sex, One_on_One-Having_Masturbation_Observed, One_on_One-Observing_Masturbation, Exclusivity-Performing_Cuckolding, Exclusivity-Being_Cuckolded, Exclusivity-Publicly_Performing_Cuckolding, Exclusivity-Having_Parnter_Observing_Cuckolding, Exclusivity-Publicly_Being_Cuckolded, One_on_One-Deviant_Sexuality_Observed*, 
+
+
+
+# Notes: One_on_One-Deviant_Sexuality_Observed (bi-sexuality, roleplaying, submissiveness, other)
+
+
+
+
+# HISTORY:
+  ## History holds accomplishments a character has done.
+  ## A list of general Accomplishments can be found below:
+    ### Actions/Persuaded: Accomplishments.
+    ### Actions/Protected: Accomplishments.
+    ### Actions/Helped_with_Tech: Accomplishments.
+    ### Other_Sexual/Excited: Accomplishments.
+    ### Other_Sexual/Willing_to_do_Oral: Accomplishments.
+    ### Other_Sexual/Great_at_Oral: Accomplishments.
+    ### Intercourse/Gave_Pleasure: Accomplishments.
+    ### Intercourse/Gave_Great_Pleasure: Accomplishments.
+    ### Relationships/Cuckold
+    ### Relationships/Cheater
+
+
+
+
+
+
+
+
+# FEELINGS:
+  ## Directed Feelings vs. General Feelings.
+
+
+# Willpower (refreshes 4 hours after last use; easier to force her willpower after her classes)
+# indebted_entitled (moves 1 closer to 0 every day)
+# Safe
+# Respect
+# Contempt
+# Feeling of target debt
+# Submissive
+# Dominating
+# Desire
+# Love
+# Hatred
+# Upset
+## Entitled/Indebted.
+## Romantic/Casual/Free.
+## Dominating/Submissive.
+## Prude/Slutty.
+## Attracted to men/women.
+## Frustration / Excitement.
+
+# From "BellMaster", "Levers":
+# Devotion: a result of romance and intimacy, how far she will go for a partner. Gifts, dates and conversations increase it. -> Love and Worthiness or Indebted.
+# Sexuality: how comfortable she is with her own body and sex kinks as well. -> By taboos, turn ons, etc.
+# Arousal: How turned on, how willing she is to initiate sexual activities. Governed by foreplay. -> Horny
+# Pleasure: How much she is enjoying sex.
+# Orgasm Strength
+
+
+
+
+## List of things that make the character feel happy.
+## List of things that make the character feel satisfied with partner.
+## List of things that make the character feel intimate.
+## List of things that turn the character on.
+## List of things that make the character feel indebted.
+## List of things that make the character feel entitled.
+## List of things that make the character feel worthy.
+## List of things that make the character feel safe.
+## List of things that make the character angry.
+## List of things that make the character feel afraid.
+## List of things that make the character feel unworthy.
+## List of things that make the character feel submissive.
+## List of things that make the character feel turned off.
+## List of things that make the character feel embarrassed.
+## List of things the character wants (mix of safe, intimate, turned on, confident).
+## List of things the character never even thought of.
+## List of things she cherishes (she can be blackmailed to avoid losing them).
+
+
+
+
+Traits:
+    > Traits can be Physical, Personality, Social or Historic (the character has done it in the past). Traits can be Obvious, Verifiable (test once and be certain that it exists) and those are either Intrinsic (once verified, they are unlikely to change) or Transitory (can be tested several times and can change over time).
+    > Characters (usually NPCs) test other characters (usually Protagonists) to find if they have certain Verifiable or Testable Traits.
+    > Most Obvious Traits are only obvious once the character is met face to face. Over an Internet chatroom or a phone conversation they may not be.
+    > Some Verifiable Traits may take more than a single test to verify (such as Smart or Adventurous).
+    > A Trait, once observed, verified or tested may change Trust (so that the character will reveal more and become and increase Intimacy), Attraction and/or Respect.
+    # Fitness/Strong: Physical; Verifiable;
+    # Fitness/Fit: Physical; Testable;
+    # Fitness/Out_of_Shape: Physical; Testable;
+    # Fitness/Very_Out_of_Shape: Physical; Obvious; *this often means fat.
+    # Ethnicity/Black: Physical; Obvious.
+    # Ethnicity/Latino: Physical; Obvious.
+    # Ethnicity/Asian: Physical; Obvious.
+    # Ethnicity/Caucasian: Physical; Obvious.
+    # Ethnicity/Exotic: Physical; Obvious; *this is in reference to the character or the local society, so, it may mean black, latino, asian or even caucasian.
+    # Appearance/Gorgeous_Face: Physical; Obvious.
+    # Appearance/Pretty_Face: Physical; Obvious.
+    # Appearance/Common_Face: Physical; Obvious.
+    # Appearance/Ugly_Face: Physical; Obvious.
+    # Appearance/Hideous_Face: Physical; Obvious.
+    # Appearance/Bald: Physical; Obvious; *in some cases this will be Verifiable.
+    # Appearance/Blond: Physical; Obvious.
+    # Appearance/Brunette: Physical; Obvious.
+    # Appearance/Redhead: Physical; Obvious.
+    # Appearance/Styled_Hair: Physical; Obvious. *bald may still style hair with careful shaving and a beard
+    # Appearance/Stylish: Physical; Obvious. *someone who dresses well
+    # Appearance/Unkempt: Social; Obvious. *bad hair, bad beard, bad clothes
+    # Appearance/Good_Smell: Social; Verifiable.
+    # Appearance/Muscled: Physical; Obvious.
+    # Appearance/Large_Breasts: Physical; Obvious.
+    # Appearance/Small_Breasts: Physical; Obvious.
+    # Appearance/Shapely_Butt: Physical; Obvious.
+    # Appearance/Big_Penis: Physical; Verifiable.
+    # Appearance/Small_Penis: Physical; Verifiable.
+    # Fashion/Butch_Lesbian: Physical; Obvious.
+    # Fashion/Very_Masculine: Physical; Obvious; *big mustache or strong beard, hairy chest, etc.
+    # Age/Younger: Physical; Obvious.
+    # Age/Older: Physical; Obvious.
+    # Age/Same_Age_Group: Physical; Obvious.
+    # Age/Teen: Physical; Obvious.
+    # Age/Young_Adult: Physical; Obvious.
+    # Age/Adult: Physical; Obvious.
+    # Age/Mature: Physical; Obvious.
+    # Age/Old: Physical; Obvious.
+    # Height/Tall: Physical; Obvious.
+    # Height/Short: Physical; Obvious.
+    # Intelligence/Smart: Personality; Verifiable.
+    # Intelligence/Vapid: Personality; Verifiable.
+    # Attitude/Adventurous: Personality; Verifiable.
+    # Attitude/Optimistic: Personality; Verifiable.
+    # Attitude/Realistic: Personality; Verifiable; *actually, most people consider pessimistic people, realistic and they sometimes prefer them to optimists, which they think do not face reality.
+    # Attitude/Patient: Personality; Verifiable.
+    # Attitude/Sportsy: Personality; Verifiable.
+    # Attitude/Protective: Personality; Verifiable.
+    # Attitude/Daring: Personality; Verifiable.
+    # Attitude/Polite: Social; Verifiable.
+    # Attitude/Offensive: Historic; Verifiable.
+    # Attitude/Demeaning: Historic; Verifiable.
+    # Attitude/Charms_Resistant: Historic; Verifiable. *Someone able to resist the actor's charms.
+    # Niceness/Aggressive_in_Public: Personality; Verifiable.
+    # Niceness/Cruel_in_Public: Personality; Verifiable; *cruel or mean.
+    # Niceness/Nice_in_Public: Personality; Verifiable.
+    # Niceness/Nice_in_Private: Personality; Verifiable.
+    # Niceness/Cruel_in_Private: Personality; Verifiable.
+    # Niceness/Aggressive_in_Private: Personality; Verifiable.
+    # One_on_One/Suffocating: Personality; Verifiable.
+    # One_on_One/Dedicated: Personality; Testable; *attentive or generous (e.g. lots of gifts and time).
+    # One_on_One/Devoted: Personality; Testable.
+    # One_on_One/Romantic: Personality; Verifiable.
+    # One_on_One/Careless: Historic; Verifiable.
+    # One_on_One/Cold: Personality; Verifiable.
+    # Confidence/Confident: Personality; Verifiable. *both in public and in private
+    # Confidence/Confident_in_Public: Personality; Verifiable.
+    # Confidence/Insecure_in_Private: Personality; Verifiable.
+    # Confidence/Insecure: Personality; Verifiable; *reluctant, but obedient.
+    # Flamboyance/Discreet: Personality; Verifiable; *includes homosexuals not coming out.
+    # Flamboyance/Strutting: Personality; Obvious; *proud of their appearance or status and showing it.
+    # Flamboyance/Vain: Personality; Verifiable; *very concerned about their appearance.
+    # Dominance/Dominating_in_Private: Personality; Verifiable.
+    # Dominance/Submissive_in_Private: Personality; Verifiable.
+    # Dominance/Submissive_in_Public: Personality; Verifiable.
+    # Behavior/Male_Stereotype: Personality; Verifiable; *a little bad mannered (burping, truculent), a little sexist, and this may also applies to butch lesbians.
+    # Behavior/Sexist: Personality; Verifiable.
+    # Behavior/Slavery_Supporter: Personality; Verifiable.
+    # Behavior/Untrustworthy: Personality; Verifiable.
+    # Behavior/Trust_Betrayer: Historic; Verifiable.
+    # Behavior/Uncouth: Personality; Obvious. * bad mannered, lacking in social graces and finesse.
+    # Behavior/Militant_Lesbian: Personality; Obvious.
+    # Behavior/Militant_Feminist: Personality; Obvious.
+    # Behavior/Humble_in_Public: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Behavior/Humble_in_Private: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Behavior/Courageous: Personality; Verifiable.
+    # Behavior/Coward: Personality; Verifiable.
+    # Behavior/Dominant: Personality; Verifiable.
+    # Behavior/Generous: Personality; Verifiable.
+    # Behavior/Helpful: Personality; Verifiable.
+    # Behavior/Seductive: Personality; Verifiable. *good at showing their qualities, especially sexual ones.
+    # Behavior/Star_Struck: Personality; Verifiable.
+    # Behavior/Submissive: Personality; Verifiable.
+    # Behavior/Teasing: Personality; Verifiable. *hints at sexy but denies; "just a tease"
+    # Sex_Related/Often_Horny: Personality; Verifiable.
+    # Sex_Related/Flirty: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Sex_Related/Sex_Obsessed: Personality; Verifiable.
+    # Sex_Related/Pervert: Personality; Verifiable.
+    # Sex_Related/Sexual_Deviant: Personality; Verifiable.
+    # Sex_Related/Coy: Personality; Verifiable.
+    # Sex_Related/Sexually_Unsatisfying: Historic; Verifiable.
+    # Sex_Related/Oral_Sex_Skilled: Historic; Verifiable.
+    # Sex_Related/Sexually_Satisfying: Historic; Verifiable.
+    # Sex_Related/Sexually_Challenging: Historic; Verifiable. *challenges the actor sexually, making them push their boundaries
+    # Jealousy/Non_Jealous: Personality; Verifiable; *when looking for this Trait, a character wants to be able to flaunt their sexuality and use their sensuality.
+    # Jealousy/Very_Jealous: Personality; Verifiable; *extremely jealous or possessive.
+    # Talking/Entertaining: Personality; Verifiable.
+    # Talking/Argumentative: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Tongue_Tied: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Silent: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Persuasive: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Smooth: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Crude: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Talking/Boastful: Personality; Verifiable; *this may, sometimes, be Obvious.
+    # Experience/Inexperienced: Personality; Verifiable.
+    # Experience/Experienced: Personality; Verifiable.
+    # Quality/Creative: Personality; Verifiable.
+    # Quality/Sensitive: Personality; Verifiable.
+    # Quality/Artistic: Personality; Verifiable.
+    # Quality/Professionally_Talented: Personality; Verifiable.
+    # Quality/Good_Listener: Personality; Verifiable.
+    # Quality/Pays_Attention_to_What_is_Said: Personality; Verifiable.
+    # Quality/Fashion_Attentive: Personality; Obvious.
+    # Quality/Appearance_Conscientious: Personality; Obvious.
+    # Quality/Protector: Historic; Verifiable.
+    # Quality/Useful: Historic; Verifiable.
+    # Quality/Useless: Historic; Verifiable.
+    # Quality/Complimentary: Historic; Verifiable.
+    # Quality/Sharp_Tongued: Historic; Verifiable. *Smart_Insults and/or Convinced_with_Arguments
+    # Quality/Smooth_Tongued: Historic; Verifiable. *Smooth_Compliments and/or Convinced_with_Arguments
+    # Quality/Frequent_Gifter: Historic; Verifiable. *gives many gifts
+    # Quality/Great_Gifter: Historic; Verifiable. *gives preferred gifts
+    # Quality/Provider: Historic; Verifiable. *gives expensive gifts and/or takes on expensive dates
+    # Quality/Smooth_Tongued: Historic; Verifiable. *Smooth_Compliments and/or Convinced_with_Arguments
+    # Quality/Violent: Historic; Verifiable.
+    # Quality/Fearsome: Historic; Verifiable.
+    # Quality/Skilled: Historic; Verifiable. *must be associated with some specific skill (videogames, guitar, massage, cooking, etc.)
+    # Autonomy/Dependent_in_Private: Personality; Verifiable.
+    # Autonomy/Dependent_in_Public: Personality; Verifiable.
+    # Autonomy/Independent_in_Public: Personality; Verifiable.
+    # Autonomy/Independent_in_Private: Personality; Verifiable.
+    # Wealth/Wealthy: Social; Verifiable.
+    # Wealth/Independent: Social; Verifiable.
+    # Wealth/Stable: Social; Verifiable; *money and/or job stability.
+    # Wealth/Dependent: Social; Verifiable.
+    # Wealth/Poor: Social; Verifiable; *financially struggling.
+    # Status/Famous: Social; Obvious.
+    # Status/Influential: Social; Verifiable.
+    # Status/Powerful: Social; Verifiable.
+    # Status/Exotic: Social; Verifiable; *this is in relation to the character or the local society (e.g. poorer, richer).
+    # Status/Professionally_Accomplished: Social; Verifiable.
+    # Status/Powerful: Social; Verifiable.
+    # Status/Criminal: Social; Verifiable.
+    # Status/Secret_Cuckold: Historic; Verifiable.
+    # Status/Secret_Cheater: Historic; Verifiable.
+    # Status/Public_Cuckold: Historic; Verifiable.
+    # Status/Public_Cheater: Historic; Verifiable.
+    # Status/Slave_Trade_Professional (slave hunter or slave trainer or slave salesperson)
+    # Status/Slave_Owner
+    # Status/Slave
+
+
+
+Convictions:
+    > Convictions may be changed by some Actions (or they may not be changeable except for Technomagic).
+    # 
+
+
+# Establishing rule.
+# Punishment.
+# Rewarding.
+
+
+
+# Punishments:
+## Disapproving words.
+## Harsh words.
+## Timeout.
+## Decreased allowance.
+## Removed item (cellphone, dildo).
+## Disliked assignment (house chores, sex training).
+## Spanking.
+## Electric pain.
+## Face slap.
+## Worsened accommodations / living space.
+## Confinement.
+## Lashing.
+## No food.
+## No water.
+## Punishing clothes - humiliation.
+## Punishing clothes - uncomfortable.
+## Humiliating nudity (in front of master, in front of everyone).
+## Chastity.
+## No contact with friends.
+## Forbidden speech.
+## Extended pain (wooden horse, wooden pegs, extended binding).
+## Forced sex.
+## Painful sex.
+
+# Rewards:
+## Nice time somewhere she likes (afternoon at the spa, dinner at a restaurant).
+## Kind, uplifting words/actions ("Wow! You are great!" or a sincere clap).
+## Kind, demeaning words ("Good girl!" or a pat on the head).
+## Non-sexually caress her / Massage.
+## Sex, to her preferences.
+## Sex, against her preferences.
+## Sexually caress her.
+## Transitory gift (chocolates, flowers).
+## New stuff non-sexual (new shoes, new clothes, new bag).
+## New stuff sexual (stripper new shoes, slut new clothes, sex toys).
+## Relaxation (encouragement to use the sauna or the pool or take a nap).
+## Drugs.
+## Better food.
+## Better accommodations / living space.
+## Preferred assignment.
+## Reinstate lost right (chastity/masturbation, food, contact with friends, speech, etc.).
+## Comfortable clothes (no enforced nudity).
+
+
+
+
+
+
+
+# Intimacy:
+    # How much the character feels the other knows them and how much more they are willing to reveal.
+    # Interacts with Trust. The character will only reveal more about themselves if they trust the other.
+    # Intimacy 0+: Talks about impersonal and public-knowledge subjects. The weather or work (if it is not sensitive).
+    # Intimacy 1+: Talks about non-compromising feelings. Likes and dislikes.
+    # Intimacy 2+: Talks about self, origins, family, etc.
+    # Intimacy 4+: Reveals minor key knowledge.
+    # Intimacy 6+: Talks about feelings.
+    # Intimacy 7+: Reveals key knowledge.
+    # Intimacy 8+: Talks about sex life.
+    # Intimacy 9+: Confesses kinks and taboos.
+    # Intimacy 10+: Reveals major key knowledge.
+# Trust:
+    # How much the character believes the other will not betray or hurt them.
+    # Also, how much the character believes the other will keep their word. If Trust is high and Afraid is high, only the word is trusted, but not the intentions.
+    # Trust usually starts at 1.
+    # Trust 0: Doesn't believe anything said, is sure the other has bad intentions towards them and will act on those on the first occasion.
+    # Trust 1: Believes the other will behave in socially acceptable ways, at least for as long as there are witnesses nearby and that the other will keep their word if it is not bothersome to do so.
+    # Trust 2: Believes the other will behave in socially acceptable ways even if there are no other people around and that the other will keep their word out of principle.
+    # Trust 3: Believes the other will behave to keep a minor secret safe.
+    # Trust 4: Believes the other will not act against their interest.
+    # Trust 5: Believes the other will not act against them even if they have power over them and interest in doing so.
+# Afraid:
+    # Afraid is affected by "Able to hurt them" + "Capable of hurting them" (already hurt them) + "Interested in hurting them" + "Willing to hurting them" + "Already been hurt" (by others, possibly)
+
+# Horny (depends on sex drives + a random modifier at every scene + story modifiers)
+# Stimulated # How close she is to an orgasm (climax_threshold). When sex starts, Horny is added to this. The value reached when she *reaches* her orgasm indicates orgasm potency (which may exceed climax_threshold). This assumes a girl starts sex with Horny=3 and gets 3 points of stimulus before climaxing.
+#curr_climax_threshold # This is the value "stimulated" must reach for a character to climax. It assumes they starts having sex at Horny=3 and gets 3 points of stimulus before climaxing. Willpower can temporarily increase this threshold. It can be permanently increased by different factors.
+            self.curr_climax_threshold = 6 # This is the value "stimulated" must reach for a character to climax. It assumes they starts having sex at Horny=3 and gets 3 points of stimulus before climaxing. Willpower can temporarily increase this threshold. It can be permanently increased by different factors.
+            # Horny 1+: She sometimes gets a distant stare. / He sometimes gets a distant stare.
+            # Horny 2+: She bites her lower lip when daydreaming. / He sometimes gets a distracted smile.
+            # Horny 3+: She is flushed. / Half-erection. He often adjusts his junk.
+            # Horny 4+: She unconsciously brushes her nipples or her crotch. / Erection. He sometimes makes a little grunt and pulls on his trousers to accommodate his penis.
+            # Horny 5+: She masturbates if left alone; also, she finds some arousal with any stimulus to her breasts (or some secondary erogenous area; she may suck on a finger, for instance). / He has serious trouble concentrating and will masturbate at the first occasion. He will grunt at any contact with his erogenous zones, instinctively humping any contact.
+            # Horny 6+: She gets wet when giving blowjobs. / Some pre-cum starts leaking.
+            # Horny 7+: She humps stuff is prevented from masturbating; also, she plays with her asshole when masturbating (or some third erogenous area; she may give herself pain (breast pinching, pussy slapping, etc.), for instance). / He is desperate for stimulus and a climax. Leaks pre-cum continuously. Secondary erogenous zones may cause a climax if over-stimulated.
+            # Horny 8+: She craves sexual stimulus and will attempt to flee a scene to masturbate - if prevented from doing it, she may admit her craving. / Any sexual stimulus will cause a near immediate climax.
+            # Horny 9+: She is driven crazy by need and will beg for a chance of release. / He will do anything to get release. He is long past begging.
+            # Horny 10+: She can cum from almost any kind of stimulus (no need to touch pussy and; anal, humiliating words, breast stimulus, tasting cum...). / Unbearable. A creature of sex. Cannot think or do anything outside seeking release.
+            # disgusted, cool, sated, tingly, tempted, excited, craving
+            self.horny = 1 # 0 to 10.
+            self.stimulated = 0 # How close she is to an orgasm (climax_threshold). When sex starts, Horny is added to this. The value reached when she *reaches* her orgasm indicates orgasm potency (which may exceed climax_threshold). This assumes a girl starts sex with Horny=3 and gets 3 points of stimulus before climaxing.
+
+
+            self.has_romantic_feelings = False # This is romantic, not merely sexual.
+            # This is sexual desire.
+            # Desire -5: Repulsed (cannot tolerate to look at character)
+            # Desire -3: Disgusted.
+            # Desire -1: Turn off.
+            # Desire 0: Indifferent. The same as for a doorknob.
+            # Desire 1: The same for any male.
+            # Desire 3+: Flushes in the target's presence.
+            # Desire 4+: When masturbating, she thinks of target.
+            # Desire 5+: She acts on her feelings. Trying to seduce the target. She uses innuendo and tries to seduce.
+            # Desire 7+: She admits her desire openly. If denied, she offers to "do stuff".
+            # Desire 8+: She will overcome her "embarrassments" to get more of the target.
+            # Desire 9+: She begs and humiliates herself for it. She may overcome a taboo.
+            # Desire 10+: She begs for anything, any kind of attention is good enough for her (anal, humiliation, etc).
+            self.desire = 0
+            # Love is an indication of how much and how often the character wants to see the target happy and how much she feels she should be responsible for it.
+            ## Love for: has no (has no desire of seeing the target happy), has very little, has little, has some, has much, is deeply in (feels a deep need to make the target happy herself).
+            self.love = 1 # 0 to 5
+            # Hatred is an indication of how much the character wants to see the target suffer.
+            ## Hatred of: has no, has very little, has a little, has some, has much, is deeply.
+            self.hatred = 0
+
+
+
+

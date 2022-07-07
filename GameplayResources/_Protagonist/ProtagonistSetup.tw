@@ -1,0 +1,118 @@
+::Protagonist Setup - Form Initialization
+<<nobr>>
+    <<set $protagonistForm = {}>>
+    <<set $protagonistForm.gender = "male">>
+    <<set $protagonistForm.relationToOwner = "nephew">>
+    <<set $protagonistForm.firstName = "Jake">>
+    <<set $protagonistForm.lastName = "Foster">>
+<</nobr>>
+
+::Protagonist Setup - Hotel Owner Defaults
+<<nobr>>
+    <<set $ownerFamilyName = "Carlson">>
+    <<set $hotelOwner = new BaseCharacter("Sarah", State.variables.protagonistForm.gender)>>
+    <<set $hotelOwner.names.last = $ownerFamilyName>>
+    <<set $hotelOwner.body = new CharacterBody($hotelOwner.toString(), "female", 38, "caucasian")>>
+
+    <<set $hotelOwner.personality = new CharacterPersonality($hotelOwner.toString())>>
+    <<set $hotelOwner.resources.fitness = 10>>
+    <<set $hotelOwner.resources.knowledge = 20>>
+    <<set $hotelOwner.resources.charm = 10>>
+
+    <<set $hotelOwner.mood = new CharacterMood()>>
+
+    <<set $hotelOwner.relationships = {}>>
+<</nobr>>
+
+::Protagonist Setup - In Character [background]
+<<include "Protagonist Setup - Hotel Owner Defaults">>\
+<<include "Protagonist Setup - Form Initialization">>\
+The phone rings several times, but no one picks up.
+
+A copule of minutes later, your phone rings and it is the person you were calling.
+
+@@.girl_talk;"Hello,"@@ you hear a young woman's voice on the other end. @@.girl_talk;"My name is Penny Angler, I missed a call and I am calling back. Is this about the Dreams Hotel? Are you the man I have been expecting to call?"@@
+
+<span id="level01_gender">\
+<<set _default_msg = "\"It is about the hotel, yes. And, yes, I am that man.\"">>\
+<<set _alt_msg = "\"It is about the hotel, yes. I am, however, the <i>woman</i> you should have been expecting to call.\"">>\
+<<link _default_msg>><<set $msg = _default_msg>><<replace "#level01_gender">><<include "Protagonist Setup - In Character - Level 02 - Name">><</replace>><</link>>
+/*<<link _alt_msg>><</link>>*/\
+@@.unavailableChoice;_alt_msg@@
+</span>\
+
+::Protagonist Setup - In Character - Level 02 - Name
+@@.protagonist_talk;$msg@@
+
+@@.girl_talk;"Good. Can you please confirm your name, then? Are you $protagonistForm.firstName?"@@
+
+<span id="level02_name">\
+<<set _default_msg = "\"That's right.\"">>\
+<<set _alt_msg = "\"No. You have the wrong name.\"">>\
+<<link _default_msg>><<set $msg = _default_msg>><<replace "#level02_name">><<include "Protagonist Setup - In Character - Level 03">><</replace>><</link>>
+/*<<link _alt_msg>><</link>>*/\
+@@.unavailableChoice;_alt_msg@@
+</span>\
+
+::Protagonist Setup - In Character - Level 03
+@@.protagonist;$msg@@
+
+@@.girl_talk;"Great. That is actually the name I had written down. The Hotel, previously owned by Abraham is now the property of Ms Sarah Carlson. Can you, please, confirm your relationship to Ms Carlson? Are you her nephew?"@@
+
+<span id="level03_relationship">\
+/*<label><<radiobutton "$protagonist.relationToOwner">>I am the owner.</label>
+<label><<radiobutton "$protagonist.relationToOwner">>I am the owner's son.</label>
+<label><<radiobutton "$protagonist.relationToOwner" checked>>I am the owner's nephew.</label>
+<label><<radiobutton "$protagonist.relationToOwner">>I am the owner's employee.</label>
+<label><<radiobutton "$protagonist.relationToOwner">>It's complicated.</label>*/\
+@@.unavailableChoice;I am the owner.@@
+@@.unavailableChoice;I am the owner's son.@@
+<<link "Yes, I am the owner's nephew.">><<set $msg = "\"Yes, I am the owner's nephew.\"">><<set $protagonistForm.relationToOwner = "nephew">><<replace "#level03_relationship">><<include "Protagonist Setup - In Character - Level 04 - The Form">><</replace>><</link>>
+@@.unavailableChoice;I am the owner's employee.@@
+@@.unavailableChoice;It's complicated.@@
+</span>\
+
+::Protagonist Setup - In Character - Level 04 - The Form
+@@.protagonist;$msg@@
+
+@@.girl_talk;"I'll write that down. Now, I can find you in an hour in front of the Dreams to give you the keys. The transferrence papers have already been filled out and sent to Ms Carlson. I will, however, need you to complete a last form with your information. The form is very comprehensive and it is required by the Council that you fill it out. See you later, Mr $protagonistForm.lastName. Bye!"@@
+
+A form appears in your phone. Most of the fields have already been filled, however, you can just fix whatever is wrong and send it back to the woman before going out to meet her.
+
+[[Complete the form.|Protagonist Setup - In Character - The Form]]
+
+::Protagonist Setup - In Character - The Form
+<h3>Basics</h3>
+<u>Name</u>: [$protagonistForm.firstName $protagonistForm.lastName]
+
+<u>Gender</u>: [$protagonistForm.gender]
+
+/* TODO: Replace this with a radiobutton group with different age groups. */\
+<u>Age</u>: 18
+
+[[Continue to Physical Attributes.|Protagonist Setup - In Character - Physical Attributes]]
+
+::Protagonist Setup - In Character - Physical Attributes
+<h3>Physical Attributes</h3>
+/* TODO: Replace this with a radiobutton group with different height groups depending on gender. */\
+<u>Height</u>: Short.
+
+/* TODO: Replace this with a radiobutton group with different height groups depending on gender. */\
+<u>Ethnic Group</u>: Caucasian.
+
+<u>Hair</u>:
+    - Length:
+    <span id="physical_hair_length">\
+    <<link "bald">><<set $protagonistForm.physical.hair.length = "bald">><<replace "#physical_hair_length">>[bald]<</replace>><</link>>
+    /*<<link "short">><<replace "#physical_hair_length">>[short]<</replace>><</link>>*/
+    [short]
+    <<link "long">><<set $protagonistForm.physical.hair.length = "long">><<replace "#physical_hair_length">>[long]<</replace>><</link>>
+    </span>
+    - Color:
+    [brown]
+
+<u>Eyes</u>: [brown]
+
+<<link "Continue." "Protagonist - Arriving at the Dreams Hotel for the First Time">><<run setProtagonistFormToSystem()>><</link>>
+
+[[Restart the Physical part of the form.|Protagonist Setup - In Character - Physical Attributes]]

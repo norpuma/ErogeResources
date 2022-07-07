@@ -1,0 +1,138 @@
+There are character.
+
+They have routines and events that happen.
+
+You are a demon, flitting around town, with a chance to change the characters and their stories.
+
+
+
+SCHOOL references:
+## Ann's School Days
+## Family Values: Corrupting people at school.
+## Outcast Academy: Voodoo Girls
+## Solvalley: Corrupting people at school.
+## Rogue-Like: 
+## Betrayed: For college character interactions.
+## Culture Shock: For college character interactions.
+## The Headmaster
+## Deviant Discoveries
+## Being ADIK
+## High School of Succubus
+## Diabolical Dr Diggler
+## OldSchool Blazin
+## The Sinner
+## A Spell for All
+## Become Someone: 
+## Perverted Education
+## Adventures of Tara
+## Cure My Addiction
+## Harem Hotel
+## LabRats 1: Corrupting a young, innocent girl; corrupting a motherly woman; corrupting a work colleague (and someone from a lab).
+## Man of the House: Corrupting a young girl; getting control of an abrasive girl.
+## Big Brother: Corrupting a young, innocent girl; getting control of an abrasive girl.
+## House Arrest: 
+## Because I Love Her: To model the girlfriend and the younger girl sharing the house.
+## Bastard Made Mom a Sex Slave
+
+
+
+
+# School Students:
+## M - Sub Student
+## M - Short Poolboy
+## M - School Bully
+## M - School Beefcake
+## M - Helpful School Guy
+## M - Mage Apprentice
+## M - Athletic School Guy
+## M - Rhetoric School Guy
+
+## M - Wimp Boyfriend.
+## M - Frustrated Nice Guy Community College Student
+## M - Weak College Guy
+## M - Good Looking Medicine Student
+
+## F - Innocent Schoolgirl Teen
+## F - Insecure B&B Daughter Teen
+## F - Neighborhood's Nice Girl Teen
+## F - Cruel Cheerleader Teen
+## F - Nice Junior Cheerleader Teen
+## F - Machiavelic Schoolgirl Teen
+## F - Princess Teen
+## F - Young Maid Teen
+## F - Bitchy Evil Twin Schoolgirl Teen
+## F - Bitchy Secretly-Nice Twin Schoolgirl Teen
+## F - Crazy Outcast Teen
+## F - Busy Schoolgirl Teen
+## F - Confident Openly Lesbian Schoolgirl Teen
+## F - Timid Openly Lesbian Schoolgirl Teen
+## F - Bitchy Rich Girl Teen
+## F - Corruptible Schoolgirl Teen
+## F - Sporty Schoolgirl Teen
+## F - Innocent Puppy Owner Teen
+
+## F - Well Resolved College Camgirl Babe
+## F - Timid Country Teen
+## F - Pliable Sweetheart Teen
+## F - Personal Assistant Babe
+## F - Rich College Babe
+## F - Country-Girl Babe ("girlfriend")
+## F - Bitchy Lesbian B&B Daughter Babe
+## F - Lab-Girl Babe
+## F - College Lesbian Babe
+## F - Pharma Company Rep Babe
+
+# School Cheerleaders:
+## F - Bitchy Rich Girl Teen
+## F - Bitchy Evil Twin Schoolgirl Teen
+## F - Bitchy Secretly-Nice Twin Schoolgirl Teen
+## F - Nice Junior Cheerleader Teen
+## F - Timid Openly Lesbian Schoolgirl Teen
+## F - Cruel Cheerleader Teen
+
+# School Staff:
+## M - Creepy Janitor                       <- Janitor
+## M - Jerk High School Coach               <- PhysEd
+## M - MC Professor                         <- School Counselor
+## M - Lecherous Amoral Professor           <- Biology
+## M - Weak Teacher and Husband             <- English
+## F - Principal MILF                       <- Principal
+## F - Uptight Science Teacher MILF         <- Science
+## F - Cruel Dominant Neighborhood MILF     <- Nurse
+## F - Timid Teacher MILF                   <- Humanities
+## F - Proud Lesbian Teacher Babe           <- Math
+
+# Math
+# English
+# Sciences
+# Humanities
+# Biology
+# PhysEd
+#
+# School Nurse
+# Janitor
+# Principal
+# School Counselor
+
+
+# College Students at Teaching Hospital:
+## Nurse School.
+  ### M - Wimp Boyfriend.
+  ### M - Frustrated Nice Guy Community College Student
+  ### M - Weak College Guy
+  ### F - Well Resolved College Camgirl Babe
+  ### F - Timid Country Teen
+  ### F - Pliable Sweetheart Teen
+## Medicine.
+  ### M - Good Looking Medicine Student
+  ### F - Personal Assistant Babe
+  ### F - Rich College Babe
+## Pharmacy.
+  ### F - Country-Girl Babe ("girlfriend")
+  ### F - Bitchy Lesbian B&B Daughter Babe
+  ### F - Lab-Girl Babe
+  ### F - College Lesbian Babe
+  ### F - Pharma Company Rep Babe
+
+
+

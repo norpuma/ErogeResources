@@ -1,0 +1,263 @@
+::First Time Home
+You reach the address and the big house looks just like it did in the pictures you saw in $protagonist.homeTown.
+
+It is a big, two storey house with an unkempt lawn. From the pictures you saw, it should have a pool in the back too.
+
+Before leaving your home town, you talked to $jackie.name to make the arrangements of your move.
+<hr>
+You ring the bell and it takes a couple of minutes for someone to open the door.
+
+A cute blonde with a big smile opens the door - it's actually $jackie.name. She doesn't recognize you at first, but eventually it dawns on her.
+
+@@.babe_talk;"$protagonist.name! You are here!"@@ She seems delighted.
+
+@@.protagonist_talk;"Hello, $jackie.name,"@@ you answer, less expansively.
+
+@@.babe_talk;"Come in. Come in!"@@
+<hr>
+You get in and she shows you the place after letting you get your belongings into place.
+
+The house is big, indeed, and you get a brief tour. There is a large living room with a big TV, a complete kitchen, a bathroom and two bedrooms on the ground floor. There is a game room, a second bathroom and three more bedrooms upstairs. There is a basement with the utilities, like the washing machine and, indeed, just like the ad said, there is a pool in the backyard.
+
+There are also three more people in the house to whom you were just briefly introduced during the flash tour: $rob.name, $helena.name and $tyrone.name.
+
+$jackie.name, then, leaves you in your room to refresh yourself before coming back out.
+<hr>
+<<include "Initial House Options">>
+
+::Initial House Options
+<<if $jackie.initialTalkDone == false>>\
+    [["Look for " + $jackie.name|Initial Talk to Jackie]]
+<<else>>
+    <s>Look for $jackie.name</s>
+<</if>>\
+<<if $rob.initialTalkDone == false>>\
+    [["Look for " + $rob.name|Initial Talk to Rob]]
+<<else>>\
+    <s>Look for $rob.name</s>
+<</if>>\
+<<if $helena.initialTalkDone == false>>\
+    [["Look for " + $helena.name|Initial Talk to Helena]]
+<<else>>\
+    <s>Look for $helena.name</s>
+<</if>>\
+<<if $tyrone.initialTalkDone == false>>\
+    [["Look for " + $tyrone.name|Initial Talk to Tyrone]]
+<<else>>\
+    <s>Look for $tyrone.name</s>
+<</if>>\
+Or, maybe, you are tired enough and [[done for the day|Initial Finish Day]].
+
+::Initial Talk to Jackie
+<<set $jackie.initialTalkDone = true>>\
+@@.protagonist_talk;"Hi, $jackie.name! Do you have a minute?"@@
+
+@@.babe_talk;"Of course, $protagonist.name!"@@
+
+@@.protagonist_talk;"I wanted to thank you for helping get a place here. The house is amazing! And it's so close to the office!"@@
+
+@@.babe_talk;"You are welcome, hon! We needed a fourth to share the rent after $suzie.name left to live with the other bimbos..."@@ She keeps a smile to her face, but there is venom in her words. She seems to really dislike this $suzie.name.
+
+@@.protagonist_talk;"Would you mind reminding me of the terms of my stay?"@@
+
+@@.babe_talk;"Of course not, $josh.name. So, we share the rent among us. We only actually have to pay once a month, but to make sure we won't be missing any money when the time comes, each one of us@@ @@.hint;give $helena.name $250 every week, on Friday@@, @@.babe_talk;and she makes the final payment. That covers the rend and the bills for the house.
+
+"We also share the@@ @@.hint;house chores@@ @@.babe_talk;amongst ourselves. It shouldn't take you too much time to do those and@@ @@.hint;you can do your part all at once@@@@.babe_talk;. Just don't forget it. We keep a score card and if you don't@@ @@.hint;do your part by Sunday@@@@.babe_talk;, there are consequences.
+
+"Other than that, there is not much. Respect everyone's privacy, respect everyone's comfort and label all your food in the kitchen."@@
+
+@@.protagonist_talk;"Alright. I think I can do that."@@
+
+@@.babe_talk;"Great! Now, will there be anything else, hon?"@@
+
+<<link "\"No, thanks. I'm done\"" "Initial House Options">><</link>>
+
+::Initial Talk to Rob
+<<set $rob.initialTalkDone = true>>\
+@@.protagonist_talk;"Hello,"@@ you tell the young man with black hair and glasses reading a magazine in the living room. @@.protagonist_talk;"I'm $josh.name."@@
+
+@@.guy_talk;"Uh, hi."@@ He says, a little distracted before putting the magazine down and looking at you. @@.guy_talk;"So, you are the new guy."@@
+
+@@.protagonist_talk;"Ehm... yeah."@@ You say, unsure how to reply.
+
+@@.guy_talk;"$jackie.name tells me you are going to work at $office.name. I have a job there too, you know?"@@
+
+@@.protagonist_talk;"You do? $jackie.name didn't tell me that."@@
+
+@@.guy_talk;"Oh, it's okay. She is something of a ditz. It doesn't really surprise me."@@
+
+@@.protagonist_talk;"Uhm... yeah. Okay. So, what do you do there?"@@
+
+@@.guy_talk;"Nothing lofty. I'm an intern there. I have been getting people coffee and fetching books from the archive for the last several months. But last week I got attached to an account. Not actually doing the books, of course, but I get to review Mr $drake.lastName's work, though."@@
+
+@@.protagonist_talk;"Ah, nice. I hope I will get to that as fast as you did!"@@
+
+@@.guy_talk;"It shouldn't be too hard. Don't fuck up. Don't second guess $drake.name and don't get in $sheriddan.name's way. Six months of hard work and you should get there."@@
+
+@@.protagonist_talk;"Thanks for the tip."@@
+
+@@.guy_talk;"Well, nice to meet you. I have my room on the ground floor if you ever want to talk shop."@@ He picks his magazine back up in a clear dismissal.
+
+@@.protagonist_talk;"Uh, yeah. Nice to meet you,"@@ you say, although $rob.name is not really paying attention anymore.
+
+[[Continue|Initial House Options]]
+
+::Initial Talk to Helena
+<<set $helena.initialTalkDone = true>>\
+You find $helena.name outside, taking pictures with a tripod. She looks very serious about it and you hesitate to interrupt her.
+
+After a couple of seconds of indecision, she addresses you without looking away from her camera. @@.babe_talk;"Spit it out. What is it that you want?"@@ She asks in a pretty italian accent.
+
+@@.protagonist_talk;"Uhm... I- I'm sorry. I can-"@@
+
+@@.babe_talk;"Just say what you have to say. You are standing in my light."@@ She finally looks at you. You are impressed by the beauty of the italian brunette. She has the perfect chiseled features and the disdainful expression of an Italian movie star.
+
+@@.protagonist_talk;"I can come back later,"@@ you suggest, embarrassed by having disturbed her work and feeling intimidated by her gaze.
+
+@@.babe_talk;"No, it's okay..."@@ she sighs. @@.babe_talk;"We should actually get to know each other if we are going to share the same roof. I'm $helena.firstName."@@ She steps up to you and extends her hand for a shake.
+
+@@.protagonist_talk;"Uhm- $protagonist.name. $protagonist.firstName $protagonist.lastName. Nice to meet you."@@
+
+@@.babe_talk;"Likewise,"@@ she says and shows you a forced, thin lipped smile. @@.babe_talk;"So, you are moving into $suzie.name's room, right?"@@
+
+@@.protagonist_talk;"I- I guess so. It's the one on second floor, just right of the stairs."@@
+
+@@.babe_talk;"Right. $suzie.name's."@@ She doesn't offer any additional information.
+
+@@.protagonist_talk;"Uhm... are you a photographer?"@@
+
+@@.babe_talk;"Amateur, only. But I like it. It's a hobby. Something I've always been interested in, but wasn't able to pursue until recently. The cameras can be quite expensive."@@ She is clearly passionate about the subject, her enthusiasm perceptible through her cool facade.
+
+@@.protagonist_talk;"Maybe you can show me your pictures, one day."@@
+
+@@.babe_talk;"That's unlik- Who knows... maybe one day,"@@ she seems to force herself to be civil.
+
+Without knowing what else to say, you shuffle from foot to foot for several seconds, under her cold gaze. Then, you politely take your leave.
+
+[[Continue|Initial House Options]]
+
+::Initial Talk to Tyrone
+<<set $tyrone.initialTalkDone = true>>\
+@@.guy_talk;"Hey, $josh.name, is it?"@@ A fit young man haisl you when you leave your bedroom.
+
+@@.protagonist_talk;"Yes. That's me. You must be $tyrone.name, right?"@@
+
+@@.guy_talk;"Yeah. Nice to meet you!"@@ He offers you his hand with a broad, blinding smile. @@.guy_talk;"So, have you just gotten into town today?"@@
+
+@@.protagonist_talk;"Yes. This afternoon."@@
+
+@@.guy_talk;"Alright. Then, I guess you haven't had the opportunity to visit our very own, very good and very absolutely only café in town: Café Oblique."@@
+
+@@.protagonist_talk;"I have not,"@@ you answer, unable to refrain from smiling at his light tone and easy manner.
+
+@@.guy_talk;"Then, I invite you to come at your earlier convenience, but no later than Wednesday night. I'm there every evening and night, but on Wednesday I will be on the stage instead of behind the counter."@@ He smiles. @@.guy_talk;"No, seriously, you should come."@@
+
+@@.protagonist_talk;"Sure. Count on me."@@
+
+@@.guy_talk;"Great! Well, welcome to the house. I'm glad you are here, even though you are not as hot as $suzie.name!"@@ He winks at that.
+
+@@.protagonist_talk;"$suzie.name?"@@
+
+@@.guy_talk;"Our previous housemate. The fourth member of the band before you joined."@@
+
+You wait a little longer, for more explanations, but $tyrone.name doesn't seem to be inclined to say antying else.
+
+@@.protagonist_talk;"Well, it was nice meeting you."@@
+
+@@.guy_talk;"Likewise, $protagonist.name!"@@
+
+[[Continue|Initial House Options]]
+
+::Initial Finish Day
+Done for the day, you retire to your room. You are too tired to fully unpack and decide to finish that tomorrow.
+
+[[Go to sleep|Second Day]]
+
+::Second Day
+It's the dawn of a new day, full of promise and opportunity.
+<hr>
+<<include "Second Day - Early Morning Options">>
+
+::Second Day - Early Morning Reminder
+It's Monday and you are expected to go to the office for your first day at work.
+
+::Second Day - Early Morning Options
+<<include "Second Day - Early Morning Reminder">>
+<hr>
+- There is someone in the second floor's shower. [["Look into the keyhole."|Second Day - Peep into Shower 1]]
+- $helena.name is in the kitchen. Offer to cook her some breakfast and [[talk with her|Second Day - Breakfast for Helena]].
+- Have breakfast on the way and [[get to the office early|Second Day - Early at the Office]].
+
+::Second Day - Morning Options
+<<include "Second Day - Early Morning Reminder">>
+<hr>
+- There is @@.hint;someone else@@ in the second floor's shwoer. [["Look into the keyhole."|Second Day - Peep into Shower 2]]
+- $tyrone.name has made some eggs in the kitchen. [["Join him for breakfast."|Second Day - Breakfast for Helena]]
+- It's getting late, better [[get to work|Second Day - Office Start]].
+
+::Second Day - Peep into Shower 1
+You wait fort the best moment to peep, when you feel sure there is no one coming into the hall. There is the sound of soft singing from a female voice coming from the bathroom.
+
+When you try to peep in, though, you can't see anything. You realize you saw $helena.name downstairs earlier, so it must be $jackie.name in there. She seems to have something obstructing the keyhole.
+
+[[Continue|Second Day - Morning Options]]
+
+::Second Day - Breakfast for Helena
+You go into the kitchen and find $helena.name rooting the cupboards looking for something.
+
+@@.protagonist_talk;"Good morning, $helena.name! What are you having for breakfast?"@@
+
+@@.babe_talk;"Uhm... I usually have a yogurt or some cereal in the morning, but I missed getting some groceries this weekend and now I don't have either."@@
+
+@@.protagonist_talk;"Do you have any eggs? I could cook you an all-whites omelette if you wished,"@@ you offer.
+
+@@.babe_talk;"That... would actually be nice,"@@ she says, seemingly surprised by your offer.
+
+@@.protagonist_talk;"It's no trouble."@@
+
+She has the ingredients and you cook her the omelette. You aren't used to cooking, but you saw the recipe the other day on the net. You make an effort, but the omelette ends up a little off - too salty and a little burnt. If you were more proficient, you wouldn't have made such mistakes.
+
+That and if you hadn't gotten  You get distracted by $helena.name's very, very plunging cleavage.
+
+Still, the girl eats the omelette and thanks you for it. You can see that she didn't like it that much, but at least it was food.
+
+The two of you get to talk a little and you learn that she only works part time and in the afternoon.
+
+[[Continue|Second Day - Morning Options]]
+
+::Second Day - Early at the Office
+You grab something to eat on your way and head out to the office early.
+
+It's actually just a moderately short walk from home and the parking lot is mostly empty when you get there. You notice a pretty woman eating at the tables set for a coffee cart.
+
+When you get in, you find a serious-looking woman studying some papers inside an empty boardroom.
+
+You knock on the door to let her know that you are there. She looks up, surprised, but not as surprised - you guess - if she had found you already inside the room.
+
+@@.protagonist_talk;"Hello there. I'm-"@@
+
+@@.milf_talk;"You are $protagonist.name. I know. You start today. You are expected later, at induction."@@
+
+@@.protagonist_talk;"Oh! Uhm... yes. Err... I am. I'm sorry. I thought I would come in early and-"@@
+
+@@.milf_talk;"There is no one to receive you right now. Go out, take a coffee outside. At the appointed time, $sandy.firstName will be here to induct you."@@
+
+@@.protagonist_talk;"Oh, ok. I'm sorry. I mean, thank you. I..."@@ Your voice trails away as you realize she isn't paying attention anymore.
+
+Following her suggestion, you go outside for coffee. The pretty woman isn't there anymore and the coffee tastes burnt, but you manage to while away some time.
+
+[[Continue|Second Day - Office Start]]
+
+::Second Day - Peep into Shower 2
+
+
+
+
+
+When you get in, you find a cute blonde setting up a boardroom.
+
+You knock on the door to let her know that you are there. She looks up, surprised, but not as surprised - you guess - if she had found you already inside the room.
+
+@@.protagonist_talk;"Hello, there. I'm $protagonist.name. I'm new here. I start today."@@
+
+@@.babe_talk;"Oh! Wow, you surprised me. I didn't expect anyone else to be here so early."@@

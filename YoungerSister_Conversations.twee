@@ -1,0 +1,278 @@
+/*
+        //   Intimacy 0+: Talks about impersonal and public-knowledge subjects. The weather or work (if it is not sensitive).
+        //   Intimacy 10+: Talks about non-compromising feelings. Likes and dislikes.
+        //   Intimacy 20+: Talks about self, origins, family, etc.
+        //   Intimacy 40+: Reveals minor key knowledge.
+        //   Intimacy 60+: Talks about feelings.
+        //   Intimacy 70+: Reveals key knowledge.
+        //   Intimacy 80+: Talks about sex life.
+        //   Intimacy 90+: Confesses kinks and taboos.
+        //   Intimacy 100+: Reveals major key knowledge.
+        Topics preceded by ! must first be introduced.
+        Conversations preceded by + requires a previous step of the conversation to have been presented.
+        Conversations preceded by ++ requires a previous step of the conversation to have been presented on a PREVIOUS day. They need time to be processed first.
+        A @ symbol before a topic indicates it is introduced at that point, if it hasn't been introduced before.
+        A ^ symbol before a topic indicates it is related to an EVENT. The EVENT must have happened before the conversation is available. It may be possible to progress the calendar forward to the date of the calendar to have it available. The name of the event appears in parenthesis after the topic name.
+        A > symbol indicates there is an opportunity to change a stat. This will usually be Intimacy or Trust. The stat appears with two numbers. The first is the aount changing the stat, the second is the threshold which will not be surpassed by the stat change.
+        A ? symbol indicates a stat will be tested.
+
+    Intimacy 0: WEATHER: - The weather has been strange of late. She saw a pink cloud in the middle of the day.
+    Intimacy 0: WEATHER: - The weather is still strange. Lightning almost broke down a tower on the Rampart the other night.
+    Intimacy 0: POLITICS: - She doesn't care much about politics, really. She knows Dad was a member of the Council, but it seem just so grown-up. People must trust the Council! (That last sounds like rote, but it also sounds like she believes in it.)
+    Intimacy 0: SCHOOL: - School is okay. She doesn't miss the Morals and the Civics classes. They were not bad, but they were just SO repetitive.
+    Intimacy 0: +SCHOOL: - School is okay. She has math and humanities classes. And chemistry, of course! Advanced chemistry.
+    Intimacy 0: +SCHOOL: - School is okay. She has three female teachers. And the principal is a woman too. The only males in the faculty are teh gym coach and the new school counselor. @SCHOOL FRIENDS.
+    Intimacy 10: !SCHOOL FRIENDS: - She misses her friends from school. It's a shame none of them came to Clarity too. Foundation is so big, there were so many classes, it was just bad luck that there was no one from her class that would come to Clarity.
+    Intimacy 10: THINGS SHE LIKES: - She likes the mall.
+    Intimacy 10: +THINGS SHE LIKES: - She likes the women apparel stores at the mall in particular. @GIFT; @MALL.
+    Intimacy 10: !MALL: - She likes going to the mall to look at clothes and stuff.
+    Intimacy 10: +MALL: - She prefers to go to the mall in the afternoon, especially on weekdays. There are less people and most people are around her age. @COMPANY AT MALL.
+    Intimacy 10: !GIFT: - She would love a new pair of shoes. >IMPRESSION(Generous, +2, 28)
+    Intimacy 10: THINGS SHE DISLIKES: ???
+    Intimacy 10: !PEOPLE SHE LIKES: ???
+    Intimacy 10: !PEOPLE SHE DISLIKES: ???
+    Intimacy 10: !BEACH: - The beach is nice, yeah. Of course. She likes to go. She would prefer to have good company for that. But is nice anyway. @COMPANY AT BEACH.
+    Intimacy 10: ^SCHOOL (Nerd-Girl Meltdown): - She was shocked by that nerd-girl's meltdown in class. Cute Nerd Teen (Adria) got a barely passing grade in a chemistry test and she got loud and disheveled, then tearful and ran away from the class! She doesn't want to be that obsessed with good grades ever! She admits she may need to relax from time to time. @THINGS SHE LIKES
+    Intimacy 20: +THINGS SHE LIKES: - She still likes to read. Though... to be truthful, she has been mostly watching videos on her computer or her phone, lately.
+    Intimacy 20: +THINGS SHE LIKES: - The Screamers! How could she have not mentioned that before? They are an amazing band! She just loves them. She hears there is a guy with a guitar who is quite good at the café, too. But the Screamers are something else. They actually tour the Enclave! And they got invitations to go to other Enclaves. @THE SCREAMERS; @CONCERT TICKETS.
+    Intimacy 20: !THE SCREAMERS: ???
+    Intimacy 20: !CONCERT TICKETS: ???
+    Intimacy 20: !VIDEOS: - She likes all kinds of videos. There are many instructive ones. And many... well... funny ones. Yeah. There is no shame in being entertained. @WATCHING VIDEOS TOGETHER.
+    Intimacy 20: FAMILY: - She is so glad the whole family is living together again!
+    Intimacy 20: HERSELF: - Just a school student, glad to have come out of Foundation. So very happy to be back with her whole family again! Well, almost her whole family... @DAD.
+    Intimacy 20: +HERSELF: - The same $youngerSister.name that you remember! Well, almost the same one. She has grown up, of course! And... well... she has read a lot more books.
+    Intimacy 20: ++HERSELF: - Yes, she still likes jelly beans. No, she doesn't climb on trees anymore! :P Yes, she still likes books. She... well, she likes clothes a "little" more than she used to. And... well... yes, she is still curious. @CURIOSITY
+    Intimacy 20: !DAD: - She is not actually ready to talk about Dad, yet.
+    Intimacy 20: ++SCHOOL: - School is kind of full of cliques. People pretend that everyone gets along, but she can see the tension under the surface. She doesn't like it much.
+    Intimacy 20: YOU: - Hey! You are her older brother, whom she loves! And who she missed so much for so long!
+    Intimacy 20: ^SCHOOL (Bully Breaks Arm): - Bullies make her SO mad! She just hates that there is people that not only are uncerned by others but that derive a perverse pleasure of making others suffer. Because it IS a perverse pleasure. (She witnesses a bully pushing a student and breaking their arm.) @BULLIES.
+    Intimacy 20: ^SCHOOL FRIENDS (School Groups 1): - She is in a group with Innocent Teen () at school. They are not really friends, but they have been talking more. She is happy to have someone to talk to. @INNOCENT TEEN.
+    Intimacy 20: ++BULLIES: - No! She has not been the target of bullies. She just strongly dislikes seeing them hurt others.
+    Intimacy 20: ^CHEERLEADERS (Cheerleader Tryouts): - Cheerleaders are having tryouts at school, next week. It makes her dreamy. Of course she would never dare try to be a cheerleader. Older sister was, though, if she remembers correctly.
+    Intimacy 20: !INNOCENT TEEN: - She is a nice girl. Not much to say about her. She is new, just like herself. She doesn't know much people. She is kind of innocent and naive.
+    Intimacy 20: ++INNOCENT TEEN: - She and Innocent Teen () have become "kind of friends".
+    Intimacy 20: ++SCHOOL FRIENDS: - She and Innocent Teen () have become "kind of friends".
+    Intimacy 20: ++INNOCENT TEEN: - She is glad that Innocent Teen () and her are friends. Innocent is a really nice person. (there is something strange about her tone)
+    Intimacy 30: SCHEDULE: ???
+    Intimacy 30: !COMPANY AT MALL: ???
+    Intimacy 30: !COMPANY AT BEACH: ???
+    Intimacy 30: !MOVIE DATE: ???
+    Intimacy 30: +THINGS SHE LIKES: - She kinds of likes going to the beach. She is amazed that even in a time like now, it is possible to go to the beach. Even with demons in the world. It is simply better than the pool. There is nature, of course, a living ocean, the waves... and it is simply more social. @BEACH.
+    Intimacy 30: !WATCHING VIDEOS TOGETHER: - Yeah. Why not? Watching videos together could be fun. She has a couple she would like to show you. @MOVIES.
+    Intimacy 30: GIFT: ?GIFT (shoes). - She saw a swimsuit that she would just love! >IMPRESSION(Generous, +3, 28)
+    Intimacy 30: !MOVIES: - She likes movies. Not as much as she used too. She feels like she just doesn't have as much time as before, for that. And she watches them mostly on her phone, which is nice, because she can watch them anywhere.
+    Intimacy 30: ++MOVIES: - She kind of misses watching movies. And she learned that it is possible to watch movies like in movie theaters at the House of Arts. She plans on going there. @MOVIE DATE.
+    Intimacy 30: ++INNOCENT TEEN: - She wishes Innocent Teen () would be a little more outgoing and to have more friends herself. Kind of like Machiavelic Teen (). Yes, she kind of wish she would be more popular. @POPULAR GIRLS.
+    Intimacy 30: !POPULAR GIRLS: - There are lots of popular girls. Some of them for the wrong reasons. And some of them for the right reasons, like most of the cheerleaders or Machiavelic Teen (). @MACHIAVELIC TEEN.
+    Intimacy 30: +POPULAR GIRLS: - Yes... it would be nice to be popular. People would look up at her. She would probably be able to make a difference. Some people squander their popularity, but she wouldn't squander hers.
+    Intimacy 30: ^SCHOOL (Cheerleader Demonstration): - There are some amazing people at school. Athletic School Boy (Lincoln) is an amazing athlete. He has helped the district win countless games. She heard that Head Cheerleader Teen (Jessie) aced almost all tests previous years and she was head cheerleader on top of that until late the previous year, when she stepped down. And, then, there is Machiavelic Teen () who is so smart and poised and humble! @CHEERLEADERS; @MACHIAVELIC TEEN.
+    Intimacy 30: ^SCHOOL (Disruptive Rebel Teen): - Not Everyone at schol is nice. Of course. There is nasty people. There are the bullies... and there are people who are just disruptive. Who just want to make it hard for everyone to learn. A specific example? Well, Rebel Punk Teen (Gina) would be a good example. She is disruptive in class with innapropriate questions - like asking about Weather Cladding - what would the teachers know about Weather Cladding. And she is always smelling like cigarettes. That's so disgusting! She was sent to the school counselor and that seems only fair. @SCHOOL COUNSELOR.
+    Intimacy 30: !CHEERLEADERS: - Girls can play sports at school, of course. And they can be cheerleaders. She has always kind of admired cheerleaders, after all, they are supposed to bring cheer - happiness to people. And they kind of do. She always smiles when she sees cheerleaders doing acrobatics.
+    Intimacy 30: ++SCHOOL FRIENDS: - She hasn't made any friends at school yet. There are nice kids in there, of course, but she just hasn't really connected with anyone yet.
+    Intimacy 30: !MACHIAVELIC TEEN: - What about her (defensive)? She is a very good student at school. She is beautiful and smart. What is there not to like about her? (ending conversation and clearly upset.)
+    Intimacy 30: !CURIOSITY: - Yes, she admits a little embarrassed, she is still the curious little scientist she used to be. But she is a much more informed and more mature curious little scientist, now.
+    Intimacy 30: +FAMILY: - She feels a little upset at tense conversation at dinner. Why do you and older sister have to get along so badly. @OLDER SISTER; @FAMILY FEUD.
+    Intimacy 30: !SCHOOL COUNSELOR: - He is a new member of the staff. He started this year. School Counselor (Harold). He Seems to be very dedicated. And he must be very patient to deal with the likes of Rebel Punk Teen (Gina).
+    Intimacy 30: ^SCHOOL COUNSELOR (Fixed Rebel Teen): - She is not comfortable with the School Counselor (Harold). He seems nice and all, but he has a strange glint to his eye and she sometimes notices him looking at students just like Jerk Coach Silvered () sometimes does. And, besides, Rebel Punk Teen (Gina) is acting strange. She is decided to avoid him at all costs. Luckily, she is a good student and very respectful.
+    Intimacy 30: ^FEELINGS (The Storm): - The Storm was so scary! The Enclave simply wasn't ready for that. She admits that, for a moment, there, she thought demons where invading. She is very embarrassed by that. She still shivers at the thought of another storm like that one. (she *actually* shivers, then)
+    Intimacy 30: ^SCHOOL (School Lodgings Destroyed): - The School Lodgings were destroyed. The storm was so scary. People were distraught the next day, at school. A lot of people lived in the lodgings and they don't know where they will go, now. There is talk of moving the students into volunteer houses or, maybe, into that hold hotel - Dreams Hotel. @FEAR OF STORMS
+    Intimacy 30: +BULLIES: - Yes... she saw things. There is a boy.
+    Intimacy 30: +BULLIES: - She can say who is a bully. But protagonist CANNOT do anything about it. They must promise! School Bully Boy (). >Trust(10, 30)
+    Intimacy 30: +BULLIES: - ?Trust 20. - School Bully Boy () is the worst. He has multiple victims. But there are other bullies. And there are girl bullies too. Girls bullying are different, though.
+    Intimacy 30: +BULLIES: - She wishes she could do something about bullies. But... she is just not strong enough. Not strong at all. she is too weak. Too weak to stand up to them. To say anything. To buckle the social order. That is related to her timidity, she guesses. @TIMIDITY.
+    Intimacy 30: ++BULLIES: - She has never been a victim of any of the bullies. Even though she is so weak. She figures that, maybe, being the daughter of a former member of the Council affords her some protection.
+    Intimacy 30: ++CHEERLEADERS: - She lacks confidence. She thinks she could build up the muscle and learn the cheers. She has the proper balance and reflexes - what people would call grace. But she does not have the confidence. @TIMIDITY.
+    Intimacy 30: OLDER SISTER: ???
+    Intimacy 30: MOM: - Mom is... a great person. Generous, dedicated and kind. She sacrificed so much to stay with her at Foundation for all those years.
+    Intimacy 30: +MOM: - Mom... she can barely remember that Mom is not the biological mother of any of you. She loves all of you so much! Maybe... sometimes... a little too much... (uncomfortable smile)
+    Intimacy 30: +MOM: - She thinks Mom looks a little tense lately. She just wishes mom would share her concerns with her.
+    Intimacy 30: !FAMILY FEUD: ???
+    Intimacy 30: ++CURIOSITY: - Lots of things draw her curiosity. She is especially curious about people dynamics now a days. Social dynamics and how people get connected. Family bonds, friendships, common interest cliques, partnership at school or at work and, yes, love.
+    Intimacy 30: ^SCHOOL (Freak Wind): - She felt so embarrassed at the Freak Wind! The Enclave has been windy lately, people have observed it. The other day there was a wind that sounded like a long, pained howl at school. But today, the wind was moving from the ground, repeatedly. It was so strange. And the school requires girls to wear skirts. She... her skirt was lifted when she was out. There was almost no one to see. But... but there was one and it was a boy. It was AV Nerd Boy (Billy). If she could chose, of course no one would have seen - or better yet, she wouldn't have been outside when it blew. But... but if it had to be someone, let it be a girl. Maybe a female teacher. If it had to be a male........ well, maybe... maybe Beefcake Boy ()... he is nice. And he is with Machiavelic Teen (), he would never look at her. So she would be safe... Yeah. That's why she would chose him. @BEEFCAKE BOY.
+    Intimacy 30: !BEEFCAKE BOY: - Just some boy at school. Nothing special. He is an athlete. He is Machiavelic Teen () boyfriend. @MACHIAVELIC TEEN.
+    Intimacy 40: GIFT: ?GIFT (swimsuit). - She would love to actually try a sexy night gown. They... they just look comfortable (and so enticing!). >IMPRESSION(Generous, +4, 28)
+    Intimacy 40: !FEAR OF STORMS: - Yes, she still gets scarred at storms. It is only normal. It was a very traumatic event. She... no. She gets it under control. (She actually flees to someone's bed after that, either Mom or yours).
+    Intimacy 40: !FEAR OF STORMS: ?Trust 30. - She asks if it would be okay to look for you at night, the next time there is a storm. >Trust(+10, 40)
+    Intimacy 40: ++CURIOSITY: - Love is so complicated. There are different kinds of love. And what people call love can be something completely different from love, like plain simple lust. @LOVE.
+    Intimacy 40: +CURIOSITY: - ?EVENT (Sex Temples) What else is she curious about? The... well... the 'Temples'. She heard rumors. They say it is incredible. That it is like nothing else in the District. She is curious...
+    Intimacy 40: TIMIDITY: - She admits she is a little timid. She used to have friends and she finds it hard to make new friends.
+    Intimacy 40: +TIMIDITY: - She thought she would manage to be more outgoing when she moved into Finishing School. But it is just being so hard.
+    Intimacy 40: !LOVE: - Romantic love is made of lots of different parts. There is a sense of partnership, there is lust, of course, there is comfort between the parts. There should be intimacy and trust. In essence, though, she thinks love is the desire to see the other happy.
+    Intimacy 40: ++LOVE: - No! She is not in love. There is no one she loves! Well... besides her family, of course. Of course! (She is clearly hiding something) @LOVE INTEREST.
+    Intimacy 40: ++LOVE: - She... well. She thinks she should date to understand love, since it is one of her subjects of interest... @DATING.
+    Intimacy 40: MOM: - She wishes Mom understood she has grown up. She can be so protective. And she doesn't share concerns with her. She never tells her anything. She sometimes just wishes to know! @EXPLORE MOMS ROOM.
+    Intimacy 40: EXPLORE MOMS ROOM: ?Trust 30. - She IS very curious about what is happening with Mom. Yes... she would like to get into her room and look at stuff. Mom has been locking her door since they left Foundation. But she knows where Mom keeps the key. >INFO(Mom's bedroom key location)
+    Intimacy 40: MINOR SECRET: 
+    Intimacy 40: +BEEFCAKE BOY: - Well, he is fit and has a nice face. He could be called "hot". @LUST. @LOVE INTEREST.
+    Intimacy 50: DATING: - She does not feel she is ready for dating... she... kind of doesn't know enough about boys. @CURIOUS ABOUT BOYS.
+    Intimacy 50: CURIOUS ABOUT BOYS: - Curious... well... about boys, yeah... Well, they are different. She didn't live with any growing up. She... she doesn't understand their minds or their bodies, really. There anatomy. It kinds of doesn't make a lot of sense.
+    Intimacy 50: +DATING: - If she could have a date with anyone? Yeah... there would be someone she would like to date. Well, there would several people, of course. She doesn't think she has found her one true love yet. She should be open to possibilities. But there is someone... kind of... @LOVE INTEREST; @LUST.
+    Intimacy 60: !LOVE INTEREST: - She confides she has feelings for Beefcake Boy (). But he has a girlfriend. And it is Machiavelic Teen (), who is almost perfect. So, there is really no chance. She could go for another boy, she guesses... And, no, there is no chance he would ever be interested in her. Even if he was not with such a perfect specimen as Machiavelic Teen ().
+    Intimacy 60: LUST: - Well... there could be someone. People, of course. She is not a prude. She is not insensitive. A nice face. A fit body. Of course! A tall guy... Maybe with dark hair... (she seems dreamy and there is obviously someone).
+    Intimacy 60: FEELINGS: 
+    Intimacy 60: !DAD: ???
+    Intimacy 70: TURN ONS: 
+    Intimacy 70: TURN OFFS: 
+    Intimacy 70: CRUSH: 
+    Intimacy 70: KEY SECRET: 
+    Intimacy 80: SEX LIFE: 
+    Intimacy 90: KINKS: 
+    Intimacy 90: TABOOS: 
+    Intimacy 100: MAJOR SECRET: 
+
+
+# EVENT: Cheerleader Demonstration (Intimacy 30: SCHOOL):
+# EVENT: Bully Breaks Arm (Intimacy 20: BULLIES):
+# EVENT: School Groups 1 (Intimacy 20: SCHOOL FRIENDS):
+# EVENT: Disruptive Rebel Teen (Intimacy 30: SCHOOL):
+# EVENT: Freak Wind (Intimacy 30: SCHOOL):
+# EVENT: Cheerleader Tryouts (Intimacy 20: CHEERLEADERS):
+# EVENT: Nerd-Girl Meltdown (Intimacy 10: SCHOOL): 
+# EVENT: The Storm (Intimacy 30: FEELINGS):
+# EVENT: School Lodgings Destroyed (Intimacy 30: SCHOOL):
+# EVENT: Fixed Rebel Teen (Intimacy 30: SCHOOL COUNSELOR):
+    - Mom tries to get closer to her by watching movies (ref: Labrats 1).
+- She is curious about the Sex Temples.
+    - She gets into a fight with older sister (ref: Cure My Addiction).
+    - She wants a new phone, but mom thinks it is not a good time for that (too expensive) (ref: The Tyrant).
+- She wants to go to the party at the Rich Teen () house, but is too timid to crash the party and wasn't invited.
+    - She steals an erotic book from her sister (ref: Cure My Addiction).
+- She is scarred of Slavery by Debt as the family is under financial difficulty.
+- Mom doesn't want Lili to take a job, even though the situation is tough.
+- She felt very sorry for the First Slave at School. She tried to help the girl when no one was watching, but fled before helping and feels embarrassed by that.
+    - She makes a female friend at school, a popular kid (ref: Big Brother).
+- She finds the rumors that the Principal MILF (Catherina) is spanking students to be ridiculous.
+    - She is curious about mom's relationship (ref: Big Brother).
+- She is happy about Laxer Mores, even though she is embarrassed by that.
+- She gets detention and gets spanked by the Principal MILF (Catherina).
+    - She goes visit one of her friends in the State Slave Cells (pens).
+    - She gets spanked by older sister (ref: Cure My Addiction).
+- She is afraid the docility drug could be abused and given to non-slaves (she is smart like that), even though the Council ensures people that should not be possible.
+    - She and older sister make up together, in the bathroom (ref: Man of the House).
+- She has a generous spirit and wants to help refugees from the Refugee Wave. She suggests the family should take in a refugee. They do. She eventually becomes a slave.
+- She helps the Charity Auction of Dates and is shocked that someone suggests she be a girl being auctioned. She wants to accept.
+- She is curious about Temple Trained Slaves and wonders if she could see one.
+- She is very scarred of the Raider Attack and gets almost raped by a raider.
+- She is abhorred by Slaver Guilds and wonders how the Council can allow those. She has nightmares of being taken by a slaver.
+    - One of her school colleagues enters the Slaver Guild. She starts hating him. She starts having nightmares of him taking her and raping her. Those are exciting dreams.
+- She is very scarred and, at the same time, fascinated by Mind Programming. She wonders how it works. She wonders if she could use it (small fantasies). She wonders if she has been subjected to taht (she is smart like that).
+- She is fascinated by body reshaping. She wants larger tits. She has small fantasies of becoming a slave and getting bigger tits - and being raped by some muscled and sexy slaver.
+- She feels very embarrassed by Women Must Have Pleasure laws. She wonders how to take advantage of them, though. She dreams about some school boy helping her, but she does not need much to agree to have her pussy licked by anyone at home.
+- She becomes very bitchy with Water Shortage. She needs wher two baths a day. It is one of her few vanities.
+- She is scarred of being deemed a wanton and get Chastity Punshing Wantons.
+- She is fascinated by First Full AI and would love to go see a demonstration. She starts desiring a house bot - Slave Bot.
+- She is shocked by Slave Hunts. She goes visit a slave farm and the bio-reactos pant (with the school?). She has nightmares about those. With the Improved Health chemicals, those are very sexy nightmares too.
+- She is much more shocked and upset at Male Pleasure Laws than Female Pleasure Laws. She intellectually agrees to them, but on a visceral level, she is a little too selfish for that.
+- She gets implanted with a AI-controlled piercing on a school initiative. She can feel herself being reprogrammed and confides about it.
+- She is shocked about Slave Schoolrooms as the classes are just beside her own classroom.
+- She is smart enough to realize she has been programmed to easliy accept Pleasure Laws for Big Dicks. Even though she realizes it, she also realizes there isn't much she can do about it. She also feels complying with the law slowly melting her "brain".
+- The Migrant Wave brings in a man fascinated by her and wanting to buy her at any price. She gets very embarrassed, scarred and excited by that.
+- She is bought as one of the Pet Slaves. She is taken away, but ca be visited. She soon enters a Slave Breeding Program and is pregnant before long.
+- After the Supremacism law, her new owner, even though he is rich and has managed to buy a big cock, ends up being caged for being white. At least her breeding partner is black and is often mounting her.
+
+
+
+
+    - She gets into a fight with older sister (ref: Cure My Addiction).
+- She wants to go to the party at the Rich Teen () house, but is too timid to crash the party and wasn't invited.
+- She learns about the Sex Temple ceremonies and gets too embarrassed to talk about the Sex Temple anymore.
+    - She is curious about boys (ref: Man of the House).
+    - She gives you a key to her door (ref: Lust and Power).
+- She is scarred of Slavery by Debt as the family is under financial difficulty.
+- She finds the rumors that the Principal MILF (Catherina) is spanking students to be ridiculous.
+
+    - Mom tries to get closer to her by watching movies (ref: Labrats 1).
+    - Give her a gift of concert tickets (ref: Man of the House).
+    - She wants a new phone, but mom thinks it is not a good time for that (too expensive) (ref: The Tyrant).
+    - She steals an erotic book from her sister (ref: Cure My Addiction).
+    - She makes a female friend at school, a popular kid (ref: Big Brother).
+    - She wants a new nightgown (ref: Man of the House).
+    - You introduce her to porn (ref: The Tyrant).
+    - You demand sex acts from her (ref: Labrats 1).
+    - Teach her about male anatomy (ref: Man of the House).
+    - She is curious about mom's relationship (ref: Big Brother).
+    - Help her get payback on older sister (ref: Cure My Addiction).
+    - You spank her for older sister (ref: Cure My Addiction).
+    - Make her more submissive to older sister (ref: Cure My Addiction).
+    - She gets spanked by older sister (ref: Cure My Addiction).
+    - She and older sister make up together, in the bathroom (ref: Man of the House).
+    - She gets jealous of you (ref: Man of the House).
+
+- Mom doesn't want Lili to take a job, even though the situation is tough.
+- She finds the rumors that the Principal MILF (Catherina) is spanking students to be ridiculous.
+- Mom may be foreced to sell one of the girls for debt.
+- She goes visit one of her friends in the State Slave Cells (pens).
+- She felt very sorry for the First Slave at School. She tried to help the girl when no one was watching, but fled before helping and feels embarrassed by that.
+- She is happy about Laxer Mores, even though she is embarrassed by that.
+- She gets detention and gets spanked by the Principal MILF (Catherina).
+- She is afraid the docility drug could be abused and given to non-slaves (she is smart like that), even though the Council ensures people that should not be possible.
+- She has a generous spirit and wants to help refugees from the Refugee Wave. She suggests the family should take in a refugee. They do. She eventually becomes a slave.
+- She helps the Charity Auction of Dates and is shocked that someone suggests she be a girl being auctioned. She wants to accept.
+- She is curious about Temple Trained Slaves and wonders if she could see one.
+- She is very scarred of the Raider Attack and gets almost raped by a raider.
+- She is abhorred by Slaver Guilds and wonders how the Council can allow those. She has nightmares of being taken by a slaver.
+    - One of her school colleagues enters the Slaver Guild. She starts hating him. She starts having nightmares of him taking her and raping her. Those are exciting dreams.
+- She is very scarred and, at the same time, fascinated by Mind Programming. She wonders how it works. She wonders if she could use it (small fantasies). She wonders if she has been subjected to taht (she is smart like that).
+- She is fascinated by body reshaping. She wants larger tits. She has small fantasies of becoming a slave and getting bigger tits - and being raped by some muscled and sexy slaver.
+- She feels very embarrassed by Women Must Have Pleasure laws. She wonders how to take advantage of them, though. She dreams about some school boy helping her, but she does not need much to agree to have her pussy licked by anyone at home.
+- She becomes very bitchy with Water Shortage. She needs wher two baths a day. It si one of her few vanities.
+- She is scarred of being deemed a wanton and get Chastity Punshing Wantons.
+- She is fascinated by First Full AI and would love to go see a demonstration. She starts desiring a house bot - Slave Bot.
+- She is shocked by Slave Hunts. She goes visit a slave farm and the bio-reactos pant (with the school?). She has nightmares about those. With the Improved Health chemicals, those are very sexy nightmares too.
+- She is much more shocked and upset at Male Pleasure Laws than Female Pleasure Laws. She intellectually agrees to them, but on a visceral level, she is a little too selfish for that.
+- She gets implanted with a AI-controlled piercing on a school initiative. She can feel herself being reprogrammed and confides about it.
+- She is shocked about Slave Schoolrooms as the classes are just beside her own classroom.
+- She is smart enough to realize she has been programmed to easliy accept Pleasure Laws for Big Dicks. Even though she realizes it, she also realizes there isn't much she can do about it. She also feels complying with the law slowly melting her "brain".
+- The Migrant Wave brings in a man fascinated by her and wanting to buy her at any price. She gets very embarrassed, scarred and excited by that.
+- She is bought as one of the Pet Slaves. She is taken away, but ca be visited. She soon enters a Slave Breeding Program and is pregnant before long.
+- After the Supremacism law, her new owner, even though he is rich and has managed to buy a big cock, ends up being caged for being white. At least her breeding partner is black and is often mounting her.
+
+- She feels somewhat responsible for issues with her family, like her father leaving, her brother living away and her mother having to stay away from her sister for so many years (as they lived in the Foundation District).
+- She is timid in general, but would like to overcome that personality trait.
+- She is more outgoing around her family and among very close friends.
+- She arrives at the new district with a CURIOSITY about boys, but too shy to ask anyone.
+- She is having trouble focusing in class as she has no friends at school and is distracted by new emotions (desire for friends, troubled by family issues).
+- She wants everyone at home to get along.
+- Her CURIOSITY and years living along with her Mom (with limited sex drive) makes her often barge into people's rooms and to riffle through their stuff.
+
+- Her sister's general bitchiness and unwillingness to get along eventually gets to her and she starts to despise her sister and wanting to see her hurt.
+- Her CURIOSITY and nosiness eventually get onto her sister's nerves.
+- She quickly becomes suspicious of the new School Counselor Guy (Harold).
+- She becomes smitten of Beefcake Boy () and very impressed by Machiavelic Teen () whom she wants to emulate.
+- Invites Machiavelic Teen () to use the pool.
+- Confides in her sister her interest in Beefcake Boy, but she doesn't pay attention.
+- Confides in her brother and he is sympathetic.
+
+- Femdom Wins: Breeding pet and cuntlicker to a rich black young woman amusing herself by making her act like a bitch in heat.
+- BBC Wins: Breeding pet and cuntlicker to a rich black young woman amusing hserself by making her act like a bitch in heat.
+
+*/
+
+::Younger Sister - Conversations - Initialization
+
+::Younger Sister - Conversations - Topics
+/* TODO: Add option for her to broach a topic on her own. */
+@@.prompt;What kind of conversation do you want to have with $youngerSister.name?@@
+
+[[Everyday conversation.|Younger Sister - Conversations - Everyday Conversation]]
+<<set _nextDayWithNews = $youngerSister.talk.getNextDayWithNews()>>\
+<<if _nextDayWithNews <= $dayCount>>\
+    [[Ask her take about the news.|$youngerSister.talk.popNews()]]
+<<else>>\
+    /* TODO: Add check to see if date can be progressed or if scheduled events prevent it. */\
+    <<link "Ask about the news (progress date to day _nextDayWithNews)" "$youngerSister.talk.popNews()">><<run progressTimeToDate(_nextDayWithNews)>><</link>>
+<</if>>\
+
+::Everyday conversation.|Younger Sister - Conversations - Everyday Conversation
+<<run progressToNextTimeSlice()>>\
+You spend some time talking with $youngerSister.name about nothing in particular.
+
+<<set _everydayConversationIntimacyCap = 35>>\
+<<if $youngerSister.relationships[$protagonist].intimacy < _everydayConversationIntimacyCap>>\
+    <<run $youngerSister.relationships[$protagonist].modify("intimacy", 1, _everydayConversationIntimacyCap)>>\
+    You feel closer to her afterwards.
+<<else>>\
+    It was a nice conversation, but you also feel like it was something of a waste of time. The two of you are already close enough that this kind of conversation won't bring you closer.
+<</if>>\
+
+[[Continue.|Home - Landing]]

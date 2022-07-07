@@ -1,0 +1,87 @@
+/*
+
+    # Compliments/Non_Sexual
+    # Compliments/Sexual
+    # Compliments/Smart
+    # Compliments/Smooth
+    # Compliments/Crude
+    # Insult/Childish
+    # Insult/Sexual_Slur
+    # Insult/Strongly_Offensive
+    # Insult/Smart
+    # Gifts/Expensive
+    # Gifts/Inexpensive
+    # Gifts/Preferred
+    # Gifts/Hated
+    # Date/Expensive
+    # Date/Inexpensive
+    # Date/Preferred
+    # Date/Hated
+    # Social/Light_Humiliation
+    # Social/Heavy_Humiliation
+    # Boasting/Of_Humbleness
+    # Boasting/Of_Influence
+    # Boasting/Of_Niceness
+    # Boasting/Of_Power
+    # Boasting/Of_Sexual_Prowess
+    # Boasting/Of_Smartness
+    # Boasting/Of_Wealth
+    # Demonstration/Of_Confidence
+    # Demonstration/Of_Humbleness
+    # Demonstration/Of_Influence
+    # Demonstration/Of_Niceness
+    # Demonstration/Of_Power
+    # Demonstration/Of_Sexual_Prowess
+    # Demonstration/Of_Smartness
+    # Demonstration/Of_Wealth
+    # Teasing/Describing_Sex
+    # Teasing/Dirty_Talking
+    # Teasing/Stripping
+    # Dominance/Act_without_Consent
+    # Dominance/Command_Action
+    # Dominance/Ignore_Request
+    # Generosity/Offering
+    # Generosity/Offering_Expensive_Gift
+    # Generosity/Paying_Communal_Expense
+    # Submission/Begging
+    # Submission/Obeying_Command
+
+*/
+
+::Neighbor - Reaction
+
+::Neighbor - Reaction - Non-Sexual Compliment
+/* If she is complimented about something that is not her vanity. */
+@@.neighbor;"Thank you,"@@ she says, shily lookin away.
+
+/* If she is complimented about one of her vanities. */
+@@.neighbor;"Thanks,"@@ she says with a smug little smile, trying to hide it by looking away.
+
+/* If she thinks she didn't deserve the compliment. */
+@@.neighbor;"Ehm... thanks, I guess,"@@ she says, uncertainly.
+
+/* If she is emabarrassed of the quality being praised. */
+@@.neighbor;"Hey! No! I- I really don't deserve that,"@@ she says, clearly emabarrassed by your words.
+
+@@.neighbor;"Please... don't say that,"@@ she pleads, clearly emabarrassed by your words.
+
+
+::Neighbor - Reaction - Sexual Compliment
+/* If she is intimate with the protagonist, she reacts to sexual compliments the same way she reacts to non-sexual compliments. */
+
+/* If she is complimented about one of her vanities. */
+@@.neighbor;"T- Thank you,"@@ she says, blushing and smiling. She quickly looks away, seeming to wish you would no longer talk about it.
+
+/* If she thinks she deserves the compliment. */
+@@.neighbor;"Err... Thank you,"@@ she says, blushing. @@.neighbor;"That's a bit inappropriate, though."@@
+
+::Neighbor - Reaction - Insult
+/* Childish Insult - it is below her. */
+@@.neighbor;"Oh, real mature of you!"@@ She says, scathingly.
+
+/* Childish Insult to something she feels embarrassed about. */
+@@.neighbor;"Oh! Oh, you- Blast you!"@@ She says, coloring.
+
+/* Sexual slur - it embarrasses her terribly. */
+@@.neighbor;"Wh- What? I- I- fuck you!"@@ She says, clearly embarrassed and angry.
+
